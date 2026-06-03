@@ -5,9 +5,19 @@
     <link>https://www.cosmosweek.com/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 02 Jun 2026 19:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 19:20:43 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
+              <title>NASA encerra a missão MAVEN em Marte após mais de uma década de descobertas</title>
+              <link>https://www.cosmosweek.com/noticia/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/</link>
+              <guid>https://www.cosmosweek.com/noticia/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/</guid>
+              <pubDate>Wed, 03 Jun 2026 13:12:05 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de Marte, superando em uma década sua duração principal prevista.</description>
+              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA se despede da missão MAVEN Mars e realiza teleconferência hoje</category>
+              <source url="https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/">NASA News Releases</source>
+              <content:encoded>A decisão de encerrar a missão foi tomada após um conselho de revisão determinar que a sonda MAVEN não era recuperável e já não era capaz de realizar suas funções científicas e de transmissão de dados. O último contato com a espaçonave ocorreu em dezembro, e as conclusões do conselho foram consistentes com as avaliações da equipe da missão. Este encerramento marca o fim de uma era de observações diretas, mas o legado científico da MAVEN está longe de terminar. Ao longo de sua operação estendida, a MAVEN forneceu dados sem precedentes sobre a dinâmica atmosférica de Marte. Sua principal tarefa era investigar como o Planeta Vermelho perdeu grande parte de sua atmosfera para o espaço ao longo do tempo, um fator crucial para entender sua transição de um mundo potencialmente habitável para o deserto frio e árido que é hoje. A sonda monitorou continuamente a atmosfera superior, a ionosfera e a</content:encoded>
+            </item><item>
               <title>NASA testa instalação de tratamento de águas residuais para futura base lunar</title>
               <link>https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/</link>
               <guid>https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/</guid>
@@ -28,6 +38,16 @@
               <source url="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/">NASA News Releases</source>
               <content:encoded>A comunidade científica convida o público a participar ativamente na identificação de aglomerados de formação estelar em imagens de galáxias. Esta iniciativa de ciência cidadã visa não apenas mapear esses berçários cósmicos, mas também auxiliar no treinamento de sistemas de inteligência artificial. Diante da vasta quantidade de dados astronômicos gerados por missões recentes, a colaboração humana é crucial para desenvolver um "assistente digital" capaz de processar e analisar essas informações de forma eficiente. A necessidade de tal colaboração surge da imensa quantidade de dados coletados por observatórios de ponta. O telescópio espacial Euclid, uma missão da Agência Espacial Europeia (ESA) com contribuições significativas da NASA, por exemplo, já iniciou a captura de imagens de milhões de galáxias. Essas imagens, que superam a capacidade de catalogação de qualquer equipe de cientistas</content:encoded>
             </item><item>
+              <title>Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068</title>
+              <link>https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/</link>
+              <guid>https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/</guid>
+              <pubDate>Tue, 02 Jun 2026 11:05:08 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.</description>
+              <category>Cosmologia</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>Sondando matéria escura inelástica por meio do espalhamento de raios cósmicos em NGC 1068</category>
+              <source url="https://arxiv.org/abs/2606.03487v1">arXiv Cosmology</source>
+              <content:encoded>Este estudo se dedica à investigação das restrições sobre a matéria escura inelástica (iDM) na faixa sub-GeV, utilizando como metodologia o resfriamento de raios cósmicos (CR) no núcleo galáctico ativo (AGN) NGC 1068. A compreensão da natureza da matéria escura permanece um dos maiores desafios da física moderna, e a matéria escura inelástica representa uma classe de modelos que propõe interações mais complexas do que o simples espalhamento elástico. A detecção indireta de partículas de matéria escura, por meio de seus efeitos em outros componentes cósmicos, oferece uma via promissora para desvendar seus mistérios. Neste contexto, os núcleos galácticos ativos, com seus ambientes extremos e densos, fornecem laboratórios naturais ideais para observar tais fenômenos. Em regiões de picos densos de matéria escura (DM) que circundam buracos negros supermassivos, os prótons de raios cósmicos de</content:encoded>
+            </item><item>
               <title>Ventos estranhos revelam indícios mais fortes de atividade magnética em exoplanetas</title>
               <link>https://www.cosmosweek.com/noticia/strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets/</link>
               <guid>https://www.cosmosweek.com/noticia/strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets/</guid>
@@ -38,6 +58,16 @@
               <source url="https://www.eso.org/public/news/eso2606/">ESO Press Releases</source>
               <content:encoded>Uma equipe de astrônomos obteve a evidência mais robusta até o momento de que alguns exoplanetas podem possuir campos magnéticos. Utilizando o Very Large Telescope (VLT) do Observatório Europeu do Sul (ESO) e o telescópio Gemini North, os pesquisadores mediram as velocidades do vento em sete exoplanetas muito quentes, semelhantes a Júpiter. Este estudo inovador, que oferece novos insights sobre a dinâmica atmosférica de mundos distantes, foi publicado na renomada revista Nature Astronomy. O principal autor do estudo, Seidel, que anteriormente atuou como astrônomo do ESO no Chile, liderou a investigação que revelou padrões intrigantes nesses ventos exoplanetários. A presença de um campo magnético é um fator crucial para a compreensão da habitabilidade planetária, como observado em nosso próprio Sistema Solar. Na Terra, o campo magnético influencia complexamente a atmosfera, protegendo-a d</content:encoded>
             </item><item>
+              <title>Assinaturas da Violação de Lorentz em Oscilações Quase Periódicas de um Buraco Negro Magnetizado de Kalb-Ramond</title>
+              <link>https://www.cosmosweek.com/noticia/lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-/</link>
+              <guid>https://www.cosmosweek.com/noticia/lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-/</guid>
+              <pubDate>Tue, 02 Jun 2026 07:03:26 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e imerso em um campo magnético externo.</description>
+              <category>Astrofísica</category><category>arXiv High Energy Astrophysics</category><category>Cosmos Week</category><category>Assinaturas violadoras de Lorentz em oscilações quase periódicas de um buraco negro magnetizado de Kalb</category>
+              <source url="https://arxiv.org/abs/2606.03242v1">arXiv High Energy Astrophysics</source>
+              <content:encoded>Este estudo investiga a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild na presença de um campo de Kalb-Ramond e imerso em um campo magnético externo e uniforme. O campo de Kalb-Ramond introduz um parâmetro de violação de Lorentz ($l$) que modifica a geometria do espaço-tempo. Paralelamente, o campo magnético influencia as trajetórias das partículas de forma significativa por meio da força de Lorentz, resultando em uma rica variedade de comportamentos orbitais. A interação desses dois campos com a gravidade do buraco negro é crucial para compreender os fenômenos astrofísicos observados em sistemas compactos. Para investigar esses efeitos, derivamos as equações completas de movimento, o potencial efetivo e as frequências fundamentais de oscilações quase periódicas (QPOs). Em seguida, realizamos uma análise abrangente utilizando o método da Cadeia de Mar</content:encoded>
+            </item><item>
               <title>Pegada do Fogo na Ilha de Santa Rosa</title>
               <link>https://www.cosmosweek.com/noticia/fire-s-footprint-on-santa-rosa-island/</link>
               <guid>https://www.cosmosweek.com/noticia/fire-s-footprint-on-santa-rosa-island/</guid>
@@ -47,36 +77,6 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Pegada do Fogo na Ilha de Santa Rosa</category>
               <source url="https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/">NASA News Releases</source>
               <content:encoded>Um incêndio florestal de grandes proporções atingiu a Ilha de Santa Rosa, a segunda maior das Ilhas do Canal da Califórnia, consumindo pastagens, arbustos costeiros e chaparral em aproximadamente um terço de sua área total. O fogo, avistado pela primeira vez em 15 de maio de 2026, no lado sudeste da ilha, que faz parte do Parque Nacional das Ilhas do Canal, rapidamente se espalhou, gerando preocupação entre as autoridades ambientais e equipes de combate a incêndios. A extensão dos danos e a velocidade de propagação do incêndio destacaram a vulnerabilidade dos ecossistemas insulares a eventos climáticos extremos e à acumulação de biomassa seca, fatores que contribuem significativamente para a intensidade e a dificuldade de controle de tais ocorrências. A Ilha de Santa Rosa, conhecida por sua biodiversidade única e paisagens intocadas, sofreu um impacto ambiental considerável, cujas conseq</content:encoded>
-            </item><item>
-              <title>Guia da NASA para Observação do Céu em Junho de 2026</title>
-              <link>https://www.cosmosweek.com/noticia/what-s-up-june-2026-skywatching-tips-from-nasa/</link>
-              <guid>https://www.cosmosweek.com/noticia/what-s-up-june-2026-skywatching-tips-from-nasa/</guid>
-              <pubDate>Mon, 01 Jun 2026 18:13:46 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>Vênus e Júpiter se encontram após o pôr do sol, a Lua passa na frente de Vênus, o verão começa e os tesouros do céu profundo surgem à vista.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>E aí</category>
-              <source url="https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/">NASA News Releases</source>
-              <content:encoded>Junho de 2026 promete um espetáculo celestial para os observadores do céu, com eventos notáveis que incluem o encontro de Vênus e Júpiter após o pôr do sol, a passagem da Lua em frente a Vênus, o início do verão no hemisfério norte e a visibilidade de tesouros do céu profundo. Este mês, os entusiastas da astronomia terão a oportunidade de testemunhar conjunções planetárias, fenômenos em que dois ou mais corpos celestes parecem se aproximar no céu a partir da perspectiva terrestre, mesmo estando a milhões de quilômetros de distância no espaço. Raquel Villanueva, do Laboratório de Propulsão a Jato da NASA, apresenta os destaques deste período, convidando a todos para explorar as maravilhas do universo visíveis a olho nu ou com equipamentos simples. Entre os dias 11 e 15 de junho, Mercúrio se juntará a Vênus e Júpiter, criando um fascinante 'desfile' de planetas baixos no céu ocidental. Vên</content:encoded>
-            </item><item>
-              <title>Regressão sobre regressão: mapeando as taxas de fusão de buracos negros binários, baseadas em dados, às histórias de seus progenitores</title>
-              <link>https://www.cosmosweek.com/noticia/regression-on-regression-mapping-data-driven-binary-black-hole-merger-rate-fits-to-progenitor-hi/</link>
-              <guid>https://www.cosmosweek.com/noticia/regression-on-regression-mapping-data-driven-binary-black-hole-merger-rate-fits-to-progenitor-hi/</guid>
-              <pubDate>Mon, 01 Jun 2026 16:06:10 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>A taxa de fusão de buracos negros binários é determinada pela taxa de formação de seus progenitores e pela distribuição dos tempos de atraso entre a formação e a fusão, mas essas funções ainda são pouco compreendidas.</description>
-              <category>Astrofísica</category><category>arXiv High Energy Astrophysics</category><category>Cosmos Week</category><category>Regressão sobre regressão</category>
-              <source url="https://arxiv.org/abs/2606.02431v1">arXiv High Energy Astrophysics</source>
-              <content:encoded>A taxa de fusão de buracos negros binários é determinada pela taxa de formação de seus progenitores e pela distribuição dos tempos de atraso entre a formação e a fusão. Contudo, essas funções permanecem pouco restritas, dificultando uma compreensão completa dos mecanismos astrofísicos subjacentes. A capacidade de mapear os parâmetros de modelos baseados na física diretamente nos ajustes existentes da taxa de fusão de buracos negros binários (BBH) derivados de dados é crucial para avançar nesse campo. Essa abordagem permite uma interpretação física mais robusta de modelos populacionais flexíveis, sem a necessidade de reanalisar os dados subjacentes dos eventos de ondas gravitacionais, o que seria computacionalmente proibitivo. Neste trabalho, introduzimos uma estrutura inovadora que denominamos 'regressão sobre regressão'. Essa metodologia permite a conexão direta entre os parâmetros de m</content:encoded>
-            </item><item>
-              <title>Pipeline de Análise de Estrutura em Grande Escala do CSST: IV. Vazios Cósmicos Identificados em Amostras de Grupos de Galáxias como Sondas da Estrutura em Grande Escala</title>
-              <link>https://www.cosmosweek.com/noticia/csst-large-scale-structure-analysis-pipeline-iv-cosmic-voids-identified-from-galaxy-group-sample/</link>
-              <guid>https://www.cosmosweek.com/noticia/csst-large-scale-structure-analysis-pipeline-iv-cosmic-voids-identified-from-galaxy-group-sample/</guid>
-              <pubDate>Mon, 01 Jun 2026 08:45:59 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>A associação direta entre grupos de galáxias e halos de matéria escura simplifica a modelagem teórica, tornando-a mais acessível do que abordagens focadas em galáxias individuais.</description>
-              <category>Cosmologia</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>Pipeline de análise de estrutura em grande escala CSST</category>
-              <source url="https://arxiv.org/abs/2606.01907v1">arXiv Cosmology</source>
-              <content:encoded>Para concretizar essa proposta, utilizamos o levantamento simulado de redshift de galáxias (MGRS) de referência, que foi especificamente projetado para o Chinese Space-station Survey Telescope (CSST). A partir deste levantamento, construímos dois catálogos de grupos de galáxias distintos. O primeiro catálogo representa um cenário ideal, onde a completude dos dados é máxima, enquanto o segundo reflete um cenário mais conservador, com as limitações observacionais típicas. Ambos os catálogos foram derivados de amostras de galáxias com 100% de completude inicial, permitindo uma base robusta para as análises subsequentes. A criação desses catálogos simulados é essencial para testar a robustez de nossa metodologia sob diferentes condições e para validar a aplicabilidade dos vazios de grupo como sondas cosmológicas eficazes, mimetizando as condições que serão encontradas em levantamentos reais.</content:encoded>
             </item><item>
               <title>Evidências de Plumas de Água da Lua Europa de Júpiter Desaparecem</title>
               <link>https://www.cosmosweek.com/noticia/evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes/</link>
