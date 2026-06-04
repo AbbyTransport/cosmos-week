@@ -1,6 +1,538 @@
 [
   {
     "id": 1,
+    "slug": "tessera-ai-model-offers-accessible-way-to-view-earth",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/tessera_s_embedding_view_of_paris/27308817-1-eng-GB/Tessera_s_embedding_view_of_Paris_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/tessera_s_embedding_view_of_cambridge/27308958-1-eng-GB/Tessera_s_embedding_view_of_Cambridge_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/tessera_s_embedding_view_of_cambridge_split/27309022-2-eng-GB/Tessera_s_embedding_view_of_Cambridge_split_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O modelo Tessera AI oferece uma maneira acessível de visualizar a Terra",
+    "title_pt": "O modelo Tessera AI oferece uma maneira acessível de visualizar a Terra",
+    "title_en": "Tessera AI model offers accessible way to view Earth",
+    "sub": "Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi anunciado em uma conferência.",
+    "sub_pt": "Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi anunciado em uma conferência.",
+    "sub_en": "A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was announced at a computer.",
+    "excerpt": "Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi anunciado em uma conferência da indústria de informática esta semana em Denver, EUA.",
+    "excerpt_pt": "Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi anunciado em uma conferência da indústria de informática esta semana em Denver, EUA.",
+    "excerpt_en": "A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was announced at a computer industry conference this week in Denver, US.",
+    "highlights": [
+      "Em foco: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "04 jun 2026",
+    "date_pt": "04 jun 2026",
+    "date_en": "04 Jun 2026",
+    "time": "13h00",
+    "time_pt": "13h00",
+    "time_en": "13: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-04T13:00:00+00:00",
+    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "O modelo Tessera AI oferece uma maneira acessível de visualizar a Terra"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "O modelo Tessera AI oferece uma maneira acessível de visualizar a Terra"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "Tessera AI model offers an accessible way to visualize Earth"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth",
+    "realUrl": "https://www.cosmosweek.com/?article=tessera-ai-model-offers-accessible-way-to-view-earth",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=tessera-ai-model-offers-accessible-way-to-view-earth",
+    "realUrl_en": "https://www.cosmosweek.com/?article=tessera-ai-model-offers-accessible-way-to-view-earth&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/tessera-ai-model-offers-accessible-way-to-view-earth/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/tessera-ai-model-offers-accessible-way-to-view-earth/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/tessera-ai-model-offers-accessible-way-to-view-earth/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/tessera-ai-model-offers-accessible-way-to-view-earth/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/tessera-ai-model-offers-accessible-way-to-view-earth/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/tessera-ai-model-offers-accessible-way-to-view-earth/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "O modelo Tessera AI oferece uma maneira acessível de visualizar a Terra",
+    "imageAlt_pt": "O modelo Tessera AI oferece uma maneira acessível de visualizar a Terra",
+    "imageAlt_en": "Tessera AI model offers accessible way to view Earth",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_vast_clay_region/27305677-1-eng-GB/Mars_vast_clay_region_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/eyes_on_mars/26013522-1-eng-GB/Eyes_on_Mars_article.png",
+        "alt": "Rover Rosalind Franklin explorando sítio marciano",
+        "alt_pt": "Rover Rosalind Franklin explorando sítio marciano",
+        "alt_en": "Rosalind Franklin rover exploring martian site",
+        "caption": "Rover Rosalind Franklin explorando sítio marciano",
+        "caption_pt": "Rover Rosalind Franklin explorando sítio marciano",
+        "caption_en": "Rosalind Franklin rover exploring martian site"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/oxia_planum_geological_map/26002040-8-eng-GB/Oxia_Planum_geological_map_pillars.png",
+        "alt": "$video. data_map. short_description. content",
+        "alt_pt": "$video. data_map. short_description. content",
+        "alt_en": "$video. data_map. short_description. content",
+        "caption": "$video. data_map. short_description. content",
+        "caption_pt": "$video. data_map. short_description. content",
+        "caption_en": "$video. data_map. short_description. content"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
+    "title_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
+    "title_en": "ExoMars rover targets vast bed of clay in search for life",
+    "sub": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
+    "sub_pt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
+    "sub_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds.",
+    "excerpt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
+    "excerpt_pt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
+    "excerpt_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds.",
+    "highlights": [
+      "Em foco: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "04 jun 2026",
+    "date_pt": "04 jun 2026",
+    "date_en": "04 Jun 2026",
+    "time": "06h30",
+    "time_pt": "06h30",
+    "time_en": "06: 30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-04T06:30:00+00:00",
+    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "ExoMars rover targets vast clay bed in search of life"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life",
+    "realUrl": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
+    "realUrl_en": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
+    "imageAlt_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
+    "imageAlt_en": "ExoMars rover targets vast bed of clay in search for life",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04908_mhli_4908MH0003260001801155C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/5/25757_1-PIA24543-Curiositys-Selfie-at-Mont-Mercou-main-web.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
+    "title_pt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
+    "title_en": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+    "sub": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908.",
+    "sub_pt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908.",
+    "sub_en": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a.",
+    "excerpt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908 e 4912.",
+    "excerpt_pt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908 e 4912.",
+    "excerpt_en": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was.",
+    "highlights": [
+      "Em foco: Este blog, escrito por Susanne P",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Este blog, escrito por Susanne P",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: By Susanne P",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "04 jun 2026",
+    "date_pt": "04 jun 2026",
+    "date_en": "04 Jun 2026",
+    "time": "01h28",
+    "time_pt": "01h28",
+    "time_en": "01: 28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-04T01:28:11+00:00",
+    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Blog Curiosity",
+      "Sols 4908",
+      "4912",
+      "Adeus Campo Marte",
+      "Tem sido divertido!"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Blog Curiosity",
+      "Sols 4908",
+      "4912",
+      "Adeus Campo Marte",
+      "Tem sido divertido!"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Blog Curiosity",
+      "Sols 4908",
+      "4912",
+      "Goodbye Campo Marte",
+      "It's been fun!"
+    ],
+    "srcUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
+    "realUrl": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
+    "realUrl_en": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
+    "imageAlt_pt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
+    "imageAlt_en": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
+    "slug": "nasa-finds-new-way-earth-may-have-received-elements-needed-for-life",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2023/11/STScI-01HFQ61R8HQ2TCA7HDKXA1N1C6.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NASA revela nova hipótese sobre a origem dos elementos essenciais à vida na Terra",
+    "title_pt": "NASA revela nova hipótese sobre a origem dos elementos essenciais à vida na Terra",
+    "title_en": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+    "sub": "Uma pesquisa apoiada pela NASA oferece novas perspectivas sobre como a Terra primitiva pode ter adquirido os elementos cruciais, como fósforo e nitrogênio, necessários para o.",
+    "sub_pt": "Uma pesquisa apoiada pela NASA oferece novas perspectivas sobre como a Terra primitiva pode ter adquirido os elementos cruciais, como fósforo e nitrogênio, necessários para o.",
+    "sub_en": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable.",
+    "excerpt": "Uma pesquisa apoiada pela NASA oferece novas perspectivas sobre como a Terra primitiva pode ter adquirido os elementos cruciais, como fósforo e nitrogênio, necessários para o surgimento da vida e a habitabilidade do planeta.",
+    "excerpt_pt": "Uma pesquisa apoiada pela NASA oferece novas perspectivas sobre como a Terra primitiva pode ter adquirido os elementos cruciais, como fósforo e nitrogênio, necessários para o surgimento da vida e a habitabilidade do planeta.",
+    "excerpt_en": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable.",
+    "highlights": [
+      "Em foco: Uma pesquisa apoiada pela NASA oferece novas perspectivas sobre como a Terra primitiva pode ter adquirido os elementos cruciais, como fósforo e",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Uma pesquisa apoiada pela NASA oferece novas perspectivas sobre como a Terra primitiva pode ter adquirido os elementos cruciais, como fósforo e",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "03 jun 2026",
+    "date_pt": "03 jun 2026",
+    "date_en": "03 Jun 2026",
+    "time": "18h01",
+    "time_pt": "18h01",
+    "time_en": "18: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-03T18:01:00+00:00",
+    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Exoplanetas",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA descobre uma nova maneira pela qual a Terra pode ter recebido elementos necessários à vida"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA descobre uma nova maneira pela qual a Terra pode ter recebido elementos necessários à vida"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Discovers New Way Earth May Have Received Elements Necessary for Life"
+    ],
+    "srcUrl": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-finds-new-way-earth-may-have-received-elements-needed-for-life",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-finds-new-way-earth-may-have-received-elements-needed-for-life",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-finds-new-way-earth-may-have-received-elements-needed-for-life&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "NASA revela nova hipótese sobre a origem dos elementos essenciais à vida na Terra",
+    "imageAlt_pt": "NASA revela nova hipótese sobre a origem dos elementos essenciais à vida na Terra",
+    "imageAlt_en": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 5,
     "slug": "nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -128,7 +660,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 6,
     "slug": "nasa-testing-wastewater-treatment-facility-for-future-moon-base",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -146,19 +678,19 @@
     "excerpt_pt": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em Marte.",
     "excerpt_en": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks.",
     "highlights": [
-      "Em foco: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de.",
+      "Dado-chave: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de.",
+      "Dado-chave: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and.",
+      "Key detail: A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 jun 2026",
     "date_pt": "02 jun 2026",
@@ -246,125 +778,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
-    "slug": "be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/projects/2026/Galaxy_clump_featured_image.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Participe como explorador e ajude a desvendar os segredos dos berçários estelares",
-    "title_pt": "Participe como explorador e ajude a desvendar os segredos dos berçários estelares",
-    "title_en": "Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries",
-    "sub": "Participe da identificação de aglomerados de formação estelar em imagens de galáxias e contribua para o treinamento de sistemas de inteligência artificial para essa mesma tarefa.",
-    "sub_pt": "Participe da identificação de aglomerados de formação estelar em imagens de galáxias e contribua para o treinamento de sistemas de inteligência artificial para essa mesma tarefa.",
-    "sub_en": "Help identify star-forming clumps in galaxy images, and help train machines to do the same.",
-    "excerpt": "Participe da identificação de aglomerados de formação estelar em imagens de galáxias e contribua para o treinamento de sistemas de inteligência artificial para essa mesma tarefa.",
-    "excerpt_pt": "Participe da identificação de aglomerados de formação estelar em imagens de galáxias e contribua para o treinamento de sistemas de inteligência artificial para essa mesma tarefa.",
-    "excerpt_en": "Help identify star-forming clumps in galaxy images, and help train machines to do the same.",
-    "highlights": [
-      "Em foco: Participe da identificação de aglomerados de formação estelar em imagens de galáxias e contribua para o treinamento de sistemas de inteligência",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Participe da identificação de aglomerados de formação estelar em imagens de galáxias e contribua para o treinamento de sistemas de inteligência",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Help identify star-forming clumps in galaxy images, and help train machines to do the same",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "02 jun 2026",
-    "date_pt": "02 jun 2026",
-    "date_en": "02 Jun 2026",
-    "time": "13h19",
-    "time_pt": "13h19",
-    "time_en": "13: 19 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-02T13:19:54+00:00",
-    "lastModifiedIso": "2026-06-02T19:19:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Seja um escoteiro e ajude a revelar os segredos dos viveiros estelares"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Seja um escoteiro e ajude a revelar os segredos dos viveiros estelares"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Be a Scout and help reveal the secrets of the star nurseries"
-    ],
-    "srcUrl": "https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-clump-scout-ii-project/",
-    "realUrl": "https://www.cosmosweek.com/?article=be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries",
-    "realUrl_en": "https://www.cosmosweek.com/?article=be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/be-a-clump-scout-and-help-reveal-secrets-of-stellar-nurseries/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Participe como explorador e ajude a desvendar os segredos dos berçários estelares",
-    "imageAlt_pt": "Participe como explorador e ajude a desvendar os segredos dos berçários estelares",
-    "imageAlt_en": "Be a Clump Scout and Help Reveal Secrets of Stellar Nurseries",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 4,
+    "id": 7,
     "slug": "probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -382,18 +796,19 @@
     "excerpt_pt": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
     "excerpt_en": "We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068. In dense dark matter spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy.",
     "highlights": [
-      "Em foco: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
+      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
+      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
+      "Key detail: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068",
+      "Result not yet peer reviewed."
     ],
     "date": "02 jun 2026",
     "date_pt": "02 jun 2026",
@@ -481,7 +896,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 8,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -640,7 +1055,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 9,
     "slug": "lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -658,18 +1073,19 @@
     "excerpt_pt": "Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e imerso em um campo magnético externo.",
     "excerpt_en": "We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform external magnetic field.",
     "highlights": [
-      "Em foco: Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e imerso",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e imerso.",
+      "Dado-chave: Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e imerso",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e imerso.",
+      "Dado-chave: Investigamos a dinâmica de partículas carregadas em torno de um buraco negro do tipo Schwarzschild em um cenário com um campo de Kalb-Ramond e.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform.",
+      "Key detail: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform",
+      "Result not yet peer reviewed."
     ],
     "date": "02 jun 2026",
     "date_pt": "02 jun 2026",
@@ -760,153 +1176,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
-    "slug": "fire-s-footprint-on-santa-rosa-island",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire653_oli2_20260516.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire653_oli_20260524.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fire’s-footprint-on-santa-rosa-island/channelislandsfire_oli_20260524_653_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Pegada do Fogo na Ilha de Santa Rosa",
-    "title_pt": "Pegada do Fogo na Ilha de Santa Rosa",
-    "title_en": "Fire’s Footprint on Santa Rosa Island",
-    "sub": "Um incêndio florestal queimou pastagens, arbustos costeiros e chaparral em um terço da ilha, a segunda maior das Ilhas do Canal.",
-    "sub_pt": "Um incêndio florestal queimou pastagens, arbustos costeiros e chaparral em um terço da ilha, a segunda maior das Ilhas do Canal.",
-    "sub_en": "A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
-    "excerpt": "Um incêndio florestal queimou pastagens, arbustos costeiros e chaparral em um terço da ilha, a segunda maior das Ilhas do Canal.",
-    "excerpt_pt": "Um incêndio florestal queimou pastagens, arbustos costeiros e chaparral em um terço da ilha, a segunda maior das Ilhas do Canal.",
-    "excerpt_en": "A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands.",
-    "highlights": [
-      "Em foco: Um incêndio florestal queimou pastagens, arbustos costeiros e chaparral em um terço da ilha, a segunda maior das Ilhas do Canal",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Um incêndio florestal queimou pastagens, arbustos costeiros e chaparral em um terço da ilha, a segunda maior das Ilhas do Canal",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the Channel Islands",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "02 jun 2026",
-    "date_pt": "02 jun 2026",
-    "date_en": "02 Jun 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-02T04:01:00+00:00",
-    "lastModifiedIso": "2026-06-02T19:19:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Pegada do Fogo na Ilha de Santa Rosa"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Pegada do Fogo na Ilha de Santa Rosa"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Footprint of Fire on Santa Rosa Island"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
-    "realUrl": "https://www.cosmosweek.com/?article=fire-s-footprint-on-santa-rosa-island",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=fire-s-footprint-on-santa-rosa-island",
-    "realUrl_en": "https://www.cosmosweek.com/?article=fire-s-footprint-on-santa-rosa-island&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/fire-s-footprint-on-santa-rosa-island/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/fire-s-footprint-on-santa-rosa-island/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/fire-s-footprint-on-santa-rosa-island/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/fire-s-footprint-on-santa-rosa-island/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/fire-s-footprint-on-santa-rosa-island/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/fire-s-footprint-on-santa-rosa-island/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Pegada do Fogo na Ilha de Santa Rosa",
-    "imageAlt_pt": "Pegada do Fogo na Ilha de Santa Rosa",
-    "imageAlt_en": "Fire’s Footprint on Santa Rosa Island",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
+    "id": 10,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -935,7 +1205,7 @@
     ],
     "highlights_en": [
       "Core point: Reanalysis shows that the Hubble Space Telescope's detection of water vapor escaping from Jupiter’s moon Europa might have been a glitch.",
-      "Key detail: Reanalysis shows that the Hubble Space Telescope's detection of water vapor escaping from Jupiter’s moon Europa might have been a glitch",
+      "Key detail: Reanalysis shows that the Hubble Space Telescope's detection of water vapor escaping from Jupiter’s moon Europa might have been a glitch.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "29 mai 2026",
@@ -1024,7 +1294,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1075,17 +1345,17 @@
     "excerpt_en": "Wild disturbances are on the rise, while land disturbed by human activity has been decreasing. The post A Shift in What’s Shaping U.",
     "highlights": [
       "Ponto central: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "Dado-chave: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído",
+      "Dado-chave: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "Dado-chave: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído",
+      "Dado-chave: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.",
-      "Key detail: Wild disturbances are on the rise, while land disturbed by human activity has been decreasing",
+      "Key detail: Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "28 mai 2026",
@@ -1174,7 +1444,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1302,7 +1572,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 13,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1461,7 +1731,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "insights-into-earth-s-molten-outer-core-from-space",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1616,7 +1886,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "new-eruption-in-the-bismarck-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1762,135 +2032,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
-    "slug": "greenlight-for-next-two-esa-scout-missions",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/06/scout_missions/24329139-1-eng-GB/Scout_missions_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/sova-s_to_scout_for_gravity_waves/27283819-1-eng-GB/SOVA-S_to_scout_for_gravity_waves_article.jpg",
-        "alt": "SOVA-S – para procurar ondas gravitacionais",
-        "alt_pt": "SOVA-S – para procurar ondas gravitacionais",
-        "alt_en": "SOVA-S – to scout for gravity waves",
-        "caption": "SOVA-S – para procurar ondas gravitacionais",
-        "caption_pt": "SOVA-S – para procurar ondas gravitacionais",
-        "caption_en": "SOVA-S – to scout for gravity waves"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Luz Verde para as Próximas Duas Missões Scout da ESA",
-    "title_pt": "Luz Verde para as Próximas Duas Missões Scout da ESA",
-    "title_en": "Greenlight for next two ESA Scout missions",
-    "sub": "A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos satélites: Hibidis e SOVA-S.",
-    "sub_pt": "A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos satélites: Hibidis e SOVA-S.",
-    "sub_en": "The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis and SOVA-S.",
-    "excerpt": "A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos satélites: Hibidis e SOVA-S.",
-    "excerpt_pt": "A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos satélites: Hibidis e SOVA-S.",
-    "excerpt_en": "The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis and SOVA-S.",
-    "highlights": [
-      "Ponto central: A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos satélites.",
-      "Dado-chave: A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos satélites.",
-      "Dado-chave: A Agência Espacial Europeia está expandindo sua crescente frota de missões científicas de observação da Terra com a seleção de dois novos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites: Hibidis.",
-      "Key detail: The European Space Agency is expanding its growing fleet of Earth-observing science Scout missions with the selection of two new satellites.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 mai 2026",
-    "date_pt": "20 mai 2026",
-    "date_en": "20 May 2026",
-    "time": "13h00",
-    "time_pt": "13h00",
-    "time_en": "13: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-20T13:00:00+00:00",
-    "lastModifiedIso": "2026-05-20T18:14:57+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Luz verde para as próximas duas missões Scout da ESA"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Luz verde para as próximas duas missões Scout da ESA"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "Green light for ESA's next two Scout missions"
-    ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenlight_for_next_two_ESA_Scout_missions",
-    "realUrl": "https://www.cosmosweek.com/?article=greenlight-for-next-two-esa-scout-missions",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=greenlight-for-next-two-esa-scout-missions",
-    "realUrl_en": "https://www.cosmosweek.com/?article=greenlight-for-next-two-esa-scout-missions&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/greenlight-for-next-two-esa-scout-missions/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/greenlight-for-next-two-esa-scout-missions/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/greenlight-for-next-two-esa-scout-missions/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/greenlight-for-next-two-esa-scout-missions/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/greenlight-for-next-two-esa-scout-missions/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/greenlight-for-next-two-esa-scout-missions/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Luz Verde para as Próximas Duas Missões Scout da ESA",
-    "imageAlt_pt": "Luz Verde para as Próximas Duas Missões Scout da ESA",
-    "imageAlt_en": "Greenlight for next two ESA Scout missions",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 15,
+    "id": 16,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2085,7 +2227,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2203,7 +2345,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "uap-in-this-case-it-s-only-a-model",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2321,179 +2463,6 @@
     "coverageKindLabel": "Jornalismo científico",
     "coverageKindLabel_pt": "Jornalismo científico",
     "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 18,
-    "slug": "waterworn-chaos-on-mars",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/mars_express_visits_shalbatana_vallis_on_mars/27273355-1-eng-GB/Mars_Express_visits_Shalbatana_Vallis_on_Mars_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_view_from_above_shalbatana_vallis_on_mars/27273449-1-eng-GB/A_view_from_above_Shalbatana_Vallis_on_Mars_article.jpg",
-        "alt": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "alt_pt": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "alt_en": "A view from above: Shalbatana Vallis on Mars",
-        "caption": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "caption_pt": "Uma vista de cima: Shalbatana Vallis em Marte",
-        "caption_en": "A view from above: Shalbatana Vallis on Mars"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/where_on_mars_is_shalbatana_vallis/27273590-1-eng-GB/Where_on_Mars_is_Shalbatana_Vallis_article.png",
-        "alt": "Onde em Marte fica Shalbatana Vallis?",
-        "alt_pt": "Onde em Marte fica Shalbatana Vallis?",
-        "alt_en": "Where on Mars is Shalbatana Vallis?",
-        "caption": "Onde em Marte fica Shalbatana Vallis?",
-        "caption_pt": "Onde em Marte fica Shalbatana Vallis?",
-        "caption_en": "Where on Mars is Shalbatana Vallis?"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/topographic_map_of_shalbatana_vallis_on_mars/27273543-1-eng-GB/Topographic_map_of_Shalbatana_Vallis_on_Mars_article.jpg",
-        "alt": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "alt_pt": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "alt_en": "Topographic map of Shalbatana Vallis on Mars",
-        "caption": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "caption_pt": "Mapa topográfico de Shalbatana Vallis em Marte",
-        "caption_en": "Topographic map of Shalbatana Vallis on Mars"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/bird_s-eye_view_of_a_small_chaotic_area_in_shalbatana_vallis/27273402-1-eng-GB/Bird_s-eye_view_of_a_small_chaotic_area_in_Shalbatana_Vallis_article.jpg",
-        "alt": "Vista aérea de uma pequena área caótica em Shalbatana Vallis",
-        "alt_pt": "Vista aérea de uma pequena área caótica em Shalbatana Vallis",
-        "alt_en": "Bird’s-eye view of a small chaotic area in Shalbatana Vallis",
-        "caption": "Vista aérea de uma pequena área caótica em Shalbatana Vallis",
-        "caption_pt": "Vista aérea de uma pequena área caótica em Shalbatana Vallis",
-        "caption_en": "Bird’s-eye view of a small chaotic area in Shalbatana Vallis"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/mars_s_shalbatana_vallis_in_3d/27273496-1-eng-GB/Mars_s_Shalbatana_Vallis_in_3D_article.jpg",
-        "alt": "Vale Shalbatana de Marte em 3D",
-        "alt_pt": "Vale Shalbatana de Marte em 3D",
-        "alt_en": "Mars’s Shalbatana Vallis in 3D",
-        "caption": "Vale Shalbatana de Marte em 3D",
-        "caption_pt": "Vale Shalbatana de Marte em 3D",
-        "caption_en": "Mars’s Shalbatana Vallis in 3D"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/mars_express_visits_shalbatana_vallis_on_mars/27273355-1-eng-GB/Mars_Express_visits_Shalbatana_Vallis_on_Mars_article.jpg",
-        "alt": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_pt": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_en": "Mars Express visits Shalbatana Vallis on Mars. Click on the image to zoom in and explore.",
-        "caption": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_pt": "Mars Express visita Shalbatana Vallis em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_en": "Mars Express visits Shalbatana Vallis on Mars. Click on the image to zoom in and explore."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Shalbatana Vallis: Um Vale Marciano de Água, Lava e Caos",
-    "title_pt": "Shalbatana Vallis: Um Vale Marciano de Água, Lava e Caos",
-    "title_en": "Waterworn chaos on Mars",
-    "sub": "Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e regiões de caos.",
-    "sub_pt": "Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e regiões de caos.",
-    "sub_en": "This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.",
-    "excerpt": "Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e regiões de caos.",
-    "excerpt_pt": "Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e regiões de caos.",
-    "excerpt_en": "This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.",
-    "highlights": [
-      "Ponto central: Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e.",
-      "Dado-chave: Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e.",
-      "Dado-chave: Neste mês, a sonda Mars Express da ESA nos leva a Shalbatana Vallis, um notável vale marciano caracterizado por sinais de água, lava, crateras e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.",
-      "Key detail: This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 mai 2026",
-    "date_pt": "13 mai 2026",
-    "date_en": "13 May 2026",
-    "time": "09h00",
-    "time_pt": "09h00",
-    "time_en": "09: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-13T09:00:00+00:00",
-    "lastModifiedIso": "2026-05-13T17:44:00+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Caos devastado pela água em Marte"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Caos devastado pela água em Marte"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space News",
-      "Cosmos Week",
-      "Chaos wracked by water on Mars"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars",
-    "realUrl": "https://www.cosmosweek.com/?article=waterworn-chaos-on-mars",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=waterworn-chaos-on-mars",
-    "realUrl_en": "https://www.cosmosweek.com/?article=waterworn-chaos-on-mars&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/waterworn-chaos-on-mars/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/waterworn-chaos-on-mars/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/waterworn-chaos-on-mars/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/waterworn-chaos-on-mars/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/waterworn-chaos-on-mars/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/waterworn-chaos-on-mars/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Shalbatana Vallis: Um Vale Marciano de Água, Lava e Caos",
-    "imageAlt_pt": "Shalbatana Vallis: Um Vale Marciano de Água, Lava e Caos",
-    "imageAlt_en": "Waterworn chaos on Mars",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
