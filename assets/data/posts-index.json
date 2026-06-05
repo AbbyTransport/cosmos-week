@@ -1,6 +1,383 @@
 [
   {
     "id": 1,
+    "slug": "nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-05/20260506-nci.jpg?itok=M4Hx7Jea",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "title_pt": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "title_en": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+    "sub": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem.",
+    "sub_pt": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem.",
+    "sub_en": "In a new National Institutes of Health-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may play a key role in limiting the.",
+    "excerpt": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem desempenhar um papel crucial na limitação do crescimento de tumores cerebrais em homens.",
+    "excerpt_pt": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem desempenhar um papel crucial na limitação do crescimento de tumores cerebrais em homens.",
+    "excerpt_en": "In a new National Institutes of Health-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may play a key role in limiting the growth of brain tumors in men.",
+    "highlights": [
+      "Em foco: Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: In a new National Institutes of Health-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "17h28",
+    "time_pt": "17h28",
+    "time_en": "17: 28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-05T17:28:31.105459+00:00",
+    "lastModifiedIso": "2026-06-05T17:53:42+00:00",
+    "source": "NIH News Releases",
+    "sourceDomain": "www. nih. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens"
+    ],
+    "keywords_en": [
+      "Biology",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH-Funded Study Suggests Testosterone Suppresses Brain Tumor Growth in Men"
+    ],
+    "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
+    "realUrl": "https://www.cosmosweek.com/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 91,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 55
+    },
+    "imageAlt": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "imageAlt_pt": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "imageAlt_en": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "webb-unveils-young-stars-across-every-stage-of-formation",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/image-webb-unveils-you.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx2.b-cdn.net/gfx/news/2026/image-webb-unveils-you.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Webb revela jovens estrelas em todas as fases da formação",
+    "title_pt": "Webb revela jovens estrelas em todas as fases da formação",
+    "title_en": "Webb unveils young stars across every stage of formation",
+    "sub": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem.",
+    "sub_pt": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem.",
+    "sub_en": "For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion, a location familiar to Webb.",
+    "excerpt": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem molecular OMC-2, a 1.280 anos-luz da Terra.",
+    "excerpt_pt": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem molecular OMC-2, a 1.280 anos-luz da Terra.",
+    "excerpt_en": "For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion, a location familiar to Webb.",
+    "highlights": [
+      "Em foco: O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_pt": [
+      "Em foco: O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_en": [
+      "Focus: For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion, a location familiar to Webb",
+      "Detail: Science reporting: verify primary technical documentation",
+      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+    ],
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "17h00",
+    "time_pt": "17h00",
+    "time_en": "17: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-05T17:00:02+00:00",
+    "lastModifiedIso": "2026-06-05T17:53:42+00:00",
+    "source": "Phys. org Space",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Química",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Webb revela jovens estrelas em todas as fases da formação"
+    ],
+    "keywords_pt": [
+      "Química",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Webb revela jovens estrelas em todas as fases da formação"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Webb reveals young stars at every stage of formation"
+    ],
+    "srcUrl": "https://phys.org/news/2026-06-webb-unveils-young-stars-stage.html",
+    "realUrl": "https://www.cosmosweek.com/?article=webb-unveils-young-stars-across-every-stage-of-formation",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-unveils-young-stars-across-every-stage-of-formation",
+    "realUrl_en": "https://www.cosmosweek.com/?article=webb-unveils-young-stars-across-every-stage-of-formation&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 69,
+    "scoreBreakdown": {
+      "source": 66,
+      "evidence": 54,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Webb revela jovens estrelas em todas as fases da formação",
+    "imageAlt_pt": "Webb revela jovens estrelas em todas as fases da formação",
+    "imageAlt_en": "Webb unveils young stars across every stage of formation",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/goes-fp-cobbna-nam-jun2023_00231%20(1).png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "inline_images": [],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/CanadianWildfires2023_SmokeIntensity_short_v02_1920x1080.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/goes-fp-cobbna-nam-jun2023_00231%20(1).png?w=3840&h=1846&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais - NASA Science",
+      "title_pt": "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais - NASA Science",
+      "title_en": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll - NASA Science",
+      "caption": "Ao longo da última década, os incêndios florestais agravaram a poluição do ozono ao nível do solo em grande parte dos Estados Unidos contíguos, criando um ar pouco saudável, longe das chamas activas.",
+      "caption_pt": "Ao longo da última década, os incêndios florestais agravaram a poluição do ozono ao nível do solo em grande parte dos Estados Unidos contíguos, criando um ar pouco saudável, longe das chamas activas.",
+      "caption_en": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
+      "sourcePage": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/"
+    },
+    "audio": null,
+    "title": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "title_pt": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "title_en": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
+    "sub": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à.",
+    "sub_pt": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à.",
+    "sub_en": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
+    "excerpt": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à saúde, mesmo em áreas distantes das chamas ativas.",
+    "excerpt_pt": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à saúde, mesmo em áreas distantes das chamas ativas.",
+    "excerpt_en": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
+    "highlights": [
+      "Em foco: Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "04 jun 2026",
+    "date_pt": "04 jun 2026",
+    "date_en": "04 Jun 2026",
+    "time": "18h01",
+    "time_pt": "18h01",
+    "time_en": "18: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-04T18:01:59+00:00",
+    "lastModifiedIso": "2026-06-05T17:53:42+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA-Funded Study Shows Hidden Impact of Ozone in Wildfire Smoke"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "imageAlt_pt": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "imageAlt_en": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "tessera-ai-model-offers-accessible-way-to-view-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -137,7 +514,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -274,7 +651,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -414,7 +791,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "nasa-finds-new-way-earth-may-have-received-elements-needed-for-life",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -532,7 +909,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 8,
     "slug": "nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -560,19 +937,19 @@
     "excerpt_pt": "A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de Marte, superando em uma década sua duração principal prevista.",
     "excerpt_en": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission.",
     "highlights": [
-      "Em foco: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de.",
+      "Dado-chave: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de.",
+      "Dado-chave: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at Mars",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at Mars.",
+      "Key detail: The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "03 jun 2026",
     "date_pt": "03 jun 2026",
@@ -660,125 +1037,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
-    "slug": "nasa-testing-wastewater-treatment-facility-for-future-moon-base",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://images-assets.nasa.gov/image/KSC-20260421-PH-KLS01_0041/KSC-20260421-PH-KLS01_0041~large.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "title_pt": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "title_en": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-    "sub": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em.",
-    "sub_pt": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em.",
-    "sub_en": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport.",
-    "excerpt": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em Marte.",
-    "excerpt_pt": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em Marte.",
-    "excerpt_en": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks.",
-    "highlights": [
-      "Ponto central: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de.",
-      "Dado-chave: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de.",
-      "Dado-chave: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and.",
-      "Key detail: A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 jun 2026",
-    "date_pt": "02 jun 2026",
-    "date_en": "02 Jun 2026",
-    "time": "14h31",
-    "time_pt": "14h31",
-    "time_en": "14: 31 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-02T14:31:18+00:00",
-    "lastModifiedIso": "2026-06-02T19:19:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA testa instalação de tratamento de águas residuais para futura base lunar"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA testa instalação de tratamento de águas residuais para futura base lunar"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA tests wastewater treatment facility for future lunar base"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-testing-wastewater-treatment-facility-for-future-moon-base",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-testing-wastewater-treatment-facility-for-future-moon-base",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-testing-wastewater-treatment-facility-for-future-moon-base&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "imageAlt_pt": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "imageAlt_en": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "slug": "probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -797,17 +1056,17 @@
     "excerpt_en": "We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068. In dense dark matter spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy.",
     "highlights": [
       "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
+      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
+      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-      "Key detail: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068",
+      "Key detail: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
       "Result not yet peer reviewed."
     ],
     "date": "02 jun 2026",
@@ -896,7 +1155,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1055,7 +1314,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1084,7 +1343,7 @@
     ],
     "highlights_en": [
       "Core point: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform.",
-      "Key detail: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform",
+      "Key detail: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform.",
       "Result not yet peer reviewed."
     ],
     "date": "02 jun 2026",
@@ -1176,7 +1435,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1294,7 +1553,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 13,
     "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1444,7 +1703,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1572,7 +1831,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1731,7 +1990,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 16,
     "slug": "insights-into-earth-s-molten-outer-core-from-space",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1886,7 +2145,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 17,
     "slug": "new-eruption-in-the-bismarck-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2032,7 +2291,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 18,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2227,125 +2486,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
-    "slug": "clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-04/2026042-saline.jpeg?itok=_xh31i5O",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "title_pt": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "title_en": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
-    "sub": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "sub_pt": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "sub_en": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-    "excerpt": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "excerpt_pt": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "excerpt_en": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-    "highlights": [
-      "Ponto central: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de.",
-      "Dado-chave: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de.",
-      "Dado-chave: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-      "Key detail: NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 mai 2026",
-    "date_pt": "15 mai 2026",
-    "date_en": "15 May 2026",
-    "time": "17h11",
-    "time_pt": "17h11",
-    "time_en": "17: 11 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-15T17:11:18.384037+00:00",
-    "lastModifiedIso": "2026-05-15T17:23:29+00:00",
-    "source": "NIH News Releases",
-    "sourceDomain": "www. nih. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Clinical trial finds no difference in fluid treatment options for pediatric sepsis"
-    ],
-    "srcUrl": "https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis",
-    "realUrl": "https://www.cosmosweek.com/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis",
-    "realUrl_en": "https://www.cosmosweek.com/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 91,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 86,
-      "relevance": 84,
-      "accessibility": 52,
-      "novelty": 55
-    },
-    "imageAlt": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "imageAlt_pt": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "imageAlt_en": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 18,
+    "id": 19,
     "slug": "uap-in-this-case-it-s-only-a-model",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2466,7 +2607,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "a-beacon-of-light-in-swirls-of-dust",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2621,7 +2762,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "gauging-axionic-symmetries-and-dark-matter-in-memory-of-george-lazarides",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -2742,7 +2883,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2860,7 +3001,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "days-after-artemis-ii-scientists-warn-of-deep-cuts-to-nasa-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3063,7 +3204,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "hilumi-lhc-cern-s-full-scale-test-stand-enters-the-powering-phase",
     "cat": "Física",
     "catCls": "fisica",
@@ -3194,7 +3335,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -3325,7 +3466,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3440,137 +3581,6 @@
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 26,
-    "slug": "sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/rice-researchers-find.jpg",
-    "inline_images": [
-      {
-        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "title_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "title_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
-    "sub": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
-    "sub_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
-    "sub_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is.",
-    "excerpt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
-    "excerpt_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
-    "excerpt_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is covered by an iron-poor and sulfur-rich crust.",
-    "highlights": [
-      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: Mercury is a small, rocky planet about which researchers know relatively little.",
-      "Key detail: Mercury is a small, rocky planet about which researchers know relatively little.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "19 abr 2026",
-    "date_pt": "19 abr 2026",
-    "date_en": "19 Apr 2026",
-    "time": "19h00",
-    "time_pt": "19h00",
-    "time_en": "19: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-19T19:00:01+00:00",
-    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
-    "source": "Phys. org Space",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Magmas de Mercúrio ricos em enxofre comportam",
-      "se de maneira diferente dos da Terra"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Magmas de Mercúrio ricos em enxofre comportam",
-      "se de maneira diferente dos da Terra"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Sulfur-rich Mercury magmas contain",
-      "if different from those on Earth"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-sulfur-rich-mercury-magmas-differently.html",
-    "realUrl": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "realUrl_en": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 42,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "imageAlt_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "imageAlt_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
     "storyKind": "science"
   },
   {

@@ -3,6 +3,392 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-05/20260506-nci.jpg?itok=M4Hx7Jea",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "title_pt": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "title_en": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+    "sub": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem.",
+    "sub_pt": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem.",
+    "sub_en": "In a new National Institutes of Health-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may play a key role in limiting the.",
+    "excerpt": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem desempenhar um papel crucial na limitação do crescimento de tumores cerebrais em homens.",
+    "excerpt_pt": "Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao desenvolvimento masculino podem desempenhar um papel crucial na limitação do crescimento de tumores cerebrais em homens.",
+    "excerpt_en": "In a new National Institutes of Health-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may play a key role in limiting the growth of brain tumors in men.",
+    "body": "<p>Um novo estudo, financiado pelo National Institutes of Health (NIH) e conduzido por cientistas da Cleveland Clinic, sugere que hormônios associados ao desenvolvimento masculino podem desempenhar um papel crucial na limitação do crescimento de tumores cerebrais em homens. A pesquisa, que combinou análises de dados clínicos com experimentos pré-clínicos, aponta para a testosterona como um fator potencialmente protetor contra o glioblastoma, um tipo agressivo de câncer cerebral. Essa descoberta abre novas perspectivas para o desenvolvimento de estratégias terapêuticas focadas em abordagens hormonais para o tratamento de tumores cerebrais masculinos.</p><p>Para investigar a relação entre andrógenos e câncer cerebral em humanos, os pesquisadores analisaram dados clínicos existentes, disponibilizados através do banco de dados Surveillance, Epidemiology, and End Results (SEER) do NIH/NCI. Essa análise abrangeu informações de mais de 1.300 homens diagnosticados com glioblastoma. Os resultados revelaram uma associação significativa entre a testosterona suplementar e a melhoria da sobrevivência. Especificamente, homens com glioblastoma que recebiam testosterona suplementar por razões não relacionadas ao câncer demonstraram um risco de morte 38% menor em comparação com pacientes que não utilizavam esses suplementos. Este achado observacional, embora não estabeleça uma relação causal direta, fornece uma base sólida para investigações mais aprofundadas.</p><p>A consistência entre os achados clínicos e os resultados obtidos em experimentos pré-clínicos reforça a hipótese de que a testosterona pode ter um efeito supressor no crescimento de tumores cerebrais. Embora o mecanismo exato ainda esteja sob investigação, a equipe de pesquisa, liderada por Lathia e seus colegas, acredita que os andrógenos podem influenciar o microambiente tumoral ou as próprias células cancerosas, modulando sua proliferação ou sobrevivência. Essa convergência de evidências de diferentes abordagens metodológicas é um ponto forte do estudo, indicando um caminho promissor para futuras pesquisas.</p><p>Apesar dos resultados promissores, os pesquisadores enfatizam que o estudo observacional não estabelece uma relação causal definitiva entre a testosterona suplementar e a melhoria da sobrevivência em pacientes com glioblastoma. Lathia e seus colegas, no entanto, acreditam que a robustez dos achados pré-clínicos, combinada com a forte associação observada nos dados clínicos, justifica a realização de ensaios clínicos controlados. Esses ensaios serão cruciais para investigar mais a fundo a segurança e a eficácia da testosterona ou de terapias moduladoras de andrógenos como uma abordagem terapêutica para o câncer cerebral em homens, potencialmente abrindo novas avenidas para o tratamento dessa doença devastadora.</p><p>Esta pesquisa recebeu apoio significativo do National Institutes of Health (NIH), por meio de diversas bolsas concedidas pelo National Cancer Institute (NCI) e pelo National Institute on Aging (NIA). As bolsas incluem NCI P01CA245705, F31CA264849, R01CA261995, R01CA236780, R01CA172382, U54CA274504, U01CA250481 e U01CA220378, além de outras bolsas do NIA. O financiamento do NIH é fundamental para o avanço de pesquisas inovadoras como esta, que buscam desvendar novos mecanismos biológicos e desenvolver terapias mais eficazes contra o câncer.</p>",
+    "body_pt": "<p>Um novo estudo, financiado pelo National Institutes of Health (NIH) e conduzido por cientistas da Cleveland Clinic, sugere que hormônios associados ao desenvolvimento masculino podem desempenhar um papel crucial na limitação do crescimento de tumores cerebrais em homens. A pesquisa, que combinou análises de dados clínicos com experimentos pré-clínicos, aponta para a testosterona como um fator potencialmente protetor contra o glioblastoma, um tipo agressivo de câncer cerebral. Essa descoberta abre novas perspectivas para o desenvolvimento de estratégias terapêuticas focadas em abordagens hormonais para o tratamento de tumores cerebrais masculinos.</p><p>Para investigar a relação entre andrógenos e câncer cerebral em humanos, os pesquisadores analisaram dados clínicos existentes, disponibilizados através do banco de dados Surveillance, Epidemiology, and End Results (SEER) do NIH/NCI. Essa análise abrangeu informações de mais de 1.300 homens diagnosticados com glioblastoma. Os resultados revelaram uma associação significativa entre a testosterona suplementar e a melhoria da sobrevivência. Especificamente, homens com glioblastoma que recebiam testosterona suplementar por razões não relacionadas ao câncer demonstraram um risco de morte 38% menor em comparação com pacientes que não utilizavam esses suplementos. Este achado observacional, embora não estabeleça uma relação causal direta, fornece uma base sólida para investigações mais aprofundadas.</p><p>A consistência entre os achados clínicos e os resultados obtidos em experimentos pré-clínicos reforça a hipótese de que a testosterona pode ter um efeito supressor no crescimento de tumores cerebrais. Embora o mecanismo exato ainda esteja sob investigação, a equipe de pesquisa, liderada por Lathia e seus colegas, acredita que os andrógenos podem influenciar o microambiente tumoral ou as próprias células cancerosas, modulando sua proliferação ou sobrevivência. Essa convergência de evidências de diferentes abordagens metodológicas é um ponto forte do estudo, indicando um caminho promissor para futuras pesquisas.</p><p>Apesar dos resultados promissores, os pesquisadores enfatizam que o estudo observacional não estabelece uma relação causal definitiva entre a testosterona suplementar e a melhoria da sobrevivência em pacientes com glioblastoma. Lathia e seus colegas, no entanto, acreditam que a robustez dos achados pré-clínicos, combinada com a forte associação observada nos dados clínicos, justifica a realização de ensaios clínicos controlados. Esses ensaios serão cruciais para investigar mais a fundo a segurança e a eficácia da testosterona ou de terapias moduladoras de andrógenos como uma abordagem terapêutica para o câncer cerebral em homens, potencialmente abrindo novas avenidas para o tratamento dessa doença devastadora.</p><p>Esta pesquisa recebeu apoio significativo do National Institutes of Health (NIH), por meio de diversas bolsas concedidas pelo National Cancer Institute (NCI) e pelo National Institute on Aging (NIA). As bolsas incluem NCI P01CA245705, F31CA264849, R01CA261995, R01CA236780, R01CA172382, U54CA274504, U01CA250481 e U01CA220378, além de outras bolsas do NIA. O financiamento do NIH é fundamental para o avanço de pesquisas inovadoras como esta, que buscam desvendar novos mecanismos biológicos e desenvolver terapias mais eficazes contra o câncer.</p>",
+    "body_en": "<p>In a new National Institutes of Health-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may play a key role in limiting the growth of brain tumors in men. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. In a new National Institutes of Health (NIH)-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may play a key role in limiting. In an analysis of data from more than 1, 300 men with glioblastoma, the authors found that supplemental testosterone was significantly associated with improved survival, which was.</p><p>This outcome is a welcome surprise and may potentially offer a lead for new treatments for a kind of cancer that is deadlier in men,” said Anthony Letai, M. D, Ph. The brain has evolved to keep stuff out and that includes immune cells from elsewhere in the body.</p><p>This caused a spike in stress hormones that subsequently drove a subset of cells to further insulate the brain from the rest of the body. Seeking to explore the relationship between androgens and brain cancer in humans, the researchers analyzed existing clinical data made available through the NIH/NCI Surveillance.</p><p>They found that men with glioblastoma who were receiving supplemental testosterone for reasons unrelated to cancer demonstrated a 38% lower risk of death compared to patients not. Though not establishing a causal relationship, Lathia and his colleagues believe this observational finding together with their preclinical results warrant clinical trials for.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>NIH supported this research through NCI grants P01CA245705, F31CA264849, R01CA261995, R01CA236780, R01CA172382, U54CA274504, U01CA250481, and U01CA220378, National Institute on. About the National Cancer Institute (NCI): NCI leads the National Cancer Program and NIH’s efforts to dramatically reduce the prevalence of cancer and improve the lives of cancer.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Cientistas da Cleveland Clinic, em um estudo financiado pelo National Institutes of Health (NIH), descobriram que hormônios associados ao",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: In a new National Institutes of Health-funded study, scientists at Cleveland Clinic discovered that hormones associated with male development may",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "17h28",
+    "time_pt": "17h28",
+    "time_en": "17: 28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-05T17:28:31.105459+00:00",
+    "lastModifiedIso": "2026-06-05T17:53:42+00:00",
+    "source": "NIH News Releases",
+    "sourceDomain": "www. nih. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "NIH News Releases",
+      "Cosmos Week",
+      "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens"
+    ],
+    "keywords_en": [
+      "Biology",
+      "NIH News Releases",
+      "Cosmos Week",
+      "NIH-Funded Study Suggests Testosterone Suppresses Brain Tumor Growth in Men"
+    ],
+    "srcUrl": "https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-testosterone-suppresses-brain-tumor-growth-males",
+    "realUrl": "https://www.cosmosweek.com/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nih-funded-study-suggests-that-testosterone-suppresses-brain-tumor-growth-in-males/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 91,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 55
+    },
+    "imageAlt": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "imageAlt_pt": "Estudo financiado pelo NIH sugere que a testosterona suprime o crescimento de tumores cerebrais em homens",
+    "imageAlt_en": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "webb-unveils-young-stars-across-every-stage-of-formation",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/image-webb-unveils-you.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx2.b-cdn.net/gfx/news/2026/image-webb-unveils-you.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Webb revela jovens estrelas em todas as fases da formação",
+    "title_pt": "Webb revela jovens estrelas em todas as fases da formação",
+    "title_en": "Webb unveils young stars across every stage of formation",
+    "sub": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem.",
+    "sub_pt": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem.",
+    "sub_en": "For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion, a location familiar to Webb.",
+    "excerpt": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem molecular OMC-2, a 1.280 anos-luz da Terra.",
+    "excerpt_pt": "O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar em uma pequena porção da nuvem molecular OMC-2, a 1.280 anos-luz da Terra.",
+    "excerpt_en": "For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion, a location familiar to Webb.",
+    "body": "<p>O Telescópio Espacial James Webb (JWST), uma colaboração entre a NASA, ESA e CSA, direcionou sua atenção para a constelação de Órion, uma região bem conhecida por sua intensa atividade de formação estelar. Especificamente, a observação focou na gigante nuvem molecular Orion A, da qual a famosa Nebulosa de Órion (M42) é apenas uma parte. Esta área é um berçário estelar crucial para a compreensão dos processos de nascimento de estrelas.</p><p>Por trás das estrelas, do gás e da poeira da Nebulosa de Órion, estende-se um longo e massivo filamento de gás frio e poeira, conhecido como Nuvens Moleculares de Órion. Este complexo é subdividido em quatro partes, de OMC-1 a OMC-4. A imagem capturada pelo Webb revela uma pequena porção norte de OMC-2, situada a aproximadamente 1.280 anos-luz da Terra e ligeiramente ao norte da Nebulosa de Órion. Esta região é de particular interesse devido à sua densidade e ao seu papel na formação de novas estrelas.</p><p>Nesta única cena, que se estende por cerca de 150 anos-luz de diâmetro, o Webb conseguiu identificar todas as fases da formação estelar. Desde os embriões estelares mais jovens, ainda envoltos em suas nuvens de gás e poeira, passando pelos discos protoplanetários onde planetas podem eventualmente se formar, até as recém-formadas estrelas pré-sequência principal, que estão prestes a iniciar a fusão nuclear em seus núcleos. A capacidade do Webb de penetrar essas nuvens densas é fundamental para observar esses estágios iniciais, que são invisíveis em comprimentos de onda ópticos.</p><p>Nuvens moleculares como a OMC-2 são aglomerados de gás e poeira significativamente mais densos do que o restante do espaço interestelar, proporcionando as condições ideais para o colapso gravitacional que leva à formação estelar. A observação permite contrastar essas protoestrelas em desenvolvimento com exemplos mais evoluídos, como as estrelas grandes e brilhantes que já dissiparam suas nuvens circundantes e agora iluminam a região de OMC-2. Essa coexistência de diferentes estágios evolutivos oferece uma visão abrangente do ciclo de vida estelar.</p><p>O gás espesso e a poeira presentes na Nebulosa de Órion e em seu entorno bloqueiam a luz proveniente de OMC-2 em comprimentos de onda visíveis. Além disso, as próprias nuvens em OMC-2 obscurecem as protoestrelas que os astrônomos buscam estudar. É aqui que a capacidade infravermelha do Telescópio Espacial James Webb se torna indispensável, permitindo que os cientistas vejam através dessas barreiras opacas e revelem os processos ocultos de formação estelar. Sem essa tecnologia avançada, grande parte dessa atividade permaneceria inacessível à observação direta.</p><p>Os dados que compõem esta imagem foram coletados no âmbito do programa de observação #5804. Este programa tem como objetivo principal investigar detalhadamente a formação estelar nas regiões de OMC-2 e seu vizinho imediato, OMC-3. A análise desses dados contribuirá significativamente para a compreensão dos mecanismos que governam o nascimento de estrelas em ambientes densos e complexos como as nuvens moleculares de Órion.</p>",
+    "body_pt": "<p>O Telescópio Espacial James Webb (JWST), uma colaboração entre a NASA, ESA e CSA, direcionou sua atenção para a constelação de Órion, uma região bem conhecida por sua intensa atividade de formação estelar. Especificamente, a observação focou na gigante nuvem molecular Orion A, da qual a famosa Nebulosa de Órion (M42) é apenas uma parte. Esta área é um berçário estelar crucial para a compreensão dos processos de nascimento de estrelas.</p><p>Por trás das estrelas, do gás e da poeira da Nebulosa de Órion, estende-se um longo e massivo filamento de gás frio e poeira, conhecido como Nuvens Moleculares de Órion. Este complexo é subdividido em quatro partes, de OMC-1 a OMC-4. A imagem capturada pelo Webb revela uma pequena porção norte de OMC-2, situada a aproximadamente 1.280 anos-luz da Terra e ligeiramente ao norte da Nebulosa de Órion. Esta região é de particular interesse devido à sua densidade e ao seu papel na formação de novas estrelas.</p><p>Nesta única cena, que se estende por cerca de 150 anos-luz de diâmetro, o Webb conseguiu identificar todas as fases da formação estelar. Desde os embriões estelares mais jovens, ainda envoltos em suas nuvens de gás e poeira, passando pelos discos protoplanetários onde planetas podem eventualmente se formar, até as recém-formadas estrelas pré-sequência principal, que estão prestes a iniciar a fusão nuclear em seus núcleos. A capacidade do Webb de penetrar essas nuvens densas é fundamental para observar esses estágios iniciais, que são invisíveis em comprimentos de onda ópticos.</p><p>Nuvens moleculares como a OMC-2 são aglomerados de gás e poeira significativamente mais densos do que o restante do espaço interestelar, proporcionando as condições ideais para o colapso gravitacional que leva à formação estelar. A observação permite contrastar essas protoestrelas em desenvolvimento com exemplos mais evoluídos, como as estrelas grandes e brilhantes que já dissiparam suas nuvens circundantes e agora iluminam a região de OMC-2. Essa coexistência de diferentes estágios evolutivos oferece uma visão abrangente do ciclo de vida estelar.</p><p>O gás espesso e a poeira presentes na Nebulosa de Órion e em seu entorno bloqueiam a luz proveniente de OMC-2 em comprimentos de onda visíveis. Além disso, as próprias nuvens em OMC-2 obscurecem as protoestrelas que os astrônomos buscam estudar. É aqui que a capacidade infravermelha do Telescópio Espacial James Webb se torna indispensável, permitindo que os cientistas vejam através dessas barreiras opacas e revelem os processos ocultos de formação estelar. Sem essa tecnologia avançada, grande parte dessa atividade permaneceria inacessível à observação direta.</p><p>Os dados que compõem esta imagem foram coletados no âmbito do programa de observação #5804. Este programa tem como objetivo principal investigar detalhadamente a formação estelar nas regiões de OMC-2 e seu vizinho imediato, OMC-3. A análise desses dados contribuirá significativamente para a compreensão dos mecanismos que governam o nascimento de estrelas em ambientes densos e complexos como as nuvens moleculares de Órion.</p>",
+    "body_en": "<p>For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion, a location familiar to Webb. The science-journalism coverage adds useful context, while the strongest evidential footing still comes from the underlying data, papers or institutional documentation.</p><p>It is relevant because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion (the Hunter), a location familiar to Webb. Özsaraç For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion (the Hunter), a location familiar to Webb.</p><p>We find ourselves in the giant molecular cloud Orion A, of which the familiar Orion Nebula (also known as M42) is just a part. Behind the stars, gas and dust of M42 is a long, massive filament of cold gas and dust called (somewhat confusingly) the Orion Molecular Clouds, which is divided into four parts.</p><p>This image shows just a small, northern portion of OMC-2, located 1280 light-years from Earth and a little north of the Orion Nebula. Every stage of star formation, from the youngest stellar embryos, to protoplanetary disks, to newly-minted pre-main sequence stars, is contained within just this scene, which.</p><p>Molecular clouds such as OMC-2 are vast clumps of gas much more dense than the rest of interstellar space. Compare these very young protostars to the most evolved examples: the large, bright stars which have cleared away the clouds that surrounded them and now illuminate OMC-2.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>The thick gas and dust in and around the Orion Nebula blocks any light coming from OMC-2 at visible wavelengths, and the clouds in OMC-2 itself obscure the protostars that. The data were collected by observing program # 5804, which aims to study the star formation in OMC-2 and its immediate neighbor, OMC-3.</p><p>Because this item comes through Phys. org Space as science journalism, it should be treated as contextual reporting rather than primary evidence. Good science reporting can identify why a result matters, connect it to the wider literature and make technical work readable, but the decisive evidence remains in the original paper, dataset, mission release or technical record. That distinction is especially important when a story is later repeated by aggregators, because repetition increases visibility, not evidential strength.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-webb-unveils-young-stars-stage.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_pt": [
+      "Em foco: O Telescópio Espacial James Webb da NASA/ESA/CSA capturou uma imagem detalhada da constelação de Órion, revelando todas as fases da formação estelar",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_en": [
+      "Focus: For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month, we return to the constellation Orion, a location familiar to Webb",
+      "Detail: Science reporting: verify primary technical documentation",
+      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+    ],
+    "date": "05 jun 2026",
+    "date_pt": "05 jun 2026",
+    "date_en": "05 Jun 2026",
+    "time": "17h00",
+    "time_pt": "17h00",
+    "time_en": "17: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-05T17:00:02+00:00",
+    "lastModifiedIso": "2026-06-05T17:53:42+00:00",
+    "source": "Phys. org Space",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Química",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Webb revela jovens estrelas em todas as fases da formação"
+    ],
+    "keywords_pt": [
+      "Química",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Webb revela jovens estrelas em todas as fases da formação"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Webb reveals young stars at every stage of formation"
+    ],
+    "srcUrl": "https://phys.org/news/2026-06-webb-unveils-young-stars-stage.html",
+    "realUrl": "https://www.cosmosweek.com/?article=webb-unveils-young-stars-across-every-stage-of-formation",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-unveils-young-stars-across-every-stage-of-formation",
+    "realUrl_en": "https://www.cosmosweek.com/?article=webb-unveils-young-stars-across-every-stage-of-formation&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-unveils-young-stars-across-every-stage-of-formation/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 69,
+    "scoreBreakdown": {
+      "source": 66,
+      "evidence": 54,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Webb revela jovens estrelas em todas as fases da formação",
+    "imageAlt_pt": "Webb revela jovens estrelas em todas as fases da formação",
+    "imageAlt_en": "Webb unveils young stars across every stage of formation",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/goes-fp-cobbna-nam-jun2023_00231%20(1).png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "inline_images": [],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/CanadianWildfires2023_SmokeIntensity_short_v02_1920x1080.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/goes-fp-cobbna-nam-jun2023_00231%20(1).png?w=3840&h=1846&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais - NASA Science",
+      "title_pt": "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais - NASA Science",
+      "title_en": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll - NASA Science",
+      "caption": "Ao longo da última década, os incêndios florestais agravaram a poluição do ozono ao nível do solo em grande parte dos Estados Unidos contíguos, criando um ar pouco saudável, longe das chamas activas.",
+      "caption_pt": "Ao longo da última década, os incêndios florestais agravaram a poluição do ozono ao nível do solo em grande parte dos Estados Unidos contíguos, criando um ar pouco saudável, longe das chamas activas.",
+      "caption_en": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
+      "sourcePage": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/"
+    },
+    "audio": null,
+    "title": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "title_pt": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "title_en": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
+    "sub": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à.",
+    "sub_pt": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à.",
+    "sub_en": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
+    "excerpt": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à saúde, mesmo em áreas distantes das chamas ativas.",
+    "excerpt_pt": "Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos, resultando em ar prejudicial à saúde, mesmo em áreas distantes das chamas ativas.",
+    "excerpt_en": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
+    "body": "<p>Ao longo da última década, os incêndios florestais têm intensificado significativamente a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos. Este fenômeno resulta na criação de um ar prejudicial à saúde, mesmo em áreas consideravelmente distantes das chamas ativas. Um estudo recente, apoiado pela NASA e publicado na revista Science, revelou que a fumaça proveniente desses incêndios se tornou um fator cada vez mais relevante para o aumento do ozônio troposférico, também conhecido como *smog*. Essa descoberta sublinha um novo e complexo desafio para os esforços de melhoria da qualidade do ar, demonstrando como a ciência da NASA contribui diretamente para as comunidades nos EUA ao fornecer dados cruciais sobre questões ambientais.</p><p>A compreensão do ozônio requer a distinção entre suas diferentes ocorrências na atmosfera. Em altitudes elevadas, na estratosfera, o ozônio desempenha um papel vital, protegendo a Terra da radiação ultravioleta nociva do sol. No entanto, quando presente no nível do solo, na troposfera, o ozônio é um poluente atmosférico perigoso, contribuindo para problemas respiratórios e outras condições de saúde adversas. A fumaça dos incêndios florestais, ao interagir com outros poluentes e a luz solar, catalisa a formação desse ozônio troposférico, transformando um evento localizado em uma ameaça de qualidade do ar de alcance muito mais amplo. Este é um exemplo claro de como fenômenos naturais, exacerbados por mudanças climáticas, podem ter impactos complexos e de longo prazo na saúde pública e no meio ambiente.</p><p>Os pesquisadores, em seu relatório publicado em 4 de junho na revista Science, enfatizaram que os incêndios florestais se estabeleceram como um contribuinte cada vez mais importante para a formação de ozônio troposférico em vastas regiões dos Estados Unidos. Essa constatação é particularmente preocupante, pois a frequência e a intensidade dos incêndios florestais têm aumentado em muitas partes do mundo, incluindo os EUA, devido a fatores como as mudanças climáticas e a gestão do uso da terra. A capacidade de monitorar e prever esses impactos é fundamental para a formulação de políticas públicas eficazes e para a proteção da saúde da população, especialmente em comunidades que podem estar distantes das fontes diretas de fumaça, mas ainda assim expostas à poluição secundária.</p><p>Para construir uma imagem mais clara e abrangente da distribuição do ozônio, o Scientific Visualization Studio (SVS) e o Global Modeling Assimilation Office (GMAO) da NASA colaboraram na criação de um conjunto de dados sem precedentes. Este conjunto de dados estima o ozônio superficial diário em uma grade de quilômetro por quilômetro, cobrindo os Estados Unidos contíguos, para o período de 2003 a 2024. A análise detalhada desses dados revelou dois períodos distintos de comportamento do ozônio, embora o estudo não especifique as características desses períodos. Essa abordagem minuciosa permite aos cientistas identificar tendências, padrões e as fontes mais significativas de poluição por ozônio, fornecendo uma base robusta para futuras pesquisas e intervenções.</p><p>Avançando na capacidade de monitoramento da qualidade do ar, a NASA lançou em 2023 a missão TEMPO (Tropospheric Emissions: Monitoring of Pollution). Esta é a primeira missão da agência a empregar um espectrômetro espacial dedicado a fornecer medições diurnas e horárias da qualidade do ar em toda a América do Norte. O TEMPO oferece uma visão sem precedentes da dinâmica dos poluentes atmosféricos, incluindo o ozônio, permitindo que os cientistas rastreiem sua formação, transporte e dispersão com uma resolução temporal e espacial muito maior do que era possível anteriormente. Ferramentas como o TEMPO são cruciais para entender a complexa interação entre eventos como incêndios florestais e a composição atmosférica, auxiliando na previsão de episódios de má qualidade do ar e na proteção da saúde pública.</p><p>Em suma, a pesquisa financiada pela NASA destaca a crescente e preocupante contribuição dos incêndios florestais para a poluição por ozônio no nível do solo em grande parte dos Estados Unidos. Longe de ser um problema localizado, a fumaça desses incêndios tem um impacto ambiental e de saúde pública de vasta escala, afetando a qualidade do ar em regiões distantes das chamas. A combinação de dados históricos e novas tecnologias de monitoramento, como a missão TEMPO, é essencial para desvendar a complexidade desses fenômenos e para desenvolver estratégias eficazes de mitigação. A ciência continua a ser a ferramenta mais poderosa para compreender e enfrentar os desafios impostos pelas mudanças ambientais e seus efeitos na saúde humana.</p>",
+    "body_pt": "<p>Ao longo da última década, os incêndios florestais têm intensificado significativamente a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos. Este fenômeno resulta na criação de um ar prejudicial à saúde, mesmo em áreas consideravelmente distantes das chamas ativas. Um estudo recente, apoiado pela NASA e publicado na revista Science, revelou que a fumaça proveniente desses incêndios se tornou um fator cada vez mais relevante para o aumento do ozônio troposférico, também conhecido como *smog*. Essa descoberta sublinha um novo e complexo desafio para os esforços de melhoria da qualidade do ar, demonstrando como a ciência da NASA contribui diretamente para as comunidades nos EUA ao fornecer dados cruciais sobre questões ambientais.</p><p>A compreensão do ozônio requer a distinção entre suas diferentes ocorrências na atmosfera. Em altitudes elevadas, na estratosfera, o ozônio desempenha um papel vital, protegendo a Terra da radiação ultravioleta nociva do sol. No entanto, quando presente no nível do solo, na troposfera, o ozônio é um poluente atmosférico perigoso, contribuindo para problemas respiratórios e outras condições de saúde adversas. A fumaça dos incêndios florestais, ao interagir com outros poluentes e a luz solar, catalisa a formação desse ozônio troposférico, transformando um evento localizado em uma ameaça de qualidade do ar de alcance muito mais amplo. Este é um exemplo claro de como fenômenos naturais, exacerbados por mudanças climáticas, podem ter impactos complexos e de longo prazo na saúde pública e no meio ambiente.</p><p>Os pesquisadores, em seu relatório publicado em 4 de junho na revista Science, enfatizaram que os incêndios florestais se estabeleceram como um contribuinte cada vez mais importante para a formação de ozônio troposférico em vastas regiões dos Estados Unidos. Essa constatação é particularmente preocupante, pois a frequência e a intensidade dos incêndios florestais têm aumentado em muitas partes do mundo, incluindo os EUA, devido a fatores como as mudanças climáticas e a gestão do uso da terra. A capacidade de monitorar e prever esses impactos é fundamental para a formulação de políticas públicas eficazes e para a proteção da saúde da população, especialmente em comunidades que podem estar distantes das fontes diretas de fumaça, mas ainda assim expostas à poluição secundária.</p><p>Para construir uma imagem mais clara e abrangente da distribuição do ozônio, o Scientific Visualization Studio (SVS) e o Global Modeling Assimilation Office (GMAO) da NASA colaboraram na criação de um conjunto de dados sem precedentes. Este conjunto de dados estima o ozônio superficial diário em uma grade de quilômetro por quilômetro, cobrindo os Estados Unidos contíguos, para o período de 2003 a 2024. A análise detalhada desses dados revelou dois períodos distintos de comportamento do ozônio, embora o estudo não especifique as características desses períodos. Essa abordagem minuciosa permite aos cientistas identificar tendências, padrões e as fontes mais significativas de poluição por ozônio, fornecendo uma base robusta para futuras pesquisas e intervenções.</p><p>Avançando na capacidade de monitoramento da qualidade do ar, a NASA lançou em 2023 a missão TEMPO (Tropospheric Emissions: Monitoring of Pollution). Esta é a primeira missão da agência a empregar um espectrômetro espacial dedicado a fornecer medições diurnas e horárias da qualidade do ar em toda a América do Norte. O TEMPO oferece uma visão sem precedentes da dinâmica dos poluentes atmosféricos, incluindo o ozônio, permitindo que os cientistas rastreiem sua formação, transporte e dispersão com uma resolução temporal e espacial muito maior do que era possível anteriormente. Ferramentas como o TEMPO são cruciais para entender a complexa interação entre eventos como incêndios florestais e a composição atmosférica, auxiliando na previsão de episódios de má qualidade do ar e na proteção da saúde pública.</p><p>Em suma, a pesquisa financiada pela NASA destaca a crescente e preocupante contribuição dos incêndios florestais para a poluição por ozônio no nível do solo em grande parte dos Estados Unidos. Longe de ser um problema localizado, a fumaça desses incêndios tem um impacto ambiental e de saúde pública de vasta escala, afetando a qualidade do ar em regiões distantes das chamas. A combinação de dados históricos e novas tecnologias de monitoramento, como a missão TEMPO, é essencial para desvendar a complexidade desses fenômenos e para desenvolver estratégias eficazes de mitigação. A ciência continua a ser a ferramenta mais poderosa para compreender e enfrentar os desafios impostos pelas mudanças ambientais e seus efeitos na saúde humana.</p>",
+    "body_en": "<p>Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Goddard Space Flight Center Wildfire smoke is stoking a new challenge for cleaner air. This is a strong example of NASA science serving communities here in the U. S. ” Building a clearer ozone picture High in the atmosphere, ozone shields Earth from harmful.</p><p>NASA’s Scientific Visualization Studio (SVS) and NASA’s Global Modeling Assimilation Office (GMAO) Their analysis revealed two distinct periods. Earth Science Division Share Details Last Updated Jun 04.</p><p>Article 2 days ago 3 min read Fire’s Footprint on Santa Rosa Island A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island. NASA&#x27;s Goddard Space Flight Center Emily DeMarco Article Contents Building a clearer ozone picture Measuring the health toll Wildfire smoke is stoking a new challenge for cleaner.</p><p>A NASA-supported study published Thursday found that, over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States. Wildfires have become an increasingly important contributor to ground-level ozone, or smog, across much of the United States, researchers report June 4 in the journal Science.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>This is a strong example of NASA science serving communities here in the U. S. ” High in the atmosphere, ozone shields Earth from harmful ultraviolet radiation. Launched in 2023, TEMPO is NASA’s first mission to use a space-based spectrometer to provide hourly daytime measurements of air quality over North America.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Ao longo da última década, incêndios florestais intensificaram a poluição por ozônio no nível do solo em grande parte dos Estados Unidos contíguos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "04 jun 2026",
+    "date_pt": "04 jun 2026",
+    "date_en": "04 Jun 2026",
+    "time": "18h01",
+    "time_pt": "18h01",
+    "time_en": "18: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-04T18:01:59+00:00",
+    "lastModifiedIso": "2026-06-05T17:53:42+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo financiado pela NASA mostra o impacto oculto do ozônio na fumaça dos incêndios florestais"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA-Funded Study Shows Hidden Impact of Ozone in Wildfire Smoke"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "imageAlt_pt": "Estudo financiado pela NASA revela o impacto da fumaça de incêndios florestais na poluição por ozônio troposférico",
+    "imageAlt_en": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "tessera-ai-model-offers-accessible-way-to-view-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -142,7 +528,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -282,7 +668,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -425,7 +811,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "nasa-finds-new-way-earth-may-have-received-elements-needed-for-life",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -546,7 +932,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 8,
     "slug": "nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -577,19 +963,19 @@ window.postsData = [
     "body_pt": "<p>A decisão de encerrar a missão foi tomada após um conselho de revisão determinar que a sonda MAVEN não era recuperável e já não era capaz de realizar suas funções científicas e de transmissão de dados. O último contato com a espaçonave ocorreu em dezembro, e as conclusões do conselho foram consistentes com as avaliações da equipe da missão. Este encerramento marca o fim de uma era de observações diretas, mas o legado científico da MAVEN está longe de terminar.</p><p>Ao longo de sua operação estendida, a MAVEN forneceu dados sem precedentes sobre a dinâmica atmosférica de Marte. Sua principal tarefa era investigar como o Planeta Vermelho perdeu grande parte de sua atmosfera para o espaço ao longo do tempo, um fator crucial para entender sua transição de um mundo potencialmente habitável para o deserto frio e árido que é hoje. A sonda monitorou continuamente a atmosfera superior, a ionosfera e as interações com o ambiente espacial, revelando insights fundamentais sobre a evolução climática e geológica de Marte.</p><p>Entre as descobertas notáveis da MAVEN, destaca-se sua capacidade de observar eventos atmosféricos extremos. Em 2018, por exemplo, a sonda monitorou uma série de tempestades de poeira que criaram uma nuvem tão vasta que envolveu todo o Planeta Vermelho. Essas observações foram essenciais para compreender como tais fenômenos afetam a atmosfera marciana e contribuem para a perda de gases para o espaço, oferecendo uma perspectiva única sobre a resiliência e vulnerabilidade do ambiente marciano.</p><p>Além de sua ciência focada em Marte, a MAVEN também desempenhou um papel importante em outras iniciativas da NASA. A sonda contribuiu para o esforço de observação de cometas, como o 3I/ATLAS, enquanto este passava próximo a Marte. Essa capacidade de realizar observações adicionais demonstra a versatilidade da missão e seu valor para a comunidade científica, expandindo o escopo de seu impacto para além de seu objetivo principal.</p><p>Embora a fase operacional da MAVEN tenha chegado ao fim, os dados coletados pela missão continuarão a ser uma fonte inestimável de informações para pesquisadores em todo o mundo. Esses dados fornecerão insights valiosos sobre Marte nas próximas décadas, permitindo que cientistas aprofundem sua compreensão sobre a atmosfera marciana, sua evolução e as condições para a vida. O legado da MAVEN perdurará, impulsionando futuras missões e descobertas no estudo do Planeta Vermelho.</p>",
     "body_en": "<p>The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit. Understanding Mars’ dusty secrets In 2018, a series of dust storms created a dust cloud so large that it enveloped the Red Planet.</p><p>Chasing comets In addition to Martian science, MAVEN contributed to NASA’s effort to observe comet 3I/ATLAS at Mars. 202-853-7191 sarah. frazier@nasa. gov Share Details Last Updated Jun 03, 2026 Editor Jessica Taveau Location NASA Headquarters Related Terms MAVEN (Mars Atmosphere and Volatile.</p><p>The spacecraft entered orbit around the planet in 2014 and has completed over eleven years of observing the Martian upper atmosphere, ionosphere, and interactions with the Sun and. NASA/Goddard/University of Colorado/Laboratory for Atmospheric and Space Physics The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN.</p><p>The review board has determined that the MAVEN spacecraft is not recoverable, and it is no longer capable of performing its science and data relay mission, which is consistent. A brief fragment of telemetry data from analysis of radio signals recorded by the DSN’s open-loop receivers indicated the spacecraft was in safe mode and rotating at an unusually.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The data collected from MAVEN will continue to provide valuable insight into Mars for decades to come. The team studied how the solar wind, which is a stream of charged particles continually streaming from the Sun, and solar storms continually strip away Mars’ atmosphere, as well.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de.",
+      "Dado-chave: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de.",
+      "Dado-chave: A missão MAVEN da NASA, a primeira dedicada à observação da atmosfera marciana e à sua evolução, foi concluída após mais de 11 anos em órbita de",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at Mars",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at Mars.",
+      "Key detail: The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN, has ended after more than 11 years in orbit at.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "03 jun 2026",
     "date_pt": "03 jun 2026",
@@ -677,128 +1063,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
-    "slug": "nasa-testing-wastewater-treatment-facility-for-future-moon-base",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://images-assets.nasa.gov/image/KSC-20260421-PH-KLS01_0041/KSC-20260421-PH-KLS01_0041~large.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "title_pt": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "title_en": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-    "sub": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em.",
-    "sub_pt": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em.",
-    "sub_en": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport.",
-    "excerpt": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em Marte.",
-    "excerpt_pt": "Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de longa duração na Lua e em Marte.",
-    "excerpt_en": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks.",
-    "body": "<p>Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, e projetado para apoiar missões de longa duração na Lua e em Marte, iniciou sua jornada. Técnicos prepararam a Instalação Divergente de Tratamento de Águas Residuais, que visa transformar águas residuais da tripulação em recursos úteis, para transporte no Centro Espacial Kennedy em 21 de abril de 2026. Após essa preparação, o sistema partiu do espaçoporto e chegou à Universidade de Dakota do Norte, em Grand Forks, onde será submetido a testes rigorosos.</p><p>Essa iniciativa faz parte do esforço mais amplo de Sistemas Bioregenerativos de Vida da NASA, que está desenvolvendo abordagens biológicas inovadoras para reduzir drasticamente a dependência de consumíveis fornecidos pela Terra. O objetivo primordial é capacitar futuras tripulações a viver de forma autossustentável na Lua, aprimorar a capacidade de operar em ambientes cada vez mais distantes da Terra e, consequentemente, aplicar todas essas valiosas lições em futuras e ambiciosas missões a Marte, consolidando a presença humana no espaço profundo.</p><p>Na Universidade de Dakota do Norte, as equipes de pesquisa e engenharia integrarão este novo e avançado sistema de tratamento de águas residuais com o Habitat Analógico Integrado Lunar/Marciano da instituição. Esta colaboração é fundamental para simular com precisão as condições e os desafios operacionais que os astronautas enfrentarão em ambientes extraterrestres, garantindo que a tecnologia seja não apenas robusta e eficiente, mas também adaptável às exigências únicas de uma base lunar ou marciana.</p><p>Operadores estudantes e pesquisadores da NASA conduzirão estudos aprofundados sobre o desempenho da instalação quando conectada a um ambiente que replica um habitat espacial, expondo-a aos tipos de limites operacionais e estresses que as tripulações poderiam enfrentar em outro planeta. Esses testes são cruciais para a NASA avaliar a operação no mundo real, identificar as necessidades específicas de treinamento da tripulação, verificar a confiabilidade do sistema e comparar como os simuladores de águas residuais se comportam em relação aos resíduos metabólicos humanos reais em um ambiente de missão analógico, conforme detalhado por Alshami.</p><p>O programa Artemis da NASA está estabelecendo as bases para uma presença humana sustentada e de longo prazo na Lua, um cenário onde os habitats precisarão operar com autonomia considerável, longe da cadeia de reabastecimento constante que atualmente sustenta os astronautas em órbita terrestre ou em ambientes de gravidade parcial. Luke Roberson, líder de sistemas de águas, enfatizou a importância dessa autonomia, destacando que a capacidade de reciclar e reutilizar recursos é vital para a sobrevivência, a expansão e a exploração humana em ambientes extraterrestres desafiadores.</p><p>A capacidade de transformar águas residuais em recursos úteis e potáveis representa um avanço tecnológico e operacional de magnitude para a sustentabilidade das futuras bases lunares e marcianas. Ao minimizar drasticamente a necessidade de reabastecimento contínuo de suprimentos da Terra, a NASA busca não apenas viabilizar missões espaciais mais longas, complexas e independentes, mas também estabelecer um modelo de vida autossuficiente que será absolutamente essencial para a futura expansão da humanidade no espaço profundo e para a exploração de novos mundos.</p>",
-    "body_pt": "<p>Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, e projetado para apoiar missões de longa duração na Lua e em Marte, iniciou sua jornada. Técnicos prepararam a Instalação Divergente de Tratamento de Águas Residuais, que visa transformar águas residuais da tripulação em recursos úteis, para transporte no Centro Espacial Kennedy em 21 de abril de 2026. Após essa preparação, o sistema partiu do espaçoporto e chegou à Universidade de Dakota do Norte, em Grand Forks, onde será submetido a testes rigorosos.</p><p>Essa iniciativa faz parte do esforço mais amplo de Sistemas Bioregenerativos de Vida da NASA, que está desenvolvendo abordagens biológicas inovadoras para reduzir drasticamente a dependência de consumíveis fornecidos pela Terra. O objetivo primordial é capacitar futuras tripulações a viver de forma autossustentável na Lua, aprimorar a capacidade de operar em ambientes cada vez mais distantes da Terra e, consequentemente, aplicar todas essas valiosas lições em futuras e ambiciosas missões a Marte, consolidando a presença humana no espaço profundo.</p><p>Na Universidade de Dakota do Norte, as equipes de pesquisa e engenharia integrarão este novo e avançado sistema de tratamento de águas residuais com o Habitat Analógico Integrado Lunar/Marciano da instituição. Esta colaboração é fundamental para simular com precisão as condições e os desafios operacionais que os astronautas enfrentarão em ambientes extraterrestres, garantindo que a tecnologia seja não apenas robusta e eficiente, mas também adaptável às exigências únicas de uma base lunar ou marciana.</p><p>Operadores estudantes e pesquisadores da NASA conduzirão estudos aprofundados sobre o desempenho da instalação quando conectada a um ambiente que replica um habitat espacial, expondo-a aos tipos de limites operacionais e estresses que as tripulações poderiam enfrentar em outro planeta. Esses testes são cruciais para a NASA avaliar a operação no mundo real, identificar as necessidades específicas de treinamento da tripulação, verificar a confiabilidade do sistema e comparar como os simuladores de águas residuais se comportam em relação aos resíduos metabólicos humanos reais em um ambiente de missão analógico, conforme detalhado por Alshami.</p><p>O programa Artemis da NASA está estabelecendo as bases para uma presença humana sustentada e de longo prazo na Lua, um cenário onde os habitats precisarão operar com autonomia considerável, longe da cadeia de reabastecimento constante que atualmente sustenta os astronautas em órbita terrestre ou em ambientes de gravidade parcial. Luke Roberson, líder de sistemas de águas, enfatizou a importância dessa autonomia, destacando que a capacidade de reciclar e reutilizar recursos é vital para a sobrevivência, a expansão e a exploração humana em ambientes extraterrestres desafiadores.</p><p>A capacidade de transformar águas residuais em recursos úteis e potáveis representa um avanço tecnológico e operacional de magnitude para a sustentabilidade das futuras bases lunares e marcianas. Ao minimizar drasticamente a necessidade de reabastecimento contínuo de suprimentos da Terra, a NASA busca não apenas viabilizar missões espaciais mais longas, complexas e independentes, mas também estabelecer um modelo de vida autossuficiente que será absolutamente essencial para a futura expansão da humanidade no espaço profundo e para a exploração de novos mundos.</p>",
-    "body_en": "<p>A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Technicians prepare the Divergent Deployable Wastewater Treatment Facility, designed to turn crew wastewater into useful resources, for transport at NASA’s Kennedy Space Center in. Technology for Making Moon Base Sustainable The work is part of NASA’s broader Bioregenerative Life Support Systems effort, which is developing biological approaches to reduce.</p><p>We want to help future crews live sustainably on the Moon, learn how to operate farther from Earth, and carry those lessons forward to Mars. At the University of North Dakota, teams will integrate this new wastewater system with the university’s Integrated Lunar/Martian Analog Habitat.</p><p>Student operators and NASA researchers will study how the facility performs when connected to a habitat-like environment and exposed to the kinds of operational limits crews could. NASA’s Artemis program is laying the groundwork for a sustained human presence on the Moon, where habitats will need to operate far from the steady resupply chain that supports.</p><p>The tests will help NASA evaluate real-world operation, crew training needs, system reliability, and how wastewater simulants compare with actual human metabolic waste in an. Lessons learned could inform future higher-fidelity tests, including potential integration with NASA’s next generation of yearlong simulated Mars missions via isolation analogs at.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>The work is part of NASA’s broader Bioregenerative Life Support Systems effort, which is developing biological approaches to reduce dependence on Earth-supplied consumables. Further NASA research completed trade studies demonstrating how bioregenerative life support becomes more effective for space travel over current life support technologies.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de.",
-      "Dado-chave: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar missões de.",
-      "Dado-chave: Um sistema móvel de tratamento de águas residuais, desenvolvido no Centro Espacial Kennedy da NASA, na Flórida, foi testado para preparar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and.",
-      "Key detail: A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 jun 2026",
-    "date_pt": "02 jun 2026",
-    "date_en": "02 Jun 2026",
-    "time": "14h31",
-    "time_pt": "14h31",
-    "time_en": "14: 31 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-02T14:31:18+00:00",
-    "lastModifiedIso": "2026-06-02T19:19:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA testa instalação de tratamento de águas residuais para futura base lunar"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA testa instalação de tratamento de águas residuais para futura base lunar"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA tests wastewater treatment facility for future lunar base"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-testing-wastewater-treatment-facility-for-future-moon-base",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-testing-wastewater-treatment-facility-for-future-moon-base",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-testing-wastewater-treatment-facility-for-future-moon-base&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "imageAlt_pt": "NASA testa instalação de tratamento de águas residuais para futura base lunar",
-    "imageAlt_en": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "slug": "probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -820,17 +1085,17 @@ window.postsData = [
     "body_en": "<p>We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068. In dense dark matter spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. We study constraints on sub-GeV inelastic dark matter (iDM) from cosmic-ray (CR) cooling in the active galactic nucleus (AGN) NGC 1068. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>ArXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv&#x27;s community.</p><p>In dense dark matter (DM) spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy through scatterings with dark matter particles. We consider a minimal vector-portal iDM framework and consistently include both elastic and deep inelastic scattering (DIS) contributions to the CR energy-loss rate.</p><p>We find that DIS processes dominate at high momentum transfer and substantially enhance the DM-induced cooling effect. By requiring the resulting cooling timescale to remain compatible with the observed Standard Model cooling in NGC 1068, we derive constraints on the iDM parameter space.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Our results demonstrate that AGN cosmic-ray cooling probes previously unexplored regions of sub-GeV iDM parameter space inaccessible to current direct-detection experiments.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.03487v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
+      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068",
+      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-      "Key detail: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068",
+      "Key detail: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
       "Result not yet peer reviewed."
     ],
     "date": "02 jun 2026",
@@ -919,7 +1184,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1081,7 +1346,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1113,7 +1378,7 @@ window.postsData = [
     ],
     "highlights_en": [
       "Core point: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform.",
-      "Key detail: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform",
+      "Key detail: We investigate the dynamics of charged particles around a Schwarzschild-like black hole sourced by a Kalb-Ramond field and immersed in a uniform.",
       "Result not yet peer reviewed."
     ],
     "date": "02 jun 2026",
@@ -1205,7 +1470,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1326,7 +1591,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 13,
     "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1479,7 +1744,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1610,7 +1875,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1772,7 +2037,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 16,
     "slug": "insights-into-earth-s-molten-outer-core-from-space",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1930,7 +2195,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 17,
     "slug": "new-eruption-in-the-bismarck-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2079,7 +2344,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 18,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2277,128 +2542,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 17,
-    "slug": "clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.nih.gov/sites/default/files/styles/max_650x650/public/2026-04/2026042-saline.jpeg?itok=_xh31i5O",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "title_pt": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "title_en": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
-    "sub": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "sub_pt": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "sub_en": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-    "excerpt": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "excerpt_pt": "O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de choque séptico.",
-    "excerpt_en": "NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-    "body": "<p>Um extenso ensaio clínico, financiado pelos Institutos Nacionais de Saúde (NIH), comparou dois tratamentos com fluidos intravenosos frequentemente utilizados em pacientes pediátricos com choque séptico. Este estudo, o maior já realizado com esse objetivo, buscou determinar qual tipo de fluido cristaloide seria superior para prevenir danos renais graves em crianças nessa condição potencialmente fatal. Com a participação de mais de 9.000 indivíduos em cinco países, a pesquisa não encontrou diferenças significativas nos resultados entre as opções de tratamento avaliadas.</p><p>Os participantes foram divididos em dois grupos, recebendo um tipo específico de fluido intravenoso por um período de 24 a 48 horas. O principal desfecho avaliado foi o número de dias sem hospitalização. Ambos os grupos alcançaram uma mediana de 23 dias sem necessidade de internação durante os 28 dias subsequentes à inscrição no estudo. Essa similaridade nos resultados primários sugere que, em termos de recuperação geral e tempo de hospitalização, as duas abordagens são comparáveis.</p><p>Apesar da ausência de diferenças nos desfechos primários, foram observadas algumas distinções em parâmetros secundários. As crianças que receberam solução salina a 0, 9% apresentaram incidências significativamente mais altas de níveis anormalmente elevados de cloreto e sódio no sangue. Por outro lado, aquelas que receberam o fluido balanceado tiveram uma incidência ligeiramente maior de lactato anormalmente elevado. Essas variações nos eletrólitos e metabólitos sanguíneos são importantes para a monitorização clínica, mas não se traduziram em diferenças nos resultados clínicos significativos avaliados pelo estudo.</p><p>Os autores do estudo ressaltam algumas limitações importantes. A pesquisa focou em crianças com sepse adquirida na comunidade que foram atendidas em prontos-socorros de locais com muitos recursos. Consequentemente, não há certeza se esses resultados podem ser generalizados para ambientes com poucos recursos ou para pacientes com condições clínicas subjacentes mais complexas que não foram o foco deste ensaio. A aplicabilidade dos achados a outras populações ou contextos clínicos ainda precisa ser investigada.</p><p>Apesar das limitações mencionadas, os resultados deste ensaio clínico fornecem uma importante confirmação para os médicos de emergência. Eles podem ter a certeza de que tanto o fluido balanceado quanto a solução salina a 0, 9% são opções seguras e eficazes para o tratamento de crianças com choque séptico. Esta evidência robusta pode guiar a prática clínica, oferecendo flexibilidade na escolha do fluido, dependendo da disponibilidade e da experiência local. Para mais informações sobre o estudo e as atividades do NIH, é possível visitar o site oficial da instituição. Os Institutos Nacionais de Saúde (NIH) são a principal agência de pesquisa médica do país, compreendendo 27 institutos e centros, e fazem parte do Departamento de Saúde e Serviços Humanos dos EUA.</p>",
-    "body_pt": "<p>Um extenso ensaio clínico, financiado pelos Institutos Nacionais de Saúde (NIH), comparou dois tratamentos com fluidos intravenosos frequentemente utilizados em pacientes pediátricos com choque séptico. Este estudo, o maior já realizado com esse objetivo, buscou determinar qual tipo de fluido cristaloide seria superior para prevenir danos renais graves em crianças nessa condição potencialmente fatal. Com a participação de mais de 9.000 indivíduos em cinco países, a pesquisa não encontrou diferenças significativas nos resultados entre as opções de tratamento avaliadas.</p><p>Os participantes foram divididos em dois grupos, recebendo um tipo específico de fluido intravenoso por um período de 24 a 48 horas. O principal desfecho avaliado foi o número de dias sem hospitalização. Ambos os grupos alcançaram uma mediana de 23 dias sem necessidade de internação durante os 28 dias subsequentes à inscrição no estudo. Essa similaridade nos resultados primários sugere que, em termos de recuperação geral e tempo de hospitalização, as duas abordagens são comparáveis.</p><p>Apesar da ausência de diferenças nos desfechos primários, foram observadas algumas distinções em parâmetros secundários. As crianças que receberam solução salina a 0, 9% apresentaram incidências significativamente mais altas de níveis anormalmente elevados de cloreto e sódio no sangue. Por outro lado, aquelas que receberam o fluido balanceado tiveram uma incidência ligeiramente maior de lactato anormalmente elevado. Essas variações nos eletrólitos e metabólitos sanguíneos são importantes para a monitorização clínica, mas não se traduziram em diferenças nos resultados clínicos significativos avaliados pelo estudo.</p><p>Os autores do estudo ressaltam algumas limitações importantes. A pesquisa focou em crianças com sepse adquirida na comunidade que foram atendidas em prontos-socorros de locais com muitos recursos. Consequentemente, não há certeza se esses resultados podem ser generalizados para ambientes com poucos recursos ou para pacientes com condições clínicas subjacentes mais complexas que não foram o foco deste ensaio. A aplicabilidade dos achados a outras populações ou contextos clínicos ainda precisa ser investigada.</p><p>Apesar das limitações mencionadas, os resultados deste ensaio clínico fornecem uma importante confirmação para os médicos de emergência. Eles podem ter a certeza de que tanto o fluido balanceado quanto a solução salina a 0, 9% são opções seguras e eficazes para o tratamento de crianças com choque séptico. Esta evidência robusta pode guiar a prática clínica, oferecendo flexibilidade na escolha do fluido, dependendo da disponibilidade e da experiência local. Para mais informações sobre o estudo e as atividades do NIH, é possível visitar o site oficial da instituição. Os Institutos Nacionais de Saúde (NIH) são a principal agência de pesquisa médica do país, compreendendo 27 institutos e centros, e fazem parte do Departamento de Saúde e Serviços Humanos dos EUA.</p>",
-    "body_en": "<p>NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. The trial, which enrolled over 9, 000 participants across five countries, sought to answer a longstanding question about which intravenous crystalloid fluid type was the superior. For decades, pediatricians have debated which is the best intravenous resuscitation treatment for children with severe infections who have suspected septic shock,” said Rohan.</p><p>They assigned over 4, 200 participants between the ages of 2 months and 17 years into each arm of the trial and found no significant differences between the groups for incidences. Participants in both groups received their assigned IV fluid type for 24-48 hours and achieved a median of 23 hospital-free days during the 28 days following enrollment.</p><p>Children receiving the 0.9% saline solution had significantly higher incidences of abnormally high levels of chloride and sodium in their blood, while those receiving the balanced. Because the study targeted children with community-acquired sepsis who presented to an emergency department in high-resource locations, the authors are uncertain if these results.</p><p>New Zealand, and Costa Rica. For more information, visit https: //www. nichd. nih. gov.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both. For more information about NIH and its programs, visit www. nih. gov.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de.",
-      "Dado-chave: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas de.",
-      "Dado-chave: O estudo apoiado pelo NIH é o maior já realizado para comparar intervenções com fluidos para prevenir danos renais graves em crianças tratadas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-      "Key detail: NIH-supported study is largest ever to compare fluid interventions to prevent major kidney damage in children treated for septic shock.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 mai 2026",
-    "date_pt": "15 mai 2026",
-    "date_en": "15 May 2026",
-    "time": "17h11",
-    "time_pt": "17h11",
-    "time_en": "17: 11 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-15T17:11:18.384037+00:00",
-    "lastModifiedIso": "2026-05-15T17:23:29+00:00",
-    "source": "NIH News Releases",
-    "sourceDomain": "www. nih. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Ensaio clínico não encontra diferença nas opções de tratamento com fluidos para sepse pediátrica"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NIH News Releases",
-      "Cosmos Week",
-      "Clinical trial finds no difference in fluid treatment options for pediatric sepsis"
-    ],
-    "srcUrl": "https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis",
-    "realUrl": "https://www.cosmosweek.com/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis",
-    "realUrl_en": "https://www.cosmosweek.com/?article=clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/clinical-trial-finds-no-difference-in-fluid-treatment-options-for-pediatric-sepsis/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 91,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 86,
-      "relevance": 84,
-      "accessibility": 52,
-      "novelty": 55
-    },
-    "imageAlt": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "imageAlt_pt": "Ensaio Clínico Não Demonstra Diferença entre Opções de Fluidos para Tratamento de Sepse Pediátrica",
-    "imageAlt_en": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 18,
+    "id": 19,
     "slug": "uap-in-this-case-it-s-only-a-model",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2522,7 +2666,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "a-beacon-of-light-in-swirls-of-dust",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2680,7 +2824,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "gauging-axionic-symmetries-and-dark-matter-in-memory-of-george-lazarides",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -2804,7 +2948,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2925,7 +3069,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "days-after-artemis-ii-scientists-warn-of-deep-cuts-to-nasa-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3131,7 +3275,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "hilumi-lhc-cern-s-full-scale-test-stand-enters-the-powering-phase",
     "cat": "Física",
     "catCls": "fisica",
@@ -3265,7 +3409,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -3399,7 +3543,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3517,140 +3661,6 @@ window.postsData = [
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 26,
-    "slug": "sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/rice-researchers-find.jpg",
-    "inline_images": [
-      {
-        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "title_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "title_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
-    "sub": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
-    "sub_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
-    "sub_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is.",
-    "excerpt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
-    "excerpt_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
-    "excerpt_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is covered by an iron-poor and sulfur-rich crust.",
-    "body": "<p>Mercúrio é um planeta rochoso de pequenas dimensões sobre o qual os pesquisadores ainda possuem conhecimento relativamente limitado. Duas missões espaciais, que realizaram medições detalhadas durante seus sobrevoos pelo planeta, revelaram que Mercúrio é coberto por uma crosta peculiar, caracterizada por ser pobre em ferro e rica em enxofre. Essa composição singular distingue-o drasticamente da Terra. Rajdeep Dasgupta, professor Maurice Ewing em Ciência de Sistemas Terrestres e diretor do Centro de Origens Planetárias à Habitabilidade do Instituto Espacial Rice, enfatizou a diferença: &quot;A superfície de Mercúrio parece completamente diferente da da Terra&quot;. Ele também destacou a dificuldade em estudar sua evolução magmática com base em suposições terrestres, dada a complexidade na interpretação dos dados das missões.</p><p>Diante desses desafios, a equipe de pesquisa buscou uma abordagem inovadora para simular as condições mercurianas em laboratório. A solução foi encontrada no meteorito Indarch, um corpo celeste que caiu no Azerbaião em 1891 e que apresenta uma notável semelhança com a composição química de Mercúrio. Os cientistas perceberam que o Indarch poderia servir como um análogo crucial para investigar como a química única de Mercúrio moldou o planeta ao longo do tempo. Essa estratégia permitiu contornar a ausência de amostras diretas do planeta, um obstáculo significativo para a compreensão de sua geologia interna.</p><p>Yishen Zhang, pesquisador de pós-doutorado no laboratório de Dasgupta e primeiro autor do artigo, explicou a relevância do meteorito: &quot;O Indarch é quimicamente tão reduzido quanto as rochas de Mercúrio&quot;. Utilizando parâmetros de temperatura, pressão e restrições químicas derivados de observações de naves espaciais e modelos planetários, a equipe conseguiu recriar em laboratório um ambiente que mimetiza as condições internas de Mercúrio. Esse meticuloso trabalho experimental foi fundamental para desvendar os processos de formação e evolução dos magmas mercurianos, oferecendo insights valiosos sobre a dinâmica geológica de um planeta tão enigmático.</p><p>Os resultados dessa pesquisa revelaram uma diferença fundamental no comportamento dos magmas de Mercúrio em comparação com os da Terra. Especificamente, os magmas ricos em enxofre presentes em Mercúrio demonstram a capacidade de permanecer em estado líquido a temperaturas consideravelmente mais baixas do que magmas de composição similar encontrados em nosso planeta. Essa característica tem implicações profundas para a compreensão da atividade vulcânica e da formação da crosta mercuriana, sugerindo uma história geológica moldada por processos magmáticos distintos.</p><p>A explicação para essa diferença reside na química dos elementos. Em planetas ricos em ferro, como Marte e a Terra, a maior parte do enxofre tende a se ligar ao ferro. Na Terra, os elementos formadores de rocha tipicamente se associam ao oxigênio, resultando na formação de uma estrutura estável conhecida como rede de silicato, composta por silício, oxigênio e outros elementos. A ausência de ferro abundante e a alta concentração de enxofre em Mercúrio alteram fundamentalmente essas interações químicas, permitindo que o enxofre atue de forma diferente na fusão e solidificação dos magmas.</p><p>Essa descoberta é crucial para aprimorar os modelos de evolução planetária e para interpretar os dados coletados pelas missões espaciais a Mercúrio. Ao compreender as particularidades dos magmas mercurianos, os cientistas podem inferir com maior precisão a história térmica e tectônica do planeta, bem como a formação de suas feições superficiais únicas. O estudo demonstra a importância de considerar as composições químicas específicas de cada corpo celeste para desvendar seus segredos geológicos, em vez de aplicar indiscriminadamente modelos baseados na Terra.</p>",
-    "body_pt": "<p>Mercúrio é um planeta rochoso de pequenas dimensões sobre o qual os pesquisadores ainda possuem conhecimento relativamente limitado. Duas missões espaciais, que realizaram medições detalhadas durante seus sobrevoos pelo planeta, revelaram que Mercúrio é coberto por uma crosta peculiar, caracterizada por ser pobre em ferro e rica em enxofre. Essa composição singular distingue-o drasticamente da Terra. Rajdeep Dasgupta, professor Maurice Ewing em Ciência de Sistemas Terrestres e diretor do Centro de Origens Planetárias à Habitabilidade do Instituto Espacial Rice, enfatizou a diferença: &quot;A superfície de Mercúrio parece completamente diferente da da Terra&quot;. Ele também destacou a dificuldade em estudar sua evolução magmática com base em suposições terrestres, dada a complexidade na interpretação dos dados das missões.</p><p>Diante desses desafios, a equipe de pesquisa buscou uma abordagem inovadora para simular as condições mercurianas em laboratório. A solução foi encontrada no meteorito Indarch, um corpo celeste que caiu no Azerbaião em 1891 e que apresenta uma notável semelhança com a composição química de Mercúrio. Os cientistas perceberam que o Indarch poderia servir como um análogo crucial para investigar como a química única de Mercúrio moldou o planeta ao longo do tempo. Essa estratégia permitiu contornar a ausência de amostras diretas do planeta, um obstáculo significativo para a compreensão de sua geologia interna.</p><p>Yishen Zhang, pesquisador de pós-doutorado no laboratório de Dasgupta e primeiro autor do artigo, explicou a relevância do meteorito: &quot;O Indarch é quimicamente tão reduzido quanto as rochas de Mercúrio&quot;. Utilizando parâmetros de temperatura, pressão e restrições químicas derivados de observações de naves espaciais e modelos planetários, a equipe conseguiu recriar em laboratório um ambiente que mimetiza as condições internas de Mercúrio. Esse meticuloso trabalho experimental foi fundamental para desvendar os processos de formação e evolução dos magmas mercurianos, oferecendo insights valiosos sobre a dinâmica geológica de um planeta tão enigmático.</p><p>Os resultados dessa pesquisa revelaram uma diferença fundamental no comportamento dos magmas de Mercúrio em comparação com os da Terra. Especificamente, os magmas ricos em enxofre presentes em Mercúrio demonstram a capacidade de permanecer em estado líquido a temperaturas consideravelmente mais baixas do que magmas de composição similar encontrados em nosso planeta. Essa característica tem implicações profundas para a compreensão da atividade vulcânica e da formação da crosta mercuriana, sugerindo uma história geológica moldada por processos magmáticos distintos.</p><p>A explicação para essa diferença reside na química dos elementos. Em planetas ricos em ferro, como Marte e a Terra, a maior parte do enxofre tende a se ligar ao ferro. Na Terra, os elementos formadores de rocha tipicamente se associam ao oxigênio, resultando na formação de uma estrutura estável conhecida como rede de silicato, composta por silício, oxigênio e outros elementos. A ausência de ferro abundante e a alta concentração de enxofre em Mercúrio alteram fundamentalmente essas interações químicas, permitindo que o enxofre atue de forma diferente na fusão e solidificação dos magmas.</p><p>Essa descoberta é crucial para aprimorar os modelos de evolução planetária e para interpretar os dados coletados pelas missões espaciais a Mercúrio. Ao compreender as particularidades dos magmas mercurianos, os cientistas podem inferir com maior precisão a história térmica e tectônica do planeta, bem como a formação de suas feições superficiais únicas. O estudo demonstra a importância de considerar as composições químicas específicas de cada corpo celeste para desvendar seus segredos geológicos, em vez de aplicar indiscriminadamente modelos baseados na Terra.</p>",
-    "body_en": "<p>Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is covered by an iron-poor and sulfur-rich crust. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This article has been reviewed according to Science X&#x27;s editorial process and policies. Mercury&#x27;s surface looks completely different than Earth&#x27;s,&quot; said Rajdeep Dasgupta, the Maurice Ewing Professor in Earth Systems Science and director of the Rice Space Institute.</p><p>We couldn&#x27;t study its magmatic evolution using assumptions built off our understanding of Earth, and missions data are difficult to interpret. We had to find ways to bring the planet closer to our lab, specifically, through the meteorite Indarch.</p><p>The researchers realized they could use Indarch to study how Mercury&#x27;s unique chemical makeup had shaped the planet, sharing their results in a recent publication. Indarch chemically is as reduced as rocks on Mercury,&quot; said Yishen Zhang, a postdoctoral researcher in Dasgupta&#x27;s lab and first author on the paper.</p><p>By using the temperature, pressure and chemical constraints derived from spacecraft observations and models, we recreate Mercurylike conditions to understand how magmas form and. That means sulfur-rich magmas on Mercury may stay molten at lower temperatures than similar magmas on Earth.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Iron-rich planets like Mars and Earth have most of their sulfur bound to iron. On Earth, these rock-forming elements would typically bind to oxygen, resulting in a stable structure called a silicate network made up of silicon, oxygen and rock-forming.</p><p>Because the account originates with Phys. org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-04-sulfur-rich-mercury-magmas-differently.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: Mercury is a small, rocky planet about which researchers know relatively little.",
-      "Key detail: Mercury is a small, rocky planet about which researchers know relatively little.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "19 abr 2026",
-    "date_pt": "19 abr 2026",
-    "date_en": "19 Apr 2026",
-    "time": "19h00",
-    "time_pt": "19h00",
-    "time_en": "19: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-19T19:00:01+00:00",
-    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
-    "source": "Phys. org Space",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Magmas de Mercúrio ricos em enxofre comportam",
-      "se de maneira diferente dos da Terra"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Magmas de Mercúrio ricos em enxofre comportam",
-      "se de maneira diferente dos da Terra"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Sulfur-rich Mercury magmas contain",
-      "if different from those on Earth"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-sulfur-rich-mercury-magmas-differently.html",
-    "realUrl": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "realUrl_en": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 42,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "imageAlt_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "imageAlt_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
     "storyKind": "science"
   },
   {
