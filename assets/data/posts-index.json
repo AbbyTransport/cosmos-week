@@ -1,6 +1,453 @@
 [
   {
     "id": 1,
+    "slug": "nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/AI_PresChallenge_NSF_Hero.jpg?itok=UeVwAkGq",
+    "inline_images": [
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/AI_PresChallenge_NSF_Hero.jpg?itok=DbQLNWzZ",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_240x160_VASCilia.jpg?itok=KjvVcatA",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media/images/DFPod_GraphicForNSFNews_240x160_VASCilia.jpg?itok=ifsHLt99",
+        "alt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_en": "Podcast: AI-driven tool targets hearing loss",
+        "caption": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_en": "Podcast: AI-driven tool targets hearing loss"
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media/images/DFPod_GraphicForNSFNews_240x160_VASCilia.jpg?itok=lzPrr9nv",
+        "alt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_en": "Podcast: AI-driven tool targets hearing loss",
+        "caption": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_en": "Podcast: AI-driven tool targets hearing loss"
+      },
+      {
+        "src": "https://www.nsf.gov/themes/custom/nsf_theme/plugins/uswds/dist/img/us_flag_small.png",
+        "alt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_en": "Podcast: AI-driven tool targets hearing loss",
+        "caption": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_en": "Podcast: AI-driven tool targets hearing loss"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "title_pt": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "title_en": "NSF-supported teams advanced through the Presidential AI Challenge, with North Carolina teacher named national champion",
+    "sub": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do.",
+    "sub_pt": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do.",
+    "sub_en": "A team supported by the U. S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural.",
+    "excerpt": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do Desafio Presidencial de IA.",
+    "excerpt_pt": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do Desafio Presidencial de IA.",
+    "excerpt_en": "A team supported by the U. S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural.",
+    "highlights": [
+      "Em foco: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A team supported by the U. S",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "09 jun 2026",
+    "date_pt": "09 jun 2026",
+    "date_en": "09 Jun 2026",
+    "time": "17h00",
+    "time_pt": "17h00",
+    "time_en": "17: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-09T17:00:45+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www. nsf. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Equipes apoiadas pela NSF avançaram no Desafio Presidencial de IA",
+      "com professor da Carolina do Norte nomeado campeão nacional"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Equipes apoiadas pela NSF avançaram no Desafio Presidencial de IA",
+      "com professor da Carolina do Norte nomeado campeão nacional"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NSF News",
+      "Cosmos Week",
+      "NSF-Supported Teams Advance in Presidential AI Challenge",
+      "with North Carolina teacher named national champion"
+    ],
+    "srcUrl": "https://www.nsf.gov/news/nsf-supported-teams-advanced-through-presidential-ai",
+    "realUrl": "https://www.cosmosweek.com/?article=nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 91,
+    "scoreBreakdown": {
+      "source": 91,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 55
+    },
+    "imageAlt": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "imageAlt_pt": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "imageAlt_en": "NSF-supported teams advanced through the Presidential AI Challenge, with North Carolina teacher named national champion",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-knows-what-is-mass-distribution",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/distribution-of-mass-banner.png",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/g8zVn14wg38?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://www.nasa.gov/wp-content/uploads/2026/06/distribution-of-mass-banner.png",
+      "title": "STEMonstrações: Distribuição de Massa",
+      "title_pt": "STEMonstrações: Distribuição de Massa",
+      "title_en": "STEMonstrations: Distribution of Mass",
+      "caption": "Você já chutou uma bola de futebol e se perguntou por que ela se curva, gira ou às vezes balança? A astronauta da NASA Jessica Meir a bordo da Estação Espacial Internacional. ..",
+      "caption_pt": "Você já chutou uma bola de futebol e se perguntou por que ela se curva, gira ou às vezes balança? A astronauta da NASA Jessica Meir a bordo da Estação Espacial Internacional. ..",
+      "caption_en": "Have you ever kicked a soccer ball and wondered why it curves, spins, or sometimes wobbles? NASA astronaut Jessica Meir aboard the International Space Statio. ..",
+      "sourcePage": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/"
+    },
+    "audio": null,
+    "title": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "title_pt": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "title_en": "NASA Knows: What Is Mass Distribution?",
+    "sub": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o.",
+    "sub_pt": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o.",
+    "sub_en": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation.",
+    "excerpt": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o design de aeronaves até a rotação de planetas.",
+    "excerpt_pt": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o design de aeronaves até a rotação de planetas.",
+    "excerpt_en": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation.",
+    "highlights": [
+      "Em foco: Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation",
+      "Detail: Core point: This article is for students grades 5-8",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "09 jun 2026",
+    "date_pt": "09 jun 2026",
+    "date_en": "09 Jun 2026",
+    "time": "14h26",
+    "time_pt": "14h26",
+    "time_en": "14: 26 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-09T14:26:32+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A NASA sabe",
+      "o que é distribuição em massa?"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A NASA sabe",
+      "o que é distribuição em massa?"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA knows",
+      "What is mass distribution?"
+    ],
+    "srcUrl": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-knows-what-is-mass-distribution",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-knows-what-is-mass-distribution",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-knows-what-is-mass-distribution&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-knows-what-is-mass-distribution/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-knows-what-is-mass-distribution/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "imageAlt_pt": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "imageAlt_en": "NASA Knows: What Is Mass Distribution?",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "cleaner-air-and-prosperity-can-go-hand-in-hand",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/atmospheric_nitrogen_dioxide_concentrations_in_2024/27315424-1-eng-GB/Atmospheric_nitrogen_dioxide_concentrations_in_2024_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_over_china_and_japan_in_2019/27315664-1-eng-GB/Nitrogen_dioxide_over_China_and_Japan_in_2019_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_over_china_and_japan_2019_and_2024/27315711-1-eng-GB/Nitrogen_dioxide_over_China_and_Japan_2019_and_2024_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_over_europe_in_2019/27315570-1-eng-GB/Nitrogen_dioxide_over_Europe_in_2019_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "title_pt": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "title_en": "Cleaner air and prosperity can go hand in hand",
+    "sub": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados.",
+    "sub_pt": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados.",
+    "sub_en": "For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air.",
+    "excerpt": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados. No entanto, um estudo recente demonstra que é possível alcançar prosperidade com ar mais limpo, desafiando essa interdependência histórica.",
+    "excerpt_pt": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados. No entanto, um estudo recente demonstra que é possível alcançar prosperidade com ar mais limpo, desafiando essa interdependência histórica.",
+    "excerpt_en": "For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air pollution.",
+    "highlights": [
+      "Em foco: Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: For decades, economic growth and fossil-fuel consumption have been tightly intertwined",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "09 jun 2026",
+    "date_pt": "09 jun 2026",
+    "date_en": "09 Jun 2026",
+    "time": "07h31",
+    "time_pt": "07h31",
+    "time_en": "07: 31 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-09T07:31:00+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Ar mais limpo e prosperidade podem andar de mãos dadas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Ar mais limpo e prosperidade podem andar de mãos dadas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space News",
+      "Cosmos Week",
+      "Cleaner air and prosperity can go hand in hand"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand",
+    "realUrl": "https://www.cosmosweek.com/?article=cleaner-air-and-prosperity-can-go-hand-in-hand",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=cleaner-air-and-prosperity-can-go-hand-in-hand",
+    "realUrl_en": "https://www.cosmosweek.com/?article=cleaner-air-and-prosperity-can-go-hand-in-hand&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "imageAlt_pt": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "imageAlt_en": "Cleaner air and prosperity can go hand in hand",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "researchers-develop-innovative-model-for-risk-assessment-for-hypertrophic-cardiomyopathy",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -118,7 +565,244 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
+    "slug": "the-integral-and-correlation-scales-of-solar-wind-turbulence",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/1280px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "As escalas integrais e de correlação da turbulência do vento solar",
+    "title_pt": "As escalas integrais e de correlação da turbulência do vento solar",
+    "title_en": "The integral and correlation scales of solar wind turbulence",
+    "sub": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento.",
+    "sub_pt": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento.",
+    "sub_en": "Many works have attempted to estimate the correlation and integral timescales associated with turbulent fluctuations in the solar wind, which are interpreted as length scales.",
+    "excerpt": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento segundo a Hipótese de Taylor.",
+    "excerpt_pt": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento segundo a Hipótese de Taylor.",
+    "excerpt_en": "Many works have attempted to estimate the correlation and integral timescales associated with turbulent fluctuations in the solar wind, which are interpreted as length scales based on Taylor's~Hypothesis.",
+    "highlights": [
+      "Em foco: Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Many works have attempted to estimate the correlation and integral timescales associated with turbulent fluctuations in the solar wind, which are",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "08 jun 2026",
+    "date_pt": "08 jun 2026",
+    "date_en": "08 Jun 2026",
+    "time": "17h11",
+    "time_pt": "17h11",
+    "time_en": "17: 11 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-08T17:11:32+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "arXiv Physics Frontiers",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "As escalas integrais e de correlação da turbulência do vento solar"
+    ],
+    "keywords_pt": [
+      "Física",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "As escalas integrais e de correlação da turbulência do vento solar"
+    ],
+    "keywords_en": [
+      "Physical",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "The integral and correlation scales of solar wind turbulence"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2606.09750v1",
+    "realUrl": "https://www.cosmosweek.com/?article=the-integral-and-correlation-scales-of-solar-wind-turbulence",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=the-integral-and-correlation-scales-of-solar-wind-turbulence",
+    "realUrl_en": "https://www.cosmosweek.com/?article=the-integral-and-correlation-scales-of-solar-wind-turbulence&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 78,
+    "scoreBreakdown": {
+      "source": 61,
+      "evidence": 39,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "As escalas integrais e de correlação da turbulência do vento solar",
+    "imageAlt_pt": "As escalas integrais e de correlação da turbulência do vento solar",
+    "imageAlt_en": "The integral and correlation scales of solar wind turbulence",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 6,
+    "slug": "primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "title_pt": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "title_en": "Primordial Black Holes from Slow Phase Transitions with Delayed Reheating: A Peak-Theory Approach",
+    "sub": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento.",
+    "sub_pt": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento.",
+    "sub_en": "We study the possibility of significant PBH production from a slow first-order phase transition with delayed reheating.",
+    "excerpt": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento retardado.",
+    "excerpt_pt": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento retardado.",
+    "excerpt_en": "We study the possibility of significant PBH production from a slow first-order phase transition with delayed reheating. Since delayed reheating results in an early matter-dominated phase between percolation and reheating, we developed a.",
+    "highlights": [
+      "Em foco: Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: We study the possibility of significant PBH production from a slow first-order phase transition with delayed reheating",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "08 jun 2026",
+    "date_pt": "08 jun 2026",
+    "date_en": "08 Jun 2026",
+    "time": "13h39",
+    "time_pt": "13h39",
+    "time_en": "13: 39 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-08T13:39:21+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Buracos negros primordiais de transições de fase lentas com reaquecimento retardado",
+      "uma abordagem de teoria de pico"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Buracos negros primordiais de transições de fase lentas com reaquecimento retardado",
+      "uma abordagem de teoria de pico"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Primordial black holes of slow phase transitions with delayed reheating",
+      "a peak theory approach"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2606.09482v1",
+    "realUrl": "https://www.cosmosweek.com/?article=primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach",
+    "realUrl_en": "https://www.cosmosweek.com/?article=primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "imageAlt_pt": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "imageAlt_en": "Primordial Black Holes from Slow Phase Transitions with Delayed Reheating: A Peak-Theory Approach",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 7,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -227,19 +911,19 @@
     "excerpt_pt": "Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade política”.",
     "excerpt_en": "Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered, “political will.",
     "highlights": [
-      "Em foco: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
+      "Dado-chave: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
+      "Dado-chave: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered.",
+      "Key detail: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "08 jun 2026",
     "date_pt": "08 jun 2026",
@@ -327,7 +1011,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 8,
     "slug": "what-s-actually-new-about-nasa-s-artemis-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -527,7 +1211,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 9,
     "slug": "esa-and-ebrd-to-advance-earth-observation-for-development-and-impact-finance",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -555,19 +1239,19 @@
     "excerpt_pt": "A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação.",
     "excerpt_en": "The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with the aim of advancing the use of Earth observation data and services for development and impact.",
     "highlights": [
-      "Em foco: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with the.",
+      "Key detail: The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "08 jun 2026",
     "date_pt": "08 jun 2026",
@@ -655,7 +1339,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 10,
     "slug": "digging-back-in-time-in-the-uae",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -792,7 +1476,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 11,
     "slug": "nasa-s-artemis-ii-moon-mission-research-continues-on-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -847,19 +1531,19 @@
     "excerpt_pt": "Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor da Lua, as equipes científicas têm estado ocupadas coletando mais dados e vasculhando as observações.",
     "excerpt_en": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on.",
     "highlights": [
-      "Em foco: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor.",
+      "Dado-chave: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor.",
+      "Dado-chave: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon.",
+      "Key detail: Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "05 jun 2026",
     "date_pt": "05 jun 2026",
@@ -947,7 +1631,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 12,
     "slug": "webb-unveils-young-stars-across-every-stage-of-formation",
     "cat": "Química",
     "catCls": "quimica",
@@ -1075,7 +1759,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 13,
     "slug": "nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1206,125 +1890,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
-    "slug": "short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "title_pt": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "title_en": "Short Gravitational-Wave Transients as Probes of Cosmic Domain Walls",
-    "sub": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "sub_pt": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "sub_en": "GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole coalescences whose inferred parameters, i.",
-    "excerpt": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "excerpt_pt": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "excerpt_en": "GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole coalescences whose inferred parameters, i.",
-    "highlights": [
-      "Ponto central: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros.",
-      "Dado-chave: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros.",
-      "Dado-chave: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole coalescences.",
-      "Key detail: GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "17h57",
-    "time_pt": "17h57",
-    "time_en": "17: 57 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T17:57:18+00:00",
-    "lastModifiedIso": "2026-06-06T16:57:36+00:00",
-    "source": "arXiv Physics Frontiers",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Short Transients of Gravitational Waves as Probes of Cosmic Domain Walls"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2606.06478v1",
-    "realUrl": "https://www.cosmosweek.com/?article=short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls",
-    "realUrl_en": "https://www.cosmosweek.com/?article=short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 61,
-      "evidence": 35,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "imageAlt_pt": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "imageAlt_en": "Short Gravitational-Wave Transients as Probes of Cosmic Domain Walls",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 10,
+    "id": 14,
     "slug": "tessera-ai-model-offers-accessible-way-to-view-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1361,19 +1927,19 @@
     "excerpt_pt": "Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi anunciado em uma conferência da indústria de informática esta semana em Denver, EUA.",
     "excerpt_en": "A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was announced at a computer industry conference this week in Denver, US.",
     "highlights": [
-      "Em foco: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi.",
+      "Dado-chave: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi.",
+      "Dado-chave: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was.",
+      "Key detail: A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "04 jun 2026",
     "date_pt": "04 jun 2026",
@@ -1461,402 +2027,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
-    "slug": "exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_vast_clay_region/27305677-1-eng-GB/Mars_vast_clay_region_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/eyes_on_mars/26013522-1-eng-GB/Eyes_on_Mars_article.png",
-        "alt": "Rover Rosalind Franklin explorando sítio marciano",
-        "alt_pt": "Rover Rosalind Franklin explorando sítio marciano",
-        "alt_en": "Rosalind Franklin rover exploring martian site",
-        "caption": "Rover Rosalind Franklin explorando sítio marciano",
-        "caption_pt": "Rover Rosalind Franklin explorando sítio marciano",
-        "caption_en": "Rosalind Franklin rover exploring martian site"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/oxia_planum_geological_map/26002040-8-eng-GB/Oxia_Planum_geological_map_pillars.png",
-        "alt": "$video. data_map. short_description. content",
-        "alt_pt": "$video. data_map. short_description. content",
-        "alt_en": "$video. data_map. short_description. content",
-        "caption": "$video. data_map. short_description. content",
-        "caption_pt": "$video. data_map. short_description. content",
-        "caption_en": "$video. data_map. short_description. content"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "title_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "title_en": "ExoMars rover targets vast bed of clay in search for life",
-    "sub": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "sub_pt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "sub_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds.",
-    "excerpt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "excerpt_pt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "excerpt_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds.",
-    "highlights": [
-      "Ponto central: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas.",
-      "Dado-chave: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas.",
-      "Dado-chave: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study.",
-      "Key detail: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "06h30",
-    "time_pt": "06h30",
-    "time_en": "06: 30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T06:30:00+00:00",
-    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "ExoMars rover targets vast clay bed in search of life"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life",
-    "realUrl": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "realUrl_en": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "imageAlt_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "imageAlt_en": "ExoMars rover targets vast bed of clay in search for life",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 12,
-    "slug": "curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04908_mhli_4908MH0003260001801155C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/5/25757_1-PIA24543-Curiositys-Selfie-at-Mont-Mercou-main-web.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "title_pt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "title_en": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
-    "sub": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908.",
-    "sub_pt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908.",
-    "sub_en": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a.",
-    "excerpt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908 e 4912.",
-    "excerpt_pt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908 e 4912.",
-    "excerpt_en": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was.",
-    "highlights": [
-      "Ponto central: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover.",
-      "Dado-chave: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover.",
-      "Dado-chave: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps.",
-      "Key detail: By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "01h28",
-    "time_pt": "01h28",
-    "time_en": "01: 28 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T01:28:11+00:00",
-    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog Curiosity",
-      "Sols 4908",
-      "4912",
-      "Adeus Campo Marte",
-      "Tem sido divertido!"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog Curiosity",
-      "Sols 4908",
-      "4912",
-      "Adeus Campo Marte",
-      "Tem sido divertido!"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog Curiosity",
-      "Sols 4908",
-      "4912",
-      "Goodbye Campo Marte",
-      "It's been fun!"
-    ],
-    "srcUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
-    "realUrl": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
-    "realUrl_en": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "imageAlt_pt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "imageAlt_en": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 13,
-    "slug": "probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "title_pt": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "title_en": "Probing Inelastic Dark Matter via Cosmic-Ray Upscattering in NGC 1068",
-    "sub": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "sub_pt": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "sub_en": "We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-    "excerpt": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "excerpt_pt": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "excerpt_en": "We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068. In dense dark matter spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy.",
-    "highlights": [
-      "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-      "Key detail: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "02 jun 2026",
-    "date_pt": "02 jun 2026",
-    "date_en": "02 Jun 2026",
-    "time": "11h05",
-    "time_pt": "11h05",
-    "time_en": "11: 05 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-02T11:05:08+00:00",
-    "lastModifiedIso": "2026-06-03T19:19:47+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Sondando matéria escura inelástica por meio do espalhamento de raios cósmicos em NGC 1068"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Sondando matéria escura inelástica por meio do espalhamento de raios cósmicos em NGC 1068"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Probing inelastic dark matter through cosmic ray scattering in NGC 1068"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2606.03487v1",
-    "realUrl": "https://www.cosmosweek.com/?article=probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
-    "realUrl_en": "https://www.cosmosweek.com/?article=probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "imageAlt_pt": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "imageAlt_en": "Probing Inelastic Dark Matter via Cosmic-Ray Upscattering in NGC 1068",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 14,
+    "id": 15,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2015,7 +2186,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2136,7 +2307,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2254,7 +2425,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2404,7 +2575,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2532,7 +2703,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2691,7 +2862,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "new-eruption-in-the-bismarck-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2837,7 +3008,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3032,7 +3203,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "a-beacon-of-light-in-swirls-of-dust",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3187,7 +3358,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3305,7 +3476,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "hilumi-lhc-cern-s-full-scale-test-stand-enters-the-powering-phase",
     "cat": "Física",
     "catCls": "fisica",
@@ -3436,7 +3607,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -3567,7 +3738,7 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3685,7 +3856,7 @@
     "storyKind": "science"
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "generalized-optical-meta-spanners-empower-arbitrary-light-paths-for-multitasking-optical-manipul",
     "cat": "Física",
     "catCls": "fisica",
@@ -3825,7 +3996,7 @@
     "imageAlt_en": "Generalized optical meta-spanners empower arbitrary light paths for multitasking optical manipulation"
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3956,7 +4127,7 @@
     "imageAlt_en": "Antioxidant glutathione discovered to play a key role in proper protein folding"
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "sun-news-huge-coronal-hole-now-faces-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4105,7 +4276,7 @@
     "imageAlt_en": "Sun news: Huge coronal hole now faces Earth"
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
     "cat": "Física",
     "catCls": "fisica",
@@ -4242,7 +4413,7 @@
     "storyKind": "science"
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4363,7 +4534,7 @@
     "imageAlt_en": "Cloudy with a chance of metals: Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy"
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "jwst-sees-smoking-gun-for-black-hole-mergers-in-the-virgo-cluster",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4481,7 +4652,7 @@
     "imageAlt_en": "JWST Sees Smoking Gun for Black Hole Mergers in the Virgo Cluster"
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4609,7 +4780,7 @@
     "imageAlt_en": "Torsion balances set strongest direct limits yet on ultralight dark matter"
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4730,7 +4901,7 @@
     "storyKind": "science"
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "planets-collide-around-young-sun-like-star",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4848,7 +5019,7 @@
     "imageAlt_en": "Planets Collide Around Young, Sun-like Star"
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "first-light-for-poet-shining-sun-light-on-exoplanet-research",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -5015,7 +5186,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "cern-timepix-chips-fly-to-the-moon",
     "cat": "Física",
     "catCls": "fisica",
@@ -5136,161 +5307,6 @@
     "imageAlt": "Chips Timepix do CERN voam para a Lua",
     "imageAlt_pt": "Chips Timepix do CERN voam para a Lua",
     "imageAlt_en": "CERN Timepix chips fly to the Moon",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 38,
-    "slug": "nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Tech%20Metal%20Image.png?itok=0UVtZW3K",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/Tech%20Metal%20Image.png?itok=ExAUD_Xn",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/GRFP_Zoom_Hero_1200x468.jpg?itok=WVVq7jPW",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/techaccess_AI-ready_America.png?itok=SEC379Xa",
-        "alt": "Gráfico da América pronto para IA",
-        "alt_pt": "Gráfico da América pronto para IA",
-        "alt_en": "AI-Ready America Graphic",
-        "caption": "Gráfico da América pronto para IA",
-        "caption_pt": "Gráfico da América pronto para IA",
-        "caption_en": "AI-Ready America Graphic"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF-AI-PD-News-Announcment-HERO.jpg?itok=JZyl6cAl",
-        "alt": "colagem de imagens",
-        "alt_pt": "colagem de imagens",
-        "alt_en": "collage of stock images",
-        "caption": "colagem de imagens",
-        "caption_pt": "colagem de imagens",
-        "caption_en": "collage of stock images"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "title_pt": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "title_en": "NSF announces winners of the U. S. critical minerals challenge to secure key domestic supply chain",
-    "sub": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa.",
-    "sub_pt": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa.",
-    "sub_en": "The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal Transformation Challenge launched by STRIDE.",
-    "excerpt": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa lançada pela STRIDE Ventures.",
-    "excerpt_pt": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa lançada pela STRIDE Ventures.",
-    "excerpt_en": "The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal Transformation Challenge launched by STRIDE Ventures.",
-    "highlights": [
-      "Ponto central: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Dado-chave: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Dado-chave: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal.",
-      "Key detail: The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 mar 2026",
-    "date_pt": "24 mar 2026",
-    "date_en": "24 Mar 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-03-24T14:00:08+00:00",
-    "lastModifiedIso": "2026-04-26T07:40:11+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www. nsf. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia vencedores do desafio de minerais críticos dos EUA para garantir a chave da cadeia de abastecimento doméstica"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia vencedores do desafio de minerais críticos dos EUA para garantir a chave da cadeia de abastecimento doméstica"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NSF News",
-      "Cosmos Week",
-      "NSF Announces Winners of U. S. Critical Minerals Challenge to Secure Key Domestic Supply Chain"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/nsf-announces-winners-us-critical-minerals-challenge-secure",
-    "realUrl": "https://www.cosmosweek.com/?article=nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 91,
-      "evidence": 92,
-      "relevance": 74,
-      "accessibility": 52,
-      "novelty": 46
-    },
-    "imageAlt": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "imageAlt_pt": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "imageAlt_en": "NSF announces winners of the U. S. critical minerals challenge to secure key domestic supply chain",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",

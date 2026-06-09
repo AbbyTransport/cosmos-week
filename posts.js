@@ -3,6 +3,462 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/AI_PresChallenge_NSF_Hero.jpg?itok=UeVwAkGq",
+    "inline_images": [
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/AI_PresChallenge_NSF_Hero.jpg?itok=DbQLNWzZ",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_240x160_VASCilia.jpg?itok=KjvVcatA",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media/images/DFPod_GraphicForNSFNews_240x160_VASCilia.jpg?itok=ifsHLt99",
+        "alt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_en": "Podcast: AI-driven tool targets hearing loss",
+        "caption": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_en": "Podcast: AI-driven tool targets hearing loss"
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media/images/DFPod_GraphicForNSFNews_240x160_VASCilia.jpg?itok=lzPrr9nv",
+        "alt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_en": "Podcast: AI-driven tool targets hearing loss",
+        "caption": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_en": "Podcast: AI-driven tool targets hearing loss"
+      },
+      {
+        "src": "https://www.nsf.gov/themes/custom/nsf_theme/plugins/uswds/dist/img/us_flag_small.png",
+        "alt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "alt_en": "Podcast: AI-driven tool targets hearing loss",
+        "caption": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_pt": "Podcast: ferramenta baseada em IA visa perda auditiva",
+        "caption_en": "Podcast: AI-driven tool targets hearing loss"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "title_pt": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "title_en": "NSF-supported teams advanced through the Presidential AI Challenge, with North Carolina teacher named national champion",
+    "sub": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do.",
+    "sub_pt": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do.",
+    "sub_en": "A team supported by the U. S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural.",
+    "excerpt": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do Desafio Presidencial de IA.",
+    "excerpt_pt": "Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã nacional da primeira edição do Desafio Presidencial de IA.",
+    "excerpt_en": "A team supported by the U. S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural.",
+    "body": "<p>A primeira edição do Desafio Presidencial de IA, uma iniciativa que visa incentivar alunos e educadores do ensino fundamental e médio a se envolverem na aprendizagem prática baseada em projetos, culminou com a nomeação de uma equipe apoiada pela Fundação Nacional de Ciência dos EUA (NSF) e patrocinada pela Universidade Estadual da Carolina do Norte como campeã nacional. Este desafio busca fomentar o desenvolvimento de soluções inovadoras de inteligência artificial (IA) para problemas do mundo real, capacitando a próxima geração de cientistas e tecnólogos. A conquista da equipe da Carolina do Norte destaca o sucesso da abordagem prática e o potencial transformador da IA na educação.</p><p>Selecionada como campeã nacional, Carrie Robledo, professora da segunda série e líder de professores da Star Elementary School, na Carolina do Norte, foi a mente por trás do projeto &#x27;AI Insect Detectives: Teaching Machine Learning Through Local Entomology&#x27;. Este projeto inovador foi concebido para introduzir os alunos da segunda série aos fundamentos do aprendizado de máquina por meio de atividades científicas práticas e envolventes. A iniciativa de Robledo demonstrou como conceitos complexos de IA podem ser simplificados e tornados acessíveis a crianças em idade escolar, utilizando o ambiente local como laboratório de aprendizado.</p><p>Utilizando a ferramenta Teachable Machine do Google, os alunos foram guiados no treinamento de modelos de IA para identificar insetos, uma abordagem que lhes permitiu compreender o processo de reconhecimento de padrões. Durante o desenvolvimento do projeto, eles também aprenderam a analisar erros nos modelos e aprimorar os dados de treinamento, desenvolvendo uma compreensão prática de como a qualidade dos dados afeta o desempenho da IA. Essa experiência prática não apenas ensinou sobre IA, mas também aprimorou suas habilidades de observação e análise crítica, essenciais para a investigação científica.</p><p>À medida que os alunos exploravam como os sistemas de IA reconhecem padrões e tomam decisões, eles desenvolveram conhecimentos básicos de inteligência artificial, habilidades de investigação científica e capacidades de pensamento crítico desde cedo. A metodologia de Robledo permitiu que as crianças não apenas consumissem informações, mas também se tornassem criadoras e solucionadoras de problemas, preparando-as para um futuro cada vez mais impulsionado pela tecnologia. A capacidade de pensar criticamente sobre a IA e suas aplicações é uma habilidade valiosa que foi cultivada neste projeto.</p><p>Em todas as equipes apoiadas pela NSF, os projetos tiveram como foco principal a introdução da IA aos alunos por meio de experiências práticas de aprendizagem. Nessas iniciativas, os estudantes foram incentivados a treinar modelos, explorar padrões e construir uma alfabetização básica em IA, capacitando-os a interagir de forma mais informada com as tecnologias emergentes. Essa abordagem prática garante que a aprendizagem não seja apenas teórica, mas também aplicada, permitindo que os alunos vejam o impacto direto da IA em diferentes contextos.</p><p>Outros projetos apoiados pela NSF concentraram-se no fortalecimento do pensamento crítico e da compreensão ética da inteligência artificial. Ferramentas e metodologias foram concebidas para orientar o raciocínio dos alunos, apoiando a utilização da IA para o benefício de todos e reforçando o ensino liderado por professores, em vez de substituir o julgamento humano. Por exemplo, a Universidade Estadual da Pensilvânia desenvolveu o projeto &#x27;BioBuddy: Projetando IA para treinar o pensamento dos alunos&#x27;, que exemplifica essa abordagem ao integrar a IA como uma ferramenta para aprimorar as capacidades cognitivas dos estudantes. Essas iniciativas sublinham a importância de uma educação em IA que não se limite apenas à técnica, mas que também abranja as implicações sociais e éticas da tecnologia.</p>",
+    "body_pt": "<p>A primeira edição do Desafio Presidencial de IA, uma iniciativa que visa incentivar alunos e educadores do ensino fundamental e médio a se envolverem na aprendizagem prática baseada em projetos, culminou com a nomeação de uma equipe apoiada pela Fundação Nacional de Ciência dos EUA (NSF) e patrocinada pela Universidade Estadual da Carolina do Norte como campeã nacional. Este desafio busca fomentar o desenvolvimento de soluções inovadoras de inteligência artificial (IA) para problemas do mundo real, capacitando a próxima geração de cientistas e tecnólogos. A conquista da equipe da Carolina do Norte destaca o sucesso da abordagem prática e o potencial transformador da IA na educação.</p><p>Selecionada como campeã nacional, Carrie Robledo, professora da segunda série e líder de professores da Star Elementary School, na Carolina do Norte, foi a mente por trás do projeto &#x27;AI Insect Detectives: Teaching Machine Learning Through Local Entomology&#x27;. Este projeto inovador foi concebido para introduzir os alunos da segunda série aos fundamentos do aprendizado de máquina por meio de atividades científicas práticas e envolventes. A iniciativa de Robledo demonstrou como conceitos complexos de IA podem ser simplificados e tornados acessíveis a crianças em idade escolar, utilizando o ambiente local como laboratório de aprendizado.</p><p>Utilizando a ferramenta Teachable Machine do Google, os alunos foram guiados no treinamento de modelos de IA para identificar insetos, uma abordagem que lhes permitiu compreender o processo de reconhecimento de padrões. Durante o desenvolvimento do projeto, eles também aprenderam a analisar erros nos modelos e aprimorar os dados de treinamento, desenvolvendo uma compreensão prática de como a qualidade dos dados afeta o desempenho da IA. Essa experiência prática não apenas ensinou sobre IA, mas também aprimorou suas habilidades de observação e análise crítica, essenciais para a investigação científica.</p><p>À medida que os alunos exploravam como os sistemas de IA reconhecem padrões e tomam decisões, eles desenvolveram conhecimentos básicos de inteligência artificial, habilidades de investigação científica e capacidades de pensamento crítico desde cedo. A metodologia de Robledo permitiu que as crianças não apenas consumissem informações, mas também se tornassem criadoras e solucionadoras de problemas, preparando-as para um futuro cada vez mais impulsionado pela tecnologia. A capacidade de pensar criticamente sobre a IA e suas aplicações é uma habilidade valiosa que foi cultivada neste projeto.</p><p>Em todas as equipes apoiadas pela NSF, os projetos tiveram como foco principal a introdução da IA aos alunos por meio de experiências práticas de aprendizagem. Nessas iniciativas, os estudantes foram incentivados a treinar modelos, explorar padrões e construir uma alfabetização básica em IA, capacitando-os a interagir de forma mais informada com as tecnologias emergentes. Essa abordagem prática garante que a aprendizagem não seja apenas teórica, mas também aplicada, permitindo que os alunos vejam o impacto direto da IA em diferentes contextos.</p><p>Outros projetos apoiados pela NSF concentraram-se no fortalecimento do pensamento crítico e da compreensão ética da inteligência artificial. Ferramentas e metodologias foram concebidas para orientar o raciocínio dos alunos, apoiando a utilização da IA para o benefício de todos e reforçando o ensino liderado por professores, em vez de substituir o julgamento humano. Por exemplo, a Universidade Estadual da Pensilvânia desenvolveu o projeto &#x27;BioBuddy: Projetando IA para treinar o pensamento dos alunos&#x27;, que exemplifica essa abordagem ao integrar a IA como uma ferramenta para aprimorar as capacidades cognitivas dos estudantes. Essas iniciativas sublinham a importância de uma educação em IA que não se limite apenas à técnica, mas que também abranja as implicações sociais e éticas da tecnologia.</p>",
+    "body_en": "<p>A team supported by the U. S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural. The challenge brought together K-12 youth, educators, mentors and community partners from across the country to develop innovative AI solutions for real-world challenges within.</p><p>It encourages K-12 students and educators to engage in hands-on, project-based learning while developing innovative AI solutions to real-world problems. With close to $1 million in supplemental funding provided by the NSF Directorate for STEM Education, principal investigators from active NSF-funded projects served as team.</p><p>Selected as a national champion, Carrie Robledo, a second-grade teacher and teacher leader at Star Elementary School in North Carolina, developed &quot;AI Insect Detectives: Teaching. Using Google&#x27;s Teachable Machine, students trained AI models to identify insects, analyzed errors and improved training data.</p><p>As students explored how AI systems recognize patterns and make decisions, they built foundational AI literacy, scientific inquiry skills and critical thinking skills at an early. Across the NSF-supported teams, projects centered on introducing students to AI through hands-on learning experiences where they trained models, explored patterns and built.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Other projects focused on strengthening critical thinking and ethical understanding, with tools designed to guide reasoning, support the use of AI for the benefit of all, and. Additional projects applied AI to real-world challenges in schools and communities, including pedestrian safety, library space accessibility, nursing home and elder care workflow.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-supported-teams-advanced-through-presidential-ai\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A team supported by the U. S",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "09 jun 2026",
+    "date_pt": "09 jun 2026",
+    "date_en": "09 Jun 2026",
+    "time": "17h00",
+    "time_pt": "17h00",
+    "time_en": "17: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-09T17:00:45+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www. nsf. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Equipes apoiadas pela NSF avançaram no Desafio Presidencial de IA",
+      "com professor da Carolina do Norte nomeado campeão nacional"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Equipes apoiadas pela NSF avançaram no Desafio Presidencial de IA",
+      "com professor da Carolina do Norte nomeado campeão nacional"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NSF News",
+      "Cosmos Week",
+      "NSF-Supported Teams Advance in Presidential AI Challenge",
+      "with North Carolina teacher named national champion"
+    ],
+    "srcUrl": "https://www.nsf.gov/news/nsf-supported-teams-advanced-through-presidential-ai",
+    "realUrl": "https://www.cosmosweek.com/?article=nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 91,
+    "scoreBreakdown": {
+      "source": 91,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 55
+    },
+    "imageAlt": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "imageAlt_pt": "Equipes apoiadas pela NSF avançam no Desafio Presidencial de IA, com professora da Carolina do Norte nomeada campeã nacional",
+    "imageAlt_en": "NSF-supported teams advanced through the Presidential AI Challenge, with North Carolina teacher named national champion",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-knows-what-is-mass-distribution",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/distribution-of-mass-banner.png",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/g8zVn14wg38?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://www.nasa.gov/wp-content/uploads/2026/06/distribution-of-mass-banner.png",
+      "title": "STEMonstrações: Distribuição de Massa",
+      "title_pt": "STEMonstrações: Distribuição de Massa",
+      "title_en": "STEMonstrations: Distribution of Mass",
+      "caption": "Você já chutou uma bola de futebol e se perguntou por que ela se curva, gira ou às vezes balança? A astronauta da NASA Jessica Meir a bordo da Estação Espacial Internacional. ..",
+      "caption_pt": "Você já chutou uma bola de futebol e se perguntou por que ela se curva, gira ou às vezes balança? A astronauta da NASA Jessica Meir a bordo da Estação Espacial Internacional. ..",
+      "caption_en": "Have you ever kicked a soccer ball and wondered why it curves, spins, or sometimes wobbles? NASA astronaut Jessica Meir aboard the International Space Statio. ..",
+      "sourcePage": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/"
+    },
+    "audio": null,
+    "title": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "title_pt": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "title_en": "NASA Knows: What Is Mass Distribution?",
+    "sub": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o.",
+    "sub_pt": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o.",
+    "sub_en": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation.",
+    "excerpt": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o design de aeronaves até a rotação de planetas.",
+    "excerpt_pt": "Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a formação de galáxias e o design de aeronaves até a rotação de planetas.",
+    "excerpt_en": "This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation.",
+    "body": "<p>Para os jovens cientistas e engenheiros em formação, compreender a distribuição de massa é fundamental. Este conceito, que descreve como a matéria está organizada dentro de um objeto ou sistema, exerce uma influência profunda sobre uma vasta gama de fenômenos, desde a escala cósmica, moldando o formato das galáxias e a rotação dos planetas, até aplicações mais próximas de nosso cotidiano, como o design aerodinâmico de aeronaves e o desempenho de equipamentos esportivos. A forma como a massa é distribuída determina, por exemplo, o centro de gravidade de um objeto e, consequentemente, sua estabilidade e comportamento em movimento. É um princípio universal que a NASA e outras instituições científicas exploram continuamente para avançar nosso conhecimento e tecnologia.</p><p>Na Terra, a presença constante da gravidade pode, paradoxalmente, ocultar certos detalhes cruciais sobre o movimento dos objetos. A força gravitacional atua de maneira tão onipresente que se torna difícil isolar e observar outros fatores que influenciam a trajetória e a rotação de um corpo. Por exemplo, a resistência do ar e a própria atração gravitacional podem mascarar nuances importantes da aerodinâmica e da inércia. É por essa razão que ambientes de microgravidade, como o encontrado na Estação Espacial Internacional (EEI), oferecem um laboratório único para cientistas e engenheiros. Nesses locais, a ausência de uma gravidade significativa permite que os pesquisadores observem o movimento dos objetos de uma perspectiva diferente, revelando comportamentos que seriam impossíveis de discernir em nosso planeta.</p><p>Um exemplo notável dessa abordagem científica é a colaboração estabelecida em 2019 entre a Adidas e a NASA. Com o objetivo de aprofundar a compreensão da aerodinâmica e do comportamento de objetos em movimento, bolas de futebol foram enviadas para a Estação Espacial Internacional. A ideia era simples, mas engenhosa: permitir que os astronautas realizassem testes em um ambiente onde a influência da gravidade fosse minimizada. Essa iniciativa visava não apenas aprimorar o design de produtos esportivos, mas também fornecer dados valiosos para a engenharia e a física, demonstrando como a pesquisa fundamental pode ter aplicações práticas e inovadoras.</p><p>A bordo da Estação Espacial Internacional, a astronauta da NASA Jessica Meir, entre outros, participou ativamente desses experimentos. Ela e seus colegas conduziram uma série de testes que permitiram aos engenheiros da Adidas e da NASA confirmar e refinar seus projetos. Ao observar o movimento das bolas em microgravidade, os cientistas puderam isolar os efeitos da distribuição de massa e da aerodinâmica de uma maneira que seria inviável na Terra. Essa perspectiva única possibilitou uma compreensão mais profunda da física que governa o movimento da bola, revelando como a distribuição interna da massa afeta sua rotação, trajetória e estabilidade sem a interferência dominante da gravidade terrestre.</p><p>Os dados coletados durante esses experimentos espaciais tiveram um impacto direto e significativo. As informações obtidas na Estação Espacial Internacional foram cruciais para o aprimoramento da precisão e da consistência das bolas de futebol modernas. Ao entender melhor como a distribuição de massa influencia o voo e o comportamento da bola em diferentes condições, os engenheiros puderam otimizar o design, os materiais e a construção. Isso resultou em produtos que oferecem um desempenho mais previsível e confiável para atletas em todo o mundo, demonstrando o valor prático da pesquisa científica de ponta, mesmo quando realizada em um ambiente tão distante como o espaço.</p><p>A ciência da distribuição de massa, exemplificada por esses experimentos inovadores, é um campo vasto e fascinante, com aplicações que vão muito além do esporte. Ela é essencial para o desenvolvimento de veículos espaciais, satélites, aeronaves e até mesmo para a compreensão de fenômenos astrofísicos. Para os estudantes que se sentem atraídos por desafios intelectuais e pela possibilidade de contribuir para o avanço do conhecimento e da tecnologia, uma carreira que explore a ciência e a engenharia da distribuição de massa pode ser extremamente gratificante. É uma área que exige curiosidade, rigor científico e uma mente aberta para explorar o desconhecido, seja na Terra ou no espaço.</p><p>A NASA, através de iniciativas como a &#x27;Orion&#x27;s Quest&#x27; e atividades práticas sobre a aerodinâmica do futebol, busca inspirar a próxima geração de cientistas e engenheiros. Essas oportunidades de aprendizado são projetadas especificamente para alunos da 5ª à 8ª série, oferecendo uma maneira divertida e interativa de explorar conceitos complexos como a distribuição de massa. Ao participar de atividades que simulam experimentos reais e ao aprender sobre as descobertas feitas por astronautas como Jessica Meir, os jovens podem vislumbrar o impacto da ciência em suas vidas e no futuro da exploração espacial. A jornada para desvendar os mistérios do universo e aprimorar nossa tecnologia começa com a curiosidade e o estudo desses princípios fundamentais.</p>",
+    "body_pt": "<p>Para os jovens cientistas e engenheiros em formação, compreender a distribuição de massa é fundamental. Este conceito, que descreve como a matéria está organizada dentro de um objeto ou sistema, exerce uma influência profunda sobre uma vasta gama de fenômenos, desde a escala cósmica, moldando o formato das galáxias e a rotação dos planetas, até aplicações mais próximas de nosso cotidiano, como o design aerodinâmico de aeronaves e o desempenho de equipamentos esportivos. A forma como a massa é distribuída determina, por exemplo, o centro de gravidade de um objeto e, consequentemente, sua estabilidade e comportamento em movimento. É um princípio universal que a NASA e outras instituições científicas exploram continuamente para avançar nosso conhecimento e tecnologia.</p><p>Na Terra, a presença constante da gravidade pode, paradoxalmente, ocultar certos detalhes cruciais sobre o movimento dos objetos. A força gravitacional atua de maneira tão onipresente que se torna difícil isolar e observar outros fatores que influenciam a trajetória e a rotação de um corpo. Por exemplo, a resistência do ar e a própria atração gravitacional podem mascarar nuances importantes da aerodinâmica e da inércia. É por essa razão que ambientes de microgravidade, como o encontrado na Estação Espacial Internacional (EEI), oferecem um laboratório único para cientistas e engenheiros. Nesses locais, a ausência de uma gravidade significativa permite que os pesquisadores observem o movimento dos objetos de uma perspectiva diferente, revelando comportamentos que seriam impossíveis de discernir em nosso planeta.</p><p>Um exemplo notável dessa abordagem científica é a colaboração estabelecida em 2019 entre a Adidas e a NASA. Com o objetivo de aprofundar a compreensão da aerodinâmica e do comportamento de objetos em movimento, bolas de futebol foram enviadas para a Estação Espacial Internacional. A ideia era simples, mas engenhosa: permitir que os astronautas realizassem testes em um ambiente onde a influência da gravidade fosse minimizada. Essa iniciativa visava não apenas aprimorar o design de produtos esportivos, mas também fornecer dados valiosos para a engenharia e a física, demonstrando como a pesquisa fundamental pode ter aplicações práticas e inovadoras.</p><p>A bordo da Estação Espacial Internacional, a astronauta da NASA Jessica Meir, entre outros, participou ativamente desses experimentos. Ela e seus colegas conduziram uma série de testes que permitiram aos engenheiros da Adidas e da NASA confirmar e refinar seus projetos. Ao observar o movimento das bolas em microgravidade, os cientistas puderam isolar os efeitos da distribuição de massa e da aerodinâmica de uma maneira que seria inviável na Terra. Essa perspectiva única possibilitou uma compreensão mais profunda da física que governa o movimento da bola, revelando como a distribuição interna da massa afeta sua rotação, trajetória e estabilidade sem a interferência dominante da gravidade terrestre.</p><p>Os dados coletados durante esses experimentos espaciais tiveram um impacto direto e significativo. As informações obtidas na Estação Espacial Internacional foram cruciais para o aprimoramento da precisão e da consistência das bolas de futebol modernas. Ao entender melhor como a distribuição de massa influencia o voo e o comportamento da bola em diferentes condições, os engenheiros puderam otimizar o design, os materiais e a construção. Isso resultou em produtos que oferecem um desempenho mais previsível e confiável para atletas em todo o mundo, demonstrando o valor prático da pesquisa científica de ponta, mesmo quando realizada em um ambiente tão distante como o espaço.</p><p>A ciência da distribuição de massa, exemplificada por esses experimentos inovadores, é um campo vasto e fascinante, com aplicações que vão muito além do esporte. Ela é essencial para o desenvolvimento de veículos espaciais, satélites, aeronaves e até mesmo para a compreensão de fenômenos astrofísicos. Para os estudantes que se sentem atraídos por desafios intelectuais e pela possibilidade de contribuir para o avanço do conhecimento e da tecnologia, uma carreira que explore a ciência e a engenharia da distribuição de massa pode ser extremamente gratificante. É uma área que exige curiosidade, rigor científico e uma mente aberta para explorar o desconhecido, seja na Terra ou no espaço.</p><p>A NASA, através de iniciativas como a &#x27;Orion&#x27;s Quest&#x27; e atividades práticas sobre a aerodinâmica do futebol, busca inspirar a próxima geração de cientistas e engenheiros. Essas oportunidades de aprendizado são projetadas especificamente para alunos da 5ª à 8ª série, oferecendo uma maneira divertida e interativa de explorar conceitos complexos como a distribuição de massa. Ao participar de atividades que simulam experimentos reais e ao aprender sobre as descobertas feitas por astronautas como Jessica Meir, os jovens podem vislumbrar o impacto da ciência em suas vidas e no futuro da exploração espacial. A jornada para desvendar os mistérios do universo e aprimorar nossa tecnologia começa com a curiosidade e o estudo desses princípios fundamentais.</p>",
+    "body_en": "<p>This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. 4 Min Read NASA Knows: What Is Mass Distribution. This article is for students grades 5-8.</p><p>Career Corner Are you interested in a career that explores the science and engineering of mass distribution. The Science of Soccer in Space: Hands-on Activity From Orion’s Quest Aerodynamics of Soccer NASA Knows for Students Grades 5-8.</p><p>NASA astronaut Jessica Meir aboard the International Space Statio. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation.</p><p>On Earth, gravity hides some of the details about how objects move. In 2019, Adidas partnered with NASA and sent soccer balls to the International Space Station.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Astronauts conducted tests to help engineers confirm their designs and understand the physics behind ball motion in ways they simply can’t on Earth. The results of the space station experiments have already helped improve the accuracy and consistency of modern soccer balls.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Destinado a estudantes do ensino fundamental (5ª a 8ª série), este artigo explora o conceito de distribuição de massa e sua vasta influência, desde a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: This article is for students grades 5-8. Mass distribution affects everything from galaxy shapes to aircraft design to planetary rotation",
+      "Detail: Core point: This article is for students grades 5-8",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "09 jun 2026",
+    "date_pt": "09 jun 2026",
+    "date_en": "09 Jun 2026",
+    "time": "14h26",
+    "time_pt": "14h26",
+    "time_en": "14: 26 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-09T14:26:32+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A NASA sabe",
+      "o que é distribuição em massa?"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A NASA sabe",
+      "o que é distribuição em massa?"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA knows",
+      "What is mass distribution?"
+    ],
+    "srcUrl": "https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-knows-what-is-mass-distribution",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-knows-what-is-mass-distribution",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-knows-what-is-mass-distribution&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-knows-what-is-mass-distribution/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-knows-what-is-mass-distribution/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-knows-what-is-mass-distribution/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "imageAlt_pt": "A Distribuição de Massa: Entenda Como a NASA Explora Este Conceito Essencial",
+    "imageAlt_en": "NASA Knows: What Is Mass Distribution?",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "cleaner-air-and-prosperity-can-go-hand-in-hand",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/atmospheric_nitrogen_dioxide_concentrations_in_2024/27315424-1-eng-GB/Atmospheric_nitrogen_dioxide_concentrations_in_2024_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_over_china_and_japan_in_2019/27315664-1-eng-GB/Nitrogen_dioxide_over_China_and_Japan_in_2019_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_over_china_and_japan_2019_and_2024/27315711-1-eng-GB/Nitrogen_dioxide_over_China_and_Japan_2019_and_2024_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/nitrogen_dioxide_over_europe_in_2019/27315570-1-eng-GB/Nitrogen_dioxide_over_Europe_in_2019_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "title_pt": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "title_en": "Cleaner air and prosperity can go hand in hand",
+    "sub": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados.",
+    "sub_pt": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados.",
+    "sub_en": "For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air.",
+    "excerpt": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados. No entanto, um estudo recente demonstra que é possível alcançar prosperidade com ar mais limpo, desafiando essa interdependência histórica.",
+    "excerpt_pt": "Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados. No entanto, um estudo recente demonstra que é possível alcançar prosperidade com ar mais limpo, desafiando essa interdependência histórica.",
+    "excerpt_en": "For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air pollution.",
+    "body": "<p>Durante décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente interligados. À medida que as cidades se expandiam, o aumento da prosperidade era frequentemente acompanhado pelo agravamento da poluição atmosférica. No entanto, um estudo recente, liderado pelo instituto de pesquisa norueguês NILU e publicado na Nature Cities, desafia essa percepção. A pesquisa analisou 2.475 grandes áreas urbanas em todo o mundo e revelou que quase 80% delas estão alcançando níveis mais elevados de prosperidade em conjunto com um ar mais limpo, indicando que o desenvolvimento econômico e a sustentabilidade ambiental podem, de fato, coexistir.</p><p>A base dessa investigação reside nas capacidades avançadas de monitoramento atmosférico do satélite europeu Copernicus Sentinel-5P. Este instrumento fornece uma visão global única da qualidade do ar, sendo crucial para a coleta de dados. Os cientistas utilizaram medições de dióxido de nitrogênio atmosférico (NO2) coletadas pelo Sentinel-5P entre janeiro de 2019 e dezembro de 2024. Esses dados foram então comparados com informações detalhadas sobre o Produto Interno Bruto (PIB) de cada região. Ao combinar as observações do satélite com dados locais do PIB per capita, os pesquisadores conseguiram rastrear a evolução do crescimento econômico e da dependência de combustíveis fósseis ao longo do tempo em cada uma das áreas urbanas estudadas.</p><p>As conclusões do estudo são notáveis: aproximadamente 2.000 das 2.475 cidades selecionadas globalmente implementaram com sucesso políticas verdes. Essas iniciativas não apenas impulsionaram a prosperidade econômica, mas também resultaram na redução da dependência de combustíveis fósseis. Esse achado sugere uma mudança paradigmática, onde a adoção de estratégias sustentáveis não é um entrave, mas sim um catalisador para o desenvolvimento. A pesquisa demonstra que é possível dissociar o crescimento econômico do aumento da poluição, abrindo caminho para um futuro urbano mais saudável e próspero.</p><p>A tendência de conciliar prosperidade e ar mais limpo é particularmente evidente na China. O país asiático se destaca com 719 cidades classificadas na categoria de mais limpas e ricas, incluindo metrópoles como Pequim, Xangai e Chengdu. Este resultado é significativo, considerando o rápido crescimento industrial e urbano da China nas últimas décadas. A implementação de rigorosas políticas ambientais e investimentos em energias renováveis parece ter desempenhado um papel fundamental nessa transformação, mostrando que mesmo economias em expansão podem priorizar a qualidade do ar sem comprometer o desenvolvimento.</p><p>Padrões semelhantes de sucesso foram observados em toda a Europa. Cidades como Paris, Berlim, Roma e Amsterdã se beneficiaram da implementação de zonas de baixas emissões e de políticas de energia limpa. Essas medidas, que visam restringir a circulação de veículos poluentes e promover fontes de energia sustentáveis, contribuíram para uma melhoria substancial na qualidade do ar urbano, ao mesmo tempo em que mantiveram ou impulsionaram o crescimento econômico. A experiência europeia reforça a ideia de que a regulamentação ambiental e a inovação tecnológica são ferramentas eficazes para alcançar a sustentabilidade urbana.</p><p>Contudo, o estudo também identificou um grupo de 390 cidades que, embora tenham apresentado crescimento econômico, registraram um aumento na utilização de combustíveis fósseis. Entre elas estão Moscou, Tashkent, Izmir, Riade e Abu Dhabi. Este contraste destaca a complexidade da transição energética e a necessidade de abordagens personalizadas, considerando as particularidades econômicas, sociais e políticas de cada região. A persistência da dependência de combustíveis fósseis nessas áreas sublinha os desafios contínuos na busca por um desenvolvimento verdadeiramente sustentável em escala global.</p><p>Apesar dos desafios e das variações regionais, a metodologia empregada no estudo oferece um quadro escalável e baseado em satélite, com potencial para ser atualizado regularmente. Essa abordagem representa uma nova e poderosa ferramenta para monitorar as transições de sustentabilidade urbana e subsidiar a formulação de políticas públicas eficazes. Ao fornecer dados consistentes e comparáveis em escala global, o Sentinel-5P e a análise de dados do PIB permitem que formuladores de políticas avaliem o impacto de suas ações e ajustem estratégias para promover um futuro onde a prosperidade e o ar limpo caminhem verdadeiramente de mãos dadas.</p>",
+    "body_pt": "<p>Durante décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente interligados. À medida que as cidades se expandiam, o aumento da prosperidade era frequentemente acompanhado pelo agravamento da poluição atmosférica. No entanto, um estudo recente, liderado pelo instituto de pesquisa norueguês NILU e publicado na Nature Cities, desafia essa percepção. A pesquisa analisou 2.475 grandes áreas urbanas em todo o mundo e revelou que quase 80% delas estão alcançando níveis mais elevados de prosperidade em conjunto com um ar mais limpo, indicando que o desenvolvimento econômico e a sustentabilidade ambiental podem, de fato, coexistir.</p><p>A base dessa investigação reside nas capacidades avançadas de monitoramento atmosférico do satélite europeu Copernicus Sentinel-5P. Este instrumento fornece uma visão global única da qualidade do ar, sendo crucial para a coleta de dados. Os cientistas utilizaram medições de dióxido de nitrogênio atmosférico (NO2) coletadas pelo Sentinel-5P entre janeiro de 2019 e dezembro de 2024. Esses dados foram então comparados com informações detalhadas sobre o Produto Interno Bruto (PIB) de cada região. Ao combinar as observações do satélite com dados locais do PIB per capita, os pesquisadores conseguiram rastrear a evolução do crescimento econômico e da dependência de combustíveis fósseis ao longo do tempo em cada uma das áreas urbanas estudadas.</p><p>As conclusões do estudo são notáveis: aproximadamente 2.000 das 2.475 cidades selecionadas globalmente implementaram com sucesso políticas verdes. Essas iniciativas não apenas impulsionaram a prosperidade econômica, mas também resultaram na redução da dependência de combustíveis fósseis. Esse achado sugere uma mudança paradigmática, onde a adoção de estratégias sustentáveis não é um entrave, mas sim um catalisador para o desenvolvimento. A pesquisa demonstra que é possível dissociar o crescimento econômico do aumento da poluição, abrindo caminho para um futuro urbano mais saudável e próspero.</p><p>A tendência de conciliar prosperidade e ar mais limpo é particularmente evidente na China. O país asiático se destaca com 719 cidades classificadas na categoria de mais limpas e ricas, incluindo metrópoles como Pequim, Xangai e Chengdu. Este resultado é significativo, considerando o rápido crescimento industrial e urbano da China nas últimas décadas. A implementação de rigorosas políticas ambientais e investimentos em energias renováveis parece ter desempenhado um papel fundamental nessa transformação, mostrando que mesmo economias em expansão podem priorizar a qualidade do ar sem comprometer o desenvolvimento.</p><p>Padrões semelhantes de sucesso foram observados em toda a Europa. Cidades como Paris, Berlim, Roma e Amsterdã se beneficiaram da implementação de zonas de baixas emissões e de políticas de energia limpa. Essas medidas, que visam restringir a circulação de veículos poluentes e promover fontes de energia sustentáveis, contribuíram para uma melhoria substancial na qualidade do ar urbano, ao mesmo tempo em que mantiveram ou impulsionaram o crescimento econômico. A experiência europeia reforça a ideia de que a regulamentação ambiental e a inovação tecnológica são ferramentas eficazes para alcançar a sustentabilidade urbana.</p><p>Contudo, o estudo também identificou um grupo de 390 cidades que, embora tenham apresentado crescimento econômico, registraram um aumento na utilização de combustíveis fósseis. Entre elas estão Moscou, Tashkent, Izmir, Riade e Abu Dhabi. Este contraste destaca a complexidade da transição energética e a necessidade de abordagens personalizadas, considerando as particularidades econômicas, sociais e políticas de cada região. A persistência da dependência de combustíveis fósseis nessas áreas sublinha os desafios contínuos na busca por um desenvolvimento verdadeiramente sustentável em escala global.</p><p>Apesar dos desafios e das variações regionais, a metodologia empregada no estudo oferece um quadro escalável e baseado em satélite, com potencial para ser atualizado regularmente. Essa abordagem representa uma nova e poderosa ferramenta para monitorar as transições de sustentabilidade urbana e subsidiar a formulação de políticas públicas eficazes. Ao fornecer dados consistentes e comparáveis em escala global, o Sentinel-5P e a análise de dados do PIB permitem que formuladores de políticas avaliem o impacto de suas ações e ajustem estratégias para promover um futuro onde a prosperidade e o ar limpo caminhem verdadeiramente de mãos dadas.</p>",
+    "body_en": "<p>For decades, economic growth and fossil-fuel consumption have been tightly intertwined. As cities have expanded, rising prosperity has often been accompanied by worsening air pollution. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Using data from Europe’s Copernicus Sentinel-5P satellite mission together with information on gross domestic product (GDP), researchers have found that many of the world’s. The study, led by Norway’s NILU research institute and published recently in Nature Cities, analysed 2475 major urban areas around the world and found that almost 80% of them are.</p><p>At the heart of the research is Sentinel-5P, whose advanced atmospheric monitoring capabilities provide a unique global view of air quality. Scientists used measurements of atmospheric nitrogen dioxide collected by Sentinel-5P between January 2019 and December 2024 and compared these data with information on GDP.</p><p>By combining Sentinel-5P observations with local GDP-per-capita data, researchers were able to track how economic growth and fossil-fuel dependence evolved over time. The findings indicate that almost 2000 out of the 2475 selected cities worldwide have implemented green policies that have generated economic prosperity while reducing.</p><p>The trend is particularly evident in China, which accounted for 719 cities in the cleaner-and-richer category, including Beijing, Shanghai and Chengdu. Similar patterns were observed across Europe, where cities including Paris, Berlin, Rome and Amsterdam have benefited from low-emission zones and clean-energy policies.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>For example, 390 cities matched trends of economic growth, but with increased use of fossil fuels, including Moscow, Tashkent, Izmir, Riyadh and Abu Dhabi. The study notes key uncertainties, including uneven economic data quality between countries, a study boundary that does not consider how cities’ total emissions footprints may be.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Por décadas, o crescimento econômico e o consumo de combustíveis fósseis estiveram intrinsecamente ligados",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: For decades, economic growth and fossil-fuel consumption have been tightly intertwined",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "09 jun 2026",
+    "date_pt": "09 jun 2026",
+    "date_en": "09 Jun 2026",
+    "time": "07h31",
+    "time_pt": "07h31",
+    "time_en": "07: 31 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-09T07:31:00+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Ar mais limpo e prosperidade podem andar de mãos dadas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Ar mais limpo e prosperidade podem andar de mãos dadas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space News",
+      "Cosmos Week",
+      "Cleaner air and prosperity can go hand in hand"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Cleaner_air_and_prosperity_can_go_hand_in_hand",
+    "realUrl": "https://www.cosmosweek.com/?article=cleaner-air-and-prosperity-can-go-hand-in-hand",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=cleaner-air-and-prosperity-can-go-hand-in-hand",
+    "realUrl_en": "https://www.cosmosweek.com/?article=cleaner-air-and-prosperity-can-go-hand-in-hand&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/cleaner-air-and-prosperity-can-go-hand-in-hand/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "imageAlt_pt": "Ar mais limpo e prosperidade podem caminhar juntos",
+    "imageAlt_en": "Cleaner air and prosperity can go hand in hand",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "researchers-develop-innovative-model-for-risk-assessment-for-hypertrophic-cardiomyopathy",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -123,7 +579,250 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
+    "slug": "the-integral-and-correlation-scales-of-solar-wind-turbulence",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/1280px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "As escalas integrais e de correlação da turbulência do vento solar",
+    "title_pt": "As escalas integrais e de correlação da turbulência do vento solar",
+    "title_en": "The integral and correlation scales of solar wind turbulence",
+    "sub": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento.",
+    "sub_pt": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento.",
+    "sub_en": "Many works have attempted to estimate the correlation and integral timescales associated with turbulent fluctuations in the solar wind, which are interpreted as length scales.",
+    "excerpt": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento segundo a Hipótese de Taylor.",
+    "excerpt_pt": "Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como escalas de comprimento segundo a Hipótese de Taylor.",
+    "excerpt_en": "Many works have attempted to estimate the correlation and integral timescales associated with turbulent fluctuations in the solar wind, which are interpreted as length scales based on Taylor's~Hypothesis.",
+    "body": "<p>A estimativa das escalas de tempo integrais e de correlação, associadas às flutuações turbulentas no vento solar, tem sido um foco de diversos estudos. Essas escalas são frequentemente interpretadas como escalas de comprimento, fundamentadas na aplicação da Hipótese de Taylor. A compreensão dessas escalas é crucial para caracterizar a natureza da turbulência no meio interplanetário e suas implicações para a propagação de partículas e energia, fornecendo insights sobre os processos de transporte e aquecimento no plasma solar.</p><p>Contudo, a obtenção de estimativas precisas dessas escalas de tempo, a partir de dados coletados por espaçonaves, é intrinsecamente ligada à exatidão das funções de autocorrelação (ACF). Observações recentes têm indicado que a estimativa da ACF pode ser significativamente influenciada pelo comprimento do intervalo de dados empregado em seu cálculo. Essa dependência levanta questões importantes sobre a robustez e a confiabilidade das metodologias tradicionais para a determinação das características temporais da turbulência solar, potencialmente introduzindo vieses nas análises.</p><p>Neste estudo, argumenta-se que essa aparente dependência da duração do intervalo de observação pode ser um artefato metodológico. A hipótese central é que os estimadores de ACF convencionais falham em capturar adequadamente o comportamento de longo atraso da verdadeira função de autocorrelação da turbulência subjacente. Essa limitação impede uma representação fiel da dinâmica temporal do sistema, levando a incertezas nas estimativas das escalas de tempo características e, consequentemente, na interpretação dos fenômenos turbulentos.</p><p>Para superar essas limitações, introduzimos uma nova metodologia fundamentada no princípio da ergodicidade, visando a estimativa inequívoca da escala de tempo integral. Adicionalmente, propomos um novo estimador de ACF que demonstra uma convergência ergódica superior em comparação com os métodos atualmente empregados. Essa abordagem inovadora busca fornecer uma ferramenta mais robusta e confiável para a análise das flutuações turbulentas, minimizando os artefatos associados à escolha do intervalo de dados.</p><p>As propriedades ergódicas inerentes ao novo estimador de ACF permitem que ele capture de forma apropriada o comportamento de longo atraso da turbulência. Uma vantagem significativa dessa abordagem é a sua independência em relação à duração do intervalo de dados utilizado para a estimativa. Isso representa um avanço crucial, pois elimina uma fonte de incerteza e variabilidade que tem afetado as análises anteriores, garantindo resultados mais consistentes e representativos da física subjacente do vento solar.</p><p>Aplicamos esta nova abordagem para estimar as escalas integrais e de correlação das flutuações magnéticas observadas no vento solar. Os dados foram coletados em uma região próxima a 1 unidade astronômica (UA), um local de interesse fundamental para o estudo da evolução da turbulência solar. Os resultados obtidos com esta metodologia oferecem novas perspectivas sobre a caracterização das propriedades turbulentas do campo magnético interplanetário, contribuindo para uma compreensão mais aprofundada dos processos físicos que governam o vento solar e sua interação com o ambiente espacial.</p>",
+    "body_pt": "<p>A estimativa das escalas de tempo integrais e de correlação, associadas às flutuações turbulentas no vento solar, tem sido um foco de diversos estudos. Essas escalas são frequentemente interpretadas como escalas de comprimento, fundamentadas na aplicação da Hipótese de Taylor. A compreensão dessas escalas é crucial para caracterizar a natureza da turbulência no meio interplanetário e suas implicações para a propagação de partículas e energia, fornecendo insights sobre os processos de transporte e aquecimento no plasma solar.</p><p>Contudo, a obtenção de estimativas precisas dessas escalas de tempo, a partir de dados coletados por espaçonaves, é intrinsecamente ligada à exatidão das funções de autocorrelação (ACF). Observações recentes têm indicado que a estimativa da ACF pode ser significativamente influenciada pelo comprimento do intervalo de dados empregado em seu cálculo. Essa dependência levanta questões importantes sobre a robustez e a confiabilidade das metodologias tradicionais para a determinação das características temporais da turbulência solar, potencialmente introduzindo vieses nas análises.</p><p>Neste estudo, argumenta-se que essa aparente dependência da duração do intervalo de observação pode ser um artefato metodológico. A hipótese central é que os estimadores de ACF convencionais falham em capturar adequadamente o comportamento de longo atraso da verdadeira função de autocorrelação da turbulência subjacente. Essa limitação impede uma representação fiel da dinâmica temporal do sistema, levando a incertezas nas estimativas das escalas de tempo características e, consequentemente, na interpretação dos fenômenos turbulentos.</p><p>Para superar essas limitações, introduzimos uma nova metodologia fundamentada no princípio da ergodicidade, visando a estimativa inequívoca da escala de tempo integral. Adicionalmente, propomos um novo estimador de ACF que demonstra uma convergência ergódica superior em comparação com os métodos atualmente empregados. Essa abordagem inovadora busca fornecer uma ferramenta mais robusta e confiável para a análise das flutuações turbulentas, minimizando os artefatos associados à escolha do intervalo de dados.</p><p>As propriedades ergódicas inerentes ao novo estimador de ACF permitem que ele capture de forma apropriada o comportamento de longo atraso da turbulência. Uma vantagem significativa dessa abordagem é a sua independência em relação à duração do intervalo de dados utilizado para a estimativa. Isso representa um avanço crucial, pois elimina uma fonte de incerteza e variabilidade que tem afetado as análises anteriores, garantindo resultados mais consistentes e representativos da física subjacente do vento solar.</p><p>Aplicamos esta nova abordagem para estimar as escalas integrais e de correlação das flutuações magnéticas observadas no vento solar. Os dados foram coletados em uma região próxima a 1 unidade astronômica (UA), um local de interesse fundamental para o estudo da evolução da turbulência solar. Os resultados obtidos com esta metodologia oferecem novas perspectivas sobre a caracterização das propriedades turbulentas do campo magnético interplanetário, contribuindo para uma compreensão mais aprofundada dos processos físicos que governam o vento solar e sua interação com o ambiente espacial.</p>",
+    "body_en": "<p>Many works have attempted to estimate the correlation and integral timescales associated with turbulent fluctuations in the solar wind, which are interpreted as length scales based on Taylor&#x27;s~Hypothesis. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Have an idea for a project that will add value for arXiv&#x27;s community. However, accurate estimates of these timescales from spacecraft observations heavily rely on the accurate estimation of autocorrelation functions (ACF), which have been recently.</p><p>In this Letter, we show that this dependence on interval length may be artificial because common ACF estimators do not correctly capture the long-lag behavior of the true ACF of. We introduce a new ergodicity-based methodology to unambiguously estimate the integral timescale, and a new ACF estimator with better ergodic convergence than current ones.</p><p>Due to its ergodic properties, the new ACF estimator properly captures the long-lag behavior, and is independent of the interval length. We use this approach to estimate the integral and correlation scales of magnetic fluctuations in the solar wind near $1~{\\rm au}$.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.09750v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Muitos estudos buscaram estimar as escalas de tempo integrais e de correlação associadas às flutuações turbulentas no vento solar, interpretadas como",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Many works have attempted to estimate the correlation and integral timescales associated with turbulent fluctuations in the solar wind, which are",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "08 jun 2026",
+    "date_pt": "08 jun 2026",
+    "date_en": "08 Jun 2026",
+    "time": "17h11",
+    "time_pt": "17h11",
+    "time_en": "17: 11 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-08T17:11:32+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "arXiv Physics Frontiers",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "As escalas integrais e de correlação da turbulência do vento solar"
+    ],
+    "keywords_pt": [
+      "Física",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "As escalas integrais e de correlação da turbulência do vento solar"
+    ],
+    "keywords_en": [
+      "Physical",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "The integral and correlation scales of solar wind turbulence"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2606.09750v1",
+    "realUrl": "https://www.cosmosweek.com/?article=the-integral-and-correlation-scales-of-solar-wind-turbulence",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=the-integral-and-correlation-scales-of-solar-wind-turbulence",
+    "realUrl_en": "https://www.cosmosweek.com/?article=the-integral-and-correlation-scales-of-solar-wind-turbulence&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-integral-and-correlation-scales-of-solar-wind-turbulence/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 78,
+    "scoreBreakdown": {
+      "source": 61,
+      "evidence": 39,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "As escalas integrais e de correlação da turbulência do vento solar",
+    "imageAlt_pt": "As escalas integrais e de correlação da turbulência do vento solar",
+    "imageAlt_en": "The integral and correlation scales of solar wind turbulence",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 6,
+    "slug": "primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "title_pt": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "title_en": "Primordial Black Holes from Slow Phase Transitions with Delayed Reheating: A Peak-Theory Approach",
+    "sub": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento.",
+    "sub_pt": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento.",
+    "sub_en": "We study the possibility of significant PBH production from a slow first-order phase transition with delayed reheating.",
+    "excerpt": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento retardado.",
+    "excerpt_pt": "Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de primeira ordem com reaquecimento retardado.",
+    "excerpt_en": "We study the possibility of significant PBH production from a slow first-order phase transition with delayed reheating. Since delayed reheating results in an early matter-dominated phase between percolation and reheating, we developed a.",
+    "body": "<p>Este estudo investiga a viabilidade da produção significativa de Buracos Negros Primordiais (PBHs) em cenários de transições de fase lentas de primeira ordem, caracterizadas por um reaquecimento retardado. A formação de PBHs é um tópico de grande interesse na cosmologia, pois eles podem desempenhar um papel crucial na composição da matéria escura e na formação de estruturas no universo primordial. Compreender os mecanismos que governam sua formação é essencial para refinar nossos modelos cosmológicos e testar teorias além do Modelo Padrão. A abordagem aqui adotada foca nas condições específicas de transições de fase que podem gerar as flutuações de densidade necessárias para o colapso gravitacional e a subsequente formação desses objetos exóticos. A análise detalhada das propriedades dessas transições e do processo de reaquecimento é fundamental para determinar a abundância e as características dos PBHs resultantes.</p><p>Para quantificar a probabilidade de colapso gravitacional e, consequentemente, a formação de PBHs, foram realizadas simulações de Monte Carlo em larga escala. Este método computacional robusto permitiu explorar um vasto espaço de parâmetros e modelar a evolução das flutuações de densidade no universo primordial. A aplicação do critério da conjectura circular foi crucial para identificar as regiões que efetivamente colapsariam em buracos negros. Este critério, amplamente aceito na literatura, fornece uma condição para o colapso de sobredensidades esféricas, simplificando a análise de um problema complexo. A precisão dessas simulações é vital para obter resultados confiáveis sobre a abundância e as propriedades dos PBHs, fornecendo uma base sólida para as conclusões do estudo.</p><p>Um aspecto importante da investigação foi a análise do spin inicial dos PBHs. Para isso, foram incluídos termos de torque de maré nas simulações, que descrevem as interações gravitacionais diferenciais que podem induzir rotação nos objetos em formação. Os resultados indicam que o parâmetro de spin médio dos PBHs formados sob essas condições é da ordem de \\mathcal{O}(10^{-3}). Este valor relativamente baixo sugere que os PBHs primordiais gerados por este mecanismo tendem a ter um spin intrínseco pequeno, o que pode ter implicações significativas para sua detecção e para a compreensão de sua evolução posterior. A determinação do spin é um dado crucial para diferenciar os PBHs de buracos negros astrofísicos e para restringir modelos teóricos de sua origem.</p><p>A pesquisa revelou a existência de um limiar de sobredensidade emergente para o colapso, cuja magnitude é intrinsecamente dependente das propriedades específicas da transição de fase e da eficiência do reaquecimento. Isso significa que as condições físicas do universo primordial durante e após a transição de fase são determinantes para a formação de PBHs. Variações na taxa de expansão, na temperatura e na composição do plasma podem alterar esse limiar, influenciando diretamente a quantidade de matéria que pode colapsar. A identificação desse limiar é um avanço importante, pois permite estabelecer critérios mais precisos para prever a formação de PBHs em diferentes cenários cosmológicos e refinar as condições necessárias para sua existência.</p><p>Um dos achados mais notáveis do estudo é a extrema sensibilidade da abundância de PBHs à eficiência do reaquecimento. Observou-se que pequenas variações, da ordem de unidade, na eficiência do reaquecimento podem levar a mudanças de muitas ordens de grandeza na fração de colapso. Essa sensibilidade sublinha a importância crítica de um entendimento preciso dos processos de reaquecimento pós-inflacionário e pós-transição de fase. Qualquer incerteza nesses parâmetros pode resultar em previsões drasticamente diferentes para a densidade de PBHs no universo. Tal dependência acentuada sugere que a formação de PBHs é um fenômeno altamente sintonizado com as condições térmicas e dinâmicas do universo primordial, tornando-o um excelente laboratório para testar modelos de física de partículas e cosmologia.</p><p>A investigação também permitiu identificar regiões específicas no espaço de parâmetros onde os PBHs resultantes poderiam, em princípio, ser responsáveis por toda a abundância de matéria escura observada. Esta é uma implicação profunda, pois oferece uma solução alternativa para o problema da matéria escura, que atualmente é um dos maiores mistérios da física. Se os PBHs realmente constituem a totalidade da matéria escura, isso teria consequências significativas para a busca por partículas de matéria escura e para a interpretação de observações cosmológicas. A existência de tais regiões no espaço de parâmetros valida a hipótese de que os PBHs podem ser candidatos viáveis para a matéria escura, incentivando futuras pesquisas observacionais e teóricas para confirmar ou refutar essa possibilidade.</p><p>Em suma, este trabalho demonstra que transições de fase lentas de primeira ordem com reaquecimento retardado representam um mecanismo promissor para a produção de Buracos Negros Primordiais. Os resultados obtidos, incluindo o baixo spin médio, o limiar de sobredensidade dependente das propriedades da transição e a extrema sensibilidade à eficiência do reaquecimento, fornecem insights valiosos sobre as condições e características desses objetos. A identificação de cenários onde os PBHs podem explicar a totalidade da matéria escura reforça a relevância dessa linha de pesquisa. Futuros estudos, tanto teóricos quanto observacionais, serão cruciais para aprofundar nossa compreensão e potencialmente confirmar o papel dos PBHs na cosmologia.</p>",
+    "body_pt": "<p>Este estudo investiga a viabilidade da produção significativa de Buracos Negros Primordiais (PBHs) em cenários de transições de fase lentas de primeira ordem, caracterizadas por um reaquecimento retardado. A formação de PBHs é um tópico de grande interesse na cosmologia, pois eles podem desempenhar um papel crucial na composição da matéria escura e na formação de estruturas no universo primordial. Compreender os mecanismos que governam sua formação é essencial para refinar nossos modelos cosmológicos e testar teorias além do Modelo Padrão. A abordagem aqui adotada foca nas condições específicas de transições de fase que podem gerar as flutuações de densidade necessárias para o colapso gravitacional e a subsequente formação desses objetos exóticos. A análise detalhada das propriedades dessas transições e do processo de reaquecimento é fundamental para determinar a abundância e as características dos PBHs resultantes.</p><p>Para quantificar a probabilidade de colapso gravitacional e, consequentemente, a formação de PBHs, foram realizadas simulações de Monte Carlo em larga escala. Este método computacional robusto permitiu explorar um vasto espaço de parâmetros e modelar a evolução das flutuações de densidade no universo primordial. A aplicação do critério da conjectura circular foi crucial para identificar as regiões que efetivamente colapsariam em buracos negros. Este critério, amplamente aceito na literatura, fornece uma condição para o colapso de sobredensidades esféricas, simplificando a análise de um problema complexo. A precisão dessas simulações é vital para obter resultados confiáveis sobre a abundância e as propriedades dos PBHs, fornecendo uma base sólida para as conclusões do estudo.</p><p>Um aspecto importante da investigação foi a análise do spin inicial dos PBHs. Para isso, foram incluídos termos de torque de maré nas simulações, que descrevem as interações gravitacionais diferenciais que podem induzir rotação nos objetos em formação. Os resultados indicam que o parâmetro de spin médio dos PBHs formados sob essas condições é da ordem de \\mathcal{O}(10^{-3}). Este valor relativamente baixo sugere que os PBHs primordiais gerados por este mecanismo tendem a ter um spin intrínseco pequeno, o que pode ter implicações significativas para sua detecção e para a compreensão de sua evolução posterior. A determinação do spin é um dado crucial para diferenciar os PBHs de buracos negros astrofísicos e para restringir modelos teóricos de sua origem.</p><p>A pesquisa revelou a existência de um limiar de sobredensidade emergente para o colapso, cuja magnitude é intrinsecamente dependente das propriedades específicas da transição de fase e da eficiência do reaquecimento. Isso significa que as condições físicas do universo primordial durante e após a transição de fase são determinantes para a formação de PBHs. Variações na taxa de expansão, na temperatura e na composição do plasma podem alterar esse limiar, influenciando diretamente a quantidade de matéria que pode colapsar. A identificação desse limiar é um avanço importante, pois permite estabelecer critérios mais precisos para prever a formação de PBHs em diferentes cenários cosmológicos e refinar as condições necessárias para sua existência.</p><p>Um dos achados mais notáveis do estudo é a extrema sensibilidade da abundância de PBHs à eficiência do reaquecimento. Observou-se que pequenas variações, da ordem de unidade, na eficiência do reaquecimento podem levar a mudanças de muitas ordens de grandeza na fração de colapso. Essa sensibilidade sublinha a importância crítica de um entendimento preciso dos processos de reaquecimento pós-inflacionário e pós-transição de fase. Qualquer incerteza nesses parâmetros pode resultar em previsões drasticamente diferentes para a densidade de PBHs no universo. Tal dependência acentuada sugere que a formação de PBHs é um fenômeno altamente sintonizado com as condições térmicas e dinâmicas do universo primordial, tornando-o um excelente laboratório para testar modelos de física de partículas e cosmologia.</p><p>A investigação também permitiu identificar regiões específicas no espaço de parâmetros onde os PBHs resultantes poderiam, em princípio, ser responsáveis por toda a abundância de matéria escura observada. Esta é uma implicação profunda, pois oferece uma solução alternativa para o problema da matéria escura, que atualmente é um dos maiores mistérios da física. Se os PBHs realmente constituem a totalidade da matéria escura, isso teria consequências significativas para a busca por partículas de matéria escura e para a interpretação de observações cosmológicas. A existência de tais regiões no espaço de parâmetros valida a hipótese de que os PBHs podem ser candidatos viáveis para a matéria escura, incentivando futuras pesquisas observacionais e teóricas para confirmar ou refutar essa possibilidade.</p><p>Em suma, este trabalho demonstra que transições de fase lentas de primeira ordem com reaquecimento retardado representam um mecanismo promissor para a produção de Buracos Negros Primordiais. Os resultados obtidos, incluindo o baixo spin médio, o limiar de sobredensidade dependente das propriedades da transição e a extrema sensibilidade à eficiência do reaquecimento, fornecem insights valiosos sobre as condições e características desses objetos. A identificação de cenários onde os PBHs podem explicar a totalidade da matéria escura reforça a relevância dessa linha de pesquisa. Futuros estudos, tanto teóricos quanto observacionais, serão cruciais para aprofundar nossa compreensão e potencialmente confirmar o papel dos PBHs na cosmologia.</p>",
+    "body_en": "<p>The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Have an idea for a project that will add value for arXiv&#x27;s community. Since delayed reheating results in an early matter-dominated phase between percolation and reheating, we developed a peak-theoretic approach to PBH formation during this phase.</p><p>To obtain the collapse probability, we performed large-scale Monte Carlo simulations and employed the hoop-conjecture criterion. We include tidal-torque terms to investigate the initial spin of the PBHs and find that the average spin parameter is $\\mathcal{O}(10^{-3})$.</p><p>Furthermore, we obtain an emergent overdensity threshold for collapse that depends on the phase transition properties and reheating efficiency. We find that the resulting PBH abundance is extremely sensitive to the reheating efficiency, with order-unity changes in efficiency leading to variations of many orders of.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>We identify regions of parameter space where the resulting PBHs can account for the entirety of the dark matter abundance. Finally, we also constrain the phase transition and reheating properties from current data on (non-)observations of PBHs.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.09482v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Este estudo investiga a possibilidade de produção significativa de Buracos Negros Primordiais (PBHs) a partir de uma transição de fase lenta de",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: We study the possibility of significant PBH production from a slow first-order phase transition with delayed reheating",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "08 jun 2026",
+    "date_pt": "08 jun 2026",
+    "date_en": "08 Jun 2026",
+    "time": "13h39",
+    "time_pt": "13h39",
+    "time_en": "13: 39 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-08T13:39:21+00:00",
+    "lastModifiedIso": "2026-06-09T17:52:07+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Buracos negros primordiais de transições de fase lentas com reaquecimento retardado",
+      "uma abordagem de teoria de pico"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Buracos negros primordiais de transições de fase lentas com reaquecimento retardado",
+      "uma abordagem de teoria de pico"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Primordial black holes of slow phase transitions with delayed reheating",
+      "a peak theory approach"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2606.09482v1",
+    "realUrl": "https://www.cosmosweek.com/?article=primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach",
+    "realUrl_en": "https://www.cosmosweek.com/?article=primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/primordial-black-holes-from-slow-phase-transitions-with-delayed-reheating-a-peak-theory-approach/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "imageAlt_pt": "Buracos Negros Primordiais Provenientes de Transições de Fase Lentas com Reaquecimento Retardado: Uma Abordagem Baseada na Teoria de Picos",
+    "imageAlt_en": "Primordial Black Holes from Slow Phase Transitions with Delayed Reheating: A Peak-Theory Approach",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 7,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -235,19 +934,19 @@ window.postsData = [
     "body_pt": "<p>Na época da missão Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido que o principal obstáculo era a “vontade política”. Contudo, acontecimentos recentes sugerem que a política pode não ser o maior impedimento. Um exemplo notável foi a evacuação médica da Estação Espacial Internacional (ISS) em janeiro, um evento que sublinha a complexidade e os riscos inerentes às missões espaciais, mesmo em ambientes relativamente controlados e próximos da Terra. Este incidente serve como um lembrete de que, além da vontade política, existem desafios técnicos, logísticos e, sobretudo, biológicos e médicos que precisam ser superados antes que a humanidade possa se aventurar com segurança em viagens interplanetárias mais longas.</p><p>A ISS orbita a aproximadamente 400 quilômetros (250 milhas) acima da Terra, uma distância que oferece proteção significativa contra a radiação do espaço profundo, graças ao campo magnético do nosso planeta. Além disso, sua proximidade permite um aborto de missão relativamente fácil e rápido, caso surja uma emergência, e garante comunicação instantânea com o controle da missão na Terra. Essas condições favoráveis tornam a ISS um laboratório ideal para estudar os efeitos de missões espaciais de média duração no corpo humano, mas também destacam a segurança e a infraestrutura de suporte que são atualmente inviáveis para destinos mais distantes.</p><p>A Lua, embora seja o próximo passo lógico na exploração espacial humana, já apresenta desafios consideravelmente maiores. Ela está cerca de mil vezes mais distante da Terra do que a ISS, o que significa que a proteção contra a radiação é mínima e as opções de aborto de missão levariam dias, e não horas, para serem executadas. Essa diferença de escala já introduz uma camada de complexidade e risco que exige sistemas de suporte de vida mais robustos e protocolos de emergência mais elaborados, preparando o terreno para as dificuldades ainda maiores que seriam encontradas em uma jornada a Marte.</p><p>Marte, por sua vez, representa um salto exponencial em termos de distância e complexidade. Em média, o planeta vermelho está cerca de 500 vezes mais longe da Terra do que a Lua. Uma missão tripulada a Marte duraria aproximadamente três anos, um período de tempo sem precedentes para a exploração humana no espaço profundo. Durante essa jornada, não haveria capacidade de aborto de missão, e a assistência da Terra seria mínima ou inexistente devido à imensa distância e aos atrasos na comunicação, que podem chegar a 20 minutos em cada sentido. Essas condições extremas exigem um nível de autossuficiência e resiliência da tripulação e dos sistemas da nave que ainda estão em desenvolvimento.</p><p>Os efeitos da ausência de peso prolongada no corpo humano são uma preocupação central. Semanas ou meses de repouso na cama com a cabeça inclinada 6 graus para baixo podem replicar alguns desses efeitos, como atrofia muscular e o deslocamento de fluidos em direção à cabeça, que podem levar a problemas de visão e cardiovasculares. No entanto, ainda não se sabe se a gravidade de 0, 38g de Marte seria suficiente para mitigar esses problemas médicos de forma eficaz na superfície planetária. A adaptação do corpo humano a um ambiente de gravidade parcial por um longo período é uma área que requer mais pesquisa e desenvolvimento de contramedidas.</p><p>Além dos desafios físicos da microgravidade e da gravidade parcial, há outras considerações médicas e biológicas críticas. Embora a disseminação viral ainda não tenha resultado em doenças graves no espaço, a extrapolação de missões de seis meses para uma expedição de três anos a Marte não é reconfortante. O risco de surtos de doenças, a necessidade de suprimentos médicos autossuficientes e a capacidade de realizar procedimentos cirúrgicos complexos em um ambiente isolado e com recursos limitados são fatores que precisam ser cuidadosamente planejados e testados. A saúde e a segurança da tripulação em uma missão tão longa e distante permanecem como um dos maiores obstáculos a serem superados.</p>",
     "body_en": "<p>Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered, “political will. ” But recent events suggest that politics might not be the greatest impediment. The science-journalism coverage adds useful context, while the strongest evidential footing still comes from the underlying data, papers or institutional documentation.</p><p>It is relevant because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The ISS orbits about 400 kilometers (250 miles) above Earth, protected from deep-space radiation by our planet’s magnetic field, within easy and rapid abort distance, and with. The Moon lies roughly 1, 000 times farther away than the ISS, so radiation protection is minimal, and abort options take days, not hours.</p><p>On average, it is about 500 times farther from Earth than the Moon. There is no abort capability and little to no assistance from Earth due to distance and communication delays of up to 20 minutes one-way.</p><p>A Mars mission would last roughly three years. Weeks or months of bed rest with the head tilted down by 6 degrees can even replicate some of the effects of extended weightlessness, such as muscle atrophy and fluid shift toward.</p><p>Even on the planetary surface, it’s not yet known whether Mars’ 0.38g gravity would sufficiently mitigate these same medical issues. Even though viral shedding has not yet led to serious illness in space, extrapolating from six-month missions to a three-year Mars expedition is not comforting.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>And none of this would be any better on a mission to Mars. After 60 years of sending people into space, this was the first time this phenomenon happened, and it was discovered by accident.</p><p>Because this item comes through The Planetary Society as science journalism, it should be treated as contextual reporting rather than primary evidence. Good science reporting can identify why a result matters, connect it to the wider literature and make technical work readable, but the decisive evidence remains in the original paper, dataset, mission release or technical record. That distinction is especially important when a story is later repeated by aggregators, because repetition increases visibility, not evidential strength.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.planetary.org/articles/are-we-ready-to-send-humans-to-mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
+      "Dado-chave: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
+      "Dado-chave: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered.",
+      "Key detail: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "08 jun 2026",
     "date_pt": "08 jun 2026",
@@ -335,7 +1034,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 8,
     "slug": "what-s-actually-new-about-nasa-s-artemis-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -538,7 +1237,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 9,
     "slug": "esa-and-ebrd-to-advance-earth-observation-for-development-and-impact-finance",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -569,19 +1268,19 @@ window.postsData = [
     "body_pt": "<p>A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que inaugura uma nova era de cooperação. O principal objetivo é promover a utilização de dados e serviços de observação da Terra para impulsionar o desenvolvimento e o financiamento com impacto. Este marco foi alcançado durante a Reunião Anual do BERD, realizada em Riga, Letônia, no sábado, 6 de junho. O acordo formaliza a intenção de ambas as instituições de explorar áreas de interesse mútuo para futuras colaborações, consolidando um período exploratório de aproximadamente dois anos, durante o qual as bases para essa parceria foram estabelecidas e as primeiras iniciativas conjuntas foram iniciadas.</p><p>As áreas de esforço conjunto concentrar-se-ão na aplicação de dados de observação da Terra provenientes do espaço para aprimorar a eficiência e o impacto das iniciativas de desenvolvimento e das operações do BERD. A colaboração abrangerá diversas frentes, incluindo o avanço da utilização de dados e serviços de satélite em projetos de desenvolvimento. Isso engloba desde a fase de pesquisa e desenvolvimento de produtos até a implementação prática, o monitoramento contínuo e a avaliação rigorosa do impacto gerado. A sinergia entre a expertise espacial da ESA e a capacidade de financiamento e desenvolvimento do BERD promete otimizar a forma como os recursos são alocados e os resultados são medidos em contextos de desenvolvimento global.</p><p>A parceria também visa fomentar o compartilhamento de conhecimento, a capacitação de equipes e a mobilização de recursos, além de promover atividades de divulgação. Tais ações são cruciais para fortalecer a aplicação da observação da Terra em prol do desenvolvimento sustentável. Ao integrar informações geoespaciais avançadas nas estratégias de desenvolvimento, é possível obter uma compreensão mais profunda dos desafios ambientais, sociais e econômicos, permitindo a formulação de soluções mais eficazes e adaptadas às realidades locais. Isso inclui, por exemplo, o monitoramento de mudanças climáticas, a gestão de recursos hídricos, a avaliação de infraestruturas e o apoio à agricultura sustentável, demonstrando a versatilidade e o potencial transformador dos dados espaciais.</p><p>A formalização desta colaboração ocorreu em duas etapas. Inicialmente, a carta de intenções (LOI) com o BERD foi assinada digitalmente pela Diretora de Programas de Observação da Terra da ESA, Simonetta Cheli, e pelo Vice-Presidente de Política e Parcerias do BERD, Mark Bowman. Posteriormente, um evento de assinatura presencial foi realizado na reunião anual do BERD em Riga, em 6 de junho. Neste evento, Rune Floberghagen, Chefe do Departamento de Ação Climática, Sustentabilidade e Ciência da ESA, confirmou o acordo de parceria ao lado do Diretor Geral de Política do BERD. Essa abordagem em duas fases sublinha a importância e o compromisso de ambas as organizações com a parceria, garantindo que todos os aspectos legais e protocolares fossem devidamente cumpridos.</p><p>Simonetta Cheli, da ESA, enfatizou a relevância estratégica desta aliança, afirmando: “Esta parceria com o Banco Europeu de Reconstrução e Desenvolvimento reflete a força da cooperação europeia na abordagem dos desafios globais. Ao trabalhar em conjunto, podemos desbloquear ainda mais o potencial dos dados e serviços de observação da Terra, garantindo que estejam totalmente integrados em iniciativas de desenvolvimento que geram impacto concreto no mundo real. ” Sua declaração ressalta a visão compartilhada de que a colaboração é fundamental para maximizar o valor dos investimentos em tecnologia espacial e direcioná-los para soluções práticas que beneficiem comunidades e ecossistemas em escala global. A integração desses dados em políticas e projetos de desenvolvimento é vista como um catalisador para a inovação e a sustentabilidade.</p><p>A união de forças entre a ESA, líder em tecnologia espacial, e o BERD, uma instituição financeira focada no desenvolvimento, representa um modelo promissor para a aplicação de inovações tecnológicas em prol de objetivos socioeconômicos e ambientais. A capacidade de monitorar e analisar o planeta a partir do espaço oferece ferramentas inestimáveis para a tomada de decisões informadas, a mitigação de riscos e a identificação de oportunidades de crescimento sustentável. Este acordo não apenas fortalece a posição da Europa na vanguarda da observação da Terra, mas também estabelece um precedente para futuras colaborações interinstitucionais que buscam alavancar a ciência e a tecnologia para enfrentar os desafios mais prementes da humanidade, desde a segurança alimentar até a resiliência climática.</p>",
     "body_en": "<p>The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with the aim of advancing the use of Earth observation data and services for development and impact. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The European Space Agency (ESA) signed an agreement with the European Bank for Reconstruction and Development (EBRD), hailing a new era of cooperation with the aim of advancing. The agreement, signed during the EBRD Annual Meeting in Latvia on Saturday, 6 June, sets out the intention for ESA and the EBRD to further explore areas of mutual interest for.</p><p>The areas of joint effort will focus on using space-based Earth observation data to improve the efficiency and impact of development efforts and EBRD operations. The collaboration will address issues including advancing the use of satellite date and services in development projects, from research and product development through to.</p><p>It will also promote joint knowledge sharing, capacity building, resource mobilisation and outreach activities to strengthen the application of Earth observation for sustainable. The letter of intent (LOI) with the EBRD was digitally signed by ESA’s Director of Earth Observation Programmes, Simonetta Cheli, and EBRD’s Vice President for Policy and.</p><p>This was followed by an in-person signature event at the EBRD’s annual meeting in Riga on Saturday, 6 June, with ESA’s Head of Climate Action, Sustainability and Science. ESA’s Simonetta Cheli said, “This partnership with the European Bank for Reconstruction and Development reflects the strength of European cooperation in addressing global.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>By working together, we can further unlock the potential of Earth observation data and services, ensuring they are fully integrated into development initiatives that deliver. ESA’s Earth observation programmes are designed precisely for this purpose: to turn space-based knowledge into actionable insights that support sustainable and inclusive.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/ESA_and_EBRD_to_advance_Earth_observation_for_development_and_impact_finance\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de cooperação.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) e o Banco Europeu de Reconstrução e Desenvolvimento (BERD) firmaram um acordo que marca uma nova era de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with the.",
+      "Key detail: The European Space Agency signed an agreement with the European Bank for Reconstruction and Development, hailing a new era of cooperation with.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "08 jun 2026",
     "date_pt": "08 jun 2026",
@@ -669,7 +1368,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 10,
     "slug": "digging-back-in-time-in-the-uae",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -809,7 +1508,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 11,
     "slug": "nasa-s-artemis-ii-moon-mission-research-continues-on-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -867,19 +1566,19 @@ window.postsData = [
     "body_pt": "<p>Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor da Lua, as equipes científicas têm estado ocupadas coletando mais dados e vasculhando as observações coletadas.</p><p>Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico, em 10 de abril, após a sua missão recorde ao redor da Lua, as equipes científicas têm estado ocupadas coletando mais dados e vasculhando as observações coletadas no voo de teste. Os resultados destas investigações científicas ajudarão a apoiar a exploração humana segura do espaço profundo e [. ].</p><p>Imagens lunares, áudio para divulgação de dados Nesta imagem de 3 de abril de 2026, a equipe científica lunar Artemis II é mostrada trabalhando na Sala de Avaliação Científica do Centro de Controle de Missão do Centro Espacial Johnson da NASA em Houston.</p><p>Ao passarem pela Lua na maior aproximação em 6 de abril, a tripulação aplicou as habilidades geológicas que aprenderam na sala de aula e em ambientes semelhantes à Lua na Terra, enquanto fotografavam e descreviam nuances de características geológicas, como crateras de impacto. NASA/Bill Stafford Em 6 de abril, os membros da tripulação do Artemis II estudaram características na Lua e ao redor dela por quase sete horas durante a maior aproximação de Orion à superfície lunar.</p><p>Desde que a tripulação do Artemis II da NASA pousou com segurança em 10 de abril, as equipes científicas têm estado ocupadas coletando dados e vasculhando as observações. NASA/Robert Markowitz Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após sua missão recorde ao redor da Lua, as equipes científicas têm estado ocupadas coletando mais dados e vasculhando as observações.</p><p>Os resultados destas investigações científicas ajudarão a apoiar a exploração humana segura do espaço profundo e fornecerão um modelo de como as futuras missões conduzirão a ciência na superfície lunar à medida que a NASA constrói uma base lunar e desenvolve uma presença humana.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Results from these science investigations will help support safe human exploration of deep space and. 5 min read NASA’s Artemis II Moon Mission Research Continues on Earth Artemis II astronaut Victor Glover walks on a treadmill while in a space suit harnessed to NASA’s Active.</p><p>Lunar imagery, audio for data release In this April 3, 2026, image, the Artemis II lunar science team is shown working in the Science Evaluation Room in the Mission Control Center. As they passed the Moon at closest approach on April 6, the crew applied the geology skills they learned in the classroom and in Moon-like environments on Earth as they.</p><p>NASA/Bill Stafford On April 6, the Artemis II crew members studied features on and around the Moon for nearly seven hours during Orion’s closest approach to the lunar surface. Since NASA’s Artemis II crew safely splashed down on April 10, science teams have been busy collecting data and combing through observations.</p><p>NASA/Robert Markowitz Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams. Results from these science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The results from this work could lead to new technologies and studies that help predict the adaptability of crews on future missions to the Moon and Mars. The analysis will characterize how organ chips model individual responses to spaceflight, which is data that could allow NASA to send future astronauts’ AVATAR chips ahead on.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor.",
+      "Dado-chave: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao redor.",
+      "Dado-chave: Desde que os membros da tripulação do Artemis II da NASA pousaram com segurança no Oceano Pacífico em 10 de abril, após a sua missão recorde ao.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon.",
+      "Key detail: Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "05 jun 2026",
     "date_pt": "05 jun 2026",
@@ -967,7 +1666,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 12,
     "slug": "webb-unveils-young-stars-across-every-stage-of-formation",
     "cat": "Química",
     "catCls": "quimica",
@@ -1098,7 +1797,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 13,
     "slug": "nasa-funded-study-shows-wildfire-smoke-s-hidden-ozone-toll",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1232,128 +1931,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 9,
-    "slug": "short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "title_pt": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "title_en": "Short Gravitational-Wave Transients as Probes of Cosmic Domain Walls",
-    "sub": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "sub_pt": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "sub_en": "GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole coalescences whose inferred parameters, i.",
-    "excerpt": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "excerpt_pt": "GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros binários muito massivos.",
-    "excerpt_en": "GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole coalescences whose inferred parameters, i.",
-    "body": "<p>Neste estudo, investigamos uma interpretação topológica da matéria escura (TDM) que invoca a existência de paredes de domínio cósmico. Para isso, ajustamos um modelo de parede de domínio, fisicamente motivado, aos dados de deformação coletados pelos detectores LIGO Hanford e Livingston. O objetivo principal foi testar a viabilidade dessa hipótese em relação a eventos de ondas gravitacionais conhecidos.</p><p>A hipótese de coalescência de buracos negros binários (BBH) mostrou-se individualmente favorecida para os eventos GW231123 e GW190521. Os valores de $\\log_{10}\\mathcal{B}_{\\rm BBH/TDM}$ foram de $12, 2$ e $11, 3$, respectivamente, indicando uma forte preferência pela explicação BBH. Contudo, é importante notar que esses valores são inferiores aos tipicamente recuperados de formas de onda BBH máximas, que são combinadas a posteriori e injetadas em segmentos de ruído próximos. Essa discrepância sugere a necessidade de uma análise mais aprofundada.</p><p>Pela primeira vez, realizamos um ajuste conjunto, no qual os sinais da parede do domínio, provenientes de um único campo escalar subjacente, foram simultaneamente restringidos por ambos os eventos. Essa abordagem permite uma avaliação mais robusta da consistência dos dados com a hipótese TDM, considerando a possibilidade de uma origem comum para os sinais observados. A análise conjunta é crucial para identificar padrões que poderiam ser obscurecidos em investigações individuais.</p><p>Embora a hipótese TDM não tenha sido favorecida em relação aos sinais BBH na análise conjunta, nossos resultados revelam que os dois eventos são consistentes com a existência de um campo escalar comum. Os parâmetros TDM compartilhados demonstraram concordância entre diferentes realizações de ruído independentes e diversas localizações no céu. Isso indica que, apesar da menor probabilidade, a explicação TDM não pode ser completamente descartada e merece investigação contínua.</p><p>Adicionalmente, observamos que os transientes TDM injetados são sistematicamente recuperados sob a hipótese BBH, frequentemente associados a grandes parâmetros de spin. Esse achado revela uma degeneração morfológica significativa entre os sinais de parede de domínio e os de buracos negros binários. Tal degeneração pode, potencialmente, mascarar sinais genuínos de paredes de domínio, dificultando sua detecção e interpretação em futuras observações. A compreensão dessa degeneração é vital para o desenvolvimento de métodos de busca mais eficazes.</p><p>Em suma, esta análise demonstra que os testes de consistência de parâmetros aplicados a múltiplos eventos fornecem um novo e poderoso discriminante para pesquisas de matéria escura baseadas em paredes de domínio. Essa metodologia será fundamental nas próximas execuções de observação, permitindo refinar a busca por evidências de matéria escura topológica e distinguir entre diferentes cenários astrofísicos. A continuidade dessas investigações é essencial para avançar nossa compreensão da natureza da matéria escura no universo.</p>",
-    "body_pt": "<p>Neste estudo, investigamos uma interpretação topológica da matéria escura (TDM) que invoca a existência de paredes de domínio cósmico. Para isso, ajustamos um modelo de parede de domínio, fisicamente motivado, aos dados de deformação coletados pelos detectores LIGO Hanford e Livingston. O objetivo principal foi testar a viabilidade dessa hipótese em relação a eventos de ondas gravitacionais conhecidos.</p><p>A hipótese de coalescência de buracos negros binários (BBH) mostrou-se individualmente favorecida para os eventos GW231123 e GW190521. Os valores de $\\log_{10}\\mathcal{B}_{\\rm BBH/TDM}$ foram de $12, 2$ e $11, 3$, respectivamente, indicando uma forte preferência pela explicação BBH. Contudo, é importante notar que esses valores são inferiores aos tipicamente recuperados de formas de onda BBH máximas, que são combinadas a posteriori e injetadas em segmentos de ruído próximos. Essa discrepância sugere a necessidade de uma análise mais aprofundada.</p><p>Pela primeira vez, realizamos um ajuste conjunto, no qual os sinais da parede do domínio, provenientes de um único campo escalar subjacente, foram simultaneamente restringidos por ambos os eventos. Essa abordagem permite uma avaliação mais robusta da consistência dos dados com a hipótese TDM, considerando a possibilidade de uma origem comum para os sinais observados. A análise conjunta é crucial para identificar padrões que poderiam ser obscurecidos em investigações individuais.</p><p>Embora a hipótese TDM não tenha sido favorecida em relação aos sinais BBH na análise conjunta, nossos resultados revelam que os dois eventos são consistentes com a existência de um campo escalar comum. Os parâmetros TDM compartilhados demonstraram concordância entre diferentes realizações de ruído independentes e diversas localizações no céu. Isso indica que, apesar da menor probabilidade, a explicação TDM não pode ser completamente descartada e merece investigação contínua.</p><p>Adicionalmente, observamos que os transientes TDM injetados são sistematicamente recuperados sob a hipótese BBH, frequentemente associados a grandes parâmetros de spin. Esse achado revela uma degeneração morfológica significativa entre os sinais de parede de domínio e os de buracos negros binários. Tal degeneração pode, potencialmente, mascarar sinais genuínos de paredes de domínio, dificultando sua detecção e interpretação em futuras observações. A compreensão dessa degeneração é vital para o desenvolvimento de métodos de busca mais eficazes.</p><p>Em suma, esta análise demonstra que os testes de consistência de parâmetros aplicados a múltiplos eventos fornecem um novo e poderoso discriminante para pesquisas de matéria escura baseadas em paredes de domínio. Essa metodologia será fundamental nas próximas execuções de observação, permitindo refinar a busca por evidências de matéria escura topológica e distinguir entre diferentes cenários astrofísicos. A continuidade dessas investigações é essencial para avançar nossa compreensão da natureza da matéria escura no universo.</p>",
-    "body_en": "<p>The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>This matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. We test a topological dark matter (TDM) interpretation invoking cosmic domain walls by fitting a physically motivated domain wall template to the LIGO Hanford and Livingston. The BBH hypothesis is individually favored, with $\\log_{10}\\mathcal{B}_{\\rm BBH/TDM}=12.2$ and $11.3$ for GW231123 and GW190521, respectively.</p><p>However, these values are lower than those typically recovered from matched maximum a posteriori BBH waveforms injected into nearby noise segments. We further perform, for the first time, a joint fit in which domain wall signals from a single underlying scalar field are constrained simultaneously by both events.</p><p>Although not favored over BBH signals, we find the two events are consistent with a common scalar field, with shared TDM parameters agreeing across independent noise realizations. We further find that injected TDM transients are systematically recovered under the BBH hypothesis with large spin parameters, revealing a morphological degeneracy that could mask.</p><p>This analysis demonstrates that multi-event parameter consistency tests provide a new discriminant for domain wall dark matter searches in upcoming observing runs. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>ArXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv&#x27;s community.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.06478v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros.",
-      "Dado-chave: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos negros.",
-      "Dado-chave: GW190521 e GW231123 foram identificados como transientes de ondas gravitacionais de curta duração, consistentes com coalescências de buracos.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole coalescences.",
-      "Key detail: GW190521 and GW231123 have been reported as short-duration gravitational-wave transients consistent with very massive binary black hole.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "17h57",
-    "time_pt": "17h57",
-    "time_en": "17: 57 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T17:57:18+00:00",
-    "lastModifiedIso": "2026-06-06T16:57:36+00:00",
-    "source": "arXiv Physics Frontiers",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Short Transients of Gravitational Waves as Probes of Cosmic Domain Walls"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2606.06478v1",
-    "realUrl": "https://www.cosmosweek.com/?article=short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls",
-    "realUrl_en": "https://www.cosmosweek.com/?article=short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/short-gravitational-wave-transients-as-probes-of-cosmic-domain-walls/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 61,
-      "evidence": 35,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "imageAlt_pt": "Transientes Curtos de Ondas Gravitacionais como Sondas de Paredes de Domínios Cósmicos",
-    "imageAlt_en": "Short Gravitational-Wave Transients as Probes of Cosmic Domain Walls",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 10,
+    "id": 14,
     "slug": "tessera-ai-model-offers-accessible-way-to-view-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1393,19 +1971,19 @@ window.postsData = [
     "body_pt": "<p>Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi anunciado em uma conferência da indústria de informática esta semana em Denver, EUA. Crucialmente, os conjuntos de dados codificados, chamados “embeddings”, utilizam muito menos dados do que as imagens pixelizadas que são transmitidas para a Terra a partir de satélites.</p><p>Um artigo sobre Tessera foi publicado na Conferência IEEE/CVF 2026 sobre Visão Computacional e Reconhecimento de Padrões (CVPR), realizada de 3 a 7 de junho. O modelo em si foi lançado pela primeira vez em 2025 e o artigo marca o primeiro anúncio do Tessera totalmente revisado por pares para a comunidade científica.</p><p>O modelo base, Temporal Embeddings of Surface Spectra for Earth Representation and Analysis, ou Tessera, para abreviar, foi desenvolvido por investigadores da Universidade de Cambridge, no Reino Unido, juntamente com parceiros globais e europeus, incluindo a Universidade Aalto. Segundo Nuno Miranda, Gestor da Missão Sentinel-1 da Agência Espacial Europeia (ESA), este é um passo inovador e entusiasmante no desenvolvimento e utilização da IA ​​no domínio da observação da Terra.</p><p>Nossas incorporações tornam os dados mais acessíveis aos usuários de comunidades tradicionalmente não atendidas, especialmente aquelas de ecologia, conservação, ciências vegetais e zoologia. Também os disponibilizamos sem necessidade de registro e sem nenhum custo, abrindo a porta para muitas novas classes de problemas críticos. ” O Tessera processa enormes quantidades de dados de sensoriamento remoto das missões Copernicus, Sentinel-1 e Sentinel-2.</p><p>Ele combina dois tipos de dados: dados ópticos do Sentinel-2 e dados de radar avançados, conhecidos como dados de radar de abertura sintética (SAR), do Sentinel-1. Em vez de imagens pixeladas e com muitos dados de satélites, o Tessera comprime imagens de satélite com muitos dados e nubladas para criar uma camada incorporada de dados da Terra.</p><p>Este modelo foi financiado e apoiado através do projecto Foundation Models for Climate and Society (FM4CS) da ESA.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was announced at a computer industry conference this week in Denver, US. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Crucially, the encoded datasets, called &#x27;embeddings&#x27;, use far less data than the pixellated images that are transmitted to Earth from satellites. A paper on Tessera was published at the 2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), held 3-7 June.</p><p>The model itself was first launched in 2025 and the paper marks the first fully peer-reviewed announcement of Tessera to the scientific community. The foundation model, Temporal Embeddings of Surface Spectra for Earth Representation and Analysis, or Tessera for short, was developed by researchers at the University of.</p><p>According to Nuno Miranda, Mission Manager for Sentinel-1 at the European Space Agency (ESA), this is an innovative and exciting step in the development and use of AI in the field. Our embeddings make the data more accessible to users from traditionally unserved communities, especially those from ecology, conservation, plant science and zoology.</p><p>We’ve also made these available without requiring registration and at no cost, opening the door to many new classes of critical problems. Optical data from Sentinel-2, and advanced radar data, known as synthetic aperture radar (SAR) data, from Sentinel-1.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>So, rather than the data-heavy and pixellated imagery from satellites, Tessera compresses data heavy, cloudy satellite imagery to create an embedding layer of Earth data. This model was funded and supported through ESA’s Foundation Models for Climate and Society (FM4CS) project.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi.",
+      "Dado-chave: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos pesquisadores, foi.",
+      "Dado-chave: Um modelo básico treinado em dados de observação da Terra do Copernicus Sentinel-1 e Sentinel-2 foi amplamente disponibilizado aos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it was.",
+      "Key detail: A foundation model trained on Earth observation data from Copernicus Sentinel-1 and Sentinel-2 has been made widely available to researchers, it.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "04 jun 2026",
     "date_pt": "04 jun 2026",
@@ -1493,411 +2071,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 11,
-    "slug": "exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_vast_clay_region/27305677-1-eng-GB/Mars_vast_clay_region_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/eyes_on_mars/26013522-1-eng-GB/Eyes_on_Mars_article.png",
-        "alt": "Rover Rosalind Franklin explorando sítio marciano",
-        "alt_pt": "Rover Rosalind Franklin explorando sítio marciano",
-        "alt_en": "Rosalind Franklin rover exploring martian site",
-        "caption": "Rover Rosalind Franklin explorando sítio marciano",
-        "caption_pt": "Rover Rosalind Franklin explorando sítio marciano",
-        "caption_en": "Rosalind Franklin rover exploring martian site"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/oxia_planum_geological_map/26002040-8-eng-GB/Oxia_Planum_geological_map_pillars.png",
-        "alt": "$video. data_map. short_description. content",
-        "alt_pt": "$video. data_map. short_description. content",
-        "alt_en": "$video. data_map. short_description. content",
-        "caption": "$video. data_map. short_description. content",
-        "caption_pt": "$video. data_map. short_description. content",
-        "caption_en": "$video. data_map. short_description. content"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "title_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "title_en": "ExoMars rover targets vast bed of clay in search for life",
-    "sub": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "sub_pt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "sub_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds.",
-    "excerpt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "excerpt_pt": "Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas anteriores.",
-    "excerpt_en": "In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds.",
-    "body": "<p>Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida são mais extensos do que o estimado anteriormente. Essa descoberta tem implicações significativas para o clima e a habitabilidade pretéritos de Marte. Uma hipótese, inclusive, sugere que um vasto oceano pode ter coberto o local de pouso do rover.</p><p>A pesquisa indicou que os depósitos de argila no local de pouso se estendem até Mawrth Vallis, uma área localizada a aproximadamente 300 km de Oxia Planum, que também foi considerada como um potencial local de pouso para missões futuras. Com uma extensão de cerca de 600 km de diâmetro e elevações que superam um quilômetro de altitude, esses depósitos são de uma escala impressionante. Caso um oceano os tenha formado, suas linhas costeiras estariam entre as mais elevadas já teorizadas para o planeta Marte.</p><p>Jorge Vago, cientista do projeto ExoMars, explica que a missão tem como alvo os depósitos mais antigos da sequência geológica. Isso torna as implicações potenciais para a geologia e o clima primordial de Marte extremamente relevantes para a missão Rosalind Franklin em sua busca por evidências de vida. A compreensão da natureza e da origem desses argilominerais é fundamental para reconstruir o clima do planeta e avaliar sua habitabilidade passada.</p><p>Inés Torres Auré, autora principal da publicação da Universidade de Lyon, França, afirma que o estudo estabelece uma nova cronologia para a formação desses depósitos. Segundo ela, as argilas de Oxia Planum se formaram primeiro, há aproximadamente quatro bilhões de anos, precedendo as de Mawrth Vallis. Ao pousar em Oxia Planum, a missão terá a oportunidade de desvendar um processo em larga escala que moldou as argilas antigas em Marte.</p><p>Para realizar esta investigação, os cientistas empregaram o instrumento OMEGA, a bordo da sonda Mars Express da Agência Espacial Europeia (ESA), e o instrumento CRISM, da Mars Reconnaissance Orbiter da NASA. Esses equipamentos foram cruciais para examinar a mineralogia e reconstruir as camadas rochosas que se estendem entre Oxia Planum e Mawrth Vallis, fornecendo dados essenciais para as conclusões do estudo.</p>",
-    "body_pt": "<p>Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida são mais extensos do que o estimado anteriormente. Essa descoberta tem implicações significativas para o clima e a habitabilidade pretéritos de Marte. Uma hipótese, inclusive, sugere que um vasto oceano pode ter coberto o local de pouso do rover.</p><p>A pesquisa indicou que os depósitos de argila no local de pouso se estendem até Mawrth Vallis, uma área localizada a aproximadamente 300 km de Oxia Planum, que também foi considerada como um potencial local de pouso para missões futuras. Com uma extensão de cerca de 600 km de diâmetro e elevações que superam um quilômetro de altitude, esses depósitos são de uma escala impressionante. Caso um oceano os tenha formado, suas linhas costeiras estariam entre as mais elevadas já teorizadas para o planeta Marte.</p><p>Jorge Vago, cientista do projeto ExoMars, explica que a missão tem como alvo os depósitos mais antigos da sequência geológica. Isso torna as implicações potenciais para a geologia e o clima primordial de Marte extremamente relevantes para a missão Rosalind Franklin em sua busca por evidências de vida. A compreensão da natureza e da origem desses argilominerais é fundamental para reconstruir o clima do planeta e avaliar sua habitabilidade passada.</p><p>Inés Torres Auré, autora principal da publicação da Universidade de Lyon, França, afirma que o estudo estabelece uma nova cronologia para a formação desses depósitos. Segundo ela, as argilas de Oxia Planum se formaram primeiro, há aproximadamente quatro bilhões de anos, precedendo as de Mawrth Vallis. Ao pousar em Oxia Planum, a missão terá a oportunidade de desvendar um processo em larga escala que moldou as argilas antigas em Marte.</p><p>Para realizar esta investigação, os cientistas empregaram o instrumento OMEGA, a bordo da sonda Mars Express da Agência Espacial Europeia (ESA), e o instrumento CRISM, da Mars Reconnaissance Orbiter da NASA. Esses equipamentos foram cruciais para examinar a mineralogia e reconstruir as camadas rochosas que se estendem entre Oxia Planum e Mawrth Vallis, fornecendo dados essenciais para as conclusões do estudo.</p>",
-    "body_en": "<p>In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study finds. One hypothesis even suggests a vast ocean once covered the landing site. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This has important implications for Mars’s past climate and habitability. The study found that the clay deposits at the landing site reached as far as Mawrth Vallis, an area some 300 km from Oxia Planum that was also shortlisted as a candidate landing.</p><p>Stretching roughly 600 km across and rising over a kilometre in altitude, the deposits are vast in scale. If an ocean did form them, its shorelines would rank among the highest ever theorised for Mars.</p><p>We are targeting the oldest deposits in the sequence, which makes the potential implications for the geology and early climate of Mars very relevant for the Rosalind Franklin. Understanding the nature and origin of these clay minerals is essential for reconstructing the planet’s climate and assessing its habitability.</p><p>Oxia Planum’s clays formed first, about four billion years ago, predating those at Mawrth Vallis. By landing at Oxia Planum, we’ll uncover a large-scale process that shaped ancient clays across Mars,” says Inés Torres Auré, lead author of the publication from the University of.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Scientists used the OMEGA instrument on ESA’s Mars Express orbiter and the CRISM instrument on NASA&#x27;s Mars Reconnaissance Orbiter to examine the mineralogy and reconstruct the. These results align with recent studies suggesting an intermittently wet climate on early Mars.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas.",
-      "Dado-chave: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas.",
-      "Dado-chave: Um novo estudo revela que os depósitos de argila na região onde o rover ExoMars Rosalind Franklin buscará sinais de vida superam as estimativas",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new study.",
-      "Key detail: In the region where the ExoMars Rosalind Franklin rover will search for signs of life, clay deposits extend beyond previous estimates, a new.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "06h30",
-    "time_pt": "06h30",
-    "time_en": "06: 30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T06:30:00+00:00",
-    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "ExoMars rover targets vast clay bed in search of life"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_targets_vast_bed_of_clay_in_search_for_life",
-    "realUrl": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life",
-    "realUrl_en": "https://www.cosmosweek.com/?article=exomars-rover-targets-vast-bed-of-clay-in-search-for-life&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/exomars-rover-targets-vast-bed-of-clay-in-search-for-life/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "imageAlt_pt": "O rover ExoMars tem como alvo um vasto leito de argila em busca de vida",
-    "imageAlt_en": "ExoMars rover targets vast bed of clay in search for life",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 12,
-    "slug": "curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04908_mhli_4908MH0003260001801155C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/5/25757_1-PIA24543-Curiositys-Selfie-at-Mont-Mercou-main-web.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "title_pt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "title_en": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
-    "sub": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908.",
-    "sub_pt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908.",
-    "sub_en": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a.",
-    "excerpt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908 e 4912.",
-    "excerpt_pt": "Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover Curiosity entre os sóis 4908 e 4912.",
-    "excerpt_en": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was.",
-    "body": "<p>Este blog, assinado por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, aborda as atividades recentes do rover Curiosity da NASA no período compreendido entre os sóis 4908 e 4912. A data de planejamento terrestre para essas operações foi sexta-feira, 29 de maio de 2026. O foco principal deste relato é a conclusão de mais uma etapa crucial da missão: a 47ª perfuração bem-sucedida, realizada em um local batizado de &#x27;Campo Marte&#x27;. A perfuração de amostras é uma atividade que, por sua natureza, exige que o rover permaneça estacionário por um período considerável, e a operação em &#x27;Campo Marte&#x27; não foi exceção, marcando um ponto significativo na exploração marciana.</p><p>Durante este período de imobilidade, o Curiosity aproveitou para capturar uma imagem detalhada do local. Utilizando seu Mars Hand Lens Imager (MAHLI), uma câmera de close-up estrategicamente posicionada na torre, na extremidade do braço robótico do rover, a equipe obteve um registro visual em 28 de maio de 2026, correspondente ao Sol 4908, ou o 4.908º dia marciano da Missão do Laboratório Científico de Marte. A imagem foi registrada precisamente às 11: 14: 14 UTC, fornecendo dados valiosos sobre a geologia e mineralogia da área perfurada. Essas imagens são fundamentais para a análise científica, permitindo aos pesquisadores examinar a textura e a composição das rochas e do solo marciano em uma escala microscópica, complementando as análises realizadas pelos outros instrumentos a bordo do rover.</p><p>A frase &#x27;Adeus, Campo Marte: Tem sido divertido!&#x27; encapsula o sentimento de conclusão e sucesso associado a esta fase da missão. Cada perfuração representa um marco, pois permite a coleta de amostras que são posteriormente analisadas pelos instrumentos internos do Curiosity, revelando segredos sobre a história geológica e a habitabilidade potencial de Marte. A 47ª perfuração em &#x27;Campo Marte&#x27; adiciona mais um capítulo a essa rica narrativa de descobertas, contribuindo para o vasto banco de dados que a NASA e seus parceiros, como o JPL-Caltech e o MSSS, estão construindo sobre o Planeta Vermelho. A capacidade de perfurar e analisar amostras é um diferencial crucial do Curiosity, permitindo uma compreensão mais profunda da composição subsuperficial de Marte.</p><p>A missão do rover Curiosity, parte do Laboratório Científico de Marte (MSL), continua a desvendar os mistérios do Monte Sharp, uma formação geológica complexa que oferece camadas de história marciana. A base do Monte Sharp tem sido um local de exploração intensiva, com cada perfuração e cada imagem contribuindo para a compreensão de como Marte evoluiu de um planeta potencialmente habitável para o ambiente árido que observamos hoje. A dedicação da equipe de cientistas e engenheiros permite que o Curiosity opere com eficiência, superando desafios e fornecendo dados inestimáveis que moldam nossa visão do universo e da possibilidade de vida além da Terra.</p><p>Este blog se insere em uma série de atualizações regulares que documentam o progresso do Curiosity, oferecendo uma janela para as operações diárias e as descobertas científicas. Outros artigos e blogs relacionados, como &#x27;Curiosity Blog, Sols 4900-4907: Pasadena&#x27; e &#x27;Sols 4893-4899: Perfuração no Campo Marte e uma visita da espaçonave Psyche&#x27;, demonstram a continuidade e a interconexão das atividades de exploração. A menção a missões como Psyche, Ingenuity e Perseverance ressalta a amplitude dos esforços da NASA em Marte, com cada missão desempenhando um papel único na busca por conhecimento e na preparação para futuras explorações humanas.</p><p>Marte, o quarto planeta a partir do Sol e o sétimo maior do nosso sistema solar, continua a ser um objeto de fascínio e estudo intenso. A exploração contínua, impulsionada por rovers como o Curiosity, visa não apenas coletar dados científicos, mas também informar, educar e inspirar o público global sobre as maravilhas da ciência espacial. As informações e imagens divulgadas pela NASA e suas instituições parceiras são projetadas para engajar a comunidade científica e o público em geral, fomentando o interesse pela astronomia e pela exploração espacial, e destacando a importância da pesquisa contínua para desvendar os segredos do cosmos.</p>",
-    "body_pt": "<p>Este blog, assinado por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, aborda as atividades recentes do rover Curiosity da NASA no período compreendido entre os sóis 4908 e 4912. A data de planejamento terrestre para essas operações foi sexta-feira, 29 de maio de 2026. O foco principal deste relato é a conclusão de mais uma etapa crucial da missão: a 47ª perfuração bem-sucedida, realizada em um local batizado de &#x27;Campo Marte&#x27;. A perfuração de amostras é uma atividade que, por sua natureza, exige que o rover permaneça estacionário por um período considerável, e a operação em &#x27;Campo Marte&#x27; não foi exceção, marcando um ponto significativo na exploração marciana.</p><p>Durante este período de imobilidade, o Curiosity aproveitou para capturar uma imagem detalhada do local. Utilizando seu Mars Hand Lens Imager (MAHLI), uma câmera de close-up estrategicamente posicionada na torre, na extremidade do braço robótico do rover, a equipe obteve um registro visual em 28 de maio de 2026, correspondente ao Sol 4908, ou o 4.908º dia marciano da Missão do Laboratório Científico de Marte. A imagem foi registrada precisamente às 11: 14: 14 UTC, fornecendo dados valiosos sobre a geologia e mineralogia da área perfurada. Essas imagens são fundamentais para a análise científica, permitindo aos pesquisadores examinar a textura e a composição das rochas e do solo marciano em uma escala microscópica, complementando as análises realizadas pelos outros instrumentos a bordo do rover.</p><p>A frase &#x27;Adeus, Campo Marte: Tem sido divertido!&#x27; encapsula o sentimento de conclusão e sucesso associado a esta fase da missão. Cada perfuração representa um marco, pois permite a coleta de amostras que são posteriormente analisadas pelos instrumentos internos do Curiosity, revelando segredos sobre a história geológica e a habitabilidade potencial de Marte. A 47ª perfuração em &#x27;Campo Marte&#x27; adiciona mais um capítulo a essa rica narrativa de descobertas, contribuindo para o vasto banco de dados que a NASA e seus parceiros, como o JPL-Caltech e o MSSS, estão construindo sobre o Planeta Vermelho. A capacidade de perfurar e analisar amostras é um diferencial crucial do Curiosity, permitindo uma compreensão mais profunda da composição subsuperficial de Marte.</p><p>A missão do rover Curiosity, parte do Laboratório Científico de Marte (MSL), continua a desvendar os mistérios do Monte Sharp, uma formação geológica complexa que oferece camadas de história marciana. A base do Monte Sharp tem sido um local de exploração intensiva, com cada perfuração e cada imagem contribuindo para a compreensão de como Marte evoluiu de um planeta potencialmente habitável para o ambiente árido que observamos hoje. A dedicação da equipe de cientistas e engenheiros permite que o Curiosity opere com eficiência, superando desafios e fornecendo dados inestimáveis que moldam nossa visão do universo e da possibilidade de vida além da Terra.</p><p>Este blog se insere em uma série de atualizações regulares que documentam o progresso do Curiosity, oferecendo uma janela para as operações diárias e as descobertas científicas. Outros artigos e blogs relacionados, como &#x27;Curiosity Blog, Sols 4900-4907: Pasadena&#x27; e &#x27;Sols 4893-4899: Perfuração no Campo Marte e uma visita da espaçonave Psyche&#x27;, demonstram a continuidade e a interconexão das atividades de exploração. A menção a missões como Psyche, Ingenuity e Perseverance ressalta a amplitude dos esforços da NASA em Marte, com cada missão desempenhando um papel único na busca por conhecimento e na preparação para futuras explorações humanas.</p><p>Marte, o quarto planeta a partir do Sol e o sétimo maior do nosso sistema solar, continua a ser um objeto de fascínio e estudo intenso. A exploração contínua, impulsionada por rovers como o Curiosity, visa não apenas coletar dados científicos, mas também informar, educar e inspirar o público global sobre as maravilhas da ciência espacial. As informações e imagens divulgadas pela NASA e suas instituições parceiras são projetadas para engajar a comunidade científica e o público em geral, fomentando o interesse pela astronomia e pela exploração espacial, e destacando a importância da pesquisa contínua para desvendar os segredos do cosmos.</p>",
-    "body_en": "<p>By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Curiosity captured the image using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover’s robotic arm, on May 28, 2026, Sol 4908, or. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and.</p><p>Visit the Science Instruments page NASA’s Curiosity rover at the base of Mount Sharp NASA/JPL-Caltech/MSSS Share Details Last Updated Jun 03, 2026 Related Terms Blogs Explore More. Article 6 days ago 3 min read Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft Article 2 weeks ago 3 min read Curiosity Blog, Sols.</p><p>Discover valuable content designed to inform, educate, and inspire. Rover Basics Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Curiosity captured the image using its Mars Hand Lens Imager (MAHLI), a close-up camera located on the turret at the end of the rover&#x27;s robotic arm, on May 28, 2026, Sol 4908, or.</p><p>Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,”. I was Science Operations Working Group chair three times while we were here, so it’s a real “Goodbye” for me today as we are driving onward to reach the next area up the hill on.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The jury is out, it’s 24 frames and this way links up with an earlier, shorter set of images. Article 7 days ago 3 min read Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft Article 2 weeks ago 3 min read Curiosity Blog, Sols.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover.",
-      "Dado-chave: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do rover.",
-      "Dado-chave: Este blog, escrito por Susanne P. Schwenzer, professora de mineralogia planetária na The Open University, Reino Unido, detalha as atividades do.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps.",
-      "Key detail: By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 jun 2026",
-    "date_pt": "04 jun 2026",
-    "date_en": "04 Jun 2026",
-    "time": "01h28",
-    "time_pt": "01h28",
-    "time_en": "01: 28 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-04T01:28:11+00:00",
-    "lastModifiedIso": "2026-06-04T18:15:12+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog Curiosity",
-      "Sols 4908",
-      "4912",
-      "Adeus Campo Marte",
-      "Tem sido divertido!"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog Curiosity",
-      "Sols 4908",
-      "4912",
-      "Adeus Campo Marte",
-      "Tem sido divertido!"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Blog Curiosity",
-      "Sols 4908",
-      "4912",
-      "Goodbye Campo Marte",
-      "It's been fun!"
-    ],
-    "srcUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
-    "realUrl": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun",
-    "realUrl_en": "https://www.cosmosweek.com/?article=curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/curiosity-blog-sols-4908-4912-goodbye-campo-marte-it-s-been-fun/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "imageAlt_pt": "Blog Curiosity, Sols 4908-4912: Adeus, Campo Marte: Uma Jornada Produtiva",
-    "imageAlt_en": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 13,
-    "slug": "probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "title_pt": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "title_en": "Probing Inelastic Dark Matter via Cosmic-Ray Upscattering in NGC 1068",
-    "sub": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "sub_pt": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "sub_en": "We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-    "excerpt": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "excerpt_pt": "Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-    "excerpt_en": "We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068. In dense dark matter spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy.",
-    "body": "<p>Este estudo se dedica à investigação das restrições sobre a matéria escura inelástica (iDM) na faixa sub-GeV, utilizando como metodologia o resfriamento de raios cósmicos (CR) no núcleo galáctico ativo (AGN) NGC 1068. A compreensão da natureza da matéria escura permanece um dos maiores desafios da física moderna, e a matéria escura inelástica representa uma classe de modelos que propõe interações mais complexas do que o simples espalhamento elástico. A detecção indireta de partículas de matéria escura, por meio de seus efeitos em outros componentes cósmicos, oferece uma via promissora para desvendar seus mistérios. Neste contexto, os núcleos galácticos ativos, com seus ambientes extremos e densos, fornecem laboratórios naturais ideais para observar tais fenômenos.</p><p>Em regiões de picos densos de matéria escura (DM) que circundam buracos negros supermassivos, os prótons de raios cósmicos de alta energia podem perder sua energia de forma eficiente. Essa perda energética ocorre principalmente por meio de dispersões com as partículas de matéria escura presentes nesses aglomerados. A densidade elevada de matéria escura nessas proximidades aumenta a probabilidade de interações, tornando o resfriamento dos raios cósmicos um processo significativo. A energia perdida pelos prótons de CR pode ser transferida para as partículas de matéria escura, alterando seu estado cinemático e, consequentemente, deixando uma assinatura observável no espectro dos raios cósmicos.</p><p>Para a análise, adotamos uma estrutura de matéria escura inelástica de portal vetorial mínimo. Este modelo postula que as partículas de matéria escura interagem com o setor padrão por meio de um mediador vetorial, permitindo tanto interações elásticas quanto inelásticas. A escolha de um modelo específico é crucial para calcular as taxas de perda de energia dos raios cósmicos de forma consistente e para interpretar os resultados obtidos. A complexidade das interações da matéria escura inelástica exige uma abordagem teórica robusta que possa descrever adequadamente os processos de espalhamento em diferentes regimes de energia e momento.</p><p>No cálculo da taxa de perda de energia dos raios cósmicos, incluímos consistentemente as contribuições tanto do espalhamento elástico quanto do espalhamento inelástico profundo (DIS). O espalhamento elástico envolve a troca de momento sem alteração da identidade das partículas, enquanto o DIS, um processo mais complexo, implica a excitação ou quebra das partículas de matéria escura, resultando em uma perda de energia mais substancial para os raios cósmicos incidentes. A inclusão de ambos os tipos de espalhamento é fundamental para uma descrição completa e precisa das interações entre os raios cósmicos e a matéria escura, especialmente em cenários onde a transferência de momento é elevada.</p><p>Nossas descobertas indicam que os processos de espalhamento inelástico profundo (DIS) predominam em regimes de alta transferência de momento. Essa dominância é um aspecto crítico, pois o DIS aumenta substancialmente o efeito de resfriamento induzido pela matéria escura nos raios cósmicos. A maior eficiência na perda de energia dos raios cósmicos devido ao DIS implica que a presença de matéria escura inelástica pode ter um impacto mais pronunciado no espectro de raios cósmicos do que se considerássemos apenas o espalhamento elástico. Este resultado tem implicações importantes para a interpretação de observações astrofísicas e para a busca por evidências da matéria escura.</p><p>A capacidade de sondar a matéria escura inelástica por meio do resfriamento de raios cósmicos em ambientes como NGC 1068 abre novas perspectivas para a física de partículas e a astrofísica. Os resultados obtidos fornecem restrições valiosas sobre os parâmetros dos modelos de iDM, ajudando a refinar a busca por essa componente elusiva do universo. A metodologia empregada pode ser estendida para outros núcleos galácticos ativos ou para diferentes cenários astrofísicos onde interações entre raios cósmicos e matéria escura são relevantes. A contínua melhoria dos dados observacionais de raios cósmicos e de núcleos galácticos ativos permitirá testar ainda mais a validade e as implicações desses modelos teóricos.</p>",
-    "body_pt": "<p>Este estudo se dedica à investigação das restrições sobre a matéria escura inelástica (iDM) na faixa sub-GeV, utilizando como metodologia o resfriamento de raios cósmicos (CR) no núcleo galáctico ativo (AGN) NGC 1068. A compreensão da natureza da matéria escura permanece um dos maiores desafios da física moderna, e a matéria escura inelástica representa uma classe de modelos que propõe interações mais complexas do que o simples espalhamento elástico. A detecção indireta de partículas de matéria escura, por meio de seus efeitos em outros componentes cósmicos, oferece uma via promissora para desvendar seus mistérios. Neste contexto, os núcleos galácticos ativos, com seus ambientes extremos e densos, fornecem laboratórios naturais ideais para observar tais fenômenos.</p><p>Em regiões de picos densos de matéria escura (DM) que circundam buracos negros supermassivos, os prótons de raios cósmicos de alta energia podem perder sua energia de forma eficiente. Essa perda energética ocorre principalmente por meio de dispersões com as partículas de matéria escura presentes nesses aglomerados. A densidade elevada de matéria escura nessas proximidades aumenta a probabilidade de interações, tornando o resfriamento dos raios cósmicos um processo significativo. A energia perdida pelos prótons de CR pode ser transferida para as partículas de matéria escura, alterando seu estado cinemático e, consequentemente, deixando uma assinatura observável no espectro dos raios cósmicos.</p><p>Para a análise, adotamos uma estrutura de matéria escura inelástica de portal vetorial mínimo. Este modelo postula que as partículas de matéria escura interagem com o setor padrão por meio de um mediador vetorial, permitindo tanto interações elásticas quanto inelásticas. A escolha de um modelo específico é crucial para calcular as taxas de perda de energia dos raios cósmicos de forma consistente e para interpretar os resultados obtidos. A complexidade das interações da matéria escura inelástica exige uma abordagem teórica robusta que possa descrever adequadamente os processos de espalhamento em diferentes regimes de energia e momento.</p><p>No cálculo da taxa de perda de energia dos raios cósmicos, incluímos consistentemente as contribuições tanto do espalhamento elástico quanto do espalhamento inelástico profundo (DIS). O espalhamento elástico envolve a troca de momento sem alteração da identidade das partículas, enquanto o DIS, um processo mais complexo, implica a excitação ou quebra das partículas de matéria escura, resultando em uma perda de energia mais substancial para os raios cósmicos incidentes. A inclusão de ambos os tipos de espalhamento é fundamental para uma descrição completa e precisa das interações entre os raios cósmicos e a matéria escura, especialmente em cenários onde a transferência de momento é elevada.</p><p>Nossas descobertas indicam que os processos de espalhamento inelástico profundo (DIS) predominam em regimes de alta transferência de momento. Essa dominância é um aspecto crítico, pois o DIS aumenta substancialmente o efeito de resfriamento induzido pela matéria escura nos raios cósmicos. A maior eficiência na perda de energia dos raios cósmicos devido ao DIS implica que a presença de matéria escura inelástica pode ter um impacto mais pronunciado no espectro de raios cósmicos do que se considerássemos apenas o espalhamento elástico. Este resultado tem implicações importantes para a interpretação de observações astrofísicas e para a busca por evidências da matéria escura.</p><p>A capacidade de sondar a matéria escura inelástica por meio do resfriamento de raios cósmicos em ambientes como NGC 1068 abre novas perspectivas para a física de partículas e a astrofísica. Os resultados obtidos fornecem restrições valiosas sobre os parâmetros dos modelos de iDM, ajudando a refinar a busca por essa componente elusiva do universo. A metodologia empregada pode ser estendida para outros núcleos galácticos ativos ou para diferentes cenários astrofísicos onde interações entre raios cósmicos e matéria escura são relevantes. A contínua melhoria dos dados observacionais de raios cósmicos e de núcleos galácticos ativos permitirá testar ainda mais a validade e as implicações desses modelos teóricos.</p>",
-    "body_en": "<p>We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068. In dense dark matter spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. We study constraints on sub-GeV inelastic dark matter (iDM) from cosmic-ray (CR) cooling in the active galactic nucleus (AGN) NGC 1068. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>ArXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv&#x27;s community.</p><p>In dense dark matter (DM) spikes surrounding supermassive black holes, high-energy CR protons can efficiently lose energy through scatterings with dark matter particles. We consider a minimal vector-portal iDM framework and consistently include both elastic and deep inelastic scattering (DIS) contributions to the CR energy-loss rate.</p><p>We find that DIS processes dominate at high momentum transfer and substantially enhance the DM-induced cooling effect. By requiring the resulting cooling timescale to remain compatible with the observed Standard Model cooling in NGC 1068, we derive constraints on the iDM parameter space.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Our results demonstrate that AGN cosmic-ray cooling probes previously unexplored regions of sub-GeV iDM parameter space inaccessible to current direct-detection experiments.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.03487v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Dado-chave: Estudamos as restrições na matéria escura inelástica sub-GeV do resfriamento dos raios cósmicos no núcleo galáctico ativo NGC 1068.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-      "Key detail: We study constraints on sub-GeV inelastic dark matter from cosmic-ray cooling in the active galactic nucleus NGC 1068.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "02 jun 2026",
-    "date_pt": "02 jun 2026",
-    "date_en": "02 Jun 2026",
-    "time": "11h05",
-    "time_pt": "11h05",
-    "time_en": "11: 05 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-02T11:05:08+00:00",
-    "lastModifiedIso": "2026-06-03T19:19:47+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Sondando matéria escura inelástica por meio do espalhamento de raios cósmicos em NGC 1068"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Sondando matéria escura inelástica por meio do espalhamento de raios cósmicos em NGC 1068"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Probing inelastic dark matter through cosmic ray scattering in NGC 1068"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2606.03487v1",
-    "realUrl": "https://www.cosmosweek.com/?article=probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068",
-    "realUrl_en": "https://www.cosmosweek.com/?article=probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/probing-inelastic-dark-matter-via-cosmic-ray-upscattering-in-ngc-1068/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "imageAlt_pt": "Investigação da Matéria Escura Inelástica por Meio do Espalhamento de Raios Cósmicos em NGC 1068",
-    "imageAlt_en": "Probing Inelastic Dark Matter via Cosmic-Ray Upscattering in NGC 1068",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 14,
+    "id": 15,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2059,7 +2233,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2183,7 +2357,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2304,7 +2478,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2457,7 +2631,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2588,7 +2762,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2750,7 +2924,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "new-eruption-in-the-bismarck-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2899,7 +3073,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3097,7 +3271,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "a-beacon-of-light-in-swirls-of-dust",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3255,7 +3429,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3376,7 +3550,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "hilumi-lhc-cern-s-full-scale-test-stand-enters-the-powering-phase",
     "cat": "Física",
     "catCls": "fisica",
@@ -3510,7 +3684,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -3644,7 +3818,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3765,7 +3939,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "generalized-optical-meta-spanners-empower-arbitrary-light-paths-for-multitasking-optical-manipul",
     "cat": "Física",
     "catCls": "fisica",
@@ -3908,7 +4082,7 @@ window.postsData = [
     "imageAlt_en": "Generalized optical meta-spanners empower arbitrary light paths for multitasking optical manipulation"
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4042,7 +4216,7 @@ window.postsData = [
     "imageAlt_en": "Antioxidant glutathione discovered to play a key role in proper protein folding"
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "sun-news-huge-coronal-hole-now-faces-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4194,7 +4368,7 @@ window.postsData = [
     "imageAlt_en": "Sun news: Huge coronal hole now faces Earth"
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
     "cat": "Física",
     "catCls": "fisica",
@@ -4334,7 +4508,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4458,7 +4632,7 @@ window.postsData = [
     "imageAlt_en": "Cloudy with a chance of metals: Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy"
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "jwst-sees-smoking-gun-for-black-hole-mergers-in-the-virgo-cluster",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4579,7 +4753,7 @@ window.postsData = [
     "imageAlt_en": "JWST Sees Smoking Gun for Black Hole Mergers in the Virgo Cluster"
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4710,7 +4884,7 @@ window.postsData = [
     "imageAlt_en": "Torsion balances set strongest direct limits yet on ultralight dark matter"
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4834,7 +5008,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "planets-collide-around-young-sun-like-star",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4955,7 +5129,7 @@ window.postsData = [
     "imageAlt_en": "Planets Collide Around Young, Sun-like Star"
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "first-light-for-poet-shining-sun-light-on-exoplanet-research",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -5125,7 +5299,7 @@ window.postsData = [
     ]
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "cern-timepix-chips-fly-to-the-moon",
     "cat": "Física",
     "catCls": "fisica",
@@ -5249,164 +5423,6 @@ window.postsData = [
     "imageAlt": "Chips Timepix do CERN voam para a Lua",
     "imageAlt_pt": "Chips Timepix do CERN voam para a Lua",
     "imageAlt_en": "CERN Timepix chips fly to the Moon",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 38,
-    "slug": "nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Tech%20Metal%20Image.png?itok=0UVtZW3K",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/Tech%20Metal%20Image.png?itok=ExAUD_Xn",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/GRFP_Zoom_Hero_1200x468.jpg?itok=WVVq7jPW",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/techaccess_AI-ready_America.png?itok=SEC379Xa",
-        "alt": "Gráfico da América pronto para IA",
-        "alt_pt": "Gráfico da América pronto para IA",
-        "alt_en": "AI-Ready America Graphic",
-        "caption": "Gráfico da América pronto para IA",
-        "caption_pt": "Gráfico da América pronto para IA",
-        "caption_en": "AI-Ready America Graphic"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF-AI-PD-News-Announcment-HERO.jpg?itok=JZyl6cAl",
-        "alt": "colagem de imagens",
-        "alt_pt": "colagem de imagens",
-        "alt_en": "collage of stock images",
-        "caption": "colagem de imagens",
-        "caption_pt": "colagem de imagens",
-        "caption_en": "collage of stock images"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "title_pt": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "title_en": "NSF announces winners of the U. S. critical minerals challenge to secure key domestic supply chain",
-    "sub": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa.",
-    "sub_pt": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa.",
-    "sub_en": "The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal Transformation Challenge launched by STRIDE.",
-    "excerpt": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa lançada pela STRIDE Ventures.",
-    "excerpt_pt": "A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, iniciativa lançada pela STRIDE Ventures.",
-    "excerpt_en": "The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal Transformation Challenge launched by STRIDE Ventures.",
-    "body": "<p>A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, uma iniciativa lançada pela STRIDE Ventures. Este desafio estratégico visa fundamentalmente reduzir a dependência dos Estados Unidos de fontes estrangeiras para minerais críticos, um componente essencial para a segurança econômica e nacional. O trabalho desenvolvido pelas equipes selecionadas permitirá a transferência e o aprimoramento de capacidades de produção avançadas em setores-chave da economia, como defesa, energia renovável e tecnologias de ponta. A garantia de uma cadeia de suprimentos doméstica robusta para esses materiais é crucial para a inovação contínua e a competitividade global do país. A seleção desses projetos representa um passo significativo na construção de uma infraestrutura mais resiliente e autossuficiente para o processamento e a reciclagem de metais críticos, impulsionando a inovação e a criação de empregos em território americano.</p><p>O programa de financiamento do Tech Metal Transformation Challenge é estruturado em fases progressivas, projetadas para apoiar o desenvolvimento e a escalabilidade das tecnologias vencedoras. Até seis das equipes selecionadas avançarão para a Fase 2, que terá uma duração de doze meses e oferecerá um financiamento de até US$ 2, 5 milhões para cada equipe. Esta fase é dedicada à validação de mercado e ao aprimoramento técnico das soluções propostas. Posteriormente, até quatro finalistas serão escolhidos para a Fase 3, também com duração de doze meses, onde poderão receber até US$ 3 milhões para escalar suas tecnologias e prepará-las para a implementação comercial. Essa abordagem faseada garante que os projetos mais promissores recebam o suporte necessário para transitar da pesquisa e desenvolvimento inicial para a aplicação prática e o impacto no mercado, maximizando o retorno do investimento público em inovação.</p><p>O processo de seleção para o desafio foi rigoroso e altamente competitivo. Entre novembro de 2025 e janeiro de 2026, um total de 130 equipes submeteram suas inscrições para o Desafio Tech Metal Transformation. As propostas foram minuciosamente analisadas por um painel de especialistas externos, juntamente com as equipes da STRIDE Ventures e da NSF, garantindo uma avaliação abrangente e imparcial. Apesar da complexidade e do volume de inscrições, o STRIDE, com a orientação estratégica da NSF, conseguiu tomar as decisões de financiamento em um prazo notavelmente curto de sete semanas após o encerramento do prazo para a submissão das propostas escritas. A agilidade do processo foi ainda mais evidenciada pelo fato de que as equipes vencedoras tiveram acesso ao primeiro milhão de dólares de seu financiamento apenas uma semana após o anúncio, demonstrando um compromisso com a aceleração da inovação e a rápida mobilização de recursos para projetos de alto impacto.</p><p>A STRIDE Ventures emerge como uma plataforma inovadora e crucial para o avanço de esforços audaciosos e orientados por marcos significativos, com o objetivo primordial de traduzir tecnologias emergentes em capacidades tangíveis e aplicáveis no mundo real. Sua missão vai além do mero financiamento, buscando criar um ecossistema que fomente a inovação e acelere a transição de descobertas científicas para soluções práticas que atendam às necessidades urgentes do país. Ao focar em projetos com potencial transformador, a STRIDE Ventures preenche uma lacuna importante no cenário de financiamento de pesquisa e desenvolvimento, oferecendo um modelo que prioriza a execução rápida e a obtenção de resultados concretos. Esta abordagem é fundamental para garantir que as inovações não permaneçam apenas no laboratório, mas que cheguem ao mercado e à sociedade, gerando valor e impacto.</p><p>Por meio da STRIDE, a Fundação Nacional de Ciência pode experimentar novos e mais ágeis modelos de financiamento da inovação, que são essenciais para enfrentar os desafios tecnológicos contemporâneos. A plataforma atua como uma ponte vital, conectando pesquisadores e empreendedores talentosos a desafios nacionais prementes, como a segurança da cadeia de suprimentos de minerais críticos. Essa colaboração estratégica acelera significativamente o caminho desde a descoberta científica inicial até a implementação prática e o impacto em larga escala. A STRIDE Ventures é uma iniciativa operada pelo Grupo Start2, uma entidade dedicada a impulsionar rapidamente inovações que fortaleçam a posição dos Estados Unidos em áreas estratégicas. Essa parceria público-privada é um exemplo de como diferentes atores podem unir forças para catalisar o progresso tecnológico e garantir a liderança do país em setores críticos.</p><p>Um aspecto notável do desafio foi o apoio substancial da indústria, que se manifestou através da doação de lixo eletrônico pela IBM e pela Aurubis. Este material servirá como referência crucial durante a fase inicial do desafio, permitindo que as equipes testem e validem suas abordagens utilizando matérias-primas do mundo real. A disponibilidade de e-lixo autêntico é fundamental para simular as condições e os desafios encontrados na reciclagem e recuperação de minerais críticos, garantindo que as soluções desenvolvidas sejam robustas e aplicáveis em escala industrial. Essa colaboração entre o setor público e empresas líderes demonstra um compromisso compartilhado com a sustentabilidade e a inovação na gestão de recursos, fornecendo um ambiente de teste realista que é indispensável para o sucesso dos projetos.</p><p>A composição dos finalistas do Tech Metal Transformation Challenge revelou uma tendência encorajadora e positiva para o ecossistema de inovação dos EUA. Notavelmente, sessenta por cento das equipes finalistas eram provenientes de pequenas empresas. Este dado representa uma mudança significativa e bem-vinda no sentido de alcançar e engajar organizações que, tradicionalmente, podem ter tido menos acesso ao financiamento da NSF. Ao proporcionar oportunidades relevantes para pequenas empresas, o desafio não apenas diversifica a base de inovadores, mas também estimula a criatividade e a agilidade que muitas vezes caracterizam esses empreendimentos. Essa inclusão é vital para fomentar um ambiente de inovação mais dinâmico e equitativo, garantindo que uma gama mais ampla de talentos e ideias possa contribuir para a resolução de desafios nacionais críticos.</p>",
-    "body_pt": "<p>A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal Transformation Challenge, uma iniciativa lançada pela STRIDE Ventures. Este desafio estratégico visa fundamentalmente reduzir a dependência dos Estados Unidos de fontes estrangeiras para minerais críticos, um componente essencial para a segurança econômica e nacional. O trabalho desenvolvido pelas equipes selecionadas permitirá a transferência e o aprimoramento de capacidades de produção avançadas em setores-chave da economia, como defesa, energia renovável e tecnologias de ponta. A garantia de uma cadeia de suprimentos doméstica robusta para esses materiais é crucial para a inovação contínua e a competitividade global do país. A seleção desses projetos representa um passo significativo na construção de uma infraestrutura mais resiliente e autossuficiente para o processamento e a reciclagem de metais críticos, impulsionando a inovação e a criação de empregos em território americano.</p><p>O programa de financiamento do Tech Metal Transformation Challenge é estruturado em fases progressivas, projetadas para apoiar o desenvolvimento e a escalabilidade das tecnologias vencedoras. Até seis das equipes selecionadas avançarão para a Fase 2, que terá uma duração de doze meses e oferecerá um financiamento de até US$ 2, 5 milhões para cada equipe. Esta fase é dedicada à validação de mercado e ao aprimoramento técnico das soluções propostas. Posteriormente, até quatro finalistas serão escolhidos para a Fase 3, também com duração de doze meses, onde poderão receber até US$ 3 milhões para escalar suas tecnologias e prepará-las para a implementação comercial. Essa abordagem faseada garante que os projetos mais promissores recebam o suporte necessário para transitar da pesquisa e desenvolvimento inicial para a aplicação prática e o impacto no mercado, maximizando o retorno do investimento público em inovação.</p><p>O processo de seleção para o desafio foi rigoroso e altamente competitivo. Entre novembro de 2025 e janeiro de 2026, um total de 130 equipes submeteram suas inscrições para o Desafio Tech Metal Transformation. As propostas foram minuciosamente analisadas por um painel de especialistas externos, juntamente com as equipes da STRIDE Ventures e da NSF, garantindo uma avaliação abrangente e imparcial. Apesar da complexidade e do volume de inscrições, o STRIDE, com a orientação estratégica da NSF, conseguiu tomar as decisões de financiamento em um prazo notavelmente curto de sete semanas após o encerramento do prazo para a submissão das propostas escritas. A agilidade do processo foi ainda mais evidenciada pelo fato de que as equipes vencedoras tiveram acesso ao primeiro milhão de dólares de seu financiamento apenas uma semana após o anúncio, demonstrando um compromisso com a aceleração da inovação e a rápida mobilização de recursos para projetos de alto impacto.</p><p>A STRIDE Ventures emerge como uma plataforma inovadora e crucial para o avanço de esforços audaciosos e orientados por marcos significativos, com o objetivo primordial de traduzir tecnologias emergentes em capacidades tangíveis e aplicáveis no mundo real. Sua missão vai além do mero financiamento, buscando criar um ecossistema que fomente a inovação e acelere a transição de descobertas científicas para soluções práticas que atendam às necessidades urgentes do país. Ao focar em projetos com potencial transformador, a STRIDE Ventures preenche uma lacuna importante no cenário de financiamento de pesquisa e desenvolvimento, oferecendo um modelo que prioriza a execução rápida e a obtenção de resultados concretos. Esta abordagem é fundamental para garantir que as inovações não permaneçam apenas no laboratório, mas que cheguem ao mercado e à sociedade, gerando valor e impacto.</p><p>Por meio da STRIDE, a Fundação Nacional de Ciência pode experimentar novos e mais ágeis modelos de financiamento da inovação, que são essenciais para enfrentar os desafios tecnológicos contemporâneos. A plataforma atua como uma ponte vital, conectando pesquisadores e empreendedores talentosos a desafios nacionais prementes, como a segurança da cadeia de suprimentos de minerais críticos. Essa colaboração estratégica acelera significativamente o caminho desde a descoberta científica inicial até a implementação prática e o impacto em larga escala. A STRIDE Ventures é uma iniciativa operada pelo Grupo Start2, uma entidade dedicada a impulsionar rapidamente inovações que fortaleçam a posição dos Estados Unidos em áreas estratégicas. Essa parceria público-privada é um exemplo de como diferentes atores podem unir forças para catalisar o progresso tecnológico e garantir a liderança do país em setores críticos.</p><p>Um aspecto notável do desafio foi o apoio substancial da indústria, que se manifestou através da doação de lixo eletrônico pela IBM e pela Aurubis. Este material servirá como referência crucial durante a fase inicial do desafio, permitindo que as equipes testem e validem suas abordagens utilizando matérias-primas do mundo real. A disponibilidade de e-lixo autêntico é fundamental para simular as condições e os desafios encontrados na reciclagem e recuperação de minerais críticos, garantindo que as soluções desenvolvidas sejam robustas e aplicáveis em escala industrial. Essa colaboração entre o setor público e empresas líderes demonstra um compromisso compartilhado com a sustentabilidade e a inovação na gestão de recursos, fornecendo um ambiente de teste realista que é indispensável para o sucesso dos projetos.</p><p>A composição dos finalistas do Tech Metal Transformation Challenge revelou uma tendência encorajadora e positiva para o ecossistema de inovação dos EUA. Notavelmente, sessenta por cento das equipes finalistas eram provenientes de pequenas empresas. Este dado representa uma mudança significativa e bem-vinda no sentido de alcançar e engajar organizações que, tradicionalmente, podem ter tido menos acesso ao financiamento da NSF. Ao proporcionar oportunidades relevantes para pequenas empresas, o desafio não apenas diversifica a base de inovadores, mas também estimula a criatividade e a agilidade que muitas vezes caracterizam esses empreendimentos. Essa inclusão é vital para fomentar um ambiente de inovação mais dinâmico e equitativo, garantindo que uma gama mais ampla de talentos e ideias possa contribuir para a resolução de desafios nacionais críticos.</p>",
-    "body_en": "<p>The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal Transformation Challenge launched by STRIDE Ventures. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. National Science Foundation Directorate for Technology, Innovation and Partnerships (NSF TIP) announced eight winners of the Tech Metal Transformation Challenge launched by STRIDE. Their work will reduce reliance on foreign sources and enable on-shoring of advanced manufacturing capabilities across key sectors like defense and energy.</p><p>Up to six of these teams will advance to Stage 2 (12 months) with up to $2.5 million each for market validation, and up to four finalists will earn up to $3 million in Stage 3 (12. Between November 2025 and January 2026, 130 teams submitted applications to the Challenge which were reviewed by external experts and STRIDE Ventures and NSF staff.</p><p>Following a rigorous and ambitious review process, STRIDE, with guidance from NSF, made funding decisions seven weeks after the written proposal deadline, with the winning teams. STRIDE Ventures is a new platform for supporting bold, milestone-driven efforts to translate emerging technologies into real-world capabilities.</p><p>STRIDE enables NSF to experiment with new models of innovation funding, connecting researchers and entrepreneurs to urgent national challenges and accelerating the path from. IBM and Aurubis provided donated e‑waste that will serve as reference material during the initial stage of the challenge, enabling teams to test and validate their approaches.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Notably, 60% of the finalists were from small businesses, representing a positive shift toward reaching organizations new to NSF funding with relevant opportunities. The Tech Metal Transformation Challenge is the first funding opportunity of STRIDE Ventures.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-announces-winners-us-critical-minerals-challenge-secure\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Dado-chave: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Dado-chave: A Diretoria de Tecnologia, Inovação e Parcerias da Fundação Nacional de Ciência dos EUA (NSF TIP) anunciou os oito vencedores do Tech Metal.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal.",
-      "Key detail: The U. S. National Science Foundation Directorate for Technology, Innovation and Partnerships announced eight winners of the Tech Metal.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 mar 2026",
-    "date_pt": "24 mar 2026",
-    "date_en": "24 Mar 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-03-24T14:00:08+00:00",
-    "lastModifiedIso": "2026-04-26T07:40:11+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www. nsf. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia vencedores do desafio de minerais críticos dos EUA para garantir a chave da cadeia de abastecimento doméstica"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia vencedores do desafio de minerais críticos dos EUA para garantir a chave da cadeia de abastecimento doméstica"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NSF News",
-      "Cosmos Week",
-      "NSF Announces Winners of U. S. Critical Minerals Challenge to Secure Key Domestic Supply Chain"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/nsf-announces-winners-us-critical-minerals-challenge-secure",
-    "realUrl": "https://www.cosmosweek.com/?article=nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-winners-of-the-u-s-critical-minerals-challenge-to-secure-key-domestic-supply-chain/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 91,
-      "evidence": 92,
-      "relevance": 74,
-      "accessibility": 52,
-      "novelty": 46
-    },
-    "imageAlt": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "imageAlt_pt": "NSF Anuncia Vencedores do Desafio de Minerais Críticos para os EUA, Visando a Segurança da Cadeia de Suprimentos Doméstica",
-    "imageAlt_en": "NSF announces winners of the U. S. critical minerals challenge to secure key domestic supply chain",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
