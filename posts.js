@@ -410,39 +410,39 @@ window.postsData = [
       },
       {
         "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_th.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
         "alt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
         "alt_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
+        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
+        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
+        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
+        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
       },
       {
         "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413_lrg.jpg",
-        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
         "alt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
         "alt_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
+        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
+        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
+        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
+        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
       },
       {
         "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_lrg.jpg",
-        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
         "alt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
         "alt_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
+        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
+        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
+        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
+        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
       }
     ],
     "video": null,
@@ -1155,17 +1155,17 @@ window.postsData = [
     "body_en": "<p>NIH-funded study incorporates new measures to better predict outcomes in chronic heart condition. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Specifically, the findings demonstrate that incorporating prospective data including clinical history, imaging, and blood biomarker data into risk assessment can improve. The large, international study, called the Hypertrophic Cardiomyopathy Registry, was initially funded by NIH’s National Heart, Lung, and Blood Institute (NHLBI).</p><p>The findings were published in JAMA. It is commonly inherited, and many people with the condition are asymptomatic, pointing toward the need for better risk prediction.</p><p>The study enrolled close to 2, 700 patients with HCM in North America and Europe at 44 sites that had expertise in HCM and cardiac imaging. And higher levels of a blood biomarker (NTproBNP), were associated with fatal and nonfatal cardiac events.</p><p>This study provides strong evidence for incorporating cardiac MRI and blood biomarkers into risk prediction for people with HCM,” said David Goff, M. D, Ph. Lung, and Blood Institute (NHLBI): NHLBI is the global leader in conducting and supporting research in heart, lung, and blood diseases and sleep disorders that advances scientific.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both. For more information about NIH and its programs, visit www. nih. gov.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/researchers-develop-innovative-model-risk-assessment-hypertrophic-cardiomyopathy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Um estudo internacional, financiado em parte pelos Institutos Nacionais de Saúde (NIH), identificou um novo modelo de avaliação de risco para a.",
-      "Dado-chave: Um estudo internacional, financiado em parte pelos Institutos Nacionais de Saúde (NIH), identificou um novo modelo de avaliação de risco para a",
+      "Dado-chave: Um estudo internacional, financiado em parte pelos Institutos Nacionais de Saúde (NIH), identificou um novo modelo de avaliação de risco para a.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Um estudo internacional, financiado em parte pelos Institutos Nacionais de Saúde (NIH), identificou um novo modelo de avaliação de risco para a.",
-      "Dado-chave: Um estudo internacional, financiado em parte pelos Institutos Nacionais de Saúde (NIH), identificou um novo modelo de avaliação de risco para a",
+      "Dado-chave: Um estudo internacional, financiado em parte pelos Institutos Nacionais de Saúde (NIH), identificou um novo modelo de avaliação de risco para a.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: NIH-funded study incorporates new measures to better predict outcomes in chronic heart condition.",
-      "Key detail: NIH-funded study incorporates new measures to better predict outcomes in chronic heart condition",
+      "Key detail: NIH-funded study incorporates new measures to better predict outcomes in chronic heart condition.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "08 jun 2026",
