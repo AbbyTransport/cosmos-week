@@ -1,6 +1,293 @@
 [
   {
     "id": 1,
+    "slug": "nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/m83.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/missions/Chandra20years.webp?w=1536",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/missions/Chandra20years.webp",
+        "alt": "Observatório de raios X Chandra O Observatório de raios X Chandra é o telescópio de raios X mais poderoso do mundo.",
+        "alt_pt": "Observatório de raios X Chandra O Observatório de raios X Chandra é o telescópio de raios X mais poderoso do mundo.",
+        "alt_en": "Chandra X-ray Observatory The Chandra X-ray Observatory is the world's most powerful X-ray telescope.",
+        "caption": "Observatório de raios X Chandra O Observatório de raios X Chandra é o telescópio de raios X mais poderoso do mundo.",
+        "caption_pt": "Observatório de raios X Chandra O Observatório de raios X Chandra é o telescópio de raios X mais poderoso do mundo.",
+        "caption_en": "Chandra X-ray Observatory The Chandra X-ray Observatory is the world's most powerful X-ray telescope."
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/m83_with_sources.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/m83.jpg?w=3000&h=3000&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Chandra da NASA encontra fogos de artifício inesperados após explosões estelares - NASA Science",
+      "title_pt": "Chandra da NASA encontra fogos de artifício inesperados após explosões estelares - NASA Science",
+      "title_en": "NASA's Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions - NASA Science",
+      "caption": "Durante um período de 14 anos, de 2000 a 2014, os astrónomos apontaram o observatório de raios X da NASA para a galáxia M83. Eles descobriram que cerca de metade das fontes de raios X",
+      "caption_pt": "Durante um período de 14 anos, de 2000 a 2014, os astrónomos apontaram o observatório de raios X da NASA para a galáxia M83. Eles descobriram que cerca de metade das fontes de raios X",
+      "caption_en": "Over a 14-year period from 2000 to 2014, astronomers pointed NASA’s X-ray observatory at the M83 galaxy. They discovered that about half of the X-ray sources",
+      "sourcePage": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/"
+    },
+    "audio": null,
+    "title": "Observatório Chandra da NASA revela brilho inesperado em remanescentes de supernovas",
+    "title_pt": "Observatório Chandra da NASA revela brilho inesperado em remanescentes de supernovas",
+    "title_en": "NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions",
+    "sub": "O Observatório de Raios-X Chandra da NASA detectou variações dramáticas e inesperadas no brilho de remanescentes de supernovas na galáxia Messier 83 (M83).",
+    "sub_pt": "O Observatório de Raios-X Chandra da NASA detectou variações dramáticas e inesperadas no brilho de remanescentes de supernovas na galáxia Messier 83 (M83).",
+    "sub_en": "The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas.",
+    "excerpt": "O Observatório de Raios-X Chandra da NASA detectou variações dramáticas e inesperadas no brilho de remanescentes de supernovas na galáxia Messier 83 (M83).",
+    "excerpt_pt": "O Observatório de Raios-X Chandra da NASA detectou variações dramáticas e inesperadas no brilho de remanescentes de supernovas na galáxia Messier 83 (M83).",
+    "excerpt_en": "The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas. So when astronomers pointed NASA’s Chandra X-ray Observatory at the nearby galaxy Messier 83, they did not expect to find a population of.",
+    "body": "<p>A equipe de pesquisa analisou dados coletados pelo Chandra ao longo de um período de 14 anos, focando em 22 fontes de raios X que foram associadas a remanescentes de supernovas em M83. O resultado foi surpreendente: cerca de metade dessas fontes demonstrou mudanças significativas e inesperadas em seu brilho de raios X durante o período de observação. Essa variabilidade não é o comportamento típico esperado para remanescentes de supernovas, que geralmente exibem um declínio lento e previsível em sua emissão de raios X à medida que se expandem e esfriam. A detecção de flutuações tão proeminentes sugere que processos astrofísicos complexos e altamente energéticos estão em jogo, possivelmente envolvendo interações dinâmicas com o ambiente circundante ou a presença de objetos compactos recém-formados.</p><p>As explicações para essa variabilidade inesperada são diversas e ainda estão sendo investigadas. Uma possibilidade é que os remanescentes de supernovas estejam interagindo de forma complexa com o gás e a poeira interestelar ao seu redor, resultando em ondas de choque que aquecem o material e causam flutuações no brilho dos raios X. Outra hipótese considera a presença de um objeto compacto, como uma estrela de nêutrons ou um buraco negro, formado no centro da explosão da supernova. A acreção de material por esses objetos compactos pode gerar emissões de raios X altamente variáveis. É provável que ambas as explicações possam estar em jogo, e que diferentes fontes na amostra de M83 possam ter origens e mecanismos de variabilidade distintos, refletindo a complexidade e a diversidade dos fenômenos pós-supernova.</p><p>É importante notar que esses resultados dinâmicos não são exclusivos de M83. Observações semelhantes de variações de brilho em remanescentes de supernovas foram detectadas em outras galáxias, indicando que este pode ser um fenômeno mais comum do que se pensava anteriormente. Por exemplo, a galáxia M51, também conhecida como Galáxia do Redemoinho, foi objeto de estudos que combinaram dados do Observatório de Raios-X Chandra (em roxo) com dados ópticos (em vermelho, verde e azul) obtidos por telescópios terrestres. Essas imagens compostas são cruciais para fornecer uma visão multifrequência dos remanescentes, permitindo aos astrônomos correlacionar a emissão de raios X com as estruturas visíveis e entender melhor os processos físicos subjacentes que impulsionam essas variações.</p><p>A capacidade do Observatório Chandra de detectar raios X com alta resolução e sensibilidade é fundamental para essas descobertas. Os raios X são particularmente úteis para estudar os remanescentes de supernovas, pois são emitidos pelo gás extremamente quente e energizado que resulta da explosão. A observação de longo prazo, como a realizada em M83 ao longo de 14 anos, é essencial para capturar a natureza transitória e dinâmica desses fenômenos. Essas pesquisas não apenas aprofundam nossa compreensão sobre a evolução das estrelas massivas e o ciclo de vida das galáxias, mas também fornecem informações valiosas sobre a formação de elementos pesados e a dispersão de energia no universo.</p><p>As implicações dessas descobertas são significativas para a astrofísica. Elas sugerem que os remanescentes de supernovas são ambientes muito mais ativos e complexos do que se imaginava, com processos que podem continuar a influenciar o meio interestelar por períodos prolongados. A identificação e o estudo dessas variações de brilho podem ajudar os cientistas a refinar modelos teóricos de explosões de supernovas, a formação de objetos compactos e a interação desses remanescentes com seus arredores. A continuidade das observações com o Chandra e outros telescópios de raios X será crucial para desvendar completamente os mistérios por trás desses fenômenos cósmicos inesperados e para mapear a evolução dinâmica do universo.</p>",
+    "body_pt": "<p>A equipe de pesquisa analisou dados coletados pelo Chandra ao longo de um período de 14 anos, focando em 22 fontes de raios X que foram associadas a remanescentes de supernovas em M83. O resultado foi surpreendente: cerca de metade dessas fontes demonstrou mudanças significativas e inesperadas em seu brilho de raios X durante o período de observação. Essa variabilidade não é o comportamento típico esperado para remanescentes de supernovas, que geralmente exibem um declínio lento e previsível em sua emissão de raios X à medida que se expandem e esfriam. A detecção de flutuações tão proeminentes sugere que processos astrofísicos complexos e altamente energéticos estão em jogo, possivelmente envolvendo interações dinâmicas com o ambiente circundante ou a presença de objetos compactos recém-formados.</p><p>As explicações para essa variabilidade inesperada são diversas e ainda estão sendo investigadas. Uma possibilidade é que os remanescentes de supernovas estejam interagindo de forma complexa com o gás e a poeira interestelar ao seu redor, resultando em ondas de choque que aquecem o material e causam flutuações no brilho dos raios X. Outra hipótese considera a presença de um objeto compacto, como uma estrela de nêutrons ou um buraco negro, formado no centro da explosão da supernova. A acreção de material por esses objetos compactos pode gerar emissões de raios X altamente variáveis. É provável que ambas as explicações possam estar em jogo, e que diferentes fontes na amostra de M83 possam ter origens e mecanismos de variabilidade distintos, refletindo a complexidade e a diversidade dos fenômenos pós-supernova.</p><p>É importante notar que esses resultados dinâmicos não são exclusivos de M83. Observações semelhantes de variações de brilho em remanescentes de supernovas foram detectadas em outras galáxias, indicando que este pode ser um fenômeno mais comum do que se pensava anteriormente. Por exemplo, a galáxia M51, também conhecida como Galáxia do Redemoinho, foi objeto de estudos que combinaram dados do Observatório de Raios-X Chandra (em roxo) com dados ópticos (em vermelho, verde e azul) obtidos por telescópios terrestres. Essas imagens compostas são cruciais para fornecer uma visão multifrequência dos remanescentes, permitindo aos astrônomos correlacionar a emissão de raios X com as estruturas visíveis e entender melhor os processos físicos subjacentes que impulsionam essas variações.</p><p>A capacidade do Observatório Chandra de detectar raios X com alta resolução e sensibilidade é fundamental para essas descobertas. Os raios X são particularmente úteis para estudar os remanescentes de supernovas, pois são emitidos pelo gás extremamente quente e energizado que resulta da explosão. A observação de longo prazo, como a realizada em M83 ao longo de 14 anos, é essencial para capturar a natureza transitória e dinâmica desses fenômenos. Essas pesquisas não apenas aprofundam nossa compreensão sobre a evolução das estrelas massivas e o ciclo de vida das galáxias, mas também fornecem informações valiosas sobre a formação de elementos pesados e a dispersão de energia no universo.</p><p>As implicações dessas descobertas são significativas para a astrofísica. Elas sugerem que os remanescentes de supernovas são ambientes muito mais ativos e complexos do que se imaginava, com processos que podem continuar a influenciar o meio interestelar por períodos prolongados. A identificação e o estudo dessas variações de brilho podem ajudar os cientistas a refinar modelos teóricos de explosões de supernovas, a formação de objetos compactos e a interação desses remanescentes com seus arredores. A continuidade das observações com o Chandra e outros telescópios de raios X será crucial para desvendar completamente os mistérios por trás desses fenômenos cósmicos inesperados e para mapear a evolução dinâmica do universo.</p>",
+    "body_en": "<p>The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas. So when astronomers pointed NASA’s Chandra X-ray Observatory at the nearby galaxy Messier 83, they did not expect to find a population of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. 6 Min Read NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions To view this video please enable JavaScript, and consider upgrading to a web browser that. So when astronomers pointed NASA’s Chandra X-ray Observatory at the nearby galaxy Messier 83 (M83), they did not expect to find a population of supernova remnants, or the debris.</p><p>Pinpointing the cause remains a challenge, as M83’s distance limits the detail we can observe. And it’s quite possible that both explanations are at play, different sources in our sample may have different origins. ” These results are not unique to M83.</p><p>This is a composite image of the galaxy M51 combining data from NASA’s Chandra X-ray Observatory (purple) with optical data (red, green and blue) taken with ground-based. Read more from NASA’s Chandra X-ray Observatory To learn more about NASA’s Chandra mission, visit: https: //science. nasa. gov/chandra https: //chandra. si.</p><p>So when astronomers pointed NASA&#x27;s Chandra X-ray Observatory at the nearby galaxy Messier 83 (M83), they did not expect to find a population of supernova remnants, or the debris. The galaxy M83, located about 15 million light-years from Earth, is forming stars at a high rate.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The team found that roughly half of the 22 X-ray sources associated with supernova remnants in their sample showed changes in X-ray brightness over the 14-year span of. Pinpointing the cause remains a challenge, as M83&#x27;s distance limits the detail we can observe.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: O Observatório de Raios-X Chandra da NASA detectou variações dramáticas e inesperadas no brilho de remanescentes de supernovas na galáxia Messier 83",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: O Observatório de Raios-X Chandra da NASA detectou variações dramáticas e inesperadas no brilho de remanescentes de supernovas na galáxia Messier 83",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The aftermath of a supernova, a stellar explosion, is usually a slowly fading cloud of hot gas",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "15 jun 2026",
+    "date_pt": "15 jun 2026",
+    "date_en": "15 Jun 2026",
+    "time": "18h45",
+    "time_pt": "18h45",
+    "time_en": "18: 45 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-15T18:45:40+00:00",
+    "lastModifiedIso": "2026-06-15T19:42:09+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chandra da NASA encontra fogos de artifício inesperados após explosões estelares"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chandra da NASA encontra fogos de artifício inesperados após explosões estelares"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Chandra Finds Unexpected Fireworks After Stellar Explosions"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Observatório Chandra da NASA revela brilho inesperado em remanescentes de supernovas",
+    "imageAlt_pt": "Observatório Chandra da NASA revela brilho inesperado em remanescentes de supernovas",
+    "imageAlt_en": "NASA’s Chandra Finds Unexpected Fireworks in Aftermath of Stellar Explosions",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "pumice-rafts-encroach-on-admiralty-islands",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/pumice-rafts-encroach-on-admiralty-islands/bismarkpumicezm2_oli_20260604_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
+    "title_pt": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
+    "title_en": "Pumice Rafts Encroach on Admiralty Islands",
+    "sub": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
+    "sub_pt": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
+    "sub_en": "Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts.",
+    "excerpt": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
+    "excerpt_pt": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
+    "excerpt_en": "Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts. The post Pumice Rafts Encroach on Admiralty Islands appeared first on NASA Science.",
+    "body": "<p>Em 2026, as Ilhas do Almirantado, localizadas no Mar de Bismarck, foram surpreendidas pela chegada massiva de jangadas de pedra-pomes. Esses fragmentos flutuantes de rocha vulcânica, originados de uma erupção submarina inesperada, atravessaram as águas do Mar de Bismarck e cobriram extensas áreas das costas insulares, alterando drasticamente a paisagem litorânea. A ocorrência desse fenômeno natural, embora não inédita, gerou preocupação devido à sua escala e ao impacto potencial sobre o ecossistema marinho e as comunidades locais. A detecção inicial da atividade vulcânica submarina foi realizada por satélites, que registraram os primeiros sinais da erupção nas proximidades de Papua Nova Guiné.</p><p>A erupção vulcânica submarina, que deu origem a essas vastas formações de pedra-pomes, ocorreu em uma região geologicamente ativa do oceano, próxima a Papua Nova Guiné. A capacidade de satélites em detectar tais eventos subaquáticos é crucial para o monitoramento de fenômenos geológicos e seus desdobramentos. O artigo que detalha a invasão dessas jangadas de pedra-pomes nas Ilhas do Almirantado foi publicado pela primeira vez na plataforma NASA Science, destacando a relevância científica do evento e a importância da observação remota para compreender a dinâmica terrestre e oceânica.</p><p>A formação de jangadas de pedra-pomes de grandes dimensões é um processo complexo, que pode ser intensificado pela presença de cinzas vulcânicas. Jim Garvin, cientista-chefe do Goddard Space Flight Center da NASA, explicou que as cinzas atuam como um agente de &quot;soldagem&quot;, unindo fragmentos de rocha porosa e permitindo a agregação de massas maiores. Esse mecanismo foi observado em eventos vulcânicos anteriores, como a erupção do Hunga Tonga-Hunga Ha&#x27;apai em 2022, que também resultou na formação de extensas jangadas de pedra-pomes. A compreensão desses processos é fundamental para prever a dispersão e o impacto de futuras erupções submarinas.</p><p>A chegada das jangadas de pedra-pomes às costas das Ilhas do Almirantado foi amplamente noticiada, com relatos da ABC News e da Rádio Nova Zelândia descrevendo a situação. Em 7 de junho de 2026, a ABC News informou que o vulcão Titan Ridge, em Papua Nova Guiné, estava inundando a costa de Manus com pedras-pomes. No dia seguinte, a Rádio Nova Zelândia veiculou a notícia com a declaração de que &quot;Isto é um desastre&quot;, refletindo a gravidade da situação para os habitantes da Ilha Manus. A presença dessas massas flutuantes pode ter consequências significativas para a navegação, a pesca e a vida marinha, além de alterar temporariamente a composição das praias e do litoral.</p><p>Eventos como a formação e dispersão de jangadas de pedra-pomes oferecem uma oportunidade única para estudos geológicos e oceanográficos. Eles permitem aos cientistas investigar a dinâmica das erupções submarinas, a composição e o transporte de materiais vulcânicos, e os impactos ecológicos em ambientes marinhos. A monitorização contínua por meio de satélites e a análise de dados de ciências da Terra são essenciais para aprofundar o conhecimento sobre esses fenômenos e desenvolver estratégias de mitigação para as comunidades costeiras afetadas. A persistência de nova atividade vulcânica no oceano, como indicado por imagens de satelite, sublinha a natureza dinâmica e imprevisível da geologia da região.</p>",
+    "body_pt": "<p>Em 2026, as Ilhas do Almirantado, localizadas no Mar de Bismarck, foram surpreendidas pela chegada massiva de jangadas de pedra-pomes. Esses fragmentos flutuantes de rocha vulcânica, originados de uma erupção submarina inesperada, atravessaram as águas do Mar de Bismarck e cobriram extensas áreas das costas insulares, alterando drasticamente a paisagem litorânea. A ocorrência desse fenômeno natural, embora não inédita, gerou preocupação devido à sua escala e ao impacto potencial sobre o ecossistema marinho e as comunidades locais. A detecção inicial da atividade vulcânica submarina foi realizada por satélites, que registraram os primeiros sinais da erupção nas proximidades de Papua Nova Guiné.</p><p>A erupção vulcânica submarina, que deu origem a essas vastas formações de pedra-pomes, ocorreu em uma região geologicamente ativa do oceano, próxima a Papua Nova Guiné. A capacidade de satélites em detectar tais eventos subaquáticos é crucial para o monitoramento de fenômenos geológicos e seus desdobramentos. O artigo que detalha a invasão dessas jangadas de pedra-pomes nas Ilhas do Almirantado foi publicado pela primeira vez na plataforma NASA Science, destacando a relevância científica do evento e a importância da observação remota para compreender a dinâmica terrestre e oceânica.</p><p>A formação de jangadas de pedra-pomes de grandes dimensões é um processo complexo, que pode ser intensificado pela presença de cinzas vulcânicas. Jim Garvin, cientista-chefe do Goddard Space Flight Center da NASA, explicou que as cinzas atuam como um agente de &quot;soldagem&quot;, unindo fragmentos de rocha porosa e permitindo a agregação de massas maiores. Esse mecanismo foi observado em eventos vulcânicos anteriores, como a erupção do Hunga Tonga-Hunga Ha&#x27;apai em 2022, que também resultou na formação de extensas jangadas de pedra-pomes. A compreensão desses processos é fundamental para prever a dispersão e o impacto de futuras erupções submarinas.</p><p>A chegada das jangadas de pedra-pomes às costas das Ilhas do Almirantado foi amplamente noticiada, com relatos da ABC News e da Rádio Nova Zelândia descrevendo a situação. Em 7 de junho de 2026, a ABC News informou que o vulcão Titan Ridge, em Papua Nova Guiné, estava inundando a costa de Manus com pedras-pomes. No dia seguinte, a Rádio Nova Zelândia veiculou a notícia com a declaração de que &quot;Isto é um desastre&quot;, refletindo a gravidade da situação para os habitantes da Ilha Manus. A presença dessas massas flutuantes pode ter consequências significativas para a navegação, a pesca e a vida marinha, além de alterar temporariamente a composição das praias e do litoral.</p><p>Eventos como a formação e dispersão de jangadas de pedra-pomes oferecem uma oportunidade única para estudos geológicos e oceanográficos. Eles permitem aos cientistas investigar a dinâmica das erupções submarinas, a composição e o transporte de materiais vulcânicos, e os impactos ecológicos em ambientes marinhos. A monitorização contínua por meio de satélites e a análise de dados de ciências da Terra são essenciais para aprofundar o conhecimento sobre esses fenômenos e desenvolver estratégias de mitigação para as comunidades costeiras afetadas. A persistência de nova atividade vulcânica no oceano, como indicado por imagens de satelite, sublinha a natureza dinâmica e imprevisível da geologia da região.</p>",
+    "body_en": "<p>Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts. The post Pumice Rafts Encroach on Admiralty Islands appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Pumice Rafts Encroach on Admiralty Islands appeared first on NASA Science. 2026, satellites detected signs of an unexpected submarine volcanic eruption in the Bismarck Sea near the islands of Papua New Guinea.</p><p>Larger rafts can form with the help of ash, which serves to “weld” together fragments of the porous rock, said Jim Garvin, the chief scientist at NASA’s Goddard Space Flight. Downloads June 4, 2026 JPEG (7.36 MB) References &amp; Resources ABC News (2026, June 7) Titan Ridge volcano in Papua New Guinea inundates Manus coastlines with pumice rocks.</p><p>Radio New Zealand (2026, June 8) ‘This is a disaster’: Huge pumice rafts from volcano hit Manus Island coast. New Eruption in the Bismarck Sea 5 min read Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Pumice Rafts Encroach on Admiralty Islands appeared first on NASA Science. Larger rafts can form with the help of ash, which serves to “weld” together fragments of the porous rock, said Jim Garvin, the chief scientist at NASA&#x27;s Goddard Space Flight.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>References &amp; Resources ABC News (2026, June 7) Titan Ridge volcano in Papua New Guinea inundates Manus coastlines with pumice rocks. Radio New Zealand (2026, June 8) &#x27;This is a disaster&#x27;: Huge pumice rafts from volcano hit Manus Island coast.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "15 jun 2026",
+    "date_pt": "15 jun 2026",
+    "date_en": "15 Jun 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-15T04:01:00+00:00",
+    "lastModifiedIso": "2026-06-15T19:42:09+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Jangadas de pedra",
+      "pomes invadem as Ilhas do Almirantado"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Jangadas de pedra",
+      "pomes invadem as Ilhas do Almirantado"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Stone rafts",
+      "pumice invade the Admiralty Islands"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/",
+    "realUrl": "https://www.cosmosweek.com/?article=pumice-rafts-encroach-on-admiralty-islands",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=pumice-rafts-encroach-on-admiralty-islands",
+    "realUrl_en": "https://www.cosmosweek.com/?article=pumice-rafts-encroach-on-admiralty-islands&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/pumice-rafts-encroach-on-admiralty-islands/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/pumice-rafts-encroach-on-admiralty-islands/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
+    "imageAlt_pt": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
+    "imageAlt_en": "Pumice Rafts Encroach on Admiralty Islands",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "world-cup-fever-in-guadalajara",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -149,7 +436,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -170,19 +457,19 @@
     "body_pt": "<p>Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma vizinhança intrigante no centro da nossa galáxia. Esta descoberta representa um avanço significativo na compreensão dos eventos cósmicos que moldam a Via Láctea. A pesquisa, que combina observações de raios X com dados de rádio, oferece uma nova perspectiva sobre as regiões de formação estelar e os vestígios de explosões estelares massivas. A identificação de um remanescente de supernova em uma área tão densa e complexa como o centro galáctico é particularmente desafiadora, mas crucial para mapear a história energética da nossa galáxia. As supernovas são eventos cataclísmicos que marcam o fim da vida de estrelas massivas, e seus remanescentes são fontes importantes de elementos pesados e de energia que influenciam o meio interestelar.</p><p>As novas descobertas foram detalhadas em um artigo publicado no prestigiado periódico The Astrophysical Journal, sublinhando a importância e a robustez da pesquisa. Além dos dados do Chandra, a investigação incorporou informações do XMM-Newton da Agência Espacial Europeia (ESA), outro observatório de raios X crucial para a astronomia de alta energia. Para complementar a visão de raios X, foram utilizados dados de rádio do telescópio MeerKAT, localizado na África do Sul. A combinação desses diferentes comprimentos de onda permite aos cientistas construir uma imagem mais completa e multifacetada da região, revelando estruturas e processos que seriam invisíveis com um único tipo de observação. Essa abordagem multi-comprimento de onda é fundamental para desvendar a complexidade do ambiente galáctico.</p><p>O possível remanescente de supernova está localizado em uma região de intensa formação estelar, a aproximadamente 26.000 anos-luz da Terra, perto do coração da Via Láctea. A evidência primária para a existência deste novo remanescente provém dos dados de raios X coletados pelo Chandra e pelo XMM-Newton. Esses dados revelam emissões de alta energia características de gases aquecidos e partículas aceleradas, que são os subprodutos de uma explosão estelar. A análise detalhada desses sinais de raios X permitiu aos astrônomos distinguir o remanescente de outras fontes de emissão na região, que é notoriamente densa e repleta de objetos astronômicos. A precisão e a sensibilidade desses observatórios foram essenciais para isolar e caracterizar essa estrutura.</p><p>Uma nova imagem composta desta região ilustra vividamente a descoberta, integrando os dados de diferentes observatórios. Nesta representação visual, os raios X do Chandra e do XMM-Newton são mostrados em tons de azul, destacando as áreas de emissão de alta energia associadas ao remanescente. Sobrepondo-se a essa nuvem azul, os dados de rádio do telescópio MeerKAT são apresentados em vermelho, revelando estruturas que podem estar relacionadas à onda de choque da supernova ou a outras características do meio interestelar. A combinação dessas cores e informações permite aos pesquisadores visualizar a interação complexa entre o remanescente da supernova e o ambiente circundante, oferecendo pistas sobre a dinâmica e a evolução da região. Essa sobreposição é crucial para entender a morfologia e a física do objeto.</p><p>O Observatório de Raios-X Chandra da NASA é uma missão fundamental para a astrofísica de raios X, e suas operações são gerenciadas com precisão. O Centro de Raios-X Chandra, parte do Observatório Astrofísico Smithsonian, é responsável por controlar as operações científicas da missão a partir de Cambridge, Massachusetts. As operações de voo, por sua vez, são conduzidas a partir de Burlington, Massachusetts. Essa estrutura de gerenciamento garante que o telescópio continue a coletar dados valiosos e a contribuir para descobertas significativas no campo da astronomia de raios X. A longevidade e o sucesso contínuo do Chandra são testemunhos da engenharia e da dedicação científica envolvidas na missão.</p><p>A descoberta deste possível remanescente de supernova no centro galáctico não apenas adiciona um novo objeto ao nosso catálogo cósmico, mas também aprofunda nossa compreensão sobre a taxa de supernovas e a reciclagem de matéria no coração da Via Láctea. Regiões de formação estelar são frequentemente palco de explosões de supernovas, que, por sua vez, podem desencadear novas ondas de formação estelar ou dispersar material enriquecido pelo espaço. Estudar esses remanescentes ajuda os cientistas a traçar a história da evolução estelar e galáctica, bem como a entender a distribuição de elementos pesados que são essenciais para a formação de planetas e, em última instância, da vida. A pesquisa contínua nesta área promete revelar ainda mais segredos sobre o nosso universo.</p>",
     "body_en": "<p>Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. 5 Min Read NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center Astronomers may have uncovered a new supernova remnant in a star-forming region near the center. The Smithsonian Astrophysical Observatory’s Chandra X-ray Center controls science operations from Cambridge, Massachusetts, and flight operations from Burlington, Massachusetts.</p><p>Overlapping with that red cloud is a cloudy blue blob representing X-ray data from NASA’s Chandra X-ray Observatory and ESA’s XMM-Newton. Read more from NASA’s Chandra X-ray Observatory To learn more about NASA’s Chandra mission, visit: https: //science. nasa. gov/chandra https: //chandra. si.</p><p>Alabama 256-544-0034 joel. w. wallace@nasa. gov About the Author Lee Mohon Share Details Last Updated Jun 12. It studies every phase in the. Hubble Space Telescope Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.</p><p>A Article Contents Visual Description News Media Contact Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing. A new composite image of this region contains X-rays from Chandra and ESA’s (European Space Agency’s) XMM-Newton mission (shown in blue) as well as radio data from the MeerKAT.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The evidence for the new supernova remnant, located about 26, 000 light-years from Earth, comes from X-ray data from Chandra and XMM-Newton. Previously, observations with NASA’s now-retired SOFIA (Stratospheric Observatory for Infrared Astronomy) mission had shown evidence for an expanding shell of gas surrounding.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região.",
+      "Dado-chave: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região.",
+      "Dado-chave: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our.",
+      "Key detail: Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "11 jun 2026",
     "date_pt": "11 jun 2026",
@@ -270,7 +557,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -291,19 +578,19 @@
     "body_pt": "<p>Um novo tipo de sensor de raios gama, desenvolvido pela NASA e denominado AstroPix, está programado para participar de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência. Com lançamento previsto para o final de 2027, esta iniciativa representa um passo significativo no avanço da tecnologia de detecção de raios gama. A missão Fly Foundational Robots será hospedada a bordo de uma espaçonave fornecida pela Astro Digital, uma empresa sediada em Littleton, Colorado. A inclusão da AstroPix nesta missão não apenas valida o potencial da tecnologia, mas também oferece uma oportunidade crucial para testar seu desempenho em um ambiente orbital real, um fator essencial para o desenvolvimento de futuras capacidades de observação espacial. A colaboração com parceiros comerciais como a Astro Digital é fundamental para a agência, permitindo a otimização de recursos e a aceleração do progresso tecnológico em diversas frentes de pesquisa.</p><p>Os raios gama são as formas mais energéticas de luz no universo, e sua detecção é vital para a compreensão de fenômenos cósmicos extremos. Cientistas observam esses raios provenientes de uma variedade de eventos, incluindo relâmpagos na atmosfera terrestre, poderosas erupções solares em nosso Sol e colisões cósmicas violentas em galáxias distantes. A capacidade de monitorar e analisar esses eventos fornece informações cruciais sobre a física de alta energia e a evolução do universo. Atualmente, missões da NASA, como o Telescópio Espacial de Raios Gama Fermi e o Observatório Neil Gehrels Swift, já realizam observações detalhadas de raios gama, incluindo aqueles com energias ainda mais elevadas, contribuindo significativamente para o nosso conhecimento astrofísico. A AstroPix visa complementar e expandir essas capacidades, oferecendo uma nova abordagem para a detecção.</p><p>A integração da AstroPix na missão Fly Foundational Robots surgiu como uma oportunidade estratégica. Inicialmente, o desenvolvimento da missão progredia com outros objetivos, mas a equipe da Fly Foundational Robots identificou uma chance de maximizar o valor da missão ao incorporar uma demonstração de tecnologia adicional. Essa demonstração poderia ser acomodada dentro de um cubo de 30 centímetros (11, 8 polegadas) já disponível na espaçonave. Bo Naasz, líder técnico sênior de Manutenção, Montagem e Fabricação Espacial na Diretoria de Missão de Tecnologia Espacial na Sede da NASA em Washington, explicou que &quot;a unidade já tinha o volume, a potência e os dados necessários para apoiar o projeto da equipe AstroPix&quot;. Essa sinergia entre os projetos demonstra a flexibilidade e a eficiência com que a NASA busca otimizar suas missões, aproveitando infraestruturas existentes para avançar múltiplas tecnologias simultaneamente.</p><p>A possibilidade de a AstroPix realizar sua própria demonstração de tecnologia em órbita é considerada um benefício substancial. Este &quot;bônus&quot; permite que a equipe de desenvolvimento colete dados de desempenho em um ambiente espacial real, o que é inestimável para refinar o design e a funcionalidade do sensor. Testes em órbita são cruciais para validar a robustez e a precisão de novos instrumentos, expondo-os às condições rigorosas do espaço, como radiação e variações extremas de temperatura, que são difíceis de replicar completamente em laboratório. Ao demonstrar a viabilidade da AstroPix em voo, a NASA acelera o processo de qualificação da tecnologia, pavimentando o caminho para sua inclusão em futuras missões científicas e operacionais, que exigem detectores de raios gama mais avançados e eficientes.</p><p>O sucesso da demonstração da AstroPix na missão Fly Foundational Robots terá implicações de longo alcance para o futuro da detecção de raios gama e para a exploração espacial. Ao validar protótipos de detectores mais sensíveis e compactos, a NASA estará mais bem equipada para desenvolver instrumentos que podem ser integrados em uma variedade maior de plataformas espaciais, desde pequenos satélites até grandes observatórios. Isso não só aprimorará nossa capacidade de observar e entender os fenômenos de alta energia no universo, mas também poderá abrir novas avenidas para a pesquisa em áreas como a física de partículas e a busca por matéria escura. A contínua inovação em tecnologias como a AstroPix é essencial para manter a liderança da NASA na exploração científica e para expandir os limites do conhecimento humano sobre o cosmos.</p>",
     "body_en": "<p>A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 4 min read NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors A new type of gamma-ray sensor developed by NASA, called AstroPix, will take part in a robotic arm. Allowing AstroPix to complete its own technology demonstration in orbit is a bonus. ” NASA’s Fly Foundational Robots mission will be hosted aboard a spacecraft provided by Astro.</p><p>Https: //go. nasa. gov/3R28tWE By Jeanette Kazmierczak Goddard Space Flight Center, Greenbelt, Md. Article A new type of gamma-ray sensor developed by NASA, called AstroPix, will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.</p><p>Scientists observe them coming from events like lightning in Earth’s atmosphere, powerful solar flares from our Sun, and cosmic collisions in distant galaxies. Current NASA missions, including the Fermi Gamma-ray Space Telescope and Neil Gehrels Swift Observatory, also observe gamma rays, including those with even higher energies.</p><p>As mission development progressed, however, the Fly Foundational Robots team identified an opportunity to further maximize the mission’s value by integrating an additional. The unit already had the volume, power, and data needed to support the AstroPix team’s design,” said Bo Naasz, senior technical lead, I n-space Servicing, Assembly, and.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>One of our major goals with Fly Foundational Robots is to demonstrate robotic changeout of payloads in orbit, enabling upgrades or improvements to satellites and space instruments. NASA’s Fly Foundational Robots mission is funded through the Space Technology Mission Directorate’s ISAM portfolio, managed at NASA Goddard.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
+      "Dado-chave: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
+      "Dado-chave: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots.",
+      "Key detail: A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "11 jun 2026",
     "date_pt": "11 jun 2026",
@@ -391,174 +678,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/1-field-work-1.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/images/Cuprite%20wo%20key%20compass.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_th.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "alt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
-        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_tm5_19860413_lrg.jpg",
-        "alt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
-        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/world-cup-fever-in-guadalajara/guadalajara_oli_20260427_lrg.jpg",
-        "alt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "alt_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago",
-        "caption": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_pt": "5 minutos de leitura Febre da Copa do Mundo em Guadalajara A área metropolitana da cidade avançou para o oeste desde a última vez que sediou jogos da Copa do Mundo em… Artigo 14 horas atrás",
-        "caption_en": "5 min read World Cup Fever in Guadalajara The city’s metro area has pushed westward since it last hosted World Cup matches in… Article 14 hours ago"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Cientistas da NASA e do USGS Exploram Rochas no Deserto da Califórnia",
-    "title_pt": "Cientistas da NASA e do USGS Exploram Rochas no Deserto da Califórnia",
-    "title_en": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
-    "sub": "Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral detectada por sensores aéreos.",
-    "sub_pt": "Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral detectada por sensores aéreos.",
-    "sub_en": "Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor.",
-    "excerpt": "Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral detectada por sensores aéreos.",
-    "excerpt_pt": "Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral detectada por sensores aéreos.",
-    "excerpt_en": "Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor.",
-    "body": "<p>A investigação no deserto de Mojave faz parte da campanha de mapeamento mineral GEMx, uma iniciativa conjunta da NASA e do USGS (Serviço Geológico dos Estados Unidos). Desde seu início em 2023, os voos do GEMx já cobriram uma vasta área, superando 386.000 milhas quadradas, o equivalente a mais de 1 milhão de quilômetros quadrados do território americano, incluindo grande parte da Califórnia. O objetivo principal é criar mapas detalhados da composição mineral da superfície terrestre, o que tem implicações significativas para a pesquisa geológica, a gestão de recursos naturais e a compreensão dos processos planetários. Apesar da extensa cobertura já alcançada, os cientistas ressaltam que ainda há muito a ser descoberto e mapeado.</p><p>A campanha GEMx é viabilizada por uma das aeronaves de maior altitude da frota da NASA, o ER-2. Este avião, capaz de voar em altitudes estratosféricas, transporta sensores de próxima geração que coletam dados espectrais de alta resolução da superfície terrestre. Um desses voos está programado para 31 de março de 2026, quando o ER-2 decolará do Armstrong Flight Research Center da agência, em Edwards, Califórnia, para apoiar as operações de mapeamento mineral. A capacidade do ER-2 de operar acima da maior parte da atmosfera permite a aquisição de dados mais claros e precisos, minimizando a interferência atmosférica e maximizando a eficácia dos sensores para identificar assinaturas minerais específicas.</p><p>Entre os instrumentos cruciais a bordo do ER-2 está o AVIRIS-5, o modelo mais recente do Espectrômetro de Imagem Visível/Infravermelho Aerotransportado. Essa tecnologia foi pioneira no início da década de 1980 por uma equipe que incluía o cientista Alexander F. H. Green, e suas versões resistentes ao espaço foram fundamentais para explorar a Lua, Marte e outros corpos rochosos do sistema solar nas décadas seguintes. O AVIRIS-5, que recentemente realizou seu primeiro voo como parte do Experimento de Mapeamento Geológico da Terra (GEMx) da NASA-USGS, representa um avanço significativo na capacidade de identificar e mapear minerais a partir de dados aéreos. Sua precisão permite a detecção de variações sutis na refletância da luz, que são características únicas de diferentes composições minerais.</p><p>A sinergia entre o trabalho de campo dos geocientistas e os dados coletados pelos sensores aéreos é fundamental para o sucesso do GEMx. Enquanto os sensores como o AVIRIS-5 fornecem uma visão ampla e detalhada de grandes áreas, a equipe em solo, com suas picaretas e lentes manuais, realiza a validação e a caracterização precisa dos minerais encontrados. Essa abordagem integrada permite que os pesquisadores confirmem as &#x27;impressões digitais&#x27; espectrais detectadas do alto, correlacionando-as com a geologia real do terreno. Ao combinar a exploração terrestre com o sensoriamento remoto avançado, a NASA e o USGS estão não apenas aprimorando nossa compreensão da geologia da Terra, mas também desenvolvendo metodologias que podem ser aplicadas em futuras missões de exploração planetária.</p>",
-    "body_pt": "<p>A investigação no deserto de Mojave faz parte da campanha de mapeamento mineral GEMx, uma iniciativa conjunta da NASA e do USGS (Serviço Geológico dos Estados Unidos). Desde seu início em 2023, os voos do GEMx já cobriram uma vasta área, superando 386.000 milhas quadradas, o equivalente a mais de 1 milhão de quilômetros quadrados do território americano, incluindo grande parte da Califórnia. O objetivo principal é criar mapas detalhados da composição mineral da superfície terrestre, o que tem implicações significativas para a pesquisa geológica, a gestão de recursos naturais e a compreensão dos processos planetários. Apesar da extensa cobertura já alcançada, os cientistas ressaltam que ainda há muito a ser descoberto e mapeado.</p><p>A campanha GEMx é viabilizada por uma das aeronaves de maior altitude da frota da NASA, o ER-2. Este avião, capaz de voar em altitudes estratosféricas, transporta sensores de próxima geração que coletam dados espectrais de alta resolução da superfície terrestre. Um desses voos está programado para 31 de março de 2026, quando o ER-2 decolará do Armstrong Flight Research Center da agência, em Edwards, Califórnia, para apoiar as operações de mapeamento mineral. A capacidade do ER-2 de operar acima da maior parte da atmosfera permite a aquisição de dados mais claros e precisos, minimizando a interferência atmosférica e maximizando a eficácia dos sensores para identificar assinaturas minerais específicas.</p><p>Entre os instrumentos cruciais a bordo do ER-2 está o AVIRIS-5, o modelo mais recente do Espectrômetro de Imagem Visível/Infravermelho Aerotransportado. Essa tecnologia foi pioneira no início da década de 1980 por uma equipe que incluía o cientista Alexander F. H. Green, e suas versões resistentes ao espaço foram fundamentais para explorar a Lua, Marte e outros corpos rochosos do sistema solar nas décadas seguintes. O AVIRIS-5, que recentemente realizou seu primeiro voo como parte do Experimento de Mapeamento Geológico da Terra (GEMx) da NASA-USGS, representa um avanço significativo na capacidade de identificar e mapear minerais a partir de dados aéreos. Sua precisão permite a detecção de variações sutis na refletância da luz, que são características únicas de diferentes composições minerais.</p><p>A sinergia entre o trabalho de campo dos geocientistas e os dados coletados pelos sensores aéreos é fundamental para o sucesso do GEMx. Enquanto os sensores como o AVIRIS-5 fornecem uma visão ampla e detalhada de grandes áreas, a equipe em solo, com suas picaretas e lentes manuais, realiza a validação e a caracterização precisa dos minerais encontrados. Essa abordagem integrada permite que os pesquisadores confirmem as &#x27;impressões digitais&#x27; espectrais detectadas do alto, correlacionando-as com a geologia real do terreno. Ao combinar a exploração terrestre com o sensoriamento remoto avançado, a NASA e o USGS estão não apenas aprimorando nossa compreensão da geologia da Terra, mas também desenvolvendo metodologias que podem ser aplicadas em futuras missões de exploração planetária.</p>",
-    "body_en": "<p>Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Carrying next-generation sensors, a high-altitude NASA ER-2 aircraft takes off from the agency’s Armstrong Flight Research Center in Edwards, California, on March 31, 2026, to. NASA/Carla Thomas Since 2023, GEMx flights have covered more than 386, 000 square miles (1 million square kilometers) of American soil, including most of California.</p><p>But there’s a lot more to discover. ” High flyer From the beginning, the GEMx mineral mapping campaign has been enabled by one of the highest-flying aircraft in NASA’s fleet: the. Irons, now an emeritus scientist at. Article 1 day ago Keep Exploring Discover More Topics From NASA GEMx Armstrong Flight Research Center Jet Propulsion Laboratory Earth Science.</p><p>The technology was pioneered in the early 1980s by a team that included Green, and space-hardened versions have explored the Moon, Mars, and other rocky bodies in the solar system. But there’s a lot more to discover. ” From the beginning, the GEMx mineral mapping campaign has been enabled by one of the highest-flying aircraft in NASA’s fleet: the ER‑2.</p><p>It deployed on March 31 from NASA’s Armstrong Flight Research Center in Edwards, California, to Colorado Springs Airport in Colorado. We deployed to Colorado Springs to maximize flight time for data collection needed in Colorado, Utah, New Mexico, Arizona, and Texas,” said John McGrath, ER‑2 project manager at.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>NOAA to Hold Joint Session at 23rd Symposium on Operational Environmental Satellite Systems Abstracts are now being accepted for the session, which will take place at the 2027. Irons, now an emeritus scientist at. Article 1 day ago Keep Exploring Discover More Topics From NASA GEMx.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral detectada por.",
-      "Dado-chave: Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral detectada por.",
-      "Dado-chave: Uma equipe de geocientistas da NASA e do USGS foi enviada ao deserto de Mojave, na Califórnia, para investigar uma assinatura espectral.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint”.",
-      "Key detail: Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "15h38",
-    "time_pt": "15h38",
-    "time_en": "15: 38 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T15:38:31+00:00",
-    "lastModifiedIso": "2026-06-11T18:51:58+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Cientistas da NASA e do USGS caçam rochas no alto deserto da Califórnia"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA and USGS scientists hunt for rocks in California's high desert"
-    ],
-    "srcUrl": "https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-usgs-scientists-go-rock-hounding-in-california-s-high-desert/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Cientistas da NASA e do USGS Exploram Rochas no Deserto da Califórnia",
-    "imageAlt_pt": "Cientistas da NASA e do USGS Exploram Rochas no Deserto da Califórnia",
-    "imageAlt_en": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
+    "id": 6,
     "slug": "tracking-urban-expansion-in-hazard-prone-areas",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -589,19 +709,19 @@
     "body_pt": "<p>O World Settlement Footprint Tracker (WSF Tracker) e sua plataforma online dedicada foram oficialmente lançados em um evento de grande relevância na sede do Banco Mundial, em Washington D. C. Este lançamento marca um avanço significativo nas ferramentas disponíveis para o monitoramento da expansão urbana global, oferecendo uma perspectiva detalhada sobre o crescimento das áreas construídas em todo o planeta. A iniciativa surge como uma resposta crucial à crescente necessidade de dados precisos e atualizados para subsidiar políticas públicas e estratégias de desenvolvimento urbano sustentável, especialmente em um cenário de urbanização acelerada e desafios ambientais crescentes. A presença de representantes de diversas instituições e especialistas no evento ressaltou o caráter colaborativo e a importância estratégica do WSF Tracker para a comunidade internacional engajada na gestão territorial e na redução de riscos.</p><p>O World Settlement Footprint Tracker é uma ferramenta inovadora que utiliza dados de sensoriamento remoto para mapear e analisar a pegada de assentamentos humanos em escala global. Sua principal função é fornecer informações detalhadas sobre a extensão e a dinâmica da urbanização, permitindo que pesquisadores, planejadores urbanos e formuladores de políticas compreendam melhor os padrões de crescimento das cidades e vilas. Um dos focos primordiais desta plataforma é o acompanhamento da expansão urbana em áreas propensas a perigos, como inundações, deslizamentos de terra, secas e outros eventos extremos. Ao identificar onde e como as áreas construídas estão se expandindo em regiões vulneráveis, o WSF Tracker oferece subsídios valiosos para a implementação de medidas de mitigação e adaptação, contribuindo para a construção de comunidades mais resilientes e seguras diante das mudanças climáticas e outros riscos ambientais.</p><p>A plataforma online dedicada do WSF Tracker foi concebida para ser intuitiva e acessível, democratizando o acesso a dados geoespaciais complexos. Ela permite que usuários de diferentes perfis, desde acadêmicos até gestores públicos e organizações não governamentais, visualizem, analisem e baixem informações sobre a evolução dos assentamentos humanos ao longo do tempo. Com interfaces interativas e ferramentas de análise espacial, a plataforma possibilita a identificação de tendências de urbanização, a comparação entre diferentes regiões e a avaliação do impacto do crescimento urbano em ecossistemas e recursos naturais. A capacidade de integrar esses dados com outras informações geográficas, como mapas de risco e dados socioeconômicos, potencializa a sua utilidade para estudos de vulnerabilidade e planejamento estratégico, tornando-a um recurso indispensável para a tomada de decisões baseadas em evidências.</p><p>A disponibilidade de dados precisos e atualizados sobre a expansão urbana é fundamental para o planejamento urbano eficaz e para o alcance dos Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU, particularmente o ODS 11, que visa tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis. O WSF Tracker oferece uma base sólida para que governos locais e nacionais possam formular planos diretores mais robustos, gerenciar o uso do solo de forma mais eficiente e investir em infraestruturas que atendam às necessidades de uma população crescente, sem comprometer a integridade ambiental. Ao fornecer uma visão clara de onde e como as cidades estão crescendo, a ferramenta auxilia na identificação de áreas para conservação, na otimização de serviços públicos e na promoção de um desenvolvimento urbano que equilibre o progresso econômico com a proteção ambiental e a equidade social.</p><p>A relevância do WSF Tracker é particularmente acentuada no contexto da redução do risco de desastres (RRD). Ao mapear a expansão de assentamentos em áreas de risco, a plataforma permite que as autoridades identifiquem proativamente as comunidades mais vulneráveis e implementem estratégias de prevenção e preparação. Isso inclui a delimitação de zonas de exclusão para novas construções, o reforço de infraestruturas existentes e a elaboração de planos de evacuação mais eficazes. A capacidade de monitorar a urbanização em tempo real ou com alta frequência temporal significa que as intervenções podem ser mais ágeis e direcionadas, salvaguardando vidas e bens. Em um mundo onde os eventos climáticos extremos estão se tornando mais frequentes e intensos, ferramentas como o WSF Tracker são indispensáveis para construir a resiliência das cidades e proteger suas populações contra os impactos devastadores de desastres naturais.</p><p>O lançamento do World Settlement Footprint Tracker na sede do Banco Mundial em Washington D. C. não é apenas um marco geográfico, mas também um indicativo da robusta parceria institucional que sustenta esta iniciativa. O Banco Mundial, com sua vasta experiência em desenvolvimento global e financiamento de projetos, desempenha um papel crucial na promoção de soluções inovadoras para os desafios urbanos e ambientais. A colaboração com outras organizações internacionais, agências espaciais e instituições de pesquisa é fundamental para a contínua evolução e disseminação do WSF Tracker, garantindo que a ferramenta seja constantemente aprimorada e adaptada às necessidades dos usuários em diferentes contextos geográficos e socioeconômicos. Essa sinergia institucional fortalece a credibilidade e o alcance da plataforma, consolidando-a como um recurso global de referência para o monitoramento da urbanização.</p><p>Em última análise, o World Settlement Footprint Tracker representa mais do que uma simples ferramenta de mapeamento; ele é um catalisador para uma nova era de planejamento urbano e gestão ambiental baseada em dados. Ao fornecer uma visão sem precedentes da dinâmica de crescimento das cidades, a plataforma capacita decisores a fazer escolhas mais informadas que podem moldar um futuro urbano mais sustentável, equitativo e seguro. Seu impacto se estenderá desde a formulação de políticas globais até a implementação de projetos locais, ajudando a mitigar os riscos associados à urbanização desordenada e a promover um desenvolvimento que respeite os limites planetários. A expectativa é que o WSF Tracker se torne um pilar fundamental para a comunidade científica e para os profissionais que trabalham na vanguarda da sustentabilidade urbana, impulsionando a inovação e a colaboração em escala global.</p>",
     "body_en": "<p>The World Settlement Footprint Tracker, and its dedicated online platform, have been officially released at an event at the World Bank headquarters in Washington DC. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The World Settlement Footprint (WSF) Tracker, and its dedicated online platform, have been officially released at an event at the World Bank headquarters in Washington DC.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Tracking_urban_expansion_in_hazard-prone_areas\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram.",
+      "Dado-chave: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram.",
+      "Dado-chave: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The World Settlement Footprint Tracker, and its dedicated online platform, have been officially released at an event at the World Bank headquarters",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The World Settlement Footprint Tracker, and its dedicated online platform, have been officially released at an event at the World Bank headquarters.",
+      "Key detail: The World Settlement Footprint Tracker, and its dedicated online platform, have been officially released at an event at the World Bank.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "11 jun 2026",
     "date_pt": "11 jun 2026",
@@ -689,7 +809,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "geometric-obstruction-to-resolving-the-hubble-tension-orthogonality-of-scale-and-shape-in-distan",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -710,18 +830,19 @@
     "body_pt": "<p>Identificamos uma obstrução geométrica para resolver a tensão de Hubble, combinando a redução do horizonte sonoro inicial com a energia escura suave tardia. Dentro de $Λ$CDM, a lacuna de densidade de matéria BAO--SN $ΔΩ_m = 0, 037$ é exatamente invariante sob o reescalonamento do horizonte sonoro $α\\equiv r_s^{\\rm mod}/r_s^{Λ{\\rm CDM}}$, e as deformações tardias $w(z)$ também não podem eliminar essa lacuna: reconciliar os dois.</p><p>Uma análise MCMC completa de DESI DR2 BAO, Planck plik\\_lite e Pantheon+ confirma isso: o $α^* = 0, 992$ ideal (redução de $0, 8\\%$ $r_s$) traz o ajuste da junta para $H_0 = 70, 3 \\pm 0, 3\\. O espaço de deformação $\\{α, β_{\\rm damp}, w(z)\\}$ já abrange $93\\%$ da direção de resposta $Ω_m$.</p><p>No entanto, BAO e SN restringem $Ω_m$ através de canais independentes e discordam, enquanto o déficit residual $H_0$, ancorado pela escada de distância local, reside na escala de distância absoluta que $w(z)$ remodela, mas não pode redimensionar. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? .</p><p>Saiba mais sobre o arXivLabs. Resumo: Identificamos uma obstrução geométrica para resolver a tensão de Hubble combinando a redução do horizonte sonoro inicial com a energia escura suave tardia.</p><p>Uma análise MCMC completa de DESI DR2 BAO, Planck plik\\_lite e Pantheon+ confirma isso: o $\\alpha^* = 0, 992$ ideal (redução de $0, 8\\%$ $r_s$) traz o ajuste da junta para $H_0 = 70, 3 \\pm 0, 3\\.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.12822v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>The significance lies in cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Within $Λ$CDM, the BAO--SN matter-density gap $ΔΩ_m = 0.037$ is exactly invariant under the sound-horizon rescaling $α\\equiv r_s^{\\rm mod}/r_s^{Λ{\\rm CDM}}$, and late-time $w(z)$. A full MCMC analysis of DESI DR2 BAO, Planck plik\\_lite, and Pantheon+ bears this out: the optimal $α^* = 0.992$ ($0.8\\%$ $r_s$ reduction) brings the joint fit to $H_0 = 70.</p><p>The deformation space $\\{α, β_{\\rm damp}, w(z)\\}$ already spans $93\\%$ of the $Ω_m$ response direction. Nonetheless BAO and SN constrain $Ω_m$ through independent channels and disagree, while the residual $H_0$ deficit, anchored by the local distance ladder, resides in the absolute.</p><p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Have an idea for a project that will add value for arXiv&#x27;s community. A full MCMC analysis of DESI DR2 BAO, Planck plik\\_lite, and Pantheon+ bears this out: the optimal $\\alpha^* = 0.992$ ($0.8\\%$ $r_s$ reduction) brings the joint fit to $H_0 = 70.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>The obstruction reflects not a shortage of model freedom but an irreducible disagreement between probes. The deformation space $\\{\\alpha, \\beta_{\\rm damp}, w(z)\\}$ already spans $93\\%$ of the $\\Omega_m$ response direction.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.12822v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Identificamos uma obstrução geométrica para resolver a tensão de Hubble, combinando a redução do horizonte sonoro inicial com a energia escura suave",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Identificamos uma obstrução geométrica para resolver a tensão de Hubble, combinando a redução do horizonte sonoro inicial com a energia escura suave.",
+      "Dado-chave: Identificamos uma obstrução geométrica para resolver a tensão de Hubble, combinando a redução do horizonte sonoro inicial com a energia escura.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Identificamos uma obstrução geométrica para resolver a tensão de Hubble, combinando a redução do horizonte sonoro inicial com a energia escura suave",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Identificamos uma obstrução geométrica para resolver a tensão de Hubble, combinando a redução do horizonte sonoro inicial com a energia escura suave.",
+      "Dado-chave: Identificamos uma obstrução geométrica para resolver a tensão de Hubble, combinando a redução do horizonte sonoro inicial com a energia escura.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We identify a geometric obstruction to resolving the Hubble tension by combining early-time sound-horizon reduction with late-time smooth dark energy",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We identify a geometric obstruction to resolving the Hubble tension by combining early-time sound-horizon reduction with late-time smooth dark energy.",
+      "Key detail: We identify a geometric obstruction to resolving the Hubble tension by combining early-time sound-horizon reduction with late-time smooth dark.",
+      "Result not yet peer reviewed."
     ],
     "date": "11 jun 2026",
     "date_pt": "11 jun 2026",
@@ -812,7 +933,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -879,19 +1000,19 @@
     "body_pt": "<p>A primeira edição do Desafio Presidencial de IA, uma iniciativa que visa incentivar alunos e educadores do ensino fundamental e médio a se envolverem na aprendizagem prática baseada em projetos, culminou com a nomeação de uma equipe apoiada pela Fundação Nacional de Ciência dos EUA (NSF) e patrocinada pela Universidade Estadual da Carolina do Norte como campeã nacional. Este desafio busca fomentar o desenvolvimento de soluções inovadoras de inteligência artificial (IA) para problemas do mundo real, capacitando a próxima geração de cientistas e tecnólogos. A conquista da equipe da Carolina do Norte destaca o sucesso da abordagem prática e o potencial transformador da IA na educação.</p><p>Selecionada como campeã nacional, Carrie Robledo, professora da segunda série e líder de professores da Star Elementary School, na Carolina do Norte, foi a mente por trás do projeto &#x27;AI Insect Detectives: Teaching Machine Learning Through Local Entomology&#x27;. Este projeto inovador foi concebido para introduzir os alunos da segunda série aos fundamentos do aprendizado de máquina por meio de atividades científicas práticas e envolventes. A iniciativa de Robledo demonstrou como conceitos complexos de IA podem ser simplificados e tornados acessíveis a crianças em idade escolar, utilizando o ambiente local como laboratório de aprendizado.</p><p>Utilizando a ferramenta Teachable Machine do Google, os alunos foram guiados no treinamento de modelos de IA para identificar insetos, uma abordagem que lhes permitiu compreender o processo de reconhecimento de padrões. Durante o desenvolvimento do projeto, eles também aprenderam a analisar erros nos modelos e aprimorar os dados de treinamento, desenvolvendo uma compreensão prática de como a qualidade dos dados afeta o desempenho da IA. Essa experiência prática não apenas ensinou sobre IA, mas também aprimorou suas habilidades de observação e análise crítica, essenciais para a investigação científica.</p><p>À medida que os alunos exploravam como os sistemas de IA reconhecem padrões e tomam decisões, eles desenvolveram conhecimentos básicos de inteligência artificial, habilidades de investigação científica e capacidades de pensamento crítico desde cedo. A metodologia de Robledo permitiu que as crianças não apenas consumissem informações, mas também se tornassem criadoras e solucionadoras de problemas, preparando-as para um futuro cada vez mais impulsionado pela tecnologia. A capacidade de pensar criticamente sobre a IA e suas aplicações é uma habilidade valiosa que foi cultivada neste projeto.</p><p>Em todas as equipes apoiadas pela NSF, os projetos tiveram como foco principal a introdução da IA aos alunos por meio de experiências práticas de aprendizagem. Nessas iniciativas, os estudantes foram incentivados a treinar modelos, explorar padrões e construir uma alfabetização básica em IA, capacitando-os a interagir de forma mais informada com as tecnologias emergentes. Essa abordagem prática garante que a aprendizagem não seja apenas teórica, mas também aplicada, permitindo que os alunos vejam o impacto direto da IA em diferentes contextos.</p><p>Outros projetos apoiados pela NSF concentraram-se no fortalecimento do pensamento crítico e da compreensão ética da inteligência artificial. Ferramentas e metodologias foram concebidas para orientar o raciocínio dos alunos, apoiando a utilização da IA para o benefício de todos e reforçando o ensino liderado por professores, em vez de substituir o julgamento humano. Por exemplo, a Universidade Estadual da Pensilvânia desenvolveu o projeto &#x27;BioBuddy: Projetando IA para treinar o pensamento dos alunos&#x27;, que exemplifica essa abordagem ao integrar a IA como uma ferramenta para aprimorar as capacidades cognitivas dos estudantes. Essas iniciativas sublinham a importância de uma educação em IA que não se limite apenas à técnica, mas que também abranja as implicações sociais e éticas da tecnologia.</p>",
     "body_en": "<p>A team supported by the U. S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the inaugural. The challenge brought together K-12 youth, educators, mentors and community partners from across the country to develop innovative AI solutions for real-world challenges within.</p><p>It encourages K-12 students and educators to engage in hands-on, project-based learning while developing innovative AI solutions to real-world problems. With close to $1 million in supplemental funding provided by the NSF Directorate for STEM Education, principal investigators from active NSF-funded projects served as team.</p><p>Selected as a national champion, Carrie Robledo, a second-grade teacher and teacher leader at Star Elementary School in North Carolina, developed &quot;AI Insect Detectives: Teaching. Using Google&#x27;s Teachable Machine, students trained AI models to identify insects, analyzed errors and improved training data.</p><p>As students explored how AI systems recognize patterns and make decisions, they built foundational AI literacy, scientific inquiry skills and critical thinking skills at an early. Across the NSF-supported teams, projects centered on introducing students to AI through hands-on learning experiences where they trained models, explored patterns and built.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Other projects focused on strengthening critical thinking and ethical understanding, with tools designed to guide reasoning, support the use of AI for the benefit of all, and. Additional projects applied AI to real-world challenges in schools and communities, including pedestrian safety, library space accessibility, nursing home and elder care workflow.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-supported-teams-advanced-through-presidential-ai\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã.",
+      "Dado-chave: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã.",
+      "Dado-chave: Uma equipe apoiada pela Fundação Nacional de Ciência dos EUA e patrocinada pela Universidade Estadual da Carolina do Norte foi nomeada campeã",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A team supported by the U. S",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A team supported by the U. S. National Science Foundation and sponsored by North Carolina State University emerged as a national champion of the.",
+      "Key detail: A team supported by the U. S",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 jun 2026",
     "date_pt": "09 jun 2026",
@@ -982,7 +1103,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "cleaner-air-and-prosperity-can-go-hand-in-hand",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1131,7 +1252,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "researchers-develop-innovative-model-for-risk-assessment-for-hypertrophic-cardiomyopathy",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1252,7 +1373,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "the-integral-and-correlation-scales-of-solar-wind-turbulence",
     "cat": "Física",
     "catCls": "fisica",
@@ -1373,7 +1494,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1585,7 +1706,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "what-s-actually-new-about-nasa-s-artemis-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1788,7 +1909,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "esa-and-ebrd-to-advance-earth-observation-for-development-and-impact-finance",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1919,7 +2040,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "webb-unveils-young-stars-across-every-stage-of-formation",
     "cat": "Química",
     "catCls": "quimica",
@@ -2050,7 +2171,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2212,7 +2333,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2336,7 +2457,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2457,7 +2578,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2610,7 +2731,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2741,7 +2862,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2896,155 +3017,6 @@
     "imageAlt": "Tornado Deixa Rastro Visível de Destruição no Mississippi",
     "imageAlt_pt": "Tornado Deixa Rastro Visível de Destruição no Mississippi",
     "imageAlt_en": "Tornado Draws a Jagged Line in Mississippi",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 21,
-    "slug": "new-eruption-in-the-bismarck-sea",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511_falsecolor.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_tmo_20260515_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Nova Erupção no Mar de Bismarck",
-    "title_pt": "Nova Erupção no Mar de Bismarck",
-    "title_en": "New Eruption in the Bismarck Sea",
-    "sub": "Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-    "sub_pt": "Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-    "sub_en": "Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.",
-    "excerpt": "Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-    "excerpt_pt": "Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-    "excerpt_en": "Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea. The post New Eruption in the Bismarck Sea appeared first on NASA Science.",
-    "body": "<p>Uma nova onda de atividade vulcânica foi detectada no Mar de Bismarck, uma região oceânica próxima a Papua Nova Guiné, conforme revelado por imagens de satélite recentes. Observações capturadas pelo Operational Land Imager (OLI) a bordo do satélite Landsat 9, em 11 de maio de 2026, mostraram plumas vulcânicas bem espaçadas, envoltas por nuvens, emergindo de uma plataforma vulcânica subaquática em crescimento. Essas imagens, registradas em cores naturais, fornecem evidências visuais diretas da erupção em curso, destacando a dinâmica geológica ativa da área. A detecção precoce por satélite é crucial para o monitoramento de eventos vulcânicos em regiões remotas, permitindo que cientistas avaliem a extensão e o potencial impacto dessas ocorrências.</p><p>A atividade vulcânica foi corroborada por outros satélites da NASA. A partir de 9 de maio, os satélites Aqua e Terra capturaram imagens ópticas de plumas vulcânicas brancas e ricas em vapor que se elevavam na atmosfera. Simultaneamente, o sensor de cor do oceano no satélite PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem) da NASA detectou alterações significativas na água circundante. Em 15 de maio, uma imagem adquirida pelo Espectrorradiômetro de Imagem de Resolução Moderada (MODIS) no satélite Terra da NASA revelou a presença de pedra-pomes flutuante e água esverdeada e descolorida, estendendo-se para sudoeste a partir do local da erupção. Uma pluma vulcânica branca adicional foi observada flutuando para oeste, indicando a dispersão dos materiais vulcânicos e a complexidade dos padrões de correntes oceânicas e ventos na região.</p><p>A análise combinada dos dados de diferentes instrumentos de sensoriamento remoto oferece uma visão abrangente do evento. As imagens em cores naturais do OLI no Landsat 9, por exemplo, permitem uma visualização detalhada da estrutura das plumas e da plataforma vulcânica subaquática. A capacidade de distinguir entre cores naturais e falsas, conforme indicado nas descrições originais, é fundamental para realçar características específicas que podem não ser imediatamente óbvias ao olho humano. A persistência das plumas e a presença de pedra-pomes flutuante são indicadores claros de uma erupção contínua e substancial, com implicações para a navegação e para os ecossistemas marinhos locais. A descoloração da água, por sua vez, sugere a liberação de minerais e gases que alteram a composição química da superfície oceânica.</p><p>Cientistas planejam aprofundar a investigação utilizando dados de radar de missões futuras e existentes. Um pesquisador, cujo nome não foi especificado na fonte original, expressou a intenção de analisar informações do satélite NASA-ISRO NISAR e da missão RADARSAT Constellation da Agência Espacial Canadense. O objetivo é mapear os contornos de qualquer nova formação de terra que possa emergir da atividade vulcânica subaquática e monitorar as mudanças em sua forma ao longo do tempo. Essa abordagem permitirá uma compreensão mais precisa da geodinâmica da região e da taxa de crescimento da plataforma vulcânica, fornecendo dados valiosos para modelos de vulcanismo submarino e formação de ilhas.</p><p>A erupção no Mar de Bismarck é vista como uma oportunidade única para a exploração científica. O mesmo pesquisador destacou que este evento pode representar uma chance ainda melhor para a exploração por &#x27;nautas insulares&#x27;, um termo que evoca a exploração de novas terras e ambientes. Essa perspectiva é particularmente relevante no contexto dos preparativos para o retorno da humanidade à Lua, com a missão Artemis IV, que levará mulheres e homens ao satélite natural. A experiência e os conhecimentos adquiridos no estudo de formações geológicas emergentes na Terra podem oferecer insights valiosos para a exploração de ambientes extraterrestres, onde a formação de novas superfícies e a adaptação a condições extremas são desafios constantes. A interconexão entre a pesquisa terrestre e espacial sublinha a amplitude do impacto da ciência vulcânica.</p>",
-    "body_pt": "<p>Uma nova onda de atividade vulcânica foi detectada no Mar de Bismarck, uma região oceânica próxima a Papua Nova Guiné, conforme revelado por imagens de satélite recentes. Observações capturadas pelo Operational Land Imager (OLI) a bordo do satélite Landsat 9, em 11 de maio de 2026, mostraram plumas vulcânicas bem espaçadas, envoltas por nuvens, emergindo de uma plataforma vulcânica subaquática em crescimento. Essas imagens, registradas em cores naturais, fornecem evidências visuais diretas da erupção em curso, destacando a dinâmica geológica ativa da área. A detecção precoce por satélite é crucial para o monitoramento de eventos vulcânicos em regiões remotas, permitindo que cientistas avaliem a extensão e o potencial impacto dessas ocorrências.</p><p>A atividade vulcânica foi corroborada por outros satélites da NASA. A partir de 9 de maio, os satélites Aqua e Terra capturaram imagens ópticas de plumas vulcânicas brancas e ricas em vapor que se elevavam na atmosfera. Simultaneamente, o sensor de cor do oceano no satélite PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem) da NASA detectou alterações significativas na água circundante. Em 15 de maio, uma imagem adquirida pelo Espectrorradiômetro de Imagem de Resolução Moderada (MODIS) no satélite Terra da NASA revelou a presença de pedra-pomes flutuante e água esverdeada e descolorida, estendendo-se para sudoeste a partir do local da erupção. Uma pluma vulcânica branca adicional foi observada flutuando para oeste, indicando a dispersão dos materiais vulcânicos e a complexidade dos padrões de correntes oceânicas e ventos na região.</p><p>A análise combinada dos dados de diferentes instrumentos de sensoriamento remoto oferece uma visão abrangente do evento. As imagens em cores naturais do OLI no Landsat 9, por exemplo, permitem uma visualização detalhada da estrutura das plumas e da plataforma vulcânica subaquática. A capacidade de distinguir entre cores naturais e falsas, conforme indicado nas descrições originais, é fundamental para realçar características específicas que podem não ser imediatamente óbvias ao olho humano. A persistência das plumas e a presença de pedra-pomes flutuante são indicadores claros de uma erupção contínua e substancial, com implicações para a navegação e para os ecossistemas marinhos locais. A descoloração da água, por sua vez, sugere a liberação de minerais e gases que alteram a composição química da superfície oceânica.</p><p>Cientistas planejam aprofundar a investigação utilizando dados de radar de missões futuras e existentes. Um pesquisador, cujo nome não foi especificado na fonte original, expressou a intenção de analisar informações do satélite NASA-ISRO NISAR e da missão RADARSAT Constellation da Agência Espacial Canadense. O objetivo é mapear os contornos de qualquer nova formação de terra que possa emergir da atividade vulcânica subaquática e monitorar as mudanças em sua forma ao longo do tempo. Essa abordagem permitirá uma compreensão mais precisa da geodinâmica da região e da taxa de crescimento da plataforma vulcânica, fornecendo dados valiosos para modelos de vulcanismo submarino e formação de ilhas.</p><p>A erupção no Mar de Bismarck é vista como uma oportunidade única para a exploração científica. O mesmo pesquisador destacou que este evento pode representar uma chance ainda melhor para a exploração por &#x27;nautas insulares&#x27;, um termo que evoca a exploração de novas terras e ambientes. Essa perspectiva é particularmente relevante no contexto dos preparativos para o retorno da humanidade à Lua, com a missão Artemis IV, que levará mulheres e homens ao satélite natural. A experiência e os conhecimentos adquiridos no estudo de formações geológicas emergentes na Terra podem oferecer insights valiosos para a exploração de ambientes extraterrestres, onde a formação de novas superfícies e a adaptação a condições extremas são desafios constantes. A interconexão entre a pesquisa terrestre e espacial sublinha a amplitude do impacto da ciência vulcânica.</p>",
-    "body_en": "<p>Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea. The post New Eruption in the Bismarck Sea appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA Earth Observatory/Michala Garrison Natural color False color Closely spaced volcanic plumes, surrounded by clouds, stream from a growing underwater volcanic platform in this. NASA Earth Observatory/Michala Garrison Closely spaced volcanic plumes, surrounded by clouds, stream from a growing underwater volcanic platform in this natural-color image.</p><p>NASA Earth Observatory/Michala Garrison Natural color False color Curtain Toggle 2-Up Image Details Closely spaced volcanic plumes, surrounded by clouds, stream from a growing. Beginning on May 9, NASA’s Aqua and Terra satellites captured optical imagery of white, steam-rich volcanic plumes rising into the atmosphere, while the ocean color sensor on.</p><p>Floating pumice and green, discolored water extend southwest from the eruption site as a white volcanic plume drifts west overhead in this image acquired by the MODIS (Moderate. He plans to analyze radar data from the NASA-ISRO NISAR satellite and the Canadian Space Agency’s RADARSAT Constellation Mission to map the contours of any new land that emerges.</p><p>This new eruption could present an even better opportunity for ‘island-naut’ exploration as we prepare to return to the Moon with women and men via Artemis IV,” he said. Higher resolution imagery from the European Space Agency’s Sentinel-2 and the NASA/USGS Landsat 9 (top) satellites, acquired on May 10 and 11, respectively, captured detailed.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>He plans to analyze radar data from the NASA-ISRO NISAR satellite and the Canadian Space Agency&#x27;s RADARSAT Constellation Mission to map the contours of any new land that emerges. This new eruption could present an even better opportunity for &#x27;island-naut&#x27; exploration as we prepare to return to the Moon with women and men via Artemis IV,&quot; he said.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-      "Dado-chave: Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-      "Dado-chave: Imagens de satélite mostram uma onda de nova atividade vulcânica no oceano perto de Papua Nova Guiné.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.",
-      "Key detail: Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 mai 2026",
-    "date_pt": "21 mai 2026",
-    "date_en": "21 May 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-21T04:01:00+00:00",
-    "lastModifiedIso": "2026-05-21T17:57:38+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Nova erupção no Mar de Bismarck"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Nova erupção no Mar de Bismarck"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "New eruption in the Bismarck Sea"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/",
-    "realUrl": "https://www.cosmosweek.com/?article=new-eruption-in-the-bismarck-sea",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=new-eruption-in-the-bismarck-sea",
-    "realUrl_en": "https://www.cosmosweek.com/?article=new-eruption-in-the-bismarck-sea&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/new-eruption-in-the-bismarck-sea/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/new-eruption-in-the-bismarck-sea/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/new-eruption-in-the-bismarck-sea/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/new-eruption-in-the-bismarck-sea/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/new-eruption-in-the-bismarck-sea/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/new-eruption-in-the-bismarck-sea/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Nova Erupção no Mar de Bismarck",
-    "imageAlt_pt": "Nova Erupção no Mar de Bismarck",
-    "imageAlt_en": "New Eruption in the Bismarck Sea",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
