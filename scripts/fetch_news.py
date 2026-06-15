@@ -37,6 +37,7 @@ from xml.sax.saxutils import escape as xml_escape
 ROOT = Path(__file__).resolve().parents[1]
 POSTS_JSON = ROOT / 'posts.json'
 POSTS_JS = ROOT / 'posts.js'
+POSTS_INDEX_JSON = ROOT / 'assets' / 'data' / 'posts-index.json'
 FEED_XML = ROOT / 'feed.xml'
 SITEMAP_XML = ROOT / 'sitemap.xml'
 ROBOTS_TXT = ROOT / 'robots.txt'
@@ -52,6 +53,7 @@ SITE_DESCRIPTION_PT = 'Portal de jornalismo científico com foco em astronomia, 
 SITE_DESCRIPTION_EN = 'Science journalism portal focused on astronomy, astrophysics, cosmology and frontier research.'
 
 GA_MEASUREMENT_ID = os.getenv('COSMOS_GA_MEASUREMENT_ID', 'G-MX20J1ZG06').strip()
+STATIC_ARTICLE_TEMPLATE_VERSION = 'site-shell-v4-2026-06-15'
 
 def analytics_head_snippet() -> str:
     """Return the single Analytics loader used by every static article page.
@@ -72,7 +74,11 @@ def static_article_needs_rebuild(path: Path) -> bool:
         text = path.read_text(encoding='utf-8', errors='ignore')
     except Exception:
         return True
-    return '/assets/js/cw-analytics.js' not in text or 'googletagmanager.com/gtag/js?id=' in text
+    return (
+        '/assets/js/cw-analytics.js' not in text
+        or 'googletagmanager.com/gtag/js?id=' in text
+        or STATIC_ARTICLE_TEMPLATE_VERSION not in text
+    )
 
 
 MAX_POSTS = 40
@@ -94,6 +100,15 @@ PAGE_TEXT_MAX_PARAGRAPHS = 24
 FULL_TEXT_LIMIT = 9000
 MAX_FACT_SENTENCES = 14
 MAX_INLINE_IMAGES = 12
+try:
+    MIN_INLINE_IMAGES = max(0, int((os.getenv('COSMOS_MIN_INLINE_IMAGES', '3') or '3').strip()))
+except ValueError:
+    MIN_INLINE_IMAGES = 3
+try:
+    LINKED_IMAGE_PAGE_LIMIT = max(0, int((os.getenv('COSMOS_LINKED_IMAGE_PAGE_LIMIT', '8') or '8').strip()))
+except ValueError:
+    LINKED_IMAGE_PAGE_LIMIT = 8
+ALLOW_CONTEXTUAL_IMAGE_BACKFILL = (os.getenv('COSMOS_CONTEXTUAL_IMAGE_BACKFILL', '0') or '0').strip().lower() in {'1', 'true', 'yes'}
 GEMINI_TIMEOUT = max(20, int((os.getenv('GEMINI_TIMEOUT', '45') or '45').strip() or '45'))
 # Reduce Gemini rate to minimise HTTP 429/503 errors. The free tier allows up to
 # 20 requests per minute, but congestion can still make the service unavailable.
@@ -1010,9 +1025,34 @@ def clean_image_url(url: str) -> Optional[str]:
     return url if parsed.netloc else None
 
 
+def image_url_has_direct_file(url: str) -> bool:
+    """Return True only when the URL itself looks like an image asset.
+
+    This deliberately rejects HTML landing pages such as /images/, /news/...
+    or article URLs containing the word "photo". Those can be useful as
+    pages to inspect, but they must never be emitted as <img src>. Browsers
+    quite reasonably refuse to render an HTML page as an image.
+    """
+    decoded = urllib.parse.unquote(html.unescape(url or ''))
+    return bool(re.search(r'\.(?:jpg|jpeg|png|webp|avif)(?:$|[?#/])', decoded, flags=re.I))
+
+
+def image_url_has_image_format_query(url: str) -> bool:
+    try:
+        parsed = urllib.parse.urlparse(url or '')
+        query = urllib.parse.parse_qs(parsed.query)
+    except Exception:
+        return False
+    for key in ('format', 'fm', 'type', 'ext'):
+        for value in query.get(key, []):
+            if normalize_text(str(value)) in {'jpg', 'jpeg', 'png', 'webp', 'avif'}:
+                return True
+    return False
+
+
 def image_url_looks_good(url: str) -> bool:
     low = normalize_text(url)
-    # Rejeitar imagens de interface, logos e retratos de pessoas
+    # Rejeitar imagens de interface, logos, tracking e retratos de pessoas.
     bad_tokens = (
         'logo', 'favicon', 'avatar', 'placeholder', 'sprite', 'icon', 'banner_ad',
         'portrait', 'headshot', 'profile', 'author', 'byline', 'staff', 'team',
@@ -1021,8 +1061,14 @@ def image_url_looks_good(url: str) -> bool:
     )
     if any(bad in low for bad in bad_tokens):
         return False
-    if not re.search(r'\.(jpg|jpeg|png|webp|avif)(?:$|[?#])', low) and not any(t in low for t in ('image', 'photo', 'media', 'img', 'asset')):
+
+    # A regra anterior aceitava qualquer URL contendo "image", "photo",
+    # "media" ou "asset". Isso capturava páginas HTML como
+    # https://www.nasa.gov/images/ e artigos com "photo" no slug, gerando
+    # cartões com imagem quebrada. Para <img src>, exigimos URL de arquivo.
+    if not image_url_has_direct_file(url) and not image_url_has_image_format_query(url):
         return False
+
     return True
 
 
@@ -1391,6 +1437,73 @@ def _looks_like_small_editor_headshot(
     return False
 
 
+
+
+def _looks_like_image_detail_link(href: str, label_html: str = '', tag_html: str = '', context: str = '') -> bool:
+    """Return True for links that probably point to an image detail/download page.
+
+    Many NASA and institutional pages render body images as anchors that open
+    dynamic image assets, not as plain <img src="..."> tags in the article HTML.
+    If we do not follow those links, the generated article can miss
+    useful body images that are present in the original source.
+    """
+    href_low = normalize_text(href or '')
+    label_low = normalize_text(' '.join([label_html or '', tag_html or '', context or '']))
+    if not href_low:
+        return False
+    if re.search(r'\.(?:jpg|jpeg|png|webp|avif)(?:[?#]|$)', href_low):
+        return True
+    if any(token in href_low for token in (
+        '/image/', '/images/', '/image-detail/', '/resources/', '/download/',
+        'dynamicimage/assets/', 'assets.science.nasa.gov', 'images-assets.nasa.gov'
+    )):
+        return True
+    if any(token in label_low for token in (
+        'image:', 'image ', 'photo:', 'photo ', 'figure:', 'fig.', 'download',
+        'jpeg', 'jpg', 'png', 'webp', 'caption', 'credit'
+    )):
+        return True
+    return False
+
+
+def _extract_linked_image_candidates(detail_url: str, article_url: str) -> list[tuple[str, str]]:
+    """Fetch a probable image-detail URL and return image candidates from it."""
+    detail_url = urllib.parse.urljoin(article_url, detail_url or '')
+    if not clean_image_url(detail_url):
+        return []
+    if re.search(r'\.(?:jpg|jpeg|png|webp|avif)(?:[?#]|$)', detail_url, flags=re.I):
+        return [(detail_url, 'linked-direct-image')]
+
+    page = fetch_page_html(detail_url)
+    if not page:
+        return []
+
+    candidates: list[tuple[str, str]] = []
+    candidates.extend(_extract_meta_image_candidates(page, detail_url))
+    for match in re.finditer(r"<script[^>]+type=[\"']application/ld\+json[\"'][^>]*>(.*?)</script>", page, flags=re.I | re.S):
+        raw = html.unescape(match.group(1).strip())
+        if not raw:
+            continue
+        try:
+            payload = json.loads(raw)
+        except Exception:
+            continue
+        candidates.extend(_json_ld_image_candidates(payload, detail_url))
+
+    first = find_first_image_in_html(page, detail_url)
+    if first:
+        candidates.append((first, 'linked-first-image'))
+
+    # Some image-detail pages expose the high-resolution asset only as a
+    # download anchor. Scan those anchors too.
+    for link_match in re.finditer(r"<a\b[^>]*href=[\"']([^\"']+)[\"'][^>]*>(.*?)</a>", page, flags=re.I | re.S):
+        href = urllib.parse.urljoin(detail_url, link_match.group(1).strip())
+        label = link_match.group(2)
+        if _looks_like_image_detail_link(href, label, link_match.group(0), label):
+            candidates.append((href, 'linked-download-image'))
+
+    return candidates
+
 def _extract_article_regions_for_images(page: str) -> list[str]:
     regions = []
     patterns = (
@@ -1461,8 +1574,8 @@ def _json_ld_image_candidates(payload, base_url: str) -> list[tuple[str, str]]:
     return out
 
 
-def extract_inline_images(url: str, primary_image: str = '', limit: int = MAX_INLINE_IMAGES) -> list[dict]:
-    cache_key = (url, primary_image or '')
+def extract_inline_images(url: str, primary_image: str = '', limit: int = MAX_INLINE_IMAGES, min_count: int = MIN_INLINE_IMAGES, title: str = '', summary: str = '', category: str = '', allow_contextual_backfill: Optional[bool] = None) -> list[dict]:
+    cache_key = (url, primary_image or '', min_count, title or '', summary or '', category or '', bool(ALLOW_CONTEXTUAL_IMAGE_BACKFILL if allow_contextual_backfill is None else allow_contextual_backfill))
     if cache_key in INLINE_IMAGE_CACHE:
         return INLINE_IMAGE_CACHE[cache_key]
 
@@ -1608,6 +1721,47 @@ def extract_inline_images(url: str, primary_image: str = '', limit: int = MAX_IN
             label = collapse_ws(strip_html(label_html))
             caption_raw = title_raw or label
             add_image(href, alt_raw or caption_raw, caption_raw, width, height, label_html, surrounding)
+
+    if len(out) < max(0, min_count):
+        followed_links = 0
+        followed_seen = set()
+        for region in regions:
+            if len(out) >= max(0, min_count) or followed_links >= LINKED_IMAGE_PAGE_LIMIT:
+                break
+            for link_match in re.finditer(r"<a\b[^>]*href=[\"']([^\"']+)[\"'][^>]*>(.*?)</a>", region, flags=re.I | re.S):
+                if len(out) >= max(0, min_count) or followed_links >= LINKED_IMAGE_PAGE_LIMIT:
+                    break
+                href = urllib.parse.urljoin(url, link_match.group(1).strip())
+                label_html = link_match.group(2)
+                tag_html = link_match.group(0)
+                surrounding = _extract_surrounding_context(region, link_match.start(), link_match.end(), radius=560)
+                if not _looks_like_image_detail_link(href, label_html, tag_html, surrounding):
+                    continue
+                normalized_href = normalize_text(href)
+                if normalized_href in followed_seen:
+                    continue
+                followed_seen.add(normalized_href)
+                followed_links += 1
+                label = collapse_ws(strip_html(label_html))
+                for candidate_url, origin in _extract_linked_image_candidates(href, url):
+                    if len(out) >= limit:
+                        break
+                    add_image(candidate_url, label, label, 0, 0, origin, surrounding)
+
+    backfill_enabled = ALLOW_CONTEXTUAL_IMAGE_BACKFILL if allow_contextual_backfill is None else bool(allow_contextual_backfill)
+    if backfill_enabled and len(out) < max(0, min_count):
+        for fallback in contextual_inline_image_fallbacks(title, summary, category, primary_image, needed=max(0, min_count) - len(out)):
+            add_image(
+                fallback.get('src') or '',
+                fallback.get('alt_en') or fallback.get('alt') or '',
+                fallback.get('caption_en') or fallback.get('caption') or '',
+                0,
+                0,
+                'contextual fallback',
+                ''
+            )
+            if len(out) >= max(0, min_count):
+                break
 
     INLINE_IMAGE_CACHE[cache_key] = out
     return out
@@ -2816,6 +2970,67 @@ def infer_thematic_image(title: str, summary: str, source_name: str, category: s
         unique = [IMG['pillars'], IMG['andromeda']]
     seed = f'{title}|{summary}|{source_name}|{category}'
     return unique[stable_index(seed, len(unique))]
+
+
+
+def contextual_inline_image_fallbacks(title: str, summary: str, category: str, primary_image: str = '', needed: int = 0) -> list[dict]:
+    """Return clearly labeled contextual fallback images.
+
+    This is intentionally opt-in via COSMOS_CONTEXTUAL_IMAGE_BACKFILL=1. It
+    helps enforce a visual minimum when the source article exposes fewer usable
+    images, without pretending that a generic supporting image came from the
+    original story.
+    """
+    if needed <= 0:
+        return []
+
+    seeds_by_category = {
+        'Astronomia': ['hubbledeep', 'milkyway', 'orion', 'andromeda'],
+        'Astrofísica': ['supernova', 'blackhole', 'neutronStar', 'm87jet'],
+        'Cosmologia': ['hubbledeep', 'andromeda', 'milkyway', 'blackhole'],
+        'Exoplanetas': ['exoplanetTransit', 'exoplanetOcean'],
+        'Física': ['particleTracks', 'cern'],
+        'Biologia': ['dna', 'microscope'],
+        'Química': ['lab'],
+        'Ciências da Terra': ['earth', 'climate'],
+    }
+
+    primary = clean_image_url(primary_image or '') or ''
+    ordered: list[str] = []
+    thematic = infer_thematic_image(title or '', summary or '', '', category or '')
+    if thematic:
+        ordered.append(thematic)
+    for key in seeds_by_category.get(category or '', []):
+        value = IMG.get(key)
+        if value:
+            ordered.append(value)
+
+    ordered.extend([IMG.get(k) for k in ('earth', 'hubbledeep', 'milkyway', 'particleTracks') if IMG.get(k)])
+
+    out = []
+    seen = {normalize_text(primary)}
+    for src in ordered:
+        src = clean_image_url(src or '')
+        if not src:
+            continue
+        key = normalize_text(src)
+        if key in seen:
+            continue
+        seen.add(key)
+        caption_en = 'Contextual support image selected by Cosmos Week; not necessarily from the original source article.'
+        caption_pt = 'Imagem contextual de apoio editorial selecionada pelo Cosmos Week; não necessariamente parte da fonte original.'
+        out.append({
+            'src': src,
+            'caption': caption_pt,
+            'caption_pt': caption_pt,
+            'caption_en': caption_en,
+            'alt': caption_pt,
+            'alt_pt': caption_pt,
+            'alt_en': caption_en,
+        })
+        if len(out) >= needed:
+            break
+    return out
 
 
 def freshness_points(dt: datetime) -> int:
@@ -4187,7 +4402,7 @@ def to_post(item: dict, idx: int, regular_rank: int) -> dict:
     share_url = article_static_url(slug, 'pt')
     share_url_en = article_static_url(slug, 'en')
     image = choose_post_image(item, category)
-    inline_images = extract_inline_images(src_url, primary_image=image)
+    inline_images = extract_inline_images(src_url, primary_image=image, title=title_en, summary=summary_en, category=category)
     video = extract_page_video(src_url)
     audio = extract_page_audio(src_url)
     is_featured = (
@@ -4482,7 +4697,7 @@ def render_static_article_page(post: dict, lang: str = 'pt') -> str:
         'other_language': 'Read in Portuguese' if is_en else 'Read in English',
         'published': 'Published' if is_en else 'Publicado',
         'updated': 'Updated' if is_en else 'Atualizado',
-        'home_url': f'{SITE_URL}?lang=en' if is_en else SITE_URL,
+        'home_url': urllib.parse.urljoin(SITE_URL, 'en/') if is_en else SITE_URL,
         'section': (_cat_field(post.get('cat') or ('Science' if is_en else 'Ciência'), 'en').capitalize() if is_en else sanitize_plain_text(post.get('cat') or 'Ciência')),
         'breadcrumbs_home': 'Home' if is_en else 'Início',
         'breadcrumbs_news': 'News' if is_en else 'Notícias',
@@ -4652,6 +4867,7 @@ def render_static_article_page(post: dict, lang: str = 'pt') -> str:
 <html lang="{labels['html_lang']}">
 <head>
 {analytics_head_snippet()}  <meta charset="utf-8">
+  <meta name="cw-template-version" content="{html_escape_attr(STATIC_ARTICLE_TEMPLATE_VERSION)}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0d3a75">
   <title>{html_escape_attr(title_raw)} | {SITE_NAME}</title>
@@ -5104,6 +5320,138 @@ def save_archive_posts(posts: list[dict]) -> None:
         encoding='utf-8'
     )
 
+def enhance_static_article_shell(page: str, lang: str, post: dict) -> str:
+    '''Add the full Cosmos Week site shell around static article pages.'''
+    is_en = lang == 'en'
+    slug = collapse_ws(str(post.get('slug') or ''))
+    home_url = '/en/' if is_en else '/'
+    archive_url = '/en/archive/' if is_en else '/arquivo/'
+    about_url = '/en/about/' if is_en else '/sobre/'
+    standards_url = '/en/standards/' if is_en else '/padroes/'
+    guides_url = '/guias/'
+    advertise_url = '/en/advertise/' if is_en else '/anuncie.html'
+    media_url = '/en/media-kit/' if is_en else '/media-kit.html'
+    privacy_url = '/en/privacy/' if is_en else '/politica-de-privacidade.html'
+    terms_url = '/en/terms/' if is_en else '/termos-de-uso.html'
+    contact_url = '/en/contact/' if is_en else '/contato/'
+    feed_label = 'Portal RSS' if is_en else 'RSS do portal'
+    topic_labels = ['Astronomy', 'Cosmology', 'Astrophysics', 'Exoplanets', 'Physics', 'Biology', 'Chemistry', 'Earth sciences'] if is_en else ['Astronomia', 'Cosmologia', 'Astrofísica', 'Exoplanetas', 'Física', 'Biologia', 'Química', 'Ciências da Terra']
+    labels = {
+        'topbar': 'Cosmos Week · science journalism with editorial context and evidence-first reporting' if is_en else 'Cosmos Week · jornalismo científico com contexto editorial e compromisso com evidência',
+        'archive_note': 'Static article · inside the Cosmos Week archive' if is_en else 'Matéria estática · dentro do arquivo Cosmos Week',
+        'sub': 'Science news in English' if is_en else 'Notícias científicas em português',
+        'nav_home': 'Home' if is_en else 'Início',
+        'nav_archive': 'Archive' if is_en else 'Arquivo',
+        'nav_about': 'About' if is_en else 'Sobre',
+        'nav_standards': 'Standards' if is_en else 'Padrões',
+        'nav_guides': 'Guides' if is_en else 'Guias',
+        'search': 'Search stories, topics or sources...' if is_en else 'Buscar notícias, temas ou fontes...',
+        'method': 'Methodology' if is_en else 'Metodologia',
+        'advertise': 'Advertise' if is_en else 'Anuncie',
+        'topics': 'Sections' if is_en else 'Editorias',
+        'footer_desc': 'Science journalism with context, source traceability and visible editorial standards.' if is_en else 'Jornalismo científico com contexto, rastreabilidade de fontes e padrões editoriais visíveis.',
+        'footer_nav': 'Navigation' if is_en else 'Navegação',
+        'footer_transparency': 'Transparency' if is_en else 'Transparência',
+        'footer_bottom': 'Scientific news with context and commitment to evidence.' if is_en else 'Notícias científicas com contexto e compromisso com a evidência.',
+        'lang_pt': 'Portuguese edition' if is_en else 'Edição em português',
+        'lang_en': 'English edition' if is_en else 'Edição em inglês',
+    }
+    topics_html = ''.join(
+        f'<a class="cw-shell-topic" href="{html_escape_attr(archive_url)}">{html.escape(topic)}</a>'
+        for topic in topic_labels
+    )
+    header = f'''
+  <div class="cw-article-topbar">
+    <div class="cw-shell-wrap cw-article-topbar-inner">
+      <div>{html.escape(labels['topbar'])}</div>
+      <div>{html.escape(labels['archive_note'])}</div>
+    </div>
+  </div>
+  <header class="cw-article-header" role="banner">
+    <div class="cw-shell-wrap cw-article-header-inner">
+      <a class="cw-article-logo" href="{html_escape_attr(home_url)}" aria-label="Cosmos Week">
+        <div class="cw-article-logo-title">Cosmos<em>Week</em></div>
+        <div class="cw-article-logo-sub">{html.escape(labels['sub'])}</div>
+      </a>
+      <nav class="cw-article-nav" aria-label="{'Main navigation' if is_en else 'Navegação principal'}">
+        <a href="{html_escape_attr(home_url)}">{html.escape(labels['nav_home'])}</a>
+        <a href="{html_escape_attr(archive_url)}">{html.escape(labels['nav_archive'])}</a>
+        <a href="{html_escape_attr(about_url)}">{html.escape(labels['nav_about'])}</a>
+        <a href="{html_escape_attr(standards_url)}">{html.escape(labels['nav_standards'])}</a>
+        <a href="{html_escape_attr(guides_url)}">{html.escape(labels['nav_guides'])}</a>
+      </nav>
+      <div class="cw-article-tools">
+        <form class="cw-article-search" action="{html_escape_attr(home_url)}" method="get" role="search">
+          <input name="q" type="search" autocomplete="off" placeholder="{html_escape_attr(labels['search'])}">
+          <button type="submit" aria-label="{'Search' if is_en else 'Buscar'}">⌕</button>
+        </form>
+        <div class="cw-article-lang" aria-label="{'Language selector' if is_en else 'Selecionar idioma'}">
+          <a class="{'on' if not is_en else ''}" href="{html_escape_attr(article_static_url(slug, 'pt'))}" title="{html_escape_attr(labels['lang_pt'])}">🇧🇷</a>
+          <a class="{'on' if is_en else ''}" href="{html_escape_attr(article_static_url(slug, 'en'))}" title="{html_escape_attr(labels['lang_en'])}">🇺🇸</a>
+        </div>
+        <a class="cw-article-method" href="{html_escape_attr(standards_url)}">{html.escape(labels['method'])}</a>
+        <a class="cw-article-method cw-article-method-soft" href="{html_escape_attr(advertise_url)}">{html.escape(labels['advertise'])}</a>
+      </div>
+    </div>
+    <div class="cw-article-topicbar" aria-label="{html_escape_attr(labels['topics'])}">
+      <div class="cw-shell-wrap cw-article-topicbar-inner">{topics_html}</div>
+    </div>
+  </header>'''
+    footer = f'''
+  <footer class="cw-article-footer" role="contentinfo">
+    <div class="cw-shell-wrap cw-article-footer-inner">
+      <div class="cw-article-footer-brand">
+        <div class="cw-article-logo-title cw-article-footer-logo">Cosmos<em>Week</em></div>
+        <p>{html.escape(labels['footer_desc'])}</p>
+        <a class="cw-article-instagram" href="https://www.instagram.com/cosmos_week/" target="_blank" rel="noopener">Instagram</a>
+      </div>
+      <div>
+        <div class="cw-article-footer-title">{html.escape(labels['footer_nav'])}</div>
+        <div class="cw-article-footer-links">
+          <a href="{html_escape_attr(home_url)}">{html.escape(labels['nav_home'])}</a>
+          <a href="{html_escape_attr(archive_url)}">{html.escape(labels['nav_archive'])}</a>
+          <a href="{html_escape_attr(about_url)}">{html.escape(labels['nav_about'])}</a>
+          <a href="{html_escape_attr(standards_url)}">{html.escape(labels['nav_standards'])}</a>
+          <a href="{html_escape_attr(guides_url)}">{html.escape(labels['nav_guides'])}</a>
+          <a href="{html_escape_attr(media_url)}">Media kit</a>
+        </div>
+      </div>
+      <div>
+        <div class="cw-article-footer-title">{html.escape(labels['footer_transparency'])}</div>
+        <div class="cw-article-footer-links">
+          <a href="/feed.xml" target="_blank" rel="noopener">{html.escape(feed_label)}</a>
+          <a href="/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
+          <a href="{html_escape_attr(privacy_url)}">{'Privacy policy' if is_en else 'Política de privacidade'}</a>
+          <a href="{html_escape_attr(terms_url)}">{'Terms of use' if is_en else 'Termos de uso'}</a>
+          <a href="{html_escape_attr(contact_url)}">{'Contact' if is_en else 'Contato'}</a>
+        </div>
+      </div>
+    </div>
+    <div class="cw-shell-wrap cw-article-footer-bottom"><span>© 2026 Cosmos Week</span><span>{html.escape(labels['footer_bottom'])}</span></div>
+  </footer>'''
+    if '/assets/css/article-shell.css' not in page:
+        page = page.replace('</head>', '  <link href="/assets/css/article-shell.css" rel="stylesheet">\n</head>', 1)
+    if '<body>' in page:
+        page = page.replace('<body>', f'<body class="cw-static-article" data-cw-lang="{html_escape_attr(lang)}">', 1)
+    elif '<body ' in page and 'cw-static-article' not in page:
+        page = page.replace('<body ', f'<body class="cw-static-article" data-cw-lang="{html_escape_attr(lang)}" ', 1)
+    if 'cw-article-header' not in page:
+        page = re.sub(r'(<a class="skip-link"[^>]*>.*?</a>)', lambda m: m.group(1) + header, page, count=1, flags=re.S)
+    if 'cw-article-footer' not in page:
+        page = page.replace('  <script src="/assets/js/article-layout.js"></script>', footer + '\n  <script src="/assets/js/article-layout.js"></script>', 1)
+    if is_en:
+        page = page.replace('>Open homepage</a>', '>More stories</a>')
+        page = re.sub(r'<a class="btn" href="https://www\.cosmosweek\.com/\?article=[^"]+&amp;lang=en">Open live edition</a>', '<a class="btn" href="https://www.cosmosweek.com/en/archive/">Explore archive</a>', page)
+        page = page.replace('Dynamic version keeps live navigation and the current homepage context.', 'Keep reading inside the Cosmos Week archive or open the original source for primary context.')
+        page = page.replace('<a href="https://www.cosmosweek.com/en/">News</a>', '<a href="https://www.cosmosweek.com/en/archive/">News</a>')
+    else:
+        page = page.replace('>Abrir homepage</a>', '>Mais notícias</a>')
+        page = re.sub(r'<a class="btn" href="https://www\.cosmosweek\.com/\?article=[^"]+">Abrir versão dinâmica</a>', '<a class="btn" href="https://www.cosmosweek.com/arquivo/">Explorar arquivo</a>', page)
+        page = page.replace('A versão dinâmica mantém navegação viva e o contexto mais recente da homepage.', 'Continue lendo dentro do arquivo do Cosmos Week ou abra a fonte original para conferir o contexto primário.')
+        page = page.replace('<a href="https://www.cosmosweek.com/">Notícias</a>', '<a href="https://www.cosmosweek.com/arquivo/">Notícias</a>')
+    return page
+
+
 def build_preview_pages(posts: list[dict], rebuild_slugs: Optional[set[str]] = None) -> None:
     # Do not wipe old article directories on every run. Existing articles should
     # remain byte-stable unless they are new in this workflow run or their static
@@ -5132,10 +5480,10 @@ def build_preview_pages(posts: list[dict], rebuild_slugs: Optional[set[str]] = N
             continue
 
         article_dir_pt.mkdir(parents=True, exist_ok=True)
-        page_pt.write_text(render_static_article_page(post, 'pt'), encoding='utf-8')
+        page_pt.write_text(enhance_static_article_shell(render_static_article_page(post, 'pt'), 'pt', post), encoding='utf-8')
 
         article_dir_en.mkdir(parents=True, exist_ok=True)
-        page_en.write_text(render_static_article_page(post, 'en'), encoding='utf-8')
+        page_en.write_text(enhance_static_article_shell(render_static_article_page(post, 'en'), 'en', post), encoding='utf-8')
 
 
 # ── Output generation ─────────────────────────────────────────────────────────
@@ -5237,7 +5585,79 @@ def build_robots() -> None:
     )
 
 
+
+
+def merge_inline_image_lists(existing: list[dict], fresh: list[dict], limit: int = MAX_INLINE_IMAGES) -> list[dict]:
+    merged: list[dict] = []
+    seen = set()
+    for item in list(existing or []) + list(fresh or []):
+        if not isinstance(item, dict):
+            continue
+        src = clean_image_url(item.get('src') or '')
+        if not src or not image_url_looks_good(src):
+            continue
+        key = normalize_text(src)
+        if key in seen:
+            continue
+        seen.add(key)
+        clone = dict(item)
+        clone['src'] = src
+        merged.append(clone)
+        if len(merged) >= limit:
+            break
+    return merged
+
+
+def enrich_post_media(post: dict) -> dict:
+    """Refresh inline images for preserved posts that have too few media items."""
+    if not isinstance(post, dict):
+        return post
+    if post.get('sourceType') == 'preprint' or post.get('isPreprint'):
+        return post
+    existing = post.get('inline_images') if isinstance(post.get('inline_images'), list) else []
+    # Filtra URLs antigas que apontavam para páginas HTML, não imagens reais.
+    existing = merge_inline_image_lists([], existing, MAX_INLINE_IMAGES)
+    post['inline_images'] = existing
+    if len(existing) >= MIN_INLINE_IMAGES:
+        return post
+    src_url = collapse_ws(str(post.get('srcUrl') or ''))
+    if not src_url:
+        return post
+    try:
+        fresh = extract_inline_images(
+            src_url,
+            primary_image=post.get('img') or '',
+            title=post.get('title_en') or post.get('title') or '',
+            summary=post.get('sub_en') or post.get('excerpt_en') or post.get('sub') or '',
+            category=post.get('cat') or '',
+            min_count=MIN_INLINE_IMAGES,
+        )
+        merged = merge_inline_image_lists(existing, fresh, MAX_INLINE_IMAGES)
+        if len(merged) > len(existing):
+            post['inline_images'] = merged
+    except Exception as exc:
+        print(f'AVISO: falha ao enriquecer imagens de {post.get("slug", "")}: {exc}')
+    return post
+
+
+def enrich_posts_media(posts: list[dict]) -> None:
+    for post in posts:
+        enrich_post_media(post)
+
+
+def summary_index_posts(posts: list[dict]) -> list[dict]:
+    """Build the lightweight first-load index while preserving media metadata."""
+    omit = {'body', 'body_pt', 'body_en', '_preserveContent'}
+    slim = []
+    for post in posts:
+        if not isinstance(post, dict):
+            continue
+        slim.append({k: v for k, v in post.items() if k not in omit})
+    return slim
+
 def save_posts(posts: list[dict]) -> None:
+    # Atualiza mídia de posts preservados antes de serializar qualquer artefato.
+    enrich_posts_media(posts)
     # Sanitiza campos textuais e mídia antes de serializar qualquer artefato.
     sanitize_posts(posts)
     # Garantir saída sempre em ordem cronológica decrescente.
@@ -5249,6 +5669,11 @@ def save_posts(posts: list[dict]) -> None:
     POSTS_JS.write_text(
         '// Dados atualizados automaticamente para o Cosmos Week\n\nwindow.postsData = ' +
         json.dumps(output_posts, ensure_ascii=False, indent=2) + ';\n',
+        encoding='utf-8'
+    )
+    POSTS_INDEX_JSON.parent.mkdir(parents=True, exist_ok=True)
+    POSTS_INDEX_JSON.write_text(
+        json.dumps(summary_index_posts(output_posts), ensure_ascii=False, indent=2),
         encoding='utf-8'
     )
 

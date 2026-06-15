@@ -2,14 +2,12 @@ name: Atualizar notícias
 
 on:
   schedule:
-    # Fase 1: atualiza 3× por dia — manhã, tarde e noite (UTC)
-    # Horários em Utah (MT):
-    #   06:00 UTC = 23:00 MST / 00:00 MDT (madrugada)
-    #   13:00 UTC = 06:00 MST / 07:00 MDT (manhã)
-    #   20:00 UTC = 13:00 MST / 14:00 MDT (tarde)
-    - cron: '0 6 * * *'
-    - cron: '0 13 * * *'
-    - cron: '0 20 * * *'
+    # Atualiza 1× por dia, fora da madrugada em Utah.
+    # GitHub Actions usa UTC e pode atrasar/descartar jobs em horários de pico,
+    # especialmente no começo de cada hora. Por isso usamos um minuto quebrado (:37).
+    # Horário em Utah (Mountain Time):
+    #   15:37 UTC = 09:37 MDT (verão) / 08:37 MST (inverno)
+    - cron: '37 15 * * *'
   workflow_dispatch:
 
 permissions:
@@ -87,6 +85,7 @@ jobs:
               Path('posts.json'),
               Path('posts.js'),
               Path('all_posts.json'),
+              Path('assets/data/posts-index.json'),
               Path('feed.xml'),
               Path('sitemap.xml'),
               Path('robots.txt'),
@@ -100,6 +99,7 @@ jobs:
 
           json.loads(Path('posts.json').read_text(encoding='utf-8'))
           json.loads(Path('all_posts.json').read_text(encoding='utf-8'))
+          json.loads(Path('assets/data/posts-index.json').read_text(encoding='utf-8'))
           print('✓ Arquivos gerados com sucesso e JSON válido')
           PY
 
@@ -116,7 +116,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A posts.json posts.js all_posts.json feed.xml sitemap.xml robots.txt noticia/ en/
+          git add -A posts.json posts.js all_posts.json assets/data/posts-index.json feed.xml sitemap.xml robots.txt noticia/ en/
           if git diff --cached --quiet; then
             echo "Nenhuma alteração nas notícias."
           else
