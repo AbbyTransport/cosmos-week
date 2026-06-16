@@ -1,6 +1,396 @@
 [
   {
     "id": 1,
+    "slug": "nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/06/STScI-01KTV7RPWZFWRPJZGXFCJHC3SQ.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "inline_images": [],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/06/STScI-01KTXXWFR8EYR7A9WMQ2MTP3C0.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/06/STScI-01KTV7RPWZFWRPJZGXFCJHC3SQ.png?w=4144&h=3031&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "NASA Webb e Hubble revelam história da relíquia da formação da Via Láctea - NASA Science",
+      "title_pt": "NASA Webb e Hubble revelam história da relíquia da formação da Via Láctea - NASA Science",
+      "title_en": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation - NASA Science",
+      "caption": "Pesquisadores que usaram dois dos observatórios mais poderosos da humanidade – os telescópios espaciais James Webb e Hubble da NASA – mostraram definitivamente que Terzan 5 não é",
+      "caption_pt": "Pesquisadores que usaram dois dos observatórios mais poderosos da humanidade – os telescópios espaciais James Webb e Hubble da NASA – mostraram definitivamente que Terzan 5 não é",
+      "caption_en": "Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not",
+      "sourcePage": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/"
+    },
+    "audio": null,
+    "title": "NASA Webb e Hubble revelam a história de uma relíquia da formação da Via Láctea",
+    "title_pt": "NASA Webb e Hubble revelam a história de uma relíquia da formação da Via Láctea",
+    "title_en": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
+    "sub": "Pesquisadores que utilizaram dois dos observatórios mais poderosos da humanidade, os Telescópios Espaciais James Webb e Hubble da NASA, demonstraram definitivamente que Terzan 5.",
+    "sub_pt": "Pesquisadores que utilizaram dois dos observatórios mais poderosos da humanidade, os Telescópios Espaciais James Webb e Hubble da NASA, demonstraram definitivamente que Terzan 5.",
+    "sub_en": "Researchers using two of humanity’s most powerful observatories, NASA’s James Webb and Hubble Space Telescopes, have definitively shown that Terzan 5 is not a globular star.",
+    "excerpt": "Pesquisadores que utilizaram dois dos observatórios mais poderosos da humanidade, os Telescópios Espaciais James Webb e Hubble da NASA, demonstraram definitivamente que Terzan 5 não é um aglomerado estelar globular, mas sim um sistema estelar complexo e.",
+    "excerpt_pt": "Pesquisadores que utilizaram dois dos observatórios mais poderosos da humanidade, os Telescópios Espaciais James Webb e Hubble da NASA, demonstraram definitivamente que Terzan 5 não é um aglomerado estelar globular, mas sim um sistema estelar complexo e.",
+    "excerpt_en": "Researchers using two of humanity’s most powerful observatories, NASA’s James Webb and Hubble Space Telescopes, have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how.",
+    "highlights": [
+      "Em foco: Pesquisadores que utilizaram dois dos observatórios mais poderosos da humanidade, os Telescópios Espaciais James Webb e Hubble da NASA, demonstraram",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Pesquisadores que utilizaram dois dos observatórios mais poderosos da humanidade, os Telescópios Espaciais James Webb e Hubble da NASA, demonstraram",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Researchers using two of humanity’s most powerful observatories, NASA’s James Webb and Hubble Space Telescopes, have definitively shown that Terzan 5",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "16 jun 2026",
+    "date_pt": "16 jun 2026",
+    "date_en": "16 Jun 2026",
+    "time": "17h15",
+    "time_pt": "17h15",
+    "time_en": "17: 15 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-16T17:15:00+00:00",
+    "lastModifiedIso": "2026-06-16T19:14:06+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Webb e Hubble revelam história da relíquia da formação da Via Láctea"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Webb e Hubble revelam história da relíquia da formação da Via Láctea"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Webb and Hubble reveal relic history of Milky Way formation"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-webb-hubble-reveal-history-of-relic-of-milky-way-s-formation/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "NASA Webb e Hubble revelam a história de uma relíquia da formação da Via Láctea",
+    "imageAlt_pt": "NASA Webb e Hubble revelam a história de uma relíquia da formação da Via Láctea",
+    "imageAlt_en": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "webb-hubble-reveal-relic-of-our-galaxy-s-formation",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/bulge_fossil_fragment_terzan_5_webb_and_hubble_image/27328339-1-eng-GB/Bulge_fossil_fragment_Terzan_5_Webb_and_Hubble_image_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/bulge_fossil_fragment_terzan_5_webb_and_hubble_image/27328339-1-eng-GB/Bulge_fossil_fragment_Terzan_5_Webb_and_Hubble_image_article.jpg",
+        "alt": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "alt_pt": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "alt_en": "Bulge fossil fragment Terzan 5 (Webb and Hubble image)",
+        "caption": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "caption_pt": "Fragmento fóssil de protuberância Terzan 5 (imagem Webb e Hubble)",
+        "caption_en": "Bulge fossil fragment Terzan 5 (Webb and Hubble image)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Webb e Hubble revelam relíquia da formação da nossa galáxia",
+    "title_pt": "Webb e Hubble revelam relíquia da formação da nossa galáxia",
+    "title_en": "Webb & Hubble reveal relic of our galaxy’s formation",
+    "sub": "Pesquisadores confirmaram uma nova classe de objetos na Via Láctea, os 'fragmentos fósseis protuberantes', com Terzan 5 sendo o protótipo desses remanescentes da formação inicial.",
+    "sub_pt": "Pesquisadores confirmaram uma nova classe de objetos na Via Láctea, os 'fragmentos fósseis protuberantes', com Terzan 5 sendo o protótipo desses remanescentes da formação inicial.",
+    "sub_en": "Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments.",
+    "excerpt": "Pesquisadores confirmaram uma nova classe de objetos na Via Láctea, os 'fragmentos fósseis protuberantes', com Terzan 5 sendo o protótipo desses remanescentes da formação inicial da galáxia.",
+    "excerpt_pt": "Pesquisadores confirmaram uma nova classe de objetos na Via Láctea, os 'fragmentos fósseis protuberantes', com Terzan 5 sendo o protótipo desses remanescentes da formação inicial da galáxia.",
+    "excerpt_en": "Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments. ' Terzan 5 is the prototype of these remnants of our galaxy's early formation.",
+    "highlights": [
+      "Em foco: Pesquisadores confirmaram uma nova classe de objetos na Via Láctea, os 'fragmentos fósseis protuberantes', com Terzan 5 sendo o protótipo desses",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Pesquisadores confirmaram uma nova classe de objetos na Via Láctea, os 'fragmentos fósseis protuberantes', com Terzan 5 sendo o protótipo desses",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "16 jun 2026",
+    "date_pt": "16 jun 2026",
+    "date_en": "16 Jun 2026",
+    "time": "17h15",
+    "time_pt": "17h15",
+    "time_en": "17: 15 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-16T17:15:00+00:00",
+    "lastModifiedIso": "2026-06-16T19:14:06+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb e Hubble revelam relíquia da formação da nossa galáxia"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb e Hubble revelam relíquia da formação da nossa galáxia"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb and Hubble reveal relic of our galaxy's formation"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation",
+    "realUrl": "https://www.cosmosweek.com/?article=webb-hubble-reveal-relic-of-our-galaxy-s-formation",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-hubble-reveal-relic-of-our-galaxy-s-formation",
+    "realUrl_en": "https://www.cosmosweek.com/?article=webb-hubble-reveal-relic-of-our-galaxy-s-formation&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/webb-hubble-reveal-relic-of-our-galaxy-s-formation/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-hubble-reveal-relic-of-our-galaxy-s-formation/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-hubble-reveal-relic-of-our-galaxy-s-formation/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-hubble-reveal-relic-of-our-galaxy-s-formation/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-hubble-reveal-relic-of-our-galaxy-s-formation/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-hubble-reveal-relic-of-our-galaxy-s-formation/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 95,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Webb e Hubble revelam relíquia da formação da nossa galáxia",
+    "imageAlt_pt": "Webb e Hubble revelam relíquia da formação da nossa galáxia",
+    "imageAlt_en": "Webb & Hubble reveal relic of our galaxy’s formation",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "nasa-uses-machine-learning-to-enhance-flash-flood-warnings",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/cds/science-enabling-technology/technology-highlights/2026/Bock_Image_1a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/cds/science-enabling-technology/technology-highlights/2026/Bock_Movie_Compressed.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/Bock_Image_1a.jpg?w=720&h=600&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "NASA usa aprendizado de máquina para aprimorar avisos de inundações repentinas - NASA Science",
+      "title_pt": "NASA usa aprendizado de máquina para aprimorar avisos de inundações repentinas - NASA Science",
+      "title_en": "NASA Uses Machine Learning to Enhance Flash Flood Warnings - NASA Science",
+      "caption": "O Artefato Transiente e Sistema de Aprendizagem Contínua (TACLS) aproveita dados de redes de satélite em operação contínua, juntamente com modelos de aprendizado de máquina para ajudar os meteorologistas do Serviço Meteorológico Nacional a prever inundações repentinas com mais eficiência.",
+      "caption_pt": "O Artefato Transiente e Sistema de Aprendizagem Contínua (TACLS) aproveita dados de redes de satélite em operação contínua, juntamente com modelos de aprendizado de máquina para ajudar os meteorologistas do Serviço Meteorológico Nacional a prever inundações repentinas com mais eficiência.",
+      "caption_en": "The Transient Artifact and Continuous Learning System (TACLS) leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at the National Weather Service forecast flash floods more efficiently.",
+      "sourcePage": "https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/"
+    },
+    "audio": null,
+    "title": "NASA utiliza aprendizado de máquina para aprimorar avisos de inundações repentinas",
+    "title_pt": "NASA utiliza aprendizado de máquina para aprimorar avisos de inundações repentinas",
+    "title_en": "NASA Uses Machine Learning to Enhance Flash Flood Warnings",
+    "sub": "O Artefato Transiente e o Sistema de Aprendizagem Contínua (TACLS) da NASA aproveita dados de redes de satélite em operação contínua, juntamente com modelos de aprendizado de.",
+    "sub_pt": "O Artefato Transiente e o Sistema de Aprendizagem Contínua (TACLS) da NASA aproveita dados de redes de satélite em operação contínua, juntamente com modelos de aprendizado de.",
+    "sub_en": "The Transient Artifact and Continuous Learning System leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at.",
+    "excerpt": "O Artefato Transiente e o Sistema de Aprendizagem Contínua (TACLS) da NASA aproveita dados de redes de satélite em operação contínua, juntamente com modelos de aprendizado de máquina, para aprimorar a previsão de inundações repentinas.",
+    "excerpt_pt": "O Artefato Transiente e o Sistema de Aprendizagem Contínua (TACLS) da NASA aproveita dados de redes de satélite em operação contínua, juntamente com modelos de aprendizado de máquina, para aprimorar a previsão de inundações repentinas.",
+    "excerpt_en": "The Transient Artifact and Continuous Learning System leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at the National Weather Service forecast flash floods more.",
+    "highlights": [
+      "Em foco: O Artefato Transiente e o Sistema de Aprendizagem Contínua (TACLS) da NASA aproveita dados de redes de satélite em operação contínua, juntamente com",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: O Artefato Transiente e o Sistema de Aprendizagem Contínua (TACLS) da NASA aproveita dados de redes de satélite em operação contínua, juntamente com",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The Transient Artifact and Continuous Learning System leverages data from continuously operating satellite networks coupled with machine learning",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "16 jun 2026",
+    "date_pt": "16 jun 2026",
+    "date_en": "16 Jun 2026",
+    "time": "15h23",
+    "time_pt": "15h23",
+    "time_en": "15: 23 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-16T15:23:02+00:00",
+    "lastModifiedIso": "2026-06-16T19:14:06+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA usa aprendizado de máquina para aprimorar avisos de inundações repentinas"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA usa aprendizado de máquina para aprimorar avisos de inundações repentinas"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA uses machine learning to improve flash flood warnings"
+    ],
+    "srcUrl": "https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-uses-machine-learning-to-enhance-flash-flood-warnings",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-uses-machine-learning-to-enhance-flash-flood-warnings",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-uses-machine-learning-to-enhance-flash-flood-warnings&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "NASA utiliza aprendizado de máquina para aprimorar avisos de inundações repentinas",
+    "imageAlt_pt": "NASA utiliza aprendizado de máquina para aprimorar avisos de inundações repentinas",
+    "imageAlt_en": "NASA Uses Machine Learning to Enhance Flash Flood Warnings",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "nasa-s-chandra-finds-unexpected-fireworks-in-aftermath-of-stellar-explosions",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -150,7 +540,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "pumice-rafts-encroach-on-admiralty-islands",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -281,7 +671,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "world-cup-fever-in-guadalajara",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -327,19 +717,19 @@
     "excerpt_pt": "A área metropolitana de Guadalajara expandiu-se para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, avançando por uma paisagem moldada por antigos vulcões.",
     "excerpt_en": "The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
     "highlights": [
-      "Em foco: A área metropolitana de Guadalajara expandiu-se para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, avançando por uma",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A área metropolitana de Guadalajara expandiu-se para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, avançando por uma.",
+      "Dado-chave: A área metropolitana de Guadalajara expandiu-se para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, avançando por uma",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A área metropolitana de Guadalajara expandiu-se para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, avançando por uma",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A área metropolitana de Guadalajara expandiu-se para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, avançando por uma.",
+      "Dado-chave: A área metropolitana de Guadalajara expandiu-se para o oeste desde a última vez que sediou jogos da Copa do Mundo, em 1986, avançando por uma",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient volcanoes.",
+      "Key detail: The city’s metro area has pushed westward since it last hosted World Cup matches in 1986, expanding across a landscape shaped by ancient.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "12 jun 2026",
     "date_pt": "12 jun 2026",
@@ -427,243 +817,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://science.nasa.gov/wp-content/uploads/2026/06/sgrc.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
-    "title_pt": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
-    "title_en": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-    "sub": "Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região intrigante no centro da nossa.",
-    "sub_pt": "Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região intrigante no centro da nossa.",
-    "sub_en": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy.",
-    "excerpt": "Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região intrigante no centro da nossa galáxia.",
-    "excerpt_pt": "Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região intrigante no centro da nossa galáxia.",
-    "excerpt_en": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy.",
-    "highlights": [
-      "Ponto central: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região.",
-      "Dado-chave: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma região.",
-      "Dado-chave: Utilizando dados do Observatório de Raios-X Chandra da NASA, astrônomos podem ter identificado um possível remanescente de supernova em uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our.",
-      "Key detail: Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "20h41",
-    "time_pt": "20h41",
-    "time_en": "20: 41 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T20:41:44+00:00",
-    "lastModifiedIso": "2026-06-12T18:05:42+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Chandra da NASA descobre possível remanescente de supernova no centro galáctico"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Chandra da NASA descobre possível remanescente de supernova no centro galáctico"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Chandra Discovers Possible Supernova Remnant at Galactic Center"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
-    "imageAlt_pt": "Chandra da NASA descobre possível remanescente de supernova no centro galáctico",
-    "imageAlt_en": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
-    "slug": "nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/a-step/34340D_0569_PSE_NASA_Goddard_Gamma-Ray_Tracker_Assembly_Process_WEB_16x9.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Demonstração de Tecnologia Robótica da NASA Impulsionará Protótipos de Detectores de Raios Gama",
-    "title_pt": "Demonstração de Tecnologia Robótica da NASA Impulsionará Protótipos de Detectores de Raios Gama",
-    "title_en": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
-    "sub": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "sub_pt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "sub_en": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
-    "excerpt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "excerpt_pt": "Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational Robots da agência.",
-    "excerpt_en": "A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots mission.",
-    "highlights": [
-      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
-      "Dado-chave: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational.",
-      "Dado-chave: Um novo tipo de sensor de raios gama desenvolvido pela NASA participará de uma demonstração de braço robótico na próxima missão Fly Foundational",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots.",
-      "Key detail: A new type of gamma-ray sensor developed by NASA will take part in a robotic arm demonstration on the agency’s upcoming Fly Foundational Robots",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 jun 2026",
-    "date_pt": "11 jun 2026",
-    "date_en": "11 Jun 2026",
-    "time": "18h59",
-    "time_pt": "18h59",
-    "time_en": "18: 59 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-11T18:59:37+00:00",
-    "lastModifiedIso": "2026-06-12T18:05:42+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Demonstração de tecnologia robótica da NASA avançará protótipos de detectores de raios gama"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA robotics technology demonstration will advance gamma-ray detector prototypes"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/tech-demonstration/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-robotic-tech-demo-will-advance-prototype-gamma-ray-detectors/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Demonstração de Tecnologia Robótica da NASA Impulsionará Protótipos de Detectores de Raios Gama",
-    "imageAlt_pt": "Demonstração de Tecnologia Robótica da NASA Impulsionará Protótipos de Detectores de Raios Gama",
-    "imageAlt_en": "NASA Robotic Tech Demo Will Advance Prototype Gamma-Ray Detectors",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
+    "id": 7,
     "slug": "tracking-urban-expansion-in-hazard-prone-areas",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -692,12 +846,12 @@
     "excerpt_en": "The World Settlement Footprint Tracker, and its dedicated online platform, have been officially released at an event at the World Bank headquarters in Washington DC.",
     "highlights": [
       "Ponto central: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram.",
-      "Dado-chave: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram",
+      "Dado-chave: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram.",
-      "Dado-chave: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram",
+      "Dado-chave: O World Settlement Footprint Tracker, uma ferramenta inovadora para monitorar a expansão urbana global, e sua plataforma online dedicada foram.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -791,7 +945,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "geometric-obstruction-to-resolving-the-hubble-tension-orthogonality-of-scale-and-shape-in-distan",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -912,7 +1066,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1079,7 +1233,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "cleaner-air-and-prosperity-can-go-hand-in-hand",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1225,7 +1379,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "researchers-develop-innovative-model-for-risk-assessment-for-hypertrophic-cardiomyopathy",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1343,7 +1497,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "the-integral-and-correlation-scales-of-solar-wind-turbulence",
     "cat": "Física",
     "catCls": "fisica",
@@ -1461,7 +1615,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1670,7 +1824,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "what-s-actually-new-about-nasa-s-artemis-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1870,7 +2024,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "esa-and-ebrd-to-advance-earth-observation-for-development-and-impact-finance",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1998,7 +2152,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "webb-unveils-young-stars-across-every-stage-of-formation",
     "cat": "Química",
     "catCls": "quimica",
@@ -2126,7 +2280,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2285,7 +2439,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "lorentz-violating-signatures-in-quasi-periodic-oscillations-from-a-magnetised-kalb-ramond-black-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2406,7 +2560,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2524,7 +2678,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2674,7 +2828,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2802,7 +2956,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "tornado-draws-a-jagged-line-in-mississippi",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2961,7 +3115,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "smile-lifts-off-on-quest-to-reveal-earth-s-invisible-shield-against-the-solar-wind",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3149,161 +3303,6 @@
     "imageAlt": "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar",
     "imageAlt_pt": "Smile decola em busca de revelar o escudo invisível da Terra contra o vento solar",
     "imageAlt_en": "Smile lifts off on quest to reveal Earth’s invisible shield against the solar wind",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 23,
-    "slug": "a-beacon-of-light-in-swirls-of-dust",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_beacon_of_light_in_swirls_of_dust/27263088-1-eng-GB/A_beacon_of_light_in_swirls_of_dust_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_beacon_of_light_in_swirls_of_dust/27263088-1-eng-GB/A_beacon_of_light_in_swirls_of_dust_pillars.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/a_beacon_of_light_in_swirls_of_dust/27263088-1-eng-GB/A_beacon_of_light_in_swirls_of_dust_article.jpg",
-        "alt": "Um farol de luz em redemoinhos de poeira",
-        "alt_pt": "Um farol de luz em redemoinhos de poeira",
-        "alt_en": "A beacon of light in swirls of dust",
-        "caption": "Um farol de luz em redemoinhos de poeira",
-        "caption_pt": "Um farol de luz em redemoinhos de poeira",
-        "caption_en": "A beacon of light in swirls of dust"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/messier_77_nircam/27263539-1-eng-GB/Messier_77_NIRCam_article.jpg",
-        "alt": "Messier 77 (NIRCam)",
-        "alt_pt": "Messier 77 (NIRCam)",
-        "alt_en": "Messier 77 (NIRCam)",
-        "caption": "Messier 77 (NIRCam)",
-        "caption_pt": "Messier 77 (NIRCam)",
-        "caption_en": "Messier 77 (NIRCam)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/messier_77_miri_nircam/27263254-1-eng-GB/Messier_77_MIRI_NIRCam_article.jpg",
-        "alt": "Messier 77 (MIRI e NIRCam combinados)",
-        "alt_pt": "Messier 77 (MIRI e NIRCam combinados)",
-        "alt_en": "Messier 77 (MIRI and NIRCam combined)",
-        "caption": "Messier 77 (MIRI e NIRCam combinados)",
-        "caption_pt": "Messier 77 (MIRI e NIRCam combinados)",
-        "caption_en": "Messier 77 (MIRI and NIRCam combined)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Um farol de luz em redemoinhos de poeira",
-    "title_pt": "Um farol de luz em redemoinhos de poeira",
-    "title_en": "A beacon of light in swirls of dust",
-    "sub": "A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua proximidade e características.",
-    "sub_pt": "A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua proximidade e características.",
-    "sub_en": "This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77, a barred spiral galaxy famous among astronomers for its combination of.",
-    "excerpt": "A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua proximidade e características espetaculares, tornando-a um objeto de estudo privilegiado para astrônomos.",
-    "excerpt_pt": "A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua proximidade e características espetaculares, tornando-a um objeto de estudo privilegiado para astrônomos.",
-    "excerpt_en": "This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77, a barred spiral galaxy famous among astronomers for its combination of relative proximity and spectacular features to study.",
-    "highlights": [
-      "Ponto central: A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua.",
-      "Dado-chave: A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua.",
-      "Dado-chave: A mais recente Imagem do Mês do Telescópio Espacial James Webb (NASA/ESA/CSA) revela Messier 77, uma galáxia espiral barrada notável por sua.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77, a barred spiral galaxy famous among.",
-      "Key detail: This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77, a barred spiral galaxy famous among.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 mai 2026",
-    "date_pt": "07 mai 2026",
-    "date_en": "07 May 2026",
-    "time": "08h00",
-    "time_pt": "08h00",
-    "time_en": "08: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-07T08:00:00+00:00",
-    "lastModifiedIso": "2026-05-07T17:34:38+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Um farol de luz em redemoinhos de poeira"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Um farol de luz em redemoinhos de poeira"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "A beacon of light in swirls of dust"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust",
-    "realUrl": "https://www.cosmosweek.com/?article=a-beacon-of-light-in-swirls-of-dust",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-beacon-of-light-in-swirls-of-dust",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-beacon-of-light-in-swirls-of-dust&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-beacon-of-light-in-swirls-of-dust/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-beacon-of-light-in-swirls-of-dust/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-beacon-of-light-in-swirls-of-dust/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-beacon-of-light-in-swirls-of-dust/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-beacon-of-light-in-swirls-of-dust/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-beacon-of-light-in-swirls-of-dust/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Um farol de luz em redemoinhos de poeira",
-    "imageAlt_pt": "Um farol de luz em redemoinhos de poeira",
-    "imageAlt_en": "A beacon of light in swirls of dust",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
