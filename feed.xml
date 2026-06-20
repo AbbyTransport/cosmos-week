@@ -5,7 +5,7 @@
     <link>https://www.cosmosweek.com/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 17:11:07 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Observações do Aglomerado Bala Reabrem o Debate sobre Matéria Escura com Explicação Compatível com MOND</title>
@@ -48,6 +48,16 @@
               <source url="https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/">NASA News Releases</source>
               <content:encoded>O encontro com Donaldjohanson foi meticulosamente planejado como um ensaio geral crucial para a espaçonave Lucy e sua equipe de missão. Este teste preparatório visava otimizar os procedimentos e sistemas antes dos primeiros encontros reais com os asteroides troianos, que são os alvos primários da missão. O primeiro desses encontros está programado para ocorrer com o asteroide troiano Eurybates em agosto de 2018, seguido por outros corpos celestes. A experiência adquirida durante o sobrevoo de Donaldjohanson é vital para garantir o sucesso das futuras operações científicas e a coleta de dados valiosos. Antes da aproximação de Lucy, observadores utilizando telescópios terrestres já haviam detectado flutuações na luz refletida por Donaldjohanson. Esses padrões regulares de picos e vales são característicos de um objeto alongado em rotação, indicando que o asteroide completa uma volta a cada</content:encoded>
             </item><item>
+              <title>Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura</title>
+              <link>https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/</link>
+              <guid>https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/</guid>
+              <pubDate>Thu, 18 Jun 2026 17:38:19 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a superradiância.</description>
+              <category>Cosmologia</category><category>arXiv Physics Frontiers</category><category>Cosmos Week</category><category>Aprimoramento do String Axiverse da produção de matéria escura superradiante</category>
+              <source url="https://arxiv.org/abs/2606.20524v1">arXiv Physics Frontiers</source>
+              <content:encoded>Este estudo investiga os efeitos da emissão de áxions provenientes do axiverso de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs). A pesquisa foca em dois mecanismos cruciais: a evaporação de PBHs e o fenômeno da superradiância. A compreensão desses processos é fundamental para desvendar a natureza da matéria escura, um dos maiores mistérios da cosmologia moderna. A teoria das cordas, com sua previsão de um vasto número de espécies de áxions, oferece um cenário rico para explorar como esses campos escalares podem interagir com buracos negros e influenciar a densidade de matéria escura no universo. Os áxions de cordas são partículas hipotéticas de spin zero, previstas por diversas construções da teoria das cordas, que podem interagir fracamente com a matéria e a radiação. Buracos negros primordiais leves, formados no universo primordial, são candidatos pot</content:encoded>
+            </item><item>
               <title>Acreção em Buracos Negros de Massa Estelar</title>
               <link>https://www.cosmosweek.com/noticia/accreting-stellar-mass-black-holes/</link>
               <guid>https://www.cosmosweek.com/noticia/accreting-stellar-mass-black-holes/</guid>
@@ -77,16 +87,6 @@
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>A pesquisa do NIH abre caminho para o estudo do tratamento experimental para transtorno por uso de opióides</category>
               <source url="https://www.nih.gov/news-events/news-releases/nih-research-clears-way-study-experimental-treatment-opioid-use-disorder">NIH News Releases</source>
               <content:encoded>Os Institutos Nacionais de Saúde (NIH) anunciaram que seu pedido de Novo Medicamento Investigacional (IND) para a mitraginina, o principal composto psicoativo encontrado na Mitragyna speciosa (kratom), entrou em vigor nos Estados Unidos. Esta aprovação abre caminho para um ensaio clínico de fase I, liderado pelo NIH, que avaliará a mitraginina como um tratamento potencial para o transtorno por uso de opioides. A iniciativa representa um passo significativo na busca por novas abordagens terapêuticas para essa condição de saúde pública. A formulação purificada de mitraginina a ser utilizada no ensaio foi desenvolvida por pesquisadores do NIH e da Universidade da Flórida. Este trabalho incluiu uma extensa fase pré-clínica, cujos resultados foram fundamentais para a apresentação e subsequente aprovação do pedido de IND. A colaboração entre as instituições foi crucial para avançar a pesquisa </content:encoded>
-            </item><item>
-              <title>Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo</title>
-              <link>https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/</link>
-              <guid>https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/</guid>
-              <pubDate>Wed, 17 Jun 2026 17:12:17 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.</description>
-              <category>Astrofísica</category><category>arXiv Physics Frontiers</category><category>Cosmos Week</category><category>Um potencial imitador de buraco negro de acoplamento não mínimo</category>
-              <source url="https://arxiv.org/abs/2606.19291v1">arXiv Physics Frontiers</source>
-              <content:encoded>A métrica interna desses objetos é notavelmente não singular, o que representa uma característica crucial para a estabilidade e a regularidade da solução proposta. A camada de transição, por sua vez, adquire uma equação de estado de matéria rígida, contribuindo para a coesão e a integridade estrutural do objeto. A compactação extrema observada na região próxima ao horizonte pode, de fato, mimetizar a fenomenologia associada aos buracos negros, mas sem a presença de um horizonte de eventos verdadeiro. Essa distinção é fundamental, pois oferece uma alternativa teórica para objetos astrofísicos compactos que poderiam ser indistinguíveis de buracos negros por certas observações, mas que possuem uma natureza intrinsecamente diferente. Diferentemente de outros modelos de objetos compactos, como o gravastar de Mazur-Mottola e suas diversas variantes, o presente modelo se destaca por selecionar </content:encoded>
             </item><item>
               <title>Grupos de galáxias anãs solitárias como traçadores de halos primordiais de matéria escura no Universo local</title>
               <link>https://www.cosmosweek.com/noticia/solitary-dwarf-galaxy-groups-as-tracers-of-primordial-dark-matter-halos-in-the-local-universe/</link>

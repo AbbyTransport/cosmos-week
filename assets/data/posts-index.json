@@ -28,19 +28,19 @@
     "excerpt_pt": "O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de pesquisadores.",
     "excerpt_en": "The Bullet Cluster has so far been considered evidence of the existence of dark matter. An international team of researchers has now analyzed new data and current images from the James Webb Space Telescope.",
     "highlights": [
-      "Em foco: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de.",
+      "Dado-chave: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de.",
+      "Dado-chave: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: The Bullet Cluster has so far been considered evidence of the existence of dark matter",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: The Bullet Cluster has so far been considered evidence of the existence of dark matter.",
+      "Key detail: The Bullet Cluster has so far been considered evidence of the existence of dark matter",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "19 jun 2026",
     "date_pt": "19 jun 2026",
@@ -528,6 +528,123 @@
   },
   {
     "id": 5,
+    "slug": "string-axiverse-enhancement-of-superradiant-dark-matter-production",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "title_pt": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "title_en": "String Axiverse Enhancement of Superradiant Dark Matter Production",
+    "sub": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a.",
+    "sub_pt": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a.",
+    "sub_en": "We study the effects of string axion emission on dark matter production by light primordial black holes, through both evaporation and superradiance.",
+    "excerpt": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a superradiância.",
+    "excerpt_pt": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a superradiância.",
+    "excerpt_en": "We study the effects of string axion emission on dark matter production by light primordial black holes, through both evaporation and superradiance.",
+    "highlights": [
+      "Em foco: Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs)",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs)",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: We study the effects of string axion emission on dark matter production by light primordial black holes, through both evaporation and superradiance",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "18 jun 2026",
+    "date_pt": "18 jun 2026",
+    "date_en": "18 Jun 2026",
+    "time": "17h38",
+    "time_pt": "17h38",
+    "time_en": "17: 38 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-18T17:38:19+00:00",
+    "lastModifiedIso": "2026-06-20T17:10:13+00:00",
+    "source": "arXiv Physics Frontiers",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "Aprimoramento do String Axiverse da produção de matéria escura superradiante"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "Aprimoramento do String Axiverse da produção de matéria escura superradiante"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "String Axiverse Enhancement of Superradiant Dark Matter Production"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2606.20524v1",
+    "realUrl": "https://www.cosmosweek.com/?article=string-axiverse-enhancement-of-superradiant-dark-matter-production",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=string-axiverse-enhancement-of-superradiant-dark-matter-production",
+    "realUrl_en": "https://www.cosmosweek.com/?article=string-axiverse-enhancement-of-superradiant-dark-matter-production&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 78,
+    "scoreBreakdown": {
+      "source": 61,
+      "evidence": 35,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "imageAlt_pt": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "imageAlt_en": "String Axiverse Enhancement of Superradiant Dark Matter Production",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 6,
     "slug": "accreting-stellar-mass-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -644,7 +761,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "search-for-hidden-cosmic-companions-in-sun-s-backyard",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -663,17 +780,17 @@
     "excerpt_en": "Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
     "highlights": [
       "Ponto central: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem",
+      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem",
+      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
-      "Key detail: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars",
+      "Key detail: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 jun 2026",
@@ -762,7 +879,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -880,124 +997,6 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
-    "slug": "a-potential-black-hole-mimicker-from-non-minimal-coupling",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "title_pt": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "title_en": "A Potential Black Hole Mimicker From Non-Minimal Coupling",
-    "sub": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "sub_pt": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "sub_en": "We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling.",
-    "excerpt": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "excerpt_pt": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "excerpt_en": "We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling.",
-    "highlights": [
-      "Ponto central: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento.",
-      "Dado-chave: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento.",
-      "Dado-chave: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling.",
-      "Key detail: We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling",
-      "Result not yet peer reviewed."
-    ],
-    "date": "17 jun 2026",
-    "date_pt": "17 jun 2026",
-    "date_en": "17 Jun 2026",
-    "time": "17h12",
-    "time_pt": "17h12",
-    "time_en": "17: 12 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-17T17:12:17+00:00",
-    "lastModifiedIso": "2026-06-18T18:30:29+00:00",
-    "source": "arXiv Physics Frontiers",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Um potencial imitador de buraco negro de acoplamento não mínimo"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Um potencial imitador de buraco negro de acoplamento não mínimo"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "A potential non-minimal coupling black hole mimic"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2606.19291v1",
-    "realUrl": "https://www.cosmosweek.com/?article=a-potential-black-hole-mimicker-from-non-minimal-coupling",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-potential-black-hole-mimicker-from-non-minimal-coupling",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-potential-black-hole-mimicker-from-non-minimal-coupling&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 61,
-      "evidence": 35,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "imageAlt_pt": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "imageAlt_en": "A Potential Black Hole Mimicker From Non-Minimal Coupling",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
     "id": 9,
     "slug": "solitary-dwarf-galaxy-groups-as-tracers-of-primordial-dark-matter-halos-in-the-local-universe",
     "cat": "Cosmologia",
@@ -1027,7 +1026,7 @@
     ],
     "highlights_en": [
       "Core point: In $Λ$CDM cosmology, galaxies and clusters form within dark matter halos and merge in the hierarchical assembly paradigm to form massive systems.",
-      "Key detail: In $Λ$CDM cosmology, galaxies and clusters form within dark matter halos and merge in the hierarchical assembly paradigm to form massive systems",
+      "Key detail: In $Λ$CDM cosmology, galaxies and clusters form within dark matter halos and merge in the hierarchical assembly paradigm to form massive systems.",
       "Result not yet peer reviewed."
     ],
     "date": "17 jun 2026",

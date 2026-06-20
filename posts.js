@@ -33,19 +33,19 @@ window.postsData = [
     "body_pt": "<p>As estrelas de nêutrons e os buracos negros são objetos celestes extremamente densos e compactos, resultantes do colapso de estrelas massivas. Assim como a matéria escura, ambos são invisíveis à detecção direta por telescópios ópticos ou de raios-X, mas exercem forças gravitacionais imensas que podem ser inferidas por seus efeitos sobre a luz e a matéria visível. A proposta central do estudo é que a massa combinada desses objetos compactos, que são formas de matéria bariônica (matéria comum), é suficiente para gerar o efeito de lente gravitacional observado no Aglomerado Bala, eliminando a necessidade de invocar uma forma exótica e não detectada de matéria escura para explicar o fenômeno.</p><p>A formação do Aglomerado Bala é o resultado de uma colossal colisão cósmica que ocorreu há aproximadamente 4 bilhões de anos. Nesse evento, dois aglomerados de galáxias, cada um contendo centenas de galáxias, colidiram a velocidades extraordinárias, superiores a 2.500 quilômetros por segundo. Essa interação violenta provocou a separação da matéria visível e da matéria escura (segundo a teoria padrão), ou, como sugere o novo estudo, a separação da matéria gasosa da matéria estelar e dos objetos compactos, criando uma configuração única que tem sido objeto de intensa investigação astronômica.</p><p>As consequências dessa colisão são observáveis da Terra por meio de telescópios de raios-X, que revelam nuvens de gás quente como duas manchas difusas relativamente próximas uma da outra. A análise tradicional indicava que a matéria escura de cada aglomerado de galáxias passou através da colisão com pouca interação, enquanto o gás quente, que é matéria bariônica, interagiu e desacelerou, formando as nuvens de raios-X. No Aglomerado Bala, o aglomerado de galáxias principal (cluster 1) está agora à esquerda da nuvem de gás esquerda, e o aglomerado secundário (cluster 2) está à direita da nuvem de gás direita, uma configuração que tem sido interpretada como uma evidência da separação entre matéria escura e matéria bariônica.</p><p>Os novos dados obtidos pelo Telescópio Espacial James Webb foram cruciais para esta reavaliação. A capacidade aprimorada do JWST permitiu um cálculo mais preciso e detalhado do número de estrelas em ambos os aglomerados de galáxias. Essa contagem estelar mais acurada é fundamental para estimar a massa total de matéria bariônica presente nos aglomerados, incluindo não apenas as estrelas visíveis, mas também as estrelas de nêutrons e os buracos negros, que são os remanescentes de estrelas que já existiram e evoluíram.</p><p>O coautor do estudo, Dr. Indranil Banik, da Universidade de Portsmouth, desempenhou um papel central ao demonstrar que o efeito de lente gravitacional observado no Aglomerado Bala pode ser integralmente explicado pelo número recém-calculado de estrelas visíveis, estrelas de nêutrons e buracos negros. Sua análise sugere que a massa gravitacional inferida, que antes era atribuída à matéria escura, pode ser totalmente contabilizada pela matéria bariônica compacta, sem a necessidade de uma componente de matéria escura. Essa descoberta tem implicações profundas para modelos cosmológicos e para a teoria da gravidade modificada (MOND).</p><p>Esta pesquisa, publicada sob o título &quot;Orçamentos de massa anônimos e bariônicos nas regiões centrais do Bullet Cluster e sua consistência com lentes fortes em MOND&quot;, na revista Physical Review D (2026), representa um avanço significativo na compreensão do Aglomerado Bala e suas implicações para a cosmologia. Ao oferecer uma explicação alternativa para o efeito de lente gravitacional que é compatível com a teoria MOND e baseada em matéria bariônica conhecida, o estudo desafia o paradigma da matéria escura e incentiva uma reavaliação crítica das evidências existentes, abrindo novas avenidas para futuras investigações sobre a natureza da gravidade e a composição do universo.</p>",
     "body_en": "<p>The Bullet Cluster has so far been considered evidence of the existence of dark matter. An international team of researchers has now analyzed new data and current images from the James Webb Space Telescope. The science-journalism coverage adds useful context, while the strongest evidential footing still comes from the underlying data, papers or institutional documentation.</p><p>It is relevant because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. According to the new study, neutron stars and black holes would explain the gravitational lensing effect.</p><p>NASA, ESA, CSA, STScI, CXC. An international team of researchers has now analyzed new data and current images from the James Webb Space Telescope (JWST).</p><p>Around 4 billion years ago, there was a huge collision in space: Two galaxy clusters, clusters of hundreds of galaxies, crashed into each other at speeds of more than 2, 500. Using X-ray telescopes, the hot clouds can be seen from Earth as two diffuse patches that lie relatively close to one another.</p><p>Cluster 1 is now to the left of the left gas cloud, and cluster 2 is to the right of the right one. New data from the James Webb Space Telescope allows a better, more precise calculation of the number of stars in both clusters.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Like dark matter, both are invisible and can only be detected by the huge gravitational forces that they exert. &quot; Co-author Dr. Indranil Banik (University of Portsmouth) was able to show that the observed gravitational lensing effect can be explained by the newly calculated number of visible stars, neutron.</p><p>Because this item comes through Phys. org Space as science journalism, it should be treated as contextual reporting rather than primary evidence. Good science reporting can identify why a result matters, connect it to the wider literature and make technical work readable, but the decisive evidence remains in the original paper, dataset, mission release or technical record. That distinction is especially important when a story is later repeated by aggregators, because repetition increases visibility, not evidential strength.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-06-bullet-cluster-reopen-dark-debate.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de.",
+      "Dado-chave: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de.",
+      "Dado-chave: O Aglomerado Bala, anteriormente tido como evidência crucial da existência de matéria escura, foi reavaliado por uma equipe internacional de",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: The Bullet Cluster has so far been considered evidence of the existence of dark matter",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: The Bullet Cluster has so far been considered evidence of the existence of dark matter.",
+      "Key detail: The Bullet Cluster has so far been considered evidence of the existence of dark matter",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "19 jun 2026",
     "date_pt": "19 jun 2026",
@@ -542,6 +542,126 @@ window.postsData = [
   },
   {
     "id": 5,
+    "slug": "string-axiverse-enhancement-of-superradiant-dark-matter-production",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "title_pt": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "title_en": "String Axiverse Enhancement of Superradiant Dark Matter Production",
+    "sub": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a.",
+    "sub_pt": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a.",
+    "sub_en": "We study the effects of string axion emission on dark matter production by light primordial black holes, through both evaporation and superradiance.",
+    "excerpt": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a superradiância.",
+    "excerpt_pt": "Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs), considerando tanto a evaporação quanto a superradiância.",
+    "excerpt_en": "We study the effects of string axion emission on dark matter production by light primordial black holes, through both evaporation and superradiance.",
+    "body": "<p>Este estudo investiga os efeitos da emissão de áxions provenientes do axiverso de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs). A pesquisa foca em dois mecanismos cruciais: a evaporação de PBHs e o fenômeno da superradiância. A compreensão desses processos é fundamental para desvendar a natureza da matéria escura, um dos maiores mistérios da cosmologia moderna. A teoria das cordas, com sua previsão de um vasto número de espécies de áxions, oferece um cenário rico para explorar como esses campos escalares podem interagir com buracos negros e influenciar a densidade de matéria escura no universo.</p><p>Os áxions de cordas são partículas hipotéticas de spin zero, previstas por diversas construções da teoria das cordas, que podem interagir fracamente com a matéria e a radiação. Buracos negros primordiais leves, formados no universo primordial, são candidatos potenciais para a produção de matéria escura através de diferentes processos. A evaporação de Hawking descreve a perda de massa de um buraco negro através da emissão de partículas, incluindo áxions. Por outro lado, a superradiância é um processo astrofísico no qual um campo bosônico, como um campo de áxions, pode extrair energia rotacional de um buraco negro, formando uma &#x27;nuvem&#x27; de partículas ao redor dele. A interação entre a emissão de áxions e esses mecanismos é o cerne da investigação.</p><p>Nossa análise revela que a emissão Hawking de um grande número de espécies de áxions leves, da ordem de 100 a 10^5, conforme previsto em construções realistas da teoria das cordas, pode aumentar significativamente a eficiência do processo de superradiância. Este aumento é atribuído ao incremento associado no spin dos buracos negros primordiais. Quando um PBH emite áxions via radiação Hawking, ele pode perder massa e, em certas condições, aumentar sua taxa de rotação relativa, criando um ambiente mais propício para a formação e crescimento de nuvens superradiantes de áxions. Esse mecanismo sugere uma via mais eficaz para a produção de matéria escura baseada em áxions em cenários cosmológicos específicos.</p><p>Por outro lado, o estudo também identifica um cenário limitante. Para um número excessivamente grande de espécies de áxions, os buracos negros primordiais evaporam muito rapidamente. Essa evaporação acelerada impede que as nuvens superradiantes de áxions atinjam sua massa máxima, comprometendo a eficácia da superradiância como mecanismo de produção de matéria escura. A rápida perda de massa do PBH, impulsionada pela emissão de um vasto espectro de áxions, significa que o buraco negro pode desaparecer antes que o processo superradiante tenha tempo suficiente para se desenvolver plenamente e acumular uma quantidade significativa de matéria escura na forma de nuvens de áxions.</p><p>Assumindo que toda a matéria escura no universo é produzida por buracos negros primordiais, seja através da superradiância ou da emissão Hawking, investigamos a contribuição dos áxions emitidos durante a evaporação dos PBHs. Os resultados indicam que a contribuição desses áxions para os graus de liberdade efetivos é incomensuravelmente pequena. Isso sugere que, embora os áxions possam desempenhar um papel crucial na dinâmica dos PBHs e na formação de nuvens superradiantes, a massa total de matéria escura proveniente diretamente da evaporação de áxions é desprezível em comparação com outras fontes ou mecanismos.</p><p>Em síntese, este trabalho elucida a complexa interação entre o axiverso de cordas e os buracos negros primordiais leves na produção de matéria escura. Demonstramos que a multiplicidade de espécies de áxions pode tanto otimizar a superradiância, ao aumentar o spin dos PBHs, quanto inibi-la, ao acelerar a evaporação. A compreensão desses equilíbrios é vital para refinar modelos cosmológicos que buscam explicar a abundância de matéria escura e para guiar futuras buscas experimentais por áxions. A pesquisa destaca a importância de considerar o espectro completo de partículas leves previstas pela teoria das cordas ao investigar fenômenos astrofísicos extremos.</p>",
+    "body_pt": "<p>Este estudo investiga os efeitos da emissão de áxions provenientes do axiverso de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs). A pesquisa foca em dois mecanismos cruciais: a evaporação de PBHs e o fenômeno da superradiância. A compreensão desses processos é fundamental para desvendar a natureza da matéria escura, um dos maiores mistérios da cosmologia moderna. A teoria das cordas, com sua previsão de um vasto número de espécies de áxions, oferece um cenário rico para explorar como esses campos escalares podem interagir com buracos negros e influenciar a densidade de matéria escura no universo.</p><p>Os áxions de cordas são partículas hipotéticas de spin zero, previstas por diversas construções da teoria das cordas, que podem interagir fracamente com a matéria e a radiação. Buracos negros primordiais leves, formados no universo primordial, são candidatos potenciais para a produção de matéria escura através de diferentes processos. A evaporação de Hawking descreve a perda de massa de um buraco negro através da emissão de partículas, incluindo áxions. Por outro lado, a superradiância é um processo astrofísico no qual um campo bosônico, como um campo de áxions, pode extrair energia rotacional de um buraco negro, formando uma &#x27;nuvem&#x27; de partículas ao redor dele. A interação entre a emissão de áxions e esses mecanismos é o cerne da investigação.</p><p>Nossa análise revela que a emissão Hawking de um grande número de espécies de áxions leves, da ordem de 100 a 10^5, conforme previsto em construções realistas da teoria das cordas, pode aumentar significativamente a eficiência do processo de superradiância. Este aumento é atribuído ao incremento associado no spin dos buracos negros primordiais. Quando um PBH emite áxions via radiação Hawking, ele pode perder massa e, em certas condições, aumentar sua taxa de rotação relativa, criando um ambiente mais propício para a formação e crescimento de nuvens superradiantes de áxions. Esse mecanismo sugere uma via mais eficaz para a produção de matéria escura baseada em áxions em cenários cosmológicos específicos.</p><p>Por outro lado, o estudo também identifica um cenário limitante. Para um número excessivamente grande de espécies de áxions, os buracos negros primordiais evaporam muito rapidamente. Essa evaporação acelerada impede que as nuvens superradiantes de áxions atinjam sua massa máxima, comprometendo a eficácia da superradiância como mecanismo de produção de matéria escura. A rápida perda de massa do PBH, impulsionada pela emissão de um vasto espectro de áxions, significa que o buraco negro pode desaparecer antes que o processo superradiante tenha tempo suficiente para se desenvolver plenamente e acumular uma quantidade significativa de matéria escura na forma de nuvens de áxions.</p><p>Assumindo que toda a matéria escura no universo é produzida por buracos negros primordiais, seja através da superradiância ou da emissão Hawking, investigamos a contribuição dos áxions emitidos durante a evaporação dos PBHs. Os resultados indicam que a contribuição desses áxions para os graus de liberdade efetivos é incomensuravelmente pequena. Isso sugere que, embora os áxions possam desempenhar um papel crucial na dinâmica dos PBHs e na formação de nuvens superradiantes, a massa total de matéria escura proveniente diretamente da evaporação de áxions é desprezível em comparação com outras fontes ou mecanismos.</p><p>Em síntese, este trabalho elucida a complexa interação entre o axiverso de cordas e os buracos negros primordiais leves na produção de matéria escura. Demonstramos que a multiplicidade de espécies de áxions pode tanto otimizar a superradiância, ao aumentar o spin dos PBHs, quanto inibi-la, ao acelerar a evaporação. A compreensão desses equilíbrios é vital para refinar modelos cosmológicos que buscam explicar a abundância de matéria escura e para guiar futuras buscas experimentais por áxions. A pesquisa destaca a importância de considerar o espectro completo de partículas leves previstas pela teoria das cordas ao investigar fenômenos astrofísicos extremos.</p>",
+    "body_en": "<p>We study the effects of string axion emission on dark matter production by light primordial black holes, through both evaporation and superradiance. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. We study the effects of string axion emission on dark matter production by light primordial black holes (PBHs), through both evaporation and superradiance. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>ArXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv&#x27;s community.</p><p>We show, in particular, that the Hawking emission of $\\mathcal{O}(100-10^5)$ light axion species predicted in realistic string theory constructions can significantly enhance the. The string axiverse thus significantly expands the parametric regions (dark matter mass and PBH mass and spin) for which a sizeable fraction of dark matter may presently be in the.</p><p>Conversely, for too large a number of axion species PBHs evaporate too quickly for superradiant clouds to attain their maximum mass. Finally, assuming that all dark matter is produced by PBHs (through both superradiance and Hawking emission), we show that the axions emitted during PBH evaporation give an.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.20524v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs)",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Este estudo investiga os efeitos da emissão de áxions de cordas na produção de matéria escura por buracos negros primordiais leves (PBHs)",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: We study the effects of string axion emission on dark matter production by light primordial black holes, through both evaporation and superradiance",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "18 jun 2026",
+    "date_pt": "18 jun 2026",
+    "date_en": "18 Jun 2026",
+    "time": "17h38",
+    "time_pt": "17h38",
+    "time_en": "17: 38 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-18T17:38:19+00:00",
+    "lastModifiedIso": "2026-06-20T17:10:13+00:00",
+    "source": "arXiv Physics Frontiers",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "Aprimoramento do String Axiverse da produção de matéria escura superradiante"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "Aprimoramento do String Axiverse da produção de matéria escura superradiante"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Physics Frontiers",
+      "Cosmos Week",
+      "String Axiverse Enhancement of Superradiant Dark Matter Production"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2606.20524v1",
+    "realUrl": "https://www.cosmosweek.com/?article=string-axiverse-enhancement-of-superradiant-dark-matter-production",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=string-axiverse-enhancement-of-superradiant-dark-matter-production",
+    "realUrl_en": "https://www.cosmosweek.com/?article=string-axiverse-enhancement-of-superradiant-dark-matter-production&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/string-axiverse-enhancement-of-superradiant-dark-matter-production/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 78,
+    "scoreBreakdown": {
+      "source": 61,
+      "evidence": 35,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "imageAlt_pt": "Efeitos do Axiverso de Cordas na Produção Superradiante de Matéria Escura",
+    "imageAlt_en": "String Axiverse Enhancement of Superradiant Dark Matter Production",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 6,
     "slug": "accreting-stellar-mass-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -661,7 +781,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "search-for-hidden-cosmic-companions-in-sun-s-backyard",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -683,17 +803,17 @@ window.postsData = [
     "body_en": "<p>Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Explore This Section Science Citizen Science Search for Hidden Cosmic. Overview Resources Opportunities Citizen Science Highlights About Science Activation Some stars have planets. As a volunteer, you’ll inspect images from NASA’s Wide-field Infrared Survey Explorer (WISE) space telescope.</p><p>We need your help to gain critical insights into these enigmatic cosmic objects,” said project lead Aaron Meisner. Science Citizen Science Search for Hidden Cosmic.</p><p>Overview Resources Opportunities Citizen Science Highlights About Science Activation 2 min read Article Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.</p><p>Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Now, you can join NASA’s new Backyard Worlds: Binaries project and help astronomers discover these rare and interesting pairs.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>As a volunteer, you&#x27;ll inspect images from NASA’s Wide-field Infrared Survey Explorer (WISE) space telescope. Binaries project today and help astronomers understand where and when brown dwarfs form.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem",
+      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem",
+      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
-      "Key detail: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars",
+      "Key detail: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 jun 2026",
@@ -782,7 +902,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -903,127 +1023,6 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 8,
-    "slug": "a-potential-black-hole-mimicker-from-non-minimal-coupling",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "title_pt": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "title_en": "A Potential Black Hole Mimicker From Non-Minimal Coupling",
-    "sub": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "sub_pt": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "sub_en": "We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling.",
-    "excerpt": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "excerpt_pt": "Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento curvatura-fluido.",
-    "excerpt_en": "We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling.",
-    "body": "<p>A métrica interna desses objetos é notavelmente não singular, o que representa uma característica crucial para a estabilidade e a regularidade da solução proposta. A camada de transição, por sua vez, adquire uma equação de estado de matéria rígida, contribuindo para a coesão e a integridade estrutural do objeto. A compactação extrema observada na região próxima ao horizonte pode, de fato, mimetizar a fenomenologia associada aos buracos negros, mas sem a presença de um horizonte de eventos verdadeiro. Essa distinção é fundamental, pois oferece uma alternativa teórica para objetos astrofísicos compactos que poderiam ser indistinguíveis de buracos negros por certas observações, mas que possuem uma natureza intrinsecamente diferente.</p><p>Diferentemente de outros modelos de objetos compactos, como o gravastar de Mazur-Mottola e suas diversas variantes, o presente modelo se destaca por selecionar naturalmente uma faixa típica de massa e raio ultracompactos. Essa característica é particularmente relevante, pois sugere que a teoria subjacente impõe restrições intrínsecas que levam a configurações fisicamente plausíveis e observacionalmente interessantes. A capacidade de prever uma janela específica de parâmetros físicos confere maior poder preditivo ao modelo, tornando-o mais robusto em comparação com abordagens que exigem ajustes finos ou condições iniciais arbitrárias para gerar objetos ultracompactos.</p><p>Especificamente, as massas previstas para esses objetos situam-se na faixa de 1, 4 a 2, 1 $M_\\odot$, enquanto seus raios variam entre 5 e 7 km. Esses valores são consistentes com as observações de objetos compactos no universo, como estrelas de nêutrons, mas a ausência de um horizonte de eventos os distingue. A precisão dessas previsões de massa e raio é um indicativo da consistência interna do modelo e de sua capacidade de descrever objetos astrofísicos reais. A faixa de massa, em particular, abrange a massa de estrelas de nêutrons típicas, sugerindo que esses objetos poderiam ser candidatos para explicar algumas observações que atualmente são atribuídas a buracos negros de massa estelar.</p><p>Uma das previsões mais intrigantes dessa estrutura é a existência de uma temperatura termodinâmica geométrica única no limite ultracompacto. Essa temperatura difere distintamente da expressão de Hawking, que é associada aos buracos negros com horizontes de eventos. A divergência em relação à temperatura de Hawking oferece um caminho potencial para distinguir esses imitadores de buracos negros de buracos negros genuínos por meio de observações futuras. A identificação de uma assinatura térmica específica seria uma prova crucial para a validação ou refutação do modelo proposto.</p><p>Outra característica observacional singular do modelo é a previsão de uma luminosidade independente da massa. Essa propriedade é particularmente notável, pois a luminosidade de muitos objetos astrofísicos está intrinsecamente ligada à sua massa. A ausência dessa dependência de massa na luminosidade poderia servir como um marcador observacional distintivo, permitindo que astrônomos identifiquem esses objetos em meio a outras fontes compactas. A detecção de tal luminosidade, que não se correlaciona com a massa inferida do objeto, representaria uma forte evidência a favor da existência desses imitadores de buracos negros de acoplamento não mínimo.</p><p>Em suma, o modelo proposto oferece uma nova perspectiva sobre a natureza dos objetos compactos ultradensos, apresentando uma alternativa aos buracos negros tradicionais. A combinação de regularidade interna, ausência de horizonte de eventos e previsões observacionais específicas, como a temperatura termodinâmica única e a luminosidade independente da massa, torna esses objetos candidatos promissores para investigações futuras. A pesquisa contínua, tanto teórica quanto observacional, será essencial para explorar plenamente as implicações dessa classe de objetos e sua potencial relevância para a astrofísica de alta energia.</p>",
-    "body_pt": "<p>A métrica interna desses objetos é notavelmente não singular, o que representa uma característica crucial para a estabilidade e a regularidade da solução proposta. A camada de transição, por sua vez, adquire uma equação de estado de matéria rígida, contribuindo para a coesão e a integridade estrutural do objeto. A compactação extrema observada na região próxima ao horizonte pode, de fato, mimetizar a fenomenologia associada aos buracos negros, mas sem a presença de um horizonte de eventos verdadeiro. Essa distinção é fundamental, pois oferece uma alternativa teórica para objetos astrofísicos compactos que poderiam ser indistinguíveis de buracos negros por certas observações, mas que possuem uma natureza intrinsecamente diferente.</p><p>Diferentemente de outros modelos de objetos compactos, como o gravastar de Mazur-Mottola e suas diversas variantes, o presente modelo se destaca por selecionar naturalmente uma faixa típica de massa e raio ultracompactos. Essa característica é particularmente relevante, pois sugere que a teoria subjacente impõe restrições intrínsecas que levam a configurações fisicamente plausíveis e observacionalmente interessantes. A capacidade de prever uma janela específica de parâmetros físicos confere maior poder preditivo ao modelo, tornando-o mais robusto em comparação com abordagens que exigem ajustes finos ou condições iniciais arbitrárias para gerar objetos ultracompactos.</p><p>Especificamente, as massas previstas para esses objetos situam-se na faixa de 1, 4 a 2, 1 $M_\\odot$, enquanto seus raios variam entre 5 e 7 km. Esses valores são consistentes com as observações de objetos compactos no universo, como estrelas de nêutrons, mas a ausência de um horizonte de eventos os distingue. A precisão dessas previsões de massa e raio é um indicativo da consistência interna do modelo e de sua capacidade de descrever objetos astrofísicos reais. A faixa de massa, em particular, abrange a massa de estrelas de nêutrons típicas, sugerindo que esses objetos poderiam ser candidatos para explicar algumas observações que atualmente são atribuídas a buracos negros de massa estelar.</p><p>Uma das previsões mais intrigantes dessa estrutura é a existência de uma temperatura termodinâmica geométrica única no limite ultracompacto. Essa temperatura difere distintamente da expressão de Hawking, que é associada aos buracos negros com horizontes de eventos. A divergência em relação à temperatura de Hawking oferece um caminho potencial para distinguir esses imitadores de buracos negros de buracos negros genuínos por meio de observações futuras. A identificação de uma assinatura térmica específica seria uma prova crucial para a validação ou refutação do modelo proposto.</p><p>Outra característica observacional singular do modelo é a previsão de uma luminosidade independente da massa. Essa propriedade é particularmente notável, pois a luminosidade de muitos objetos astrofísicos está intrinsecamente ligada à sua massa. A ausência dessa dependência de massa na luminosidade poderia servir como um marcador observacional distintivo, permitindo que astrônomos identifiquem esses objetos em meio a outras fontes compactas. A detecção de tal luminosidade, que não se correlaciona com a massa inferida do objeto, representaria uma forte evidência a favor da existência desses imitadores de buracos negros de acoplamento não mínimo.</p><p>Em suma, o modelo proposto oferece uma nova perspectiva sobre a natureza dos objetos compactos ultradensos, apresentando uma alternativa aos buracos negros tradicionais. A combinação de regularidade interna, ausência de horizonte de eventos e previsões observacionais específicas, como a temperatura termodinâmica única e a luminosidade independente da massa, torna esses objetos candidatos promissores para investigações futuras. A pesquisa contínua, tanto teórica quanto observacional, será essencial para explorar plenamente as implicações dessa classe de objetos e sua potencial relevância para a astrofísica de alta energia.</p>",
-    "body_en": "<p>We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It is relevant because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The non-minimal interaction between fluid variables and the Ricci scalar generates a vacuum-like equation of state in the interior, while the exterior remains exactly. The two spacetimes are glued through a shell at the junction.</p><p>The interior metric is non-singular, the shell acquires a stiff-matter equation of state, and near-horizon compactness can potentially mimic black-hole phenomenology without event. Unlike the Mazur-Mottola gravastar and its variants, the present model naturally selects a typical ultra-compact mass-radius window, with masses in the range $1.4$-$2.</p><p>This framework predicts a unique geometric-thermodynamic shell temperature in the ultra-compact limit distinctly different from the Hawking expression and the other unique.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2606.19291v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento.",
-      "Dado-chave: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento.",
-      "Dado-chave: Apresentamos uma classe de objetos ultracompactos regulares e sem horizonte que surgem em uma teoria da gravidade que permite o acoplamento",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling.",
-      "Key detail: We present a class of horizonless, regular ultra-compact objects arising in a theory of gravity which allows curvature-fluid coupling",
-      "Result not yet peer reviewed."
-    ],
-    "date": "17 jun 2026",
-    "date_pt": "17 jun 2026",
-    "date_en": "17 Jun 2026",
-    "time": "17h12",
-    "time_pt": "17h12",
-    "time_en": "17: 12 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-17T17:12:17+00:00",
-    "lastModifiedIso": "2026-06-18T18:30:29+00:00",
-    "source": "arXiv Physics Frontiers",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Um potencial imitador de buraco negro de acoplamento não mínimo"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "Um potencial imitador de buraco negro de acoplamento não mínimo"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv Physics Frontiers",
-      "Cosmos Week",
-      "A potential non-minimal coupling black hole mimic"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2606.19291v1",
-    "realUrl": "https://www.cosmosweek.com/?article=a-potential-black-hole-mimicker-from-non-minimal-coupling",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-potential-black-hole-mimicker-from-non-minimal-coupling",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-potential-black-hole-mimicker-from-non-minimal-coupling&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-potential-black-hole-mimicker-from-non-minimal-coupling/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 61,
-      "evidence": 35,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "imageAlt_pt": "Um Potencial Imitador de Buraco Negro de Acoplamento Não Mínimo",
-    "imageAlt_en": "A Potential Black Hole Mimicker From Non-Minimal Coupling",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
     "id": 9,
     "slug": "solitary-dwarf-galaxy-groups-as-tracers-of-primordial-dark-matter-halos-in-the-local-universe",
     "cat": "Cosmologia",
@@ -1056,7 +1055,7 @@ window.postsData = [
     ],
     "highlights_en": [
       "Core point: In $Λ$CDM cosmology, galaxies and clusters form within dark matter halos and merge in the hierarchical assembly paradigm to form massive systems.",
-      "Key detail: In $Λ$CDM cosmology, galaxies and clusters form within dark matter halos and merge in the hierarchical assembly paradigm to form massive systems",
+      "Key detail: In $Λ$CDM cosmology, galaxies and clusters form within dark matter halos and merge in the hierarchical assembly paradigm to form massive systems.",
       "Result not yet peer reviewed."
     ],
     "date": "17 jun 2026",
