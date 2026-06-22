@@ -3,6 +3,429 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://images-assets.nasa.gov/image/AFRC2023-0033-18/AFRC2023-0033-18~large.jpg",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2023-0157-003/AFRC2023-0157-003~large.jpg",
+        "alt": "fabricação avançada de modelos de asas",
+        "alt_pt": "fabricação avançada de modelos de asas",
+        "alt_en": "advanced wing‑model fabrication",
+        "caption": "fabricação avançada de modelos de asas",
+        "caption_pt": "fabricação avançada de modelos de asas",
+        "caption_en": "advanced wing‑model fabrication"
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2024-0127-30/AFRC2024-0127-30~large.jpg",
+        "alt": "pisos de aeronaves leves personalizados",
+        "alt_pt": "pisos de aeronaves leves personalizados",
+        "alt_en": "custom lightweight aircraft floorboards",
+        "caption": "pisos de aeronaves leves personalizados",
+        "caption_pt": "pisos de aeronaves leves personalizados",
+        "caption_en": "custom lightweight aircraft floorboards"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A Divisão de Fabricação Experimental da NASA Impulsiona a Inovação em Aeronaves",
+    "title_pt": "A Divisão de Fabricação Experimental da NASA Impulsiona a Inovação em Aeronaves",
+    "title_en": "NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation",
+    "sub": "A inovação na NASA, especialmente no Armstrong Flight Research Center em Edwards, Califórnia, inicia-se muito antes do voo.",
+    "sub_pt": "A inovação na NASA, especialmente no Armstrong Flight Research Center em Edwards, Califórnia, inicia-se muito antes do voo.",
+    "sub_en": "At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, transforms.",
+    "excerpt": "A inovação na NASA, especialmente no Armstrong Flight Research Center em Edwards, Califórnia, inicia-se muito antes do voo. A Divisão de Fabricação Experimental é fundamental para converter conceitos de engenharia em componentes de hardware prontos para.",
+    "excerpt_pt": "A inovação na NASA, especialmente no Armstrong Flight Research Center em Edwards, Califórnia, inicia-se muito antes do voo. A Divisão de Fabricação Experimental é fundamental para converter conceitos de engenharia em componentes de hardware prontos para.",
+    "excerpt_en": "At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, transforms engineering concepts into mission‑ready hardware for.",
+    "body": "<p>Na NASA, a inovação é um processo contínuo que se inicia muito antes de uma aeronave sequer decolar. No coração desse processo está a Divisão de Fabricação Experimental do Armstrong Flight Research Center da NASA, localizada em Edwards, Califórnia. Esta divisão é a força motriz que transforma complexos conceitos de engenharia em hardware tangível e pronto para missões, essencial para o avanço da pesquisa e desenvolvimento de tecnologia aeronáutica. Sua expertise é fundamental para materializar as ideias que impulsionam a exploração espacial e a aviação do futuro, garantindo que cada componente seja construído com a máxima precisão e foco no sucesso operacional.</p><p>A equipe da Divisão de Fabricação Experimental domina uma vasta gama de técnicas de fabricação, desde a moldagem manual de estruturas compostas até a produção de peças fresadas com precisão milimétrica. Cada componente é meticulosamente construído, com a equipe mantendo sempre em mente os rigorosos requisitos de segurança e desempenho de cada missão. Essa abordagem detalhada e focada na qualidade é o que permite que aeronaves de pesquisa e protótipos tecnológicos sejam equipados com peças que não apenas funcionam, mas superam as expectativas em ambientes de teste desafiadores. A capacidade de adaptar e inovar nos processos de fabricação é um pilar para a realização dos objetivos ambiciosos da NASA.</p><p>Projetos recentes ilustram a versatilidade e a importância da Divisão. Por exemplo, a fabricação avançada de modelos de asas para testes aerodinâmicos e o desenvolvimento de pisos de aeronaves leves e personalizados demonstram a capacidade da equipe de atender a necessidades específicas e complexas. Esses projetos não são apenas exercícios de engenharia; eles representam avanços cruciais que podem levar a aeronaves mais eficientes, seguras e com melhor desempenho. A contribuição da Divisão é, portanto, indispensável para a missão geral do Armstrong Flight Research Center, que busca expandir as fronteiras do conhecimento aeronáutico.</p><p>O trabalho árduo e a dedicação dos técnicos de engenharia são evidentes no dia a dia da Divisão. Ron Harris, por exemplo, foi fotografado trabalhando em um projeto na quinta-feira, 14 de março de 2023, demonstrando o compromisso contínuo com a excelência. Da mesma forma, Alexis Moreno, outro técnico de engenharia, foi registrado operando uma máquina de fabricação em uma segunda-feira, 21 de novembro, sublinhando a constante atividade e a utilização de tecnologia de ponta. Esses profissionais são a espinha dorsal da Divisão, aplicando suas habilidades e conhecimentos para transformar desenhos em realidade funcional.</p><p>Além de seu papel fundamental no suporte direto às missões de pesquisa e desenvolvimento, a Divisão de Fabricação Experimental também desempenha uma função vital nos esforços de engajamento STEM (Ciência, Tecnologia, Engenharia e Matemática) da NASA. Ao expor estudantes e o público em geral aos processos de fabricação de alta tecnologia e à aplicação prática da engenharia, a Divisão inspira a próxima geração de cientistas e engenheiros. Essa contribuição para a educação e o desenvolvimento de talentos futuros é tão importante quanto a produção de hardware, pois garante a continuidade da inovação e da liderança tecnológica da NASA.</p><p>Finalmente, a capacidade de transformar rapidamente conceitos inovadores em protótipos funcionais é um diferencial competitivo para a NASA. A Divisão de Fabricação Experimental não apenas constrói peças; ela constrói o futuro da aviação e da exploração espacial, permitindo que os pesquisadores testem novas ideias e tecnologias em um ambiente controlado e seguro. A agilidade e a expertise da equipe são cruciais para manter o ritmo acelerado da inovação, garantindo que a NASA continue na vanguarda do desenvolvimento aeronáutico e espacial. Este centro de excelência é um testemunho do compromisso da agência com a engenharia de ponta e a busca incessante por novas descobertas.</p>",
+    "body_pt": "<p>Na NASA, a inovação é um processo contínuo que se inicia muito antes de uma aeronave sequer decolar. No coração desse processo está a Divisão de Fabricação Experimental do Armstrong Flight Research Center da NASA, localizada em Edwards, Califórnia. Esta divisão é a força motriz que transforma complexos conceitos de engenharia em hardware tangível e pronto para missões, essencial para o avanço da pesquisa e desenvolvimento de tecnologia aeronáutica. Sua expertise é fundamental para materializar as ideias que impulsionam a exploração espacial e a aviação do futuro, garantindo que cada componente seja construído com a máxima precisão e foco no sucesso operacional.</p><p>A equipe da Divisão de Fabricação Experimental domina uma vasta gama de técnicas de fabricação, desde a moldagem manual de estruturas compostas até a produção de peças fresadas com precisão milimétrica. Cada componente é meticulosamente construído, com a equipe mantendo sempre em mente os rigorosos requisitos de segurança e desempenho de cada missão. Essa abordagem detalhada e focada na qualidade é o que permite que aeronaves de pesquisa e protótipos tecnológicos sejam equipados com peças que não apenas funcionam, mas superam as expectativas em ambientes de teste desafiadores. A capacidade de adaptar e inovar nos processos de fabricação é um pilar para a realização dos objetivos ambiciosos da NASA.</p><p>Projetos recentes ilustram a versatilidade e a importância da Divisão. Por exemplo, a fabricação avançada de modelos de asas para testes aerodinâmicos e o desenvolvimento de pisos de aeronaves leves e personalizados demonstram a capacidade da equipe de atender a necessidades específicas e complexas. Esses projetos não são apenas exercícios de engenharia; eles representam avanços cruciais que podem levar a aeronaves mais eficientes, seguras e com melhor desempenho. A contribuição da Divisão é, portanto, indispensável para a missão geral do Armstrong Flight Research Center, que busca expandir as fronteiras do conhecimento aeronáutico.</p><p>O trabalho árduo e a dedicação dos técnicos de engenharia são evidentes no dia a dia da Divisão. Ron Harris, por exemplo, foi fotografado trabalhando em um projeto na quinta-feira, 14 de março de 2023, demonstrando o compromisso contínuo com a excelência. Da mesma forma, Alexis Moreno, outro técnico de engenharia, foi registrado operando uma máquina de fabricação em uma segunda-feira, 21 de novembro, sublinhando a constante atividade e a utilização de tecnologia de ponta. Esses profissionais são a espinha dorsal da Divisão, aplicando suas habilidades e conhecimentos para transformar desenhos em realidade funcional.</p><p>Além de seu papel fundamental no suporte direto às missões de pesquisa e desenvolvimento, a Divisão de Fabricação Experimental também desempenha uma função vital nos esforços de engajamento STEM (Ciência, Tecnologia, Engenharia e Matemática) da NASA. Ao expor estudantes e o público em geral aos processos de fabricação de alta tecnologia e à aplicação prática da engenharia, a Divisão inspira a próxima geração de cientistas e engenheiros. Essa contribuição para a educação e o desenvolvimento de talentos futuros é tão importante quanto a produção de hardware, pois garante a continuidade da inovação e da liderança tecnológica da NASA.</p><p>Finalmente, a capacidade de transformar rapidamente conceitos inovadores em protótipos funcionais é um diferencial competitivo para a NASA. A Divisão de Fabricação Experimental não apenas constrói peças; ela constrói o futuro da aviação e da exploração espacial, permitindo que os pesquisadores testem novas ideias e tecnologias em um ambiente controlado e seguro. A agilidade e a expertise da equipe são cruciais para manter o ritmo acelerado da inovação, garantindo que a NASA continue na vanguarda do desenvolvimento aeronáutico e espacial. Este centro de excelência é um testemunho do compromisso da agência com a engenharia de ponta e a busca incessante por novas descobertas.</p>",
+    "body_en": "<p>At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, transforms engineering concepts into mission‑ready hardware for. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 3 Min Read NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation An engineering technician works in the Experimental Fabrication Branch at NASA’s Armstrong Flight. Ron Harris, an engineering technician, works in the Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, on Thursday, March 14, 2023.</p><p>An engineering technician works in the Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, on Thursday, March 14, 2023. NASA/Steve Freeman Beyond mission support, the Experimental Fabrication Branch contributes to NASA’s STEM engagement efforts.</p><p>Alexis Moreno, an engineering technician, works with a fabrication machine in the Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards. NASA/Genaro Vavuris Recent projects, such as advanced wing‑model fabrication and custom lightweight aircraft floorboards, highlight the branch’s essential role in NASA Armstrong’s.</p><p>The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, Article At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, transforms engineering concepts into mission‑ready hardware for research.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Whether shaping composite structures by hand or producing precision‑milled parts, the team builds every component with mission success in mind. Beyond mission support, the Experimental Fabrication Branch contributes to NASA’s STEM engagement efforts.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: A inovação na NASA, especialmente no Armstrong Flight Research Center em Edwards, Califórnia, inicia-se muito antes do voo",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A inovação na NASA, especialmente no Armstrong Flight Research Center em Edwards, Califórnia, inicia-se muito antes do voo",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: At NASA, innovation begins well before an aircraft takes flight",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "22 jun 2026",
+    "date_pt": "22 jun 2026",
+    "date_en": "22 Jun 2026",
+    "time": "17h47",
+    "time_pt": "17h47",
+    "time_en": "17: 47 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-22T17:47:00+00:00",
+    "lastModifiedIso": "2026-06-22T19:04:12+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A filial de fabricação experimental da NASA estimula a inovação em aeronaves"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A filial de fabricação experimental da NASA estimula a inovação em aeronaves"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Experimental Manufacturing Branch Spurs Aircraft Innovation"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-experimental-fabrication-branch-fuels-aircraft-innovation/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "A Divisão de Fabricação Experimental da NASA Impulsiona a Inovação em Aeronaves",
+    "imageAlt_pt": "A Divisão de Fabricação Experimental da NASA Impulsiona a Inovação em Aeronaves",
+    "imageAlt_en": "NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/06/STScI-01KV679X9GBWH16F7TH9FZC7EN.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "vimeo",
+      "embedUrl": "https://player.vimeo.com/video/1110398234",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://viewspace.org/video_library/videos/1465-1110398234?page=2&amp;tags=1637"
+    },
+    "audio": null,
+    "title": "Webb da NASA encontra pistas sobre a origem antiga e distante do cometa 3I/ATLAS",
+    "title_pt": "Webb da NASA encontra pistas sobre a origem antiga e distante do cometa 3I/ATLAS",
+    "title_en": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
+    "sub": "Em dezembro de 2025, quando o cometa interestelar 3I/ATLAS começou a se afastar do Sol, astrônomos aproveitaram a oportunidade para direcionar o poderoso Telescópio Espacial James.",
+    "sub_pt": "Em dezembro de 2025, quando o cometa interestelar 3I/ATLAS começou a se afastar do Sol, astrônomos aproveitaram a oportunidade para direcionar o poderoso Telescópio Espacial James.",
+    "sub_en": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its.",
+    "excerpt": "Em dezembro de 2025, quando o cometa interestelar 3I/ATLAS começou a se afastar do Sol, astrônomos aproveitaram a oportunidade para direcionar o poderoso Telescópio Espacial James Webb da NASA e capturar medições detalhadas de sua composição química.",
+    "excerpt_pt": "Em dezembro de 2025, quando o cometa interestelar 3I/ATLAS começou a se afastar do Sol, astrônomos aproveitaram a oportunidade para direcionar o poderoso Telescópio Espacial James Webb da NASA e capturar medições detalhadas de sua composição química.",
+    "excerpt_en": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical.",
+    "body": "<p>O nome 3I/ATLAS carrega consigo informações cruciais sobre a natureza e a descoberta deste corpo celeste. O prefixo &quot;3I&quot; designa-o como o terceiro cometa interestelar confirmado, uma categoria rara de objetos que viajam entre as estrelas, não estando gravitacionalmente ligados a nenhuma delas. A segunda parte do nome, &quot;ATLAS&quot;, refere-se ao sistema de telescópios Asteroid Terrestrial-impact Last Alert System, responsável por sua detecção inicial. A identificação de um cometa com origem externa ao nosso sistema solar é um evento significativo, pois cada um desses visitantes cósmicos pode trazer consigo pistas sobre a química e a física de seus locais de nascimento distantes.</p><p>Para mapear os conteúdos químicos específicos do cometa 3I/ATLAS, os pesquisadores empregaram o instrumento NIRSpec (Near-Infrared Spectrograph) do Telescópio Espacial James Webb. Este espectrógrafo de última geração permite a análise da luz infravermelha emitida ou absorvida pelos materiais do cometa, revelando a presença e a abundância de diferentes moléculas. À medida que o cometa se afastava do Sol, a equipe pôde observar as mudanças em sua coma e cauda, buscando assinaturas espectrais que indicassem a presença de água, dióxido de carbono, metano e outros compostos orgânicos voláteis. A precisão do NIRSpec é vital para distinguir entre os componentes que se formaram no ambiente interestelar e aqueles que podem ter sido alterados pela passagem próxima ao Sol.</p><p>A investigação da composição química de cometas interestelares como o 3I/ATLAS é de suma importância para a astrofísica. Ao contrário dos cometas do nosso próprio Sistema Solar, que fornecem informações sobre a nuvem molecular que deu origem ao Sol e aos planetas, os cometas interestelares são cápsulas do tempo de outros sistemas estelares. Eles podem conter materiais prístinos que nunca foram expostos ao calor e à radiação do nosso Sol, preservando as condições químicas de seus sistemas de origem. Estudar esses objetos permite aos cientistas comparar a química de diferentes berçários estelares, buscando semelhanças e diferenças que podem revelar processos universais de formação planetária ou, inversamente, a diversidade de ambientes cósmicos.</p><p>As medições detalhadas capturadas pelo Webb são esperadas para fornecer pistas valiosas sobre a origem antiga e distante do cometa 3I/ATLAS. A análise dos isótopos de hidrogênio na água, por exemplo, pode indicar se o cometa se formou em uma região fria e densa de uma nuvem molecular ou em um disco protoplanetário mais quente. A proporção de diferentes moléculas orgânicas pode, por sua vez, sugerir a presença de processos químicos complexos em seu sistema estelar natal. Compreender a composição original do 3I/ATLAS é um passo crucial para reconstruir a história de sua formação e sua jornada através do espaço interestelar, contribuindo para uma visão mais ampla da distribuição de elementos e compostos essenciais para a vida no universo.</p>",
+    "body_pt": "<p>O nome 3I/ATLAS carrega consigo informações cruciais sobre a natureza e a descoberta deste corpo celeste. O prefixo &quot;3I&quot; designa-o como o terceiro cometa interestelar confirmado, uma categoria rara de objetos que viajam entre as estrelas, não estando gravitacionalmente ligados a nenhuma delas. A segunda parte do nome, &quot;ATLAS&quot;, refere-se ao sistema de telescópios Asteroid Terrestrial-impact Last Alert System, responsável por sua detecção inicial. A identificação de um cometa com origem externa ao nosso sistema solar é um evento significativo, pois cada um desses visitantes cósmicos pode trazer consigo pistas sobre a química e a física de seus locais de nascimento distantes.</p><p>Para mapear os conteúdos químicos específicos do cometa 3I/ATLAS, os pesquisadores empregaram o instrumento NIRSpec (Near-Infrared Spectrograph) do Telescópio Espacial James Webb. Este espectrógrafo de última geração permite a análise da luz infravermelha emitida ou absorvida pelos materiais do cometa, revelando a presença e a abundância de diferentes moléculas. À medida que o cometa se afastava do Sol, a equipe pôde observar as mudanças em sua coma e cauda, buscando assinaturas espectrais que indicassem a presença de água, dióxido de carbono, metano e outros compostos orgânicos voláteis. A precisão do NIRSpec é vital para distinguir entre os componentes que se formaram no ambiente interestelar e aqueles que podem ter sido alterados pela passagem próxima ao Sol.</p><p>A investigação da composição química de cometas interestelares como o 3I/ATLAS é de suma importância para a astrofísica. Ao contrário dos cometas do nosso próprio Sistema Solar, que fornecem informações sobre a nuvem molecular que deu origem ao Sol e aos planetas, os cometas interestelares são cápsulas do tempo de outros sistemas estelares. Eles podem conter materiais prístinos que nunca foram expostos ao calor e à radiação do nosso Sol, preservando as condições químicas de seus sistemas de origem. Estudar esses objetos permite aos cientistas comparar a química de diferentes berçários estelares, buscando semelhanças e diferenças que podem revelar processos universais de formação planetária ou, inversamente, a diversidade de ambientes cósmicos.</p><p>As medições detalhadas capturadas pelo Webb são esperadas para fornecer pistas valiosas sobre a origem antiga e distante do cometa 3I/ATLAS. A análise dos isótopos de hidrogênio na água, por exemplo, pode indicar se o cometa se formou em uma região fria e densa de uma nuvem molecular ou em um disco protoplanetário mais quente. A proporção de diferentes moléculas orgânicas pode, por sua vez, sugerir a presença de processos químicos complexos em seu sistema estelar natal. Compreender a composição original do 3I/ATLAS é um passo crucial para reconstruir a história de sua formação e sua jornada através do espaço interestelar, contribuindo para uma visão mais ampla da distribuição de elementos e compostos essenciais para a vida no universo.</p>",
+    "body_en": "<p>As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. 3d Webb in 3d Solar System Podcasts Webb Image Sonifications Webb’s First Images Team International Team People Of Webb More For the Media For Scientists For Educators For. Distant Origin of Comet 3I/ATLAS Researchers used the NIRSpec (Near-Infrared Spectrograph) instrument on NASA’s James Webb Space Telescope to map specific chemical contents of.</p><p>Alyssa Pagan (STScI) As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space. Alyssa Pagan (STScI) The comet’s name comes from its status as the third confirmed interstellar comet, meaning it originated outside the solar system, and the telescope that first.</p><p>A separate study using the European Southern Observatory’s Very Large Telescope, led by astronomer Cyrielle Opitom of the University of Edinburgh, complements Webb’s findings with. Related Images &amp; Videos Interstellar Comet 3I/ATLAS (NIRSpec IFU) Researchers used the NIRSpec (Near-Infrared Spectrograph) instrument on NASA’s James Webb Space Telescope to map.</p><p>As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Webb captured detailed. A paper detailing the findings published June 22 in the journal Nature.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>During its formation, the material that became incorporated into 3I/ATLAS was likely exposed to plenty of radiation, but not any long-term warmth that would have reprocessed its. NASA, ESA, CSA, Martin Cordiner (CUA, NASA-GSFC), Leah Hustak (STScI) Additionally, NIRSpec showed only traces of carbon-13 compared to lighter-weight carbon-12.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Em dezembro de 2025, quando o cometa interestelar 3I/ATLAS começou a se afastar do Sol, astrônomos aproveitaram a oportunidade para direcionar o",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Em dezembro de 2025, quando o cometa interestelar 3I/ATLAS começou a se afastar do Sol, astrônomos aproveitaram a oportunidade para direcionar o",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "22 jun 2026",
+    "date_pt": "22 jun 2026",
+    "date_en": "22 Jun 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-22T15:00:00+00:00",
+    "lastModifiedIso": "2026-06-22T19:04:12+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Química",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Webb da NASA encontra pistas sobre a origem antiga e distante do cometa 3I/ATLAS"
+    ],
+    "keywords_pt": [
+      "Química",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Webb da NASA encontra pistas sobre a origem antiga e distante do cometa 3I/ATLAS"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Webb Finds Clues to Comet 3I/ATLAS' Ancient, Distant Origin"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Webb da NASA encontra pistas sobre a origem antiga e distante do cometa 3I/ATLAS",
+    "imageAlt_pt": "Webb da NASA encontra pistas sobre a origem antiga e distante do cometa 3I/ATLAS",
+    "imageAlt_en": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "signs-of-thaw-in-the-bering-sea",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_tmo_20260603.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Sinais de degelo no Mar de Bering",
+    "title_pt": "Sinais de degelo no Mar de Bering",
+    "title_en": "Signs of Thaw in the Bering Sea",
+    "sub": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de.",
+    "sub_pt": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de.",
+    "sub_en": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.",
+    "excerpt": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de verão.",
+    "excerpt_pt": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de verão.",
+    "excerpt_en": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.",
+    "body": "<p>Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de verão. A postagem Sinais de degelo no Mar de Bering apareceu pela primeira vez na NASA Science.</p><p>O post Sinais de degelo no Mar de Bering apareceu pela primeira vez na NASA Science. Estas imagens, adquiridas com o MODIS (Espectrorradiômetro de Imagem de Resolução Moderada) no satélite Terra da NASA em 3 de junho de 2026, capturam a transição sazonal.</p><p>Downloads 3 de junho de 2026: JPEG de cor natural (2, 37 MB) 3 de junho de 2026: JPEG de cor falsa (2, 56 MB) Referências e recursos Observatório de Vulcões do Alasca, Ilha Nunivak. Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Sinais de degelo no Mar de Bering apareceu pela primeira vez em NASA Science. Imagens do NASA Earth Observatory por Michala Garrison, usando dados MODIS da NASA EOSDIS LANCE e GIBS/Worldview.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Artigo O gelo sai de Aniak 3 min ler O derretimento da primavera ao longo do rio Kuskokwim, no Alasca, causou congestionamentos de gelo e inundações.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de verão. A postagem Sinais de degelo no Mar de Bering apareceu pela primeira vez na NASA Science.</p><p>O post Sinais de degelo no Mar de Bering apareceu pela primeira vez na NASA Science. Estas imagens, adquiridas com o MODIS (Espectrorradiômetro de Imagem de Resolução Moderada) no satélite Terra da NASA em 3 de junho de 2026, capturam a transição sazonal.</p><p>Downloads 3 de junho de 2026: JPEG de cor natural (2, 37 MB) 3 de junho de 2026: JPEG de cor falsa (2, 56 MB) Referências e recursos Observatório de Vulcões do Alasca, Ilha Nunivak. Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Sinais de degelo no Mar de Bering apareceu pela primeira vez em NASA Science. Imagens do NASA Earth Observatory por Michala Garrison, usando dados MODIS da NASA EOSDIS LANCE e GIBS/Worldview.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Artigo O gelo sai de Aniak 3 min ler O derretimento da primavera ao longo do rio Kuskokwim, no Alasca, causou congestionamentos de gelo e inundações.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice. The post Signs of Thaw in the Bering Sea appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Signs of Thaw in the Bering Sea appeared first on NASA Science. These images, acquired with the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite on June 3, 2026, capture the seasonal transition.</p><p>Natural color JPEG (2.37 MB) June 3, 2026: False color JPEG (2.56 MB) References &amp; Resources Alaska Volcano Observatory, Nunivak Island. Earth Observatory Image of the Day NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Signs of Thaw in the Bering Sea appeared first on NASA Science. These images, acquired with the MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA&#x27;s Terra satellite on June 3, 2026, capture the seasonal transition.</p><p>NASA Earth Observatory images by Michala Garrison, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Patches of open water in the region contributed to low sea ice extent across the Arctic in March 2026, which. Article Cañon Fiord’s Whirling Waters 3 min read During the 2022 summer melt season, sediment plumes and fractured sea ice traced swirling eddies in a branch of the.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "22 jun 2026",
+    "date_pt": "22 jun 2026",
+    "date_en": "22 Jun 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-22T04:01:00+00:00",
+    "lastModifiedIso": "2026-06-22T19:04:12+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Sinais de degelo no Mar de Bering"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Sinais de degelo no Mar de Bering"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Signs of melting ice in the Bering Sea"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/",
+    "realUrl": "https://www.cosmosweek.com/?article=signs-of-thaw-in-the-bering-sea",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=signs-of-thaw-in-the-bering-sea",
+    "realUrl_en": "https://www.cosmosweek.com/?article=signs-of-thaw-in-the-bering-sea&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/signs-of-thaw-in-the-bering-sea/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/signs-of-thaw-in-the-bering-sea/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Sinais de degelo no Mar de Bering",
+    "imageAlt_pt": "Sinais de degelo no Mar de Bering",
+    "imageAlt_en": "Signs of Thaw in the Bering Sea",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "bullet-cluster-observations-reopen-dark-matter-debate-with-mond-compatible-explanation",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -133,7 +556,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "nasa-mission-to-study-space-weather-impacts-of-earth-s-atmosphere",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -254,7 +677,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "nasa-testing-advanced-capabilities-for-moon-mars-rovers",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -288,19 +711,19 @@ window.postsData = [
     "body_pt": "<p>Durante um teste de campo recente, o protótipo demonstrou um desempenho notável, viajando 26 quilômetros ao longo de 37 horas. Essa marca representa uma ordem de magnitude acima da velocidade máxima com que os atuais rovers de Marte da NASA conseguem navegar, indicando um avanço significativo na capacidade de locomoção autônoma. O veículo em questão é o ERNEST, um protótipo desenvolvido pela equipe de Nesnas no JPL-Caltech, que está sendo utilizado para validar a possibilidade de construir um rover que seja duas vezes maior que o modelo atual e capaz de realizar missões lunares de longa distância com sucesso.</p><p>O ERNEST, com 1, 2 metros de comprimento, é um exemplo da engenharia inovadora do Laboratório de Propulsão a Jato da NASA, localizado no sul da Califórnia. A equipe de Nesnas tem como foco principal demonstrar que é tecnicamente viável projetar e construir um rover de maior porte, que não apenas mantenha a agilidade e a autonomia observadas no protótipo, mas que também possa suportar os rigores de uma missão estendida na superfície lunar. Essa capacidade é fundamental para a exploração de vastas áreas da Lua, onde a intervenção humana direta é limitada e a eficiência na cobertura de terreno é essencial para a coleta de dados científicos.</p><p>O desenvolvimento do ERNEST teve início em 2022, com o suporte inicial de fundos internos de pesquisa e desenvolvimento do JPL, evidenciando o compromisso da instituição com a inovação contínua. Atualmente, o projeto recebe financiamento do Programa de Exploração de Marte da NASA e do Escritório de Integração e Estratégia Científica de Exploração da agência. Esses recursos são gerenciados pela Diretoria de Missões Científicas na sede da NASA em Washington, sublinhando a importância estratégica do ERNEST para os planos de exploração espacial da agência, tanto para Marte quanto para a Lua.</p><p>A capacidade de um rover de cobrir grandes distâncias com autonomia e velocidade é um fator crítico para o sucesso de futuras missões de exploração. Ao permitir que os rovers naveguem por terrenos complexos e alcancem múltiplos pontos de interesse científico em um período mais curto, a tecnologia demonstrada pelo ERNEST pode revolucionar a forma como a NASA planeja suas operações em outros corpos celestes. Isso não só otimiza o tempo de missão, mas também expande significativamente o alcance da pesquisa científica, possibilitando descobertas que seriam inviáveis com as tecnologias atuais.</p>",
     "body_en": "<p>On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles with minimal intervention from the team of engineers trailing it. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In a recent field test, the prototype traveled 16 miles over the course of 37 hours, going an order of magnitude above the top speed at which NASA’s current Mars rovers can. NASA/JPL-Caltech Nesnas’ team is using ERNEST to demonstrate it is possible to build a rover that’s twice as big as the prototype and capable of a long-distance Moon mission.</p><p>626-314-4928 melissa. pamer@jpl. nasa. gov 2026-040 Explore More 4 min read El Niño Is Underway Satellite observations of sea surface height indicated that the 2026 event. 10, 11 Article 4 days ago Keep Exploring Discover More Topics From NASA Earth’s Moon The Moon makes Earth more livable, sets the rhythm of ocean tides, and keeps a record of our.</p><p>On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal Engineers from NASA’s. During the field test, which took place in March 2026 in the Colorado Desert of Southern California, the JPL team deployed ERNEST at all times of the day, including dusk, dawn.</p><p>Developed at NASA’s Jet Propulsion Laboratory in Southern California, ERNEST is 4 feet (1.2 meters) long. Nesnas’ team is using ERNEST to demonstrate it is possible to build a rover that’s twice as big as the prototype and capable of a long-distance Moon mission.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Work on ERNEST began in 2022 was initially supported by JPL internal research and development funds. It is currently funded by NASA’s Mars Exploration Program and the agency’s Exploration Science Strategy and Integration Office in its Science Mission Directorate at NASA.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Em um trecho desolado do deserto do Colorado, no sul da Califórnia, um protótipo de veículo espacial compacto de quatro rodas percorreu recentemente",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Em um trecho desolado do deserto do Colorado, no sul da Califórnia, um protótipo de veículo espacial compacto de quatro rodas percorreu recentemente.",
+      "Dado-chave: Em um trecho desolado do deserto do Colorado, no sul da Califórnia, um protótipo de veículo espacial compacto de quatro rodas percorreu.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Em um trecho desolado do deserto do Colorado, no sul da Califórnia, um protótipo de veículo espacial compacto de quatro rodas percorreu recentemente",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Em um trecho desolado do deserto do Colorado, no sul da Califórnia, um protótipo de veículo espacial compacto de quatro rodas percorreu recentemente.",
+      "Dado-chave: Em um trecho desolado do deserto do Colorado, no sul da Califórnia, um protótipo de veículo espacial compacto de quatro rodas percorreu.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles with minimal",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles with minimal.",
+      "Key detail: On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles with minimal",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "18 jun 2026",
     "date_pt": "18 jun 2026",
@@ -388,160 +811,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/psd/dj_stereo_xeye.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/133_lro_nearside.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://videojs.org/og/support.png",
-        "alt": "suporta vídeo HTML5",
-        "alt_pt": "suporta vídeo HTML5",
-        "alt_en": "supports HTML5 video",
-        "caption": "suporta vídeo HTML5",
-        "caption_pt": "suporta vídeo HTML5",
-        "caption_en": "supports HTML5 video"
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/psd/lucy/LLORRI_DJ_fullinfo.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/dj_stereo_xeye.png?w=2068&h=770&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Lucy, da NASA, revela asteróide oscilante em forma de amendoim - NASA Science",
-      "title_pt": "Lucy, da NASA, revela asteróide oscilante em forma de amendoim - NASA Science",
-      "title_en": "NASA's Lucy Reveals Wobbling, Peanut-Shaped Asteroid - NASA Science",
-      "caption": "Mesmo pequenos asteróides levam vidas complexas. Durante o sobrevôo do asteróide Donaldjohanson no ano passado, a espaçonave Lucy da NASA revelou que o asteróide era um",
-      "caption_pt": "Mesmo pequenos asteróides levam vidas complexas. Durante o sobrevôo do asteróide Donaldjohanson no ano passado, a espaçonave Lucy da NASA revelou que o asteróide era um",
-      "caption_en": "Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a",
-      "sourcePage": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/"
-    },
-    "audio": null,
-    "title": "Lucy da NASA revela asteroide oscilante em forma de amendoim",
-    "title_pt": "Lucy da NASA revela asteroide oscilante em forma de amendoim",
-    "title_en": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
-    "sub": "A missão Lucy da NASA revelou que o asteroide Donaldjohanson, sobrevoado em 20 de abril de 2025, é um corpo instável e em forma de amendoim, indicando uma vida complexa para.",
-    "sub_pt": "A missão Lucy da NASA revelou que o asteroide Donaldjohanson, sobrevoado em 20 de abril de 2025, é um corpo instável e em forma de amendoim, indicando uma vida complexa para.",
-    "sub_en": "Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body.",
-    "excerpt": "A missão Lucy da NASA revelou que o asteroide Donaldjohanson, sobrevoado em 20 de abril de 2025, é um corpo instável e em forma de amendoim, indicando uma vida complexa para asteroides pequenos.",
-    "excerpt_pt": "A missão Lucy da NASA revelou que o asteroide Donaldjohanson, sobrevoado em 20 de abril de 2025, é um corpo instável e em forma de amendoim, indicando uma vida complexa para asteroides pequenos.",
-    "excerpt_en": "Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively.",
-    "body": "<p>O encontro com Donaldjohanson foi meticulosamente planejado como um ensaio geral crucial para a espaçonave Lucy e sua equipe de missão. Este teste preparatório visava otimizar os procedimentos e sistemas antes dos primeiros encontros reais com os asteroides troianos, que são os alvos primários da missão. O primeiro desses encontros está programado para ocorrer com o asteroide troiano Eurybates em agosto de 2018, seguido por outros corpos celestes. A experiência adquirida durante o sobrevoo de Donaldjohanson é vital para garantir o sucesso das futuras operações científicas e a coleta de dados valiosos.</p><p>Antes da aproximação de Lucy, observadores utilizando telescópios terrestres já haviam detectado flutuações na luz refletida por Donaldjohanson. Esses padrões regulares de picos e vales são característicos de um objeto alongado em rotação, indicando que o asteroide completa uma volta a cada 10, 5 dias terrestres. Tais observações preliminares foram fundamentais para caracterizar a forma e o período de rotação do asteroide, fornecendo dados essenciais que complementariam as informações coletadas in situ pela espaçonave Lucy. A combinação de dados remotos e diretos oferece uma visão mais completa da natureza desses corpos celestes.</p><p>Durante o sobrevoo de 20 de abril de 2025, a espaçonave Lucy fez uma descoberta significativa ao identificar evidências de argilas ricas em ferro na superfície de Donaldjohanson. Essa detecção foi realizada por meio do espectrômetro infravermelho da sonda, um instrumento projetado para analisar a composição mineralógica de corpos celestes. A presença de argilas sugere que o asteroide pode ter tido contato com água líquida em algum momento de sua história, ou que se formou a partir de materiais que foram alterados pela água. Essa informação é crucial para entender os processos de formação e evolução de asteroides no cinturão principal.</p><p>Os resultados preliminares e as primeiras análises do encontro de Lucy com Donaldjohanson foram detalhados e apresentados à comunidade científica. As descobertas, incluindo a forma peculiar do asteroide, sua rotação oscilante e a presença de argilas ricas em ferro, foram publicadas em 18 de junho na renomada revista Science. Essas informações contribuem substancialmente para o nosso conhecimento sobre a diversidade e a complexidade dos asteroides, oferecendo novas perspectivas sobre os blocos construtores do sistema solar e os processos que os moldaram. A missão Lucy continua a desvendar os segredos desses viajantes cósmicos, prometendo mais revelações no futuro.</p>",
-    "body_pt": "<p>O encontro com Donaldjohanson foi meticulosamente planejado como um ensaio geral crucial para a espaçonave Lucy e sua equipe de missão. Este teste preparatório visava otimizar os procedimentos e sistemas antes dos primeiros encontros reais com os asteroides troianos, que são os alvos primários da missão. O primeiro desses encontros está programado para ocorrer com o asteroide troiano Eurybates em agosto de 2018, seguido por outros corpos celestes. A experiência adquirida durante o sobrevoo de Donaldjohanson é vital para garantir o sucesso das futuras operações científicas e a coleta de dados valiosos.</p><p>Antes da aproximação de Lucy, observadores utilizando telescópios terrestres já haviam detectado flutuações na luz refletida por Donaldjohanson. Esses padrões regulares de picos e vales são característicos de um objeto alongado em rotação, indicando que o asteroide completa uma volta a cada 10, 5 dias terrestres. Tais observações preliminares foram fundamentais para caracterizar a forma e o período de rotação do asteroide, fornecendo dados essenciais que complementariam as informações coletadas in situ pela espaçonave Lucy. A combinação de dados remotos e diretos oferece uma visão mais completa da natureza desses corpos celestes.</p><p>Durante o sobrevoo de 20 de abril de 2025, a espaçonave Lucy fez uma descoberta significativa ao identificar evidências de argilas ricas em ferro na superfície de Donaldjohanson. Essa detecção foi realizada por meio do espectrômetro infravermelho da sonda, um instrumento projetado para analisar a composição mineralógica de corpos celestes. A presença de argilas sugere que o asteroide pode ter tido contato com água líquida em algum momento de sua história, ou que se formou a partir de materiais que foram alterados pela água. Essa informação é crucial para entender os processos de formação e evolução de asteroides no cinturão principal.</p><p>Os resultados preliminares e as primeiras análises do encontro de Lucy com Donaldjohanson foram detalhados e apresentados à comunidade científica. As descobertas, incluindo a forma peculiar do asteroide, sua rotação oscilante e a presença de argilas ricas em ferro, foram publicadas em 18 de junho na renomada revista Science. Essas informações contribuem substancialmente para o nosso conhecimento sobre a diversidade e a complexidade dos asteroides, oferecendo novas perspectivas sobre os blocos construtores do sistema solar e os processos que os moldaram. A missão Lucy continua a desvendar os segredos desses viajantes cósmicos, prometendo mais revelações no futuro.</p>",
-    "body_en": "<p>Even small asteroids lead complex lives. During its flyby of the asteroid Donaldjohanson last year, NASA’s Lucy spacecraft revealed the asteroid to be a wobbly, peanut-shaped body that has undergone a lot of activity in its relatively. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video A timelapse video made from images taken by NASA’s Lucy spacecraft. NASA/Goddard/SwRI/JHU-APL Lucy’s encounter with the asteroid was planned as a dress rehearsal for the spacecraft and mission team before its primary asteroid encounters, which.</p><p>Wobbling rotation With Earth-based telescopes, observers saw fluctuations in the light Donaldjohanson reflects, regular patterns of peaks and valleys, typical of an elongated. During its April 20, 2025, encounter with the main-belt asteroid Donaldjohanson, NASA’s Lucy spacecraft discovered evidence for iron-rich clays on the surface using its infrared.</p><p>202-853-7191 sarah. frazier@nasa. gov Simplified Summary Zooming through the main asteroid belt toward one of the Jupiter Trojan asteroid groups, the Lucy spacecraft collected the. Zooming through the main asteroid belt toward one of the Jupiter Trojan asteroid groups, the Lucy spacecraft collected the first close-up images and other data at Donaldjohanson.</p><p>To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Lucy’s encounter with the asteroid was planned as a dress rehearsal. Here’s what Lucy’s science team has learned so far from Lucy’s encounter with Donaldjohanson, as reported on June 18 in the journal Science.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>With Earth-based telescopes, observers saw fluctuations in the light Donaldjohanson reflects, regular patterns of peaks and valleys, typical of an elongated object rotating once. Paper authors reported that the asteroid rotates end-over-end once every 10.5 Earth days, and wobbles back and forth around its long axis once every 26.5 days.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Em foco: A missão Lucy da NASA revelou que o asteroide Donaldjohanson, sobrevoado em 20 de abril de 2025, é um corpo instável e em forma de amendoim",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: A missão Lucy da NASA revelou que o asteroide Donaldjohanson, sobrevoado em 20 de abril de 2025, é um corpo instável e em forma de amendoim",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Even small asteroids lead complex lives",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "18 jun 2026",
-    "date_pt": "18 jun 2026",
-    "date_en": "18 Jun 2026",
-    "time": "18h04",
-    "time_pt": "18h04",
-    "time_en": "18: 04 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-18T18:04:41+00:00",
-    "lastModifiedIso": "2026-06-18T18:30:29+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Lucy da NASA revela asteróide oscilante em forma de amendoim"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Lucy da NASA revela asteróide oscilante em forma de amendoim"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Lucy reveals wobbling peanut-shaped asteroid"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/nasas-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-lucy-reveals-wobbling-peanut-shaped-asteroid/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": true,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Lucy da NASA revela asteroide oscilante em forma de amendoim",
-    "imageAlt_pt": "Lucy da NASA revela asteroide oscilante em forma de amendoim",
-    "imageAlt_en": "NASA’s Lucy Reveals Wobbling, Peanut-Shaped Asteroid",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
+    "id": 7,
     "slug": "string-axiverse-enhancement-of-superradiant-dark-matter-production",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -662,7 +932,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 8,
     "slug": "accreting-stellar-mass-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -782,128 +1052,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 7,
-    "slug": "search-for-hidden-cosmic-companions-in-sun-s-backyard",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/1280px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Em Busca de Companheiros Cósmicos Ocultos no 'Quintal' Solar",
-    "title_pt": "Em Busca de Companheiros Cósmicos Ocultos no 'Quintal' Solar",
-    "title_en": "Search for Hidden Cosmic Companions in Sun’s Backyard",
-    "sub": "Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem estrelas, mas excessiva para serem.",
-    "sub_pt": "Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem estrelas, mas excessiva para serem.",
-    "sub_en": "Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
-    "excerpt": "Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem estrelas, mas excessiva para serem classificados como planetas.",
-    "excerpt_pt": "Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem estrelas, mas excessiva para serem classificados como planetas.",
-    "excerpt_en": "Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
-    "body": "<p>No vasto universo, a diversidade de corpos celestes é imensa, e entre as estrelas e os planetas, existe uma categoria intrigante conhecida como anãs marrons. Esses objetos cósmicos são frequentemente descritos como &#x27;estrelas falhas&#x27; ou &#x27;superplanetas&#x27;, pois possuem massa insuficiente para sustentar as reações de fusão nuclear que caracterizam as estrelas, mas são consideravelmente mais massivos do que qualquer planeta conhecido. A sua natureza intermediária os torna alvos de grande interesse para os astrônomos, que buscam compreender melhor sua formação, evolução e distribuição no cosmos. A detecção e o estudo desses corpos são cruciais para preencher lacunas em nosso conhecimento sobre a formação estelar e planetária, especialmente aqueles que orbitam outras estrelas, oferecendo pistas valiosas sobre a dinâmica de sistemas binários e múltiplos.</p><p>Para desvendar os mistérios das anãs marrons, a NASA lançou um inovador projeto de ciência cidadã denominado &#x27;Backyard Worlds: Binaries&#x27;. Esta iniciativa convida entusiastas da astronomia e o público em geral a colaborar ativamente com cientistas, inspecionando imagens capturadas pelo Telescópio Espacial Wide-field Infrared Survey Explorer (WISE). O WISE, um observatório espacial infravermelho, tem a capacidade única de detectar o calor residual emitido por objetos frios como as anãs marrons, que são difíceis de observar em comprimentos de onda visíveis. A vasta quantidade de dados coletados pelo WISE exige uma análise minuciosa que transcende a capacidade de equipes de pesquisa limitadas, tornando a contribuição de voluntários essencial para o sucesso da missão.</p><p>A busca por anãs marrons que orbitam estrelas, formando sistemas binários, é de particular importância para a astrofísica. A presença de uma estrela companheira oferece um &#x27;relógio cósmico&#x27; natural, permitindo aos astrônomos estimar com maior precisão a idade da anã marrom. Conhecer a idade desses objetos é fundamental para traçar sua história evolutiva e entender os processos físicos que governam sua formação e resfriamento ao longo do tempo. Além disso, o estudo de sistemas binários de anãs marrons e estrelas pode revelar informações cruciais sobre a frequência de tais emparelhamentos e as condições sob as quais eles se formam, contribuindo para uma compreensão mais abrangente da arquitetura de sistemas estelares e planetários em nossa galáxia.</p><p>A tarefa de identificar anãs marrons em meio a milhões de imagens infravermelhas é um desafio complexo. Esses objetos são intrinsecamente tênues e podem ser facilmente confundidos com outros fenômenos ou ruídos nos dados. É precisamente por essa razão que a percepção visual humana e a capacidade de reconhecimento de padrões se tornam ferramentas inestimáveis. Como destacou o líder do projeto, Aaron Meisner, &#x27;Precisamos da sua ajuda para obter insights críticos sobre esses objetos cósmicos enigmáticos&#x27;. A participação de voluntários permite uma varredura mais abrangente e detalhada dos dados do WISE, aumentando significativamente as chances de descobertas que poderiam passar despercebidas por algoritmos automatizados ou por uma equipe de pesquisa menor.</p><p>Ao se juntar ao projeto &#x27;Backyard Worlds: Binaries&#x27;, os voluntários inspecionam cuidadosamente as imagens do WISE, procurando por movimentos sutis ou características que indiquem a presença de um objeto próximo, mas ainda não catalogado. Cada observação validada por um voluntário contribui diretamente para a construção de um catálogo mais completo de anãs marrons em nosso &#x27;quintal&#x27; solar. Essas descobertas não apenas expandem nosso conhecimento sobre a população de anãs marrons, mas também fornecem dados empíricos essenciais para testar e refinar modelos teóricos de formação estelar e planetária. A colaboração entre cientistas e cidadãos é um testemunho do poder da ciência aberta e da capacidade coletiva de desvendar os segredos do universo.</p><p>A compreensão de onde e quando as anãs marrons se formam é uma questão fundamental na astrofísica. Elas representam um elo crucial na cadeia de massa dos objetos celestes, e seu estudo pode oferecer pistas sobre os limites inferiores da formação estelar e os limites superiores da formação planetária. Ao identificar novos sistemas binários, os astrônomos podem analisar as propriedades orbitais e físicas desses objetos com maior precisão, o que, por sua vez, ajuda a mapear a distribuição de massa em nossa galáxia e a entender os mecanismos de acreção e colapso gravitacional. O projeto &#x27;Backyard Worlds: Binaries&#x27; não é apenas uma oportunidade de descoberta, mas também uma plataforma para inspirar a próxima geração de cientistas e entusiastas do espaço.</p><p>A busca por companheiros cósmicos ocultos no &#x27;quintal&#x27; do Sol é uma jornada contínua que exige curiosidade e colaboração. As anãs marrons, com sua natureza enigmática, continuam a desafiar nossa compreensão dos processos de formação estelar e planetária. A participação no projeto &#x27;Backyard Worlds: Binaries&#x27; oferece uma oportunidade única para qualquer pessoa contribuir diretamente para a ciência de ponta, ajudando a desvendar esses mistérios. Ao se engajar nesta pesquisa, os voluntários não apenas auxiliam na descoberta de objetos raros e interessantes, mas também contribuem para um conhecimento mais profundo sobre a origem e evolução de nosso próprio sistema solar e de outros sistemas estelares na Via Láctea.</p>",
-    "body_pt": "<p>No vasto universo, a diversidade de corpos celestes é imensa, e entre as estrelas e os planetas, existe uma categoria intrigante conhecida como anãs marrons. Esses objetos cósmicos são frequentemente descritos como &#x27;estrelas falhas&#x27; ou &#x27;superplanetas&#x27;, pois possuem massa insuficiente para sustentar as reações de fusão nuclear que caracterizam as estrelas, mas são consideravelmente mais massivos do que qualquer planeta conhecido. A sua natureza intermediária os torna alvos de grande interesse para os astrônomos, que buscam compreender melhor sua formação, evolução e distribuição no cosmos. A detecção e o estudo desses corpos são cruciais para preencher lacunas em nosso conhecimento sobre a formação estelar e planetária, especialmente aqueles que orbitam outras estrelas, oferecendo pistas valiosas sobre a dinâmica de sistemas binários e múltiplos.</p><p>Para desvendar os mistérios das anãs marrons, a NASA lançou um inovador projeto de ciência cidadã denominado &#x27;Backyard Worlds: Binaries&#x27;. Esta iniciativa convida entusiastas da astronomia e o público em geral a colaborar ativamente com cientistas, inspecionando imagens capturadas pelo Telescópio Espacial Wide-field Infrared Survey Explorer (WISE). O WISE, um observatório espacial infravermelho, tem a capacidade única de detectar o calor residual emitido por objetos frios como as anãs marrons, que são difíceis de observar em comprimentos de onda visíveis. A vasta quantidade de dados coletados pelo WISE exige uma análise minuciosa que transcende a capacidade de equipes de pesquisa limitadas, tornando a contribuição de voluntários essencial para o sucesso da missão.</p><p>A busca por anãs marrons que orbitam estrelas, formando sistemas binários, é de particular importância para a astrofísica. A presença de uma estrela companheira oferece um &#x27;relógio cósmico&#x27; natural, permitindo aos astrônomos estimar com maior precisão a idade da anã marrom. Conhecer a idade desses objetos é fundamental para traçar sua história evolutiva e entender os processos físicos que governam sua formação e resfriamento ao longo do tempo. Além disso, o estudo de sistemas binários de anãs marrons e estrelas pode revelar informações cruciais sobre a frequência de tais emparelhamentos e as condições sob as quais eles se formam, contribuindo para uma compreensão mais abrangente da arquitetura de sistemas estelares e planetários em nossa galáxia.</p><p>A tarefa de identificar anãs marrons em meio a milhões de imagens infravermelhas é um desafio complexo. Esses objetos são intrinsecamente tênues e podem ser facilmente confundidos com outros fenômenos ou ruídos nos dados. É precisamente por essa razão que a percepção visual humana e a capacidade de reconhecimento de padrões se tornam ferramentas inestimáveis. Como destacou o líder do projeto, Aaron Meisner, &#x27;Precisamos da sua ajuda para obter insights críticos sobre esses objetos cósmicos enigmáticos&#x27;. A participação de voluntários permite uma varredura mais abrangente e detalhada dos dados do WISE, aumentando significativamente as chances de descobertas que poderiam passar despercebidas por algoritmos automatizados ou por uma equipe de pesquisa menor.</p><p>Ao se juntar ao projeto &#x27;Backyard Worlds: Binaries&#x27;, os voluntários inspecionam cuidadosamente as imagens do WISE, procurando por movimentos sutis ou características que indiquem a presença de um objeto próximo, mas ainda não catalogado. Cada observação validada por um voluntário contribui diretamente para a construção de um catálogo mais completo de anãs marrons em nosso &#x27;quintal&#x27; solar. Essas descobertas não apenas expandem nosso conhecimento sobre a população de anãs marrons, mas também fornecem dados empíricos essenciais para testar e refinar modelos teóricos de formação estelar e planetária. A colaboração entre cientistas e cidadãos é um testemunho do poder da ciência aberta e da capacidade coletiva de desvendar os segredos do universo.</p><p>A compreensão de onde e quando as anãs marrons se formam é uma questão fundamental na astrofísica. Elas representam um elo crucial na cadeia de massa dos objetos celestes, e seu estudo pode oferecer pistas sobre os limites inferiores da formação estelar e os limites superiores da formação planetária. Ao identificar novos sistemas binários, os astrônomos podem analisar as propriedades orbitais e físicas desses objetos com maior precisão, o que, por sua vez, ajuda a mapear a distribuição de massa em nossa galáxia e a entender os mecanismos de acreção e colapso gravitacional. O projeto &#x27;Backyard Worlds: Binaries&#x27; não é apenas uma oportunidade de descoberta, mas também uma plataforma para inspirar a próxima geração de cientistas e entusiastas do espaço.</p><p>A busca por companheiros cósmicos ocultos no &#x27;quintal&#x27; do Sol é uma jornada contínua que exige curiosidade e colaboração. As anãs marrons, com sua natureza enigmática, continuam a desafiar nossa compreensão dos processos de formação estelar e planetária. A participação no projeto &#x27;Backyard Worlds: Binaries&#x27; oferece uma oportunidade única para qualquer pessoa contribuir diretamente para a ciência de ponta, ajudando a desvendar esses mistérios. Ao se engajar nesta pesquisa, os voluntários não apenas auxiliam na descoberta de objetos raros e interessantes, mas também contribuem para um conhecimento mais profundo sobre a origem e evolução de nosso próprio sistema solar e de outros sistemas estelares na Via Láctea.</p>",
-    "body_en": "<p>Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Explore This Section Science Citizen Science Search for Hidden Cosmic. Overview Resources Opportunities Citizen Science Highlights About Science Activation Some stars have planets. As a volunteer, you’ll inspect images from NASA’s Wide-field Infrared Survey Explorer (WISE) space telescope.</p><p>We need your help to gain critical insights into these enigmatic cosmic objects,” said project lead Aaron Meisner. Science Citizen Science Search for Hidden Cosmic.</p><p>Overview Resources Opportunities Citizen Science Highlights About Science Activation 2 min read Article Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.</p><p>Astronomers love these brown dwarf-star pairs because being paired with a star helps reveal a brown dwarf’s age. Now, you can join NASA’s new Backyard Worlds: Binaries project and help astronomers discover these rare and interesting pairs.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>As a volunteer, you&#x27;ll inspect images from NASA’s Wide-field Infrared Survey Explorer (WISE) space telescope. Binaries project today and help astronomers understand where and when brown dwarfs form.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Dado-chave: Enquanto algumas estrelas abrigam planetas, outras são orbitadas por anãs marrons, objetos celestes gasosos com massa insuficiente para serem.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
-      "Key detail: Some stars have planets. Others are orbited by brown dwarfs, balls of gas too massive to be planets, but too low-mass to be stars.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 jun 2026",
-    "date_pt": "17 jun 2026",
-    "date_en": "17 Jun 2026",
-    "time": "19h40",
-    "time_pt": "19h40",
-    "time_en": "19: 40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-17T19:40:03+00:00",
-    "lastModifiedIso": "2026-06-18T18:30:29+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Procure por companheiros cósmicos ocultos no quintal do Sol"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Procure por companheiros cósmicos ocultos no quintal do Sol"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Search for hidden cosmic companions in the Sun's backyard"
-    ],
-    "srcUrl": "https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/",
-    "realUrl": "https://www.cosmosweek.com/?article=search-for-hidden-cosmic-companions-in-sun-s-backyard",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=search-for-hidden-cosmic-companions-in-sun-s-backyard",
-    "realUrl_en": "https://www.cosmosweek.com/?article=search-for-hidden-cosmic-companions-in-sun-s-backyard&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/search-for-hidden-cosmic-companions-in-sun-s-backyard/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/search-for-hidden-cosmic-companions-in-sun-s-backyard/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/search-for-hidden-cosmic-companions-in-sun-s-backyard/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/search-for-hidden-cosmic-companions-in-sun-s-backyard/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/search-for-hidden-cosmic-companions-in-sun-s-backyard/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/search-for-hidden-cosmic-companions-in-sun-s-backyard/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Em Busca de Companheiros Cósmicos Ocultos no 'Quintal' Solar",
-    "imageAlt_pt": "Em Busca de Companheiros Cósmicos Ocultos no 'Quintal' Solar",
-    "imageAlt_en": "Search for Hidden Cosmic Companions in Sun’s Backyard",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
+    "id": 9,
     "slug": "nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1024,7 +1173,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "solitary-dwarf-galaxy-groups-as-tracers-of-primordial-dark-matter-halos-in-the-local-universe",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1145,7 +1294,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "dozens-of-dust-devils-hidden-in-plain-sight",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1303,7 +1452,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "low-water-at-san-carlos-reservoir",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1352,19 +1501,19 @@ window.postsData = [
     "body_pt": "<p>O reservatório de San Carlos, localizado no Arizona, tem enfrentado uma crise hídrica severa, caracterizada pela combinação de períodos prolongados de seca e pela liberação controlada de água. Essa situação resultou em uma drástica diminuição dos níveis do reservatório, culminando na morte generalizada de peixes. A gravidade do cenário foi documentada por observações científicas e imagens de satélite, que revelam a transformação de um corpo d&#x27;água expansivo em uma área quase desprovida de volume hídrico significativo. A recorrência de tais eventos sublinha a vulnerabilidade dos ecossistemas aquáticos a fatores climáticos e de gestão hídrica, exigindo uma análise aprofundada das causas e consequências para a biodiversidade local e para o abastecimento regional.</p><p>A extensão da crise hídrica no reservatório de San Carlos é vividamente ilustrada por dados visuais coletados pelo Observatório da Terra da NASA. Em junho de 2023, imagens de satélite retratavam o reservatório como um vasto corpo d&#x27;água, com uma superfície expansiva que se assemelhava a um lago em sua plenitude. Contudo, uma comparação com imagens adquiridas em maio de 2026 revela uma transformação alarmante: o reservatório aparece quase completamente vazio. Essa disparidade temporal, capturada com precisão pela tecnologia de sensoriamento remoto, oferece uma evidência inquestionável do rápido e severo declínio dos níveis de água, destacando a urgência da situação e a necessidade de intervenções eficazes para mitigar os impactos ambientais e sociais.</p><p>A história do reservatório de San Carlos não é desprovida de episódios de baixa hídrica e mortalidade de peixes. Registros indicam que outros anos, como 1976 e 2018, também foram marcados por grandes mortes de peixes, sugerindo uma vulnerabilidade intrínseca do ecossistema a flutuações nos níveis de água. Curiosamente, a própria inauguração da barragem e do reservatório foi acompanhada por observações sobre a natureza do local. O humorista Will Rogers, ao se dirigir ao presidente Calvin Coolidge, fez um comentário perspicaz sobre a paisagem: “Se aquele fosse o meu lago, eu cortar-lhe-ia”, referindo-se à quantidade de vegetação que crescia no leito seco do reservatório antes de ser preenchido. Essa anedota histórica ressalta que, desde sua concepção, o reservatório já apresentava características que o tornavam suscetível a variações, embora a magnitude da crise atual seja particularmente preocupante.</p><p>A combinação de seca prolongada e a gestão da liberação de água são os principais fatores que contribuem para a atual condição crítica do reservatório. A seca reduz a afluência de água para o sistema, enquanto a liberação, muitas vezes necessária para atender a demandas agrícolas, urbanas ou energéticas, acelera o esvaziamento. Os impactos ecológicos de tal diminuição vão além da morte direta de peixes, afetando toda a cadeia alimentar aquática, a qualidade da água e os habitats de diversas espécies. A perda de volume hídrico altera a temperatura, a concentração de oxigênio e a salinidade, criando um ambiente hostil para a vida aquática e comprometendo a resiliência do ecossistema. A recuperação de um reservatório após um evento de esvaziamento tão severo pode levar anos, ou até décadas, dependendo da intensidade das chuvas futuras e das políticas de gestão hídrica implementadas.</p><p>A situação do reservatório de San Carlos serve como um alerta para os desafios crescentes na gestão de recursos hídricos em regiões áridas e semiáridas, especialmente em um cenário de mudanças climáticas. A intensificação de eventos extremos, como secas prolongadas, exige uma reavaliação das estratégias de conservação e uso da água. A pesquisa geológica e hidrológica contínua, como a mencionada em 15 de junho de 2026 sobre o reservatório na Barragem de Coolidge, AZ, é fundamental para monitorar a evolução desses sistemas e desenvolver modelos preditivos mais precisos. A colaboração entre agências governamentais, instituições de pesquisa e comunidades locais é essencial para implementar soluções sustentáveis que garantam a segurança hídrica e a proteção dos ecossistemas aquáticos a longo prazo.</p>",
     "body_en": "<p>Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths. The post Low Water at San Carlos Reservoir appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Low Water at San Carlos Reservoir appeared first on NASA Science. NASA Earth Observatory/Michala Garrison June 7, 2023 May 22, 2026 The reservoir appears lake-like and expansive in an image acquired in June 2023.</p><p>NASA Earth Observatory/Michala Garrison The reservoir is nearly empty by May 2026. NASA Earth Observatory/Michala Garrison June 7, 2023 May 22, 2026 Curtain Toggle 2-Up Image Details Little water remains in the San Carlos Reservoir in May 2026 (right) compared.</p><p>Even when the dam and reservoir were first dedicated, there was enough grass growing on the dried reservoir bottom that humorist Will Rogers famously quipped to President Calvin. Geological Survey (2026, June 15) San Carlos Reservoir at Coolidge Dam, AZ.</p><p>Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. Earth Observatory Image of the Day NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Low Water at San Carlos Reservoir appeared first on NASA Science. A seasonal monsoon outlook released by NOAA in May 2026 projected a 33 to 50 percent chance that an above-average amount of rain would fall in the region that summer.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: A seca prolongada e a liberação de água drenaram o reservatório de San Carlos, no Arizona, a níveis críticos que resultaram na morte generalizada de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A seca prolongada e a liberação de água drenaram o reservatório de San Carlos, no Arizona, a níveis críticos que resultaram na morte generalizada de.",
+      "Dado-chave: A seca prolongada e a liberação de água drenaram o reservatório de San Carlos, no Arizona, a níveis críticos que resultaram na morte.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A seca prolongada e a liberação de água drenaram o reservatório de San Carlos, no Arizona, a níveis críticos que resultaram na morte generalizada de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A seca prolongada e a liberação de água drenaram o reservatório de San Carlos, no Arizona, a níveis críticos que resultaram na morte generalizada de.",
+      "Dado-chave: A seca prolongada e a liberação de água drenaram o reservatório de San Carlos, no Arizona, a níveis críticos que resultaram na morte.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths.",
+      "Key detail: Drought and water releases drained the Arizona reservoir to levels that have led to widespread fish deaths",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 jun 2026",
     "date_pt": "17 jun 2026",
@@ -1452,7 +1601,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "webb-hubble-reveal-relic-of-our-galaxy-s-formation",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1583,7 +1732,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "pumice-rafts-encroach-on-admiralty-islands",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1717,7 +1866,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "tracking-urban-expansion-in-hazard-prone-areas",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1848,7 +1997,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2018,7 +2167,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "cleaner-air-and-prosperity-can-go-hand-in-hand",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2167,7 +2316,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2379,7 +2528,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "what-s-actually-new-about-nasa-s-artemis-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2582,7 +2731,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "esa-and-ebrd-to-advance-earth-observation-for-development-and-impact-finance",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2713,7 +2862,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2875,7 +3024,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "evidence-of-water-plumes-from-jupiter-s-moon-europa-vanishes",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2996,159 +3145,6 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 22,
-    "slug": "a-shift-in-what-s-shaping-u-s-landscapes",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-shift-in-what’s-shaping-u-s--landscapes/usdistconus_oli_2022_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-shift-in-what’s-shaping-u-s--landscapes/usdistconus_oli_2022_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-shift-in-what’s-shaping-u-s--landscapes/RenoNevada_Landsat_1985_2025.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-shift-in-what’s-shaping-u-s--landscapes/usdistconus_oli_2022_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Uma mudança no que está moldando as paisagens dos EUA - NASA Science",
-      "title_pt": "Uma mudança no que está moldando as paisagens dos EUA - NASA Science",
-      "title_en": "A Shift in What’s Shaping U. S. Landscapes - NASA Science",
-      "caption": "As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "caption_pt": "As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "caption_en": "Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.",
-      "sourcePage": "https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/"
-    },
-    "audio": null,
-    "title": "Uma mudança no que está moldando o cenário dos EUA",
-    "title_pt": "Uma mudança no que está moldando o cenário dos EUA",
-    "title_en": "A Shift in What’s Shaping U. S. Landscapes",
-    "sub": "As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-    "sub_pt": "As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-    "sub_en": "Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.",
-    "excerpt": "As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído. A postagem Uma mudança no que está moldando as paisagens dos EUA apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído. A postagem Uma mudança no que está moldando as paisagens dos EUA apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "Wild disturbances are on the rise, while land disturbed by human activity has been decreasing. The post A Shift in What’s Shaping U.",
-    "body": "<p>As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído. A postagem Uma mudança no que está moldando as paisagens dos EUA apareceu pela primeira vez na NASA Science.</p><p>Apoio Científico do Projeto Landsat/Ross Walter Entre 1988 e 2022, 18 por cento da área terrestre no território continental dos EUA. Um check-up da Lua Cheia 3 min de leitura Uma vez por mês durante a Lua Cheia.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. As paisagens apareceram primeiro na NASA Science.</p><p>Num estudo financiado pela NASA e publicado na Nature Geoscience, os cientistas analisaram quase 35 anos de dados dos satélites Landsat da NASA/USGS para compreender melhor o que tem moldado o território continental dos EUA. Robert Emberson, gerente associado do programa de desastres da NASA e não afiliado ao estudo, disse que compreender as forças que transformam os EUA.</p><p>Por exemplo, a animação acima, composta por imagens Landsat de 1985 a 2025, mostra a expansão de Reno, Nevada, em uma paisagem desértica anteriormente não desenvolvida. As imagens Landsat na animação abaixo mostram áreas queimadas por incêndios florestais na Floresta Nacional Eldorado, a oeste do Lago Tahoe, na Califórnia, de 1985 a 2025.</p><p>Temos que voltar atrás e criar novas estratégias sobre como lidar com esses distúrbios naturais. ” As conclusões do estudo basearam-se no profundo arquivo de dados do Landsat, que há muito tempo é um recurso fundamental para detectar mudanças na superfície da Terra.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído. A postagem Uma mudança no que está moldando as paisagens dos EUA apareceu pela primeira vez na NASA Science.</p><p>Apoio Científico do Projeto Landsat/Ross Walter Entre 1988 e 2022, 18 por cento da área terrestre no território continental dos EUA. Um check-up da Lua Cheia 3 min de leitura Uma vez por mês durante a Lua Cheia.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. As paisagens apareceram primeiro na NASA Science.</p><p>Num estudo financiado pela NASA e publicado na Nature Geoscience, os cientistas analisaram quase 35 anos de dados dos satélites Landsat da NASA/USGS para compreender melhor o que tem moldado o território continental dos EUA. Robert Emberson, gerente associado do programa de desastres da NASA e não afiliado ao estudo, disse que compreender as forças que transformam os EUA.</p><p>Por exemplo, a animação acima, composta por imagens Landsat de 1985 a 2025, mostra a expansão de Reno, Nevada, em uma paisagem desértica anteriormente não desenvolvida. As imagens Landsat na animação abaixo mostram áreas queimadas por incêndios florestais na Floresta Nacional Eldorado, a oeste do Lago Tahoe, na Califórnia, de 1985 a 2025.</p><p>Temos que voltar atrás e criar novas estratégias sobre como lidar com esses distúrbios naturais. ” As conclusões do estudo basearam-se no profundo arquivo de dados do Landsat, que há muito tempo é um recurso fundamental para detectar mudanças na superfície da Terra.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Wild disturbances are on the rise, while land disturbed by human activity has been decreasing. The post A Shift in What’s Shaping U. S. Landscapes appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A Full Moon Checkup 3 min read Once a month during the full Moon. Earth Observatory Image of the Day NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>Landscapes appeared first on NASA Science. In a NASA-funded study published in Nature Geoscience, scientists analyzed nearly 35 years of data from NASA/USGS Landsat satellites to better understand what has been shaping the.</p><p>For example, the animation above, composed of Landsat images from 1985 to 2025, shows the expansion of Reno, Nevada, into a previously undeveloped desert landscape. The Landsat images in the animation below show areas burned by wildfires in Eldorado National Forest west of California’s Lake Tahoe from 1985 to 2025.</p><p>We have to go back and come up with new strategies on how to deal with these natural disturbances. The challenge now is to transform our relationship with disturbance from one of control to one of coexistence.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>(2025) A shift from human-directed to undirected wild land disturbances in the USA. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "Dado-chave: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "Dado-chave: As perturbações selvagens estão a aumentar, enquanto as terras perturbadas pela actividade humana têm diminuído.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.",
-      "Key detail: Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "28 mai 2026",
-    "date_pt": "28 mai 2026",
-    "date_en": "28 May 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-05-28T04:00:00+00:00",
-    "lastModifiedIso": "2026-05-28T18:38:50+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Uma mudança no que está moldando o cenário dos EUA"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Uma mudança no que está moldando o cenário dos EUA"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "A shift in what’s shaping the U. S. landscape"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/",
-    "realUrl": "https://www.cosmosweek.com/?article=a-shift-in-what-s-shaping-u-s-landscapes",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-shift-in-what-s-shaping-u-s-landscapes",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-shift-in-what-s-shaping-u-s-landscapes&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-shift-in-what-s-shaping-u-s-landscapes/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-shift-in-what-s-shaping-u-s-landscapes/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-shift-in-what-s-shaping-u-s-landscapes/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-shift-in-what-s-shaping-u-s-landscapes/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-shift-in-what-s-shaping-u-s-landscapes/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-shift-in-what-s-shaping-u-s-landscapes/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Uma mudança no que está moldando o cenário dos EUA",
-    "imageAlt_pt": "Uma mudança no que está moldando o cenário dos EUA",
-    "imageAlt_en": "A Shift in What’s Shaping U. S. Landscapes",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
     "id": 23,
     "slug": "webb-reveals-black-hole-that-formed-before-its-galaxy",
     "cat": "Astrofísica",
@@ -3180,19 +3176,19 @@ window.postsData = [
     "body_pt": "<p>Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a composição do gás que orbita um buraco negro no centro de Abell2744-QSO1, uma pequena galáxia mais. Os resultados sugerem que o buraco negro com 50 milhões de massa solar é anterior à sua galáxia hospedeira, possivelmente formado no primeiro segundo do Big Bang, e deve ter sido imenso desde o início.</p><p>Mas é difícil descobrir como é que buracos negros com milhões a milhares de milhões de vezes a massa do Sol, milhares dos quais já foram detectados no Universo primordial, poderiam ter crescido tão rapidamente a partir de sementes tão pequenas. Agora, investigadores que utilizaram o Webb detectaram evidências claras de que alguns buracos negros supermassivos eram enormes desde o início, formando-se sem uma fase de colapso estelar e sem uma galáxia hospedeira significativamente mais massiva para os alimentar.</p><p>Esta é uma descoberta notável”, disse Roberto Maiolino, da Universidade de Cambridge, no Reino Unido, coautor de estudos publicados hoje na Nature e no Monthly Notices of the Royal Astronomical Society. Estudos iniciais do QSO1 revelaram evidências convincentes de que ele pode ser pouco mais do que uma nuvem brilhante de hidrogênio e gás hélio circulando em torno de um buraco negro supermassivo estimado em 40 milhões de vezes a massa do Sol.</p><p>Os mapas de composição das IFU apoiaram estes resultados, mostrando que o gás em todo o QSO1 é quase inteiramente hidrogénio e hélio, com muito poucos dos elementos mais pesados ​​como o oxigénio que seriam esperados numa galáxia rica em estrelas e detritos estelares. Com uma metalicidade inferior a 0, 5% da do Sol, o QSO1 é um dos ambientes galácticos mais primitivos já medidos.</p><p>É a primeira medição direta da massa de um buraco negro nos primeiros mil milhões de anos após o Big Bang e é consistente com as medições anteriores. A massa descomunal de QSO1 em relação à sua galáxia hospedeira sugere que não pode ter-se formado gradualmente a partir de buracos negros de massa estelar muito mais pequenos que se fundiram e se alimentaram.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The results suggest that the 50-million-solar-mass black hole predates its host galaxy, possibly forming within the first second of the Big Bang, and must have been immense from. But it’s hard to figure out how black holes millions to billions of times the mass of the Sun, thousands of which have now been detected in the early Universe, could have grown so.</p><p>Now, researchers using Webb have detected clear evidence that some supermassive black holes were enormous from the beginning, forming without a stellar collapse phase, and without. This is a remarkable finding,” said Roberto Maiolino of Cambridge University in the United Kingdom, co-author of studies published today in Nature and the Monthly Notices of the.</p><p>It’s a paradigm shift, a total revisiting of the classical scenarios of how black holes form and grow. Initial studies of QSO1 revealed compelling evidence that it may be little more than a cloud of glowing hydrogen and helium gas circling a supermassive black hole estimated at 40.</p><p>The IFU composition maps supported these results, showing that the gas throughout QSO1 is almost entirely hydrogen and helium, with very little of the heavier elements like oxygen. With a metallicity less than 0.5% of the Sun, QSO1 is one of the most pristine galactic environments ever measured.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>It is the first direct measurement of a black hole mass within the first billion years after the Big Bang, and it is consistent with the previous measurements. The outsized mass of QSO1 relative to its host galaxy suggests that it can’t have formed gradually from much smaller, stellar-mass black holes merging and feeding.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a.",
+      "Dado-chave: Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento e a.",
+      "Dado-chave: Usando imagens sem precedentes e poder espectroscópico do Telescópio Espacial James Webb da NASA/ESA/CSA, os pesquisadores mapearam o movimento.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and.",
+      "Key detail: Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "27 mai 2026",
     "date_pt": "27 mai 2026",
