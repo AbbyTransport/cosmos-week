@@ -1,6 +1,150 @@
 [
   {
     "id": 1,
+    "slug": "partners-nasa-ready-for-june-launch-of-swift-boost-mission",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/launch-preview/NE201566_2611x1654.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a010100/a010171/Swift_Interview_Still_searchweb.png",
+        "alt": "Baixe imagens e vídeos de alta resolução relacionados ao Swift por meio do Scientific Visualization Studio da NASA.",
+        "alt_pt": "Baixe imagens e vídeos de alta resolução relacionados ao Swift por meio do Scientific Visualization Studio da NASA.",
+        "alt_en": "Download high-resolution images and videos related to Swift through NASA's Scientific Visualization Studio.",
+        "caption": "Baixe imagens e vídeos de alta resolução relacionados ao Swift por meio do Scientific Visualization Studio da NASA.",
+        "caption_pt": "Baixe imagens e vídeos de alta resolução relacionados ao Swift por meio do Scientific Visualization Studio da NASA.",
+        "caption_en": "Download high-resolution images and videos related to Swift through NASA's Scientific Visualization Studio."
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/THcvpKWZq4M?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/launch-preview/NE201566_2611x1654.jpg?w=2611&h=1654&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "A missão Swift da NASA ganha impulso",
+      "title_pt": "A missão Swift da NASA ganha impulso",
+      "title_en": "NASA's Swift Mission Gets a Boost",
+      "caption": "Depois de mais de duas décadas, a órbita do Observatório Neil Gehrels Swift da NASA entrou numa fase de rápida decadência. Embora a NASA pudesse permitir que o observatório. ..",
+      "caption_pt": "Depois de mais de duas décadas, a órbita do Observatório Neil Gehrels Swift da NASA entrou numa fase de rápida decadência. Embora a NASA pudesse permitir que o observatório. ..",
+      "caption_en": "After more than two decades, the orbit of NASA’s Neil Gehrels Swift Observatory has entered a phase of rapid decay. While NASA could allow the observatory to. ..",
+      "sourcePage": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/"
+    },
+    "audio": null,
+    "title": "NASA e Parceiros Se Preparam para a Missão de Elevação Orbital do Observatório Swift em Junho",
+    "title_pt": "NASA e Parceiros Se Preparam para a Missão de Elevação Orbital do Observatório Swift em Junho",
+    "title_en": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+    "sub": "A NASA e seus parceiros, Katalyst Space e Northrop Grumman, estão se preparando para a missão de elevação orbital do Observatório Neil Gehrels Swift, com lançamento previsto para.",
+    "sub_pt": "A NASA e seus parceiros, Katalyst Space e Northrop Grumman, estão se preparando para a missão de elevação orbital do Observatório Neil Gehrels Swift, com lançamento previsto para.",
+    "sub_en": "5 min read Partners, NASA Ready for June Launch of Swift Boost Mission NASA is on a mission to lift its Neil Gehrels Swift Observatory along with partners Katalyst Space and.",
+    "excerpt": "A NASA e seus parceiros, Katalyst Space e Northrop Grumman, estão se preparando para a missão de elevação orbital do Observatório Neil Gehrels Swift, com lançamento previsto para 30 de junho.",
+    "excerpt_pt": "A NASA e seus parceiros, Katalyst Space e Northrop Grumman, estão se preparando para a missão de elevação orbital do Observatório Neil Gehrels Swift, com lançamento previsto para 30 de junho.",
+    "excerpt_en": "5 min read Partners, NASA Ready for June Launch of Swift Boost Mission NASA is on a mission to lift its Neil Gehrels Swift Observatory along with partners Katalyst Space and Northrop Grumman.",
+    "highlights": [
+      "Em foco: A NASA e seus parceiros, Katalyst Space e Northrop Grumman, estão se preparando para a missão de elevação orbital do Observatório Neil Gehrels Swift",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A NASA e seus parceiros, Katalyst Space e Northrop Grumman, estão se preparando para a missão de elevação orbital do Observatório Neil Gehrels Swift",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: 5 min read Partners, NASA Ready for June Launch of Swift Boost Mission NASA is on a mission to lift its Neil Gehrels Swift Observatory along with",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "26 jun 2026",
+    "date_pt": "26 jun 2026",
+    "date_en": "26 Jun 2026",
+    "time": "17h16",
+    "time_pt": "17h16",
+    "time_en": "17: 16 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-26T17:16:22+00:00",
+    "lastModifiedIso": "2026-06-27T16:45:42+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Parceiros",
+      "NASA prontos para o lançamento da missão Swift Boost em junho"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Parceiros",
+      "NASA prontos para o lançamento da missão Swift Boost em junho"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Partners",
+      "NASA ready to launch Swift Boost mission in June"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+    "realUrl": "https://www.cosmosweek.com/?article=partners-nasa-ready-for-june-launch-of-swift-boost-mission",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=partners-nasa-ready-for-june-launch-of-swift-boost-mission",
+    "realUrl_en": "https://www.cosmosweek.com/?article=partners-nasa-ready-for-june-launch-of-swift-boost-mission&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "NASA e Parceiros Se Preparam para a Missão de Elevação Orbital do Observatório Swift em Junho",
+    "imageAlt_pt": "NASA e Parceiros Se Preparam para a Missão de Elevação Orbital do Observatório Swift em Junho",
+    "imageAlt_en": "Partners, NASA Ready for June Launch of Swift Boost Mission",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
     "cat": "Química",
     "catCls": "quimica",
@@ -28,19 +172,19 @@
     "excerpt_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância de oxigênio recorde de apenas 1/240 da do Sol.",
     "excerpt_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago.",
     "highlights": [
-      "Em foco: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a.",
+      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "26 jun 2026",
     "date_pt": "26 jun 2026",
@@ -128,7 +272,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "nasa-identifies-more-than-40-space-technologies-for-collaboration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -146,19 +290,19 @@
     "excerpt_pt": "A NASA selecionou 41 propostas de 37 empresas para desenvolver tecnologias que apoiarão seus objetivos de estabelecer uma presença de longo prazo na Lua e possibilitar a exploração humana de Marte.",
     "excerpt_en": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars.",
     "highlights": [
-      "Em foco: A NASA selecionou 41 propostas de 37 empresas para desenvolver tecnologias que apoiarão seus objetivos de estabelecer uma presença de longo prazo na",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA selecionou 41 propostas de 37 empresas para desenvolver tecnologias que apoiarão seus objetivos de estabelecer uma presença de longo prazo na.",
+      "Dado-chave: A NASA selecionou 41 propostas de 37 empresas para desenvolver tecnologias que apoiarão seus objetivos de estabelecer uma presença de longo.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A NASA selecionou 41 propostas de 37 empresas para desenvolver tecnologias que apoiarão seus objetivos de estabelecer uma presença de longo prazo na",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA selecionou 41 propostas de 37 empresas para desenvolver tecnologias que apoiarão seus objetivos de estabelecer uma presença de longo prazo na.",
+      "Dado-chave: A NASA selecionou 41 propostas de 37 empresas para desenvolver tecnologias que apoiarão seus objetivos de estabelecer uma presença de longo.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon.",
+      "Key detail: NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 jun 2026",
     "date_pt": "26 jun 2026",
@@ -246,7 +390,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-s-pace-mission-studies-smoke-fires",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -364,7 +508,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "the-battle-for-sullivan-s-island",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -501,7 +645,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "a-first-earthcare-cloud-data-sharpen-weather-forecasts",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -652,143 +796,6 @@
     "imageAlt": "Dados do satélite EarthCARE aprimoram previsões meteorológicas",
     "imageAlt_pt": "Dados do satélite EarthCARE aprimoram previsões meteorológicas",
     "imageAlt_en": "A first: EarthCARE cloud data sharpen weather forecasts",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "a-turquoise-tint-for-the-black-sea",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Um tom turquesa para o Mar Negro",
-    "title_pt": "Um tom turquesa para o Mar Negro",
-    "title_en": "A Turquoise Tint for the Black Sea",
-    "sub": "O fitoplâncton adicionou uma tonalidade azul leitosa às águas do Mar Negro e aos cursos de água próximos na primavera e no verão de 2026.",
-    "sub_pt": "O fitoplâncton adicionou uma tonalidade azul leitosa às águas do Mar Negro e aos cursos de água próximos na primavera e no verão de 2026.",
-    "sub_en": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-    "excerpt": "O fitoplâncton adicionou uma tonalidade azul leitosa às águas do Mar Negro e aos cursos de água próximos na primavera e no verão de 2026.",
-    "excerpt_pt": "O fitoplâncton adicionou uma tonalidade azul leitosa às águas do Mar Negro e aos cursos de água próximos na primavera e no verão de 2026.",
-    "excerpt_en": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-    "highlights": [
-      "Em foco: O fitoplâncton adicionou uma tonalidade azul leitosa às águas do Mar Negro e aos cursos de água próximos na primavera e no verão de 2026",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: O fitoplâncton adicionou uma tonalidade azul leitosa às águas do Mar Negro e aos cursos de água próximos na primavera e no verão de 2026",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "25 jun 2026",
-    "date_pt": "25 jun 2026",
-    "date_en": "25 Jun 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-25T04:00:00+00:00",
-    "lastModifiedIso": "2026-06-25T17:42:28+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Um tom turquesa para o Mar Negro"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Um tom turquesa para o Mar Negro"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A turquoise tone for the Black Sea"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
-    "realUrl": "https://www.cosmosweek.com/?article=a-turquoise-tint-for-the-black-sea",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-turquoise-tint-for-the-black-sea",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-turquoise-tint-for-the-black-sea&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-turquoise-tint-for-the-black-sea/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-turquoise-tint-for-the-black-sea/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-turquoise-tint-for-the-black-sea/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-turquoise-tint-for-the-black-sea/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-turquoise-tint-for-the-black-sea/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-turquoise-tint-for-the-black-sea/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Um tom turquesa para o Mar Negro",
-    "imageAlt_pt": "Um tom turquesa para o Mar Negro",
-    "imageAlt_en": "A Turquoise Tint for the Black Sea",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
