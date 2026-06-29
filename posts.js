@@ -3,6 +3,130 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "mapping-earth-s-observations-featuring-betsy-ford",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/earth-fleet-chart-06102025-1080p.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Mapeando as Observações da Terra, com Betsy Ford",
+    "title_pt": "Mapeando as Observações da Terra, com Betsy Ford",
+    "title_en": "Mapping Earth’s Observations, featuring Betsy Ford",
+    "sub": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo.",
+    "sub_pt": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo.",
+    "sub_en": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over.",
+    "excerpt": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo, como a cobertura do solo muda ao longo das décadas.",
+    "excerpt_pt": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo, como a cobertura do solo muda ao longo das décadas.",
+    "excerpt_en": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades.",
+    "body": "<p>Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo, como a cobertura do solo muda ao longo das décadas. Betsy Ford (segunda à direita) e família se reúnem no portão da NASA em Langley.</p><p>É um marco que a Ford descreve como um passo significativo no sentido de “usar o NESSIE para apoiar mais plenamente a comunidade científica através de um planeamento de missões futuras mais claro e baseado em dados”. Ground Truth Ford sempre se preocupou com as ciências da Terra de forma abstrata.</p><p>Os agricultores que cultivam os seus alimentos utilizam os dados destes satélites. ” “A liderança do ESD está constantemente navegando neste cenário complicado”, diz Betsy Ford, analista de decisão e vice-líder da equipe do Ambiente de Integração Estratégica de Ciências da Terra. Seus pais passaram suas carreiras na NASA Langley e recentemente se aposentaram.</p><p>Eu realmente adorei isso. ” Mesmo assim, quando se formou em engenharia mecânica pela Virginia Tech, ela optou por diversificar primeiro. Quando uma vaga foi aberta no Ramo de Análise de Missões Espaciais (parte do SACD), ela se inscreveu, esperando que sua experiência em engenharia de sistemas e mestrado pudesse compensar a lacuna entre os testes de hardware de veículos encostados nas paredes e o trabalho.</p><p>Centenas de missões de satélite de observação da Terra, tanto da NASA como dos seus parceiros, cada uma observando fenómenos específicos, desde a cobertura de nuvens até à utilização do solo. A página principal do aplicativo web do NESSIE apresenta um mapa de calor mostrando quais missões estão abordando 34 observáveis ​​científicos ao lado de um cronograma de missão.</p><p>Ford sempre se preocupou com as ciências da Terra de forma abstrata.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo, como a cobertura do solo muda ao longo das décadas. Betsy Ford (segunda à direita) e família se reúnem no portão da NASA em Langley.</p><p>É um marco que a Ford descreve como um passo significativo no sentido de “usar o NESSIE para apoiar mais plenamente a comunidade científica através de um planeamento de missões futuras mais claro e baseado em dados”. Ground Truth Ford sempre se preocupou com as ciências da Terra de forma abstrata.</p><p>Os agricultores que cultivam os seus alimentos utilizam os dados destes satélites. ” “A liderança do ESD está constantemente navegando neste cenário complicado”, diz Betsy Ford, analista de decisão e vice-líder da equipe do Ambiente de Integração Estratégica de Ciências da Terra. Seus pais passaram suas carreiras na NASA Langley e recentemente se aposentaram.</p><p>Eu realmente adorei isso. ” Mesmo assim, quando se formou em engenharia mecânica pela Virginia Tech, ela optou por diversificar primeiro. Quando uma vaga foi aberta no Ramo de Análise de Missões Espaciais (parte do SACD), ela se inscreveu, esperando que sua experiência em engenharia de sistemas e mestrado pudesse compensar a lacuna entre os testes de hardware de veículos encostados nas paredes e o trabalho.</p><p>Centenas de missões de satélite de observação da Terra, tanto da NASA como dos seus parceiros, cada uma observando fenómenos específicos, desde a cobertura de nuvens até à utilização do solo. A página principal do aplicativo web do NESSIE apresenta um mapa de calor mostrando quais missões estão abordando 34 observáveis ​​científicos ao lado de um cronograma de missão.</p><p>Ford sempre se preocupou com as ciências da Terra de forma abstrata.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Betsy Ford (second from right) and family gather at NASA Langley’s front gate. It’s a milestone that Ford describes as a significant step toward “using NESSIE to more fully support the scientific community through clearer data-driven planning of future.</p><p>Getting to flex those research muscles is an opportunity I didn’t really have at other jobs. The farmers who are growing your food use the data from these satellites. ” “ESD leadership is constantly navigating this complicated landscape,” says Betsy Ford, a decision.</p><p>Both of her parents spent their careers at NASA Langley and recently retired from it. I really loved that. ” Still, when she graduated from Virginia Tech with a mechanical engineering degree, she chose to branch out first.</p><p>When a position opened in the Space Mission Analysis Branch (part of SACD), she applied, hoping her experience in systems engineering and master’s might offset the gap between the. Hundreds of Earth-observing satellite missions, both NASA’s and its partners,’ each observing specific phenomena, from cloud cover to land use.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>NESSIE’s main web application page presents a heat map showing which missions are addressing 34 science observables alongside a mission timeline. Finding that balance of providing the opportunities to grow along with some structure and guidance, that’s the job.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "29 jun 2026",
+    "date_pt": "29 jun 2026",
+    "date_en": "29 Jun 2026",
+    "time": "15h16",
+    "time_pt": "15h16",
+    "time_en": "15: 16 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-29T15:16:44+00:00",
+    "lastModifiedIso": "2026-06-29T18:08:48+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mapeando as Observações da Terra",
+      "com Betsy Ford"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mapeando as Observações da Terra",
+      "com Betsy Ford"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mapping Earth Observations",
+      "com Betsy Ford"
+    ],
+    "srcUrl": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/",
+    "realUrl": "https://www.cosmosweek.com/?article=mapping-earth-s-observations-featuring-betsy-ford",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=mapping-earth-s-observations-featuring-betsy-ford",
+    "realUrl_en": "https://www.cosmosweek.com/?article=mapping-earth-s-observations-featuring-betsy-ford&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/mapping-earth-s-observations-featuring-betsy-ford/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/mapping-earth-s-observations-featuring-betsy-ford/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Mapeando as Observações da Terra, com Betsy Ford",
+    "imageAlt_pt": "Mapeando as Observações da Terra, com Betsy Ford",
+    "imageAlt_en": "Mapping Earth’s Observations, featuring Betsy Ford",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "partners-nasa-ready-for-june-launch-of-swift-boost-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -149,7 +273,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
     "cat": "Química",
     "catCls": "quimica",
@@ -280,7 +404,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-identifies-more-than-40-space-technologies-for-collaboration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -401,7 +525,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-s-pace-mission-studies-smoke-fires",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -422,19 +546,19 @@ window.postsData = [
     "body_pt": "<p>Kirk Knobelspiesse, um cientista de detecção remota que trabalha na missão PACE na NASA Goddard, destacou o desafio de interpretar esses dados. Segundo ele, &quot;o desafio que temos é pegar nessas pistas e utilizá-las de uma forma significativa, para que os nossos modelos da Terra representem adequadamente o que está a acontecer&quot;. Essa declaração sublinha a importância de transformar as observações brutas do satélite em informações acionáveis para a modelagem climática e ambiental. A capacidade do PACE de fornecer dados detalhados sobre a vegetação oferece uma nova perspectiva para a ciência da Terra, permitindo uma análise mais aprofundada das interações entre a biosfera e a atmosfera.</p><p>Skye Caplan, líder terrestre da missão PACE na NASA Goddard, reforça a versatilidade do satélite, afirmando que &quot;o satélite PACE também observa a terra, e faz isso muito bem&quot;. Ela acrescenta que &quot;há muito para explorar com um novo conjunto de dados hiperespectrais&quot;. Essa observação terrestre, embora secundária ao objetivo principal de estudo oceânico e atmosférico, revela-se um recurso poderoso para a pesquisa ambiental. A riqueza de dados coletados pelo PACE sobre a superfície terrestre abre novas avenidas para o estudo de fenômenos como a saúde da vegetação, a desertificação e, crucialmente, as condições que precedem os incêndios florestais.</p><p>O Ocean Color Instrument (OCI) a bordo do PACE é um instrumento hiperespectral de ponta, capaz de observar o planeta em várias centenas de comprimentos de onda diferentes. Essas faixas incluem luz visível, infravermelha próxima e ultravioleta, proporcionando uma visão abrangente da Terra. O OCI realiza observações diárias de todo o planeta, com uma cobertura ainda mais frequente em altas latitudes. Essa capacidade hiperespectral é fundamental para distinguir nuances na composição da vegetação e na atmosfera, permitindo aos cientistas identificar padrões e anomalias que seriam invisíveis com instrumentos de banda mais larga. A imagem mencionada no texto, obtida em 31 de maio de 2025, é um exemplo da capacidade do OCI de capturar detalhes relevantes para o monitoramento ambiental.</p><p>Além de monitorar a vegetação, o Ocean Color Instrument também desempenha um papel vital no acompanhamento da fumaça após um incêndio. Utilizando comprimentos de onda na faixa ultravioleta, o OCI pode fornecer informações detalhadas sobre a composição da fumaça e, mais importante, a que altura na atmosfera essas partículas se deslocam. A altitude da fumaça é um fator crítico, pois influencia diretamente a distância que as partículas podem percorrer, afetando a qualidade do ar em regiões distantes e potencialmente impactando padrões climáticos. Compreender a dinâmica da fumaça é essencial para prever seus efeitos e mitigar seus impactos na saúde humana e no meio ambiente.</p><p>A combinação das capacidades de monitoramento de vegetação e fumaça do satélite PACE oferece uma ferramenta poderosa para cientistas e formuladores de políticas. Os dados hiperespectrais permitem uma análise mais precisa das condições que levam aos incêndios, bem como uma avaliação mais eficaz de seus impactos subsequentes. Ao integrar essas informações em modelos da Terra, os pesquisadores podem aprimorar as previsões de incêndios, entender melhor os ciclos de carbono e a saúde dos ecossistemas. A missão PACE, portanto, transcende seu propósito original, tornando-se um recurso indispensável para a gestão ambiental global em face das mudanças climáticas.</p>",
     "body_en": "<p>With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem satellite’s three instruments are observing vegetation precursors to fires, along. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three. 3 min read NASA’s PACE Mission Studies Smoke, Fires With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol.</p><p>This image was taken by the Ocean Color Instrument aboard NASA’s PACE satellite on May 31, 2025. NASA While the satellite, which launched in February 2024, was designed to study Earth’s ocean and atmosphere, it has an unexpected capability: monitoring changes to vegetation.</p><p>NASA The other two instruments on PACE, the Hyper-Angle Rainbow Polarimeter 2 and the Spectro-polarimeter for Planetary Exploration one, are rich with information about the. The challenge that we have is to take those clues and use them in a meaningful way, so our models of Earth properly represent what’s happening,” said Kirk Knobelspiesse, a remote.</p><p>While the satellite, which launched in February 2024, was designed to study Earth’s ocean and atmosphere, it has an unexpected capability: monitoring changes to vegetation. The PACE satellite observes land too, and does it really well,” said Skye Caplan, terrestrial lead for the PACE mission at NASA Goddard.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>There is so much to explore with a new hyperspectral data set. ” The Ocean Color Instrument on board PACE is a hyperspectral instrument, observing the planet in several hundred. This instrument views the entire Earth daily, with more frequent coverage at high latitudes.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite.",
+      "Dado-chave: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite.",
+      "Dado-chave: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean.",
+      "Key detail: With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 jun 2026",
     "date_pt": "26 jun 2026",
@@ -515,146 +639,6 @@ window.postsData = [
     "imageAlt": "Missão PACE da NASA estuda fumaça e incêndios",
     "imageAlt_pt": "Missão PACE da NASA estuda fumaça e incêndios",
     "imageAlt_en": "NASA’s PACE Mission Studies Smoke, Fires",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
-    "slug": "the-battle-for-sullivan-s-island",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1280px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-battle-for-sullivan's-island/southcarolina_oli_20260603_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A Batalha pela Ilha de Sullivan",
-    "title_pt": "A Batalha pela Ilha de Sullivan",
-    "title_en": "The Battle for Sullivan’s Island",
-    "sub": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha.",
-    "sub_pt": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha.",
-    "sub_en": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June.",
-    "excerpt": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha decisiva na ilha barreira próxima a Charleston, Carolina do Sul.",
-    "excerpt_pt": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha decisiva na ilha barreira próxima a Charleston, Carolina do Sul.",
-    "excerpt_en": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
-    "body": "<p>A Batalha da Ilha de Sullivan, travada em 28 de junho de 1776, representou um confronto crucial para as forças coloniais americanas durante a Guerra Revolucionária. O cenário para este embate decisivo foi uma ilha barreira estrategicamente localizada perto de Charleston, na Carolina do Sul. As características geográficas do local desempenharam um papel fundamental no desfecho da batalha: um terreno predominantemente pantanoso e arenoso, combinado com uma enseada naturalmente intransitável, criou um obstáculo formidável para qualquer força invasora. Essas condições ambientais, que dificultavam a movimentação e o posicionamento de tropas e embarcações, foram decisivas para que os defensores coloniais conseguissem repelir o ataque das bem equipadas forças britânicas, marcando uma vitória significativa para a causa da independência.</p><p>No coração da defesa colonial estava um forte improvisado, mas robusto, construído principalmente com madeira de palmetto e areia. Embora um dos lados da fortificação, cuja construção foi em grande parte realizada por escravos, ainda estivesse inacabado no momento do ataque, os outros flancos apresentavam uma engenharia defensiva notável. Suas paredes tinham impressionantes 4, 8 metros de largura (equivalente a 16 pés), preenchidas densamente com areia, o que as tornava surpreendentemente resistentes aos projéteis de canhão britânicos. Essas estruturas abrigavam plataformas de armas de tábuas, onde estavam montados 31 canhões, prontos para disparar contra a frota inimiga. A combinação da flexibilidade da madeira de palmetto e a capacidade de absorção de impacto da areia conferiu ao forte uma resiliência inesperada contra o bombardeio naval.</p><p>O comandante britânico, Sir Peter Parker, havia planejado inicialmente um ataque coordenado por terra e mar. A estratégia terrestre envolveria o desembarque de tropas para flanquear o forte, enquanto a frota naval bombardearia a fortificação. Contudo, Parker subestimou a profundidade da enseada que separava a ilha principal da Ilha de Sullivan. Ao perceber que a parte mais rasa da fenda tinha pelo menos 2 metros de profundidade na maré baixa, o plano de um ataque terrestre direto tornou-se inviável. Essa descoberta forçou-o a abandonar a abordagem inicial e a recorrer a um ataque anfíbio mais arriscado, utilizando chatas para tentar transportar suas tropas através da água, o que expunha suas forças a um perigo considerável e atrasava a execução de seu plano.</p><p>Diante da iminente ofensiva britânica, as forças coloniais, cientes de suas limitações, especialmente a escassez de pólvora, adotaram uma estratégia de defesa focada e eficiente. Em vez de desperdiçar munição com disparos indiscriminados, os defensores concentraram seu fogo nos alvos mais críticos da frota inimiga. O principal alvo foi o navio que transportava o próprio comandante britânico, Sir Peter Parker. Essa tática demonstrou ser extremamente eficaz, pois os canhões coloniais conseguiram atingir o navio de Parker repetidamente, causando danos graves à embarcação e resultando na morte de 40 pessoas a bordo. A precisão e a disciplina dos artilheiros coloniais foram cruciais para maximizar o impacto de seus recursos limitados.</p><p>A batalha se estendeu por aproximadamente 10 horas, com as forças britânicas bombardeando o forte e tentando avançar, enquanto os coloniais resistiam tenazmente. Apesar da superioridade numérica e tecnológica dos britânicos, o forte de palmetto e areia provou ser notavelmente resistente, absorvendo os impactos dos projéteis sem desmoronar. À medida que a noite caía, as tropas britânicas, exaustas pelo longo e infrutífero combate, e sem conseguir fazer progressos significativos contra a fortificação colonial, foram forçadas a reconhecer a futilidade de seus esforços. Com suas embarcações danificadas e um número considerável de baixas, Sir Peter Parker ordenou a retirada de suas forças, marcando uma derrota humilhante para a Marinha Real.</p><p>A vitória na Batalha da Ilha de Sullivan teve um impacto moral e estratégico imenso para a causa colonial. Ela não apenas impediu a captura de Charleston, um porto vital no sul, mas também demonstrou a capacidade das forças americanas de resistir e derrotar uma potência militar global. O sucesso reforçou a confiança dos colonos em sua luta pela independência, provando que, mesmo com recursos limitados, a engenhosidade, a determinação e o aproveitamento das vantagens geográficas poderiam superar a superioridade bélica do inimigo. Este triunfo, ocorrido pouco antes da Declaração de Independência, serviu como um poderoso símbolo de resistência e um prenúncio das dificuldades que a Grã-Bretanha enfrentaria na tentativa de subjugar as colônias americanas.</p>",
-    "body_pt": "<p>A Batalha da Ilha de Sullivan, travada em 28 de junho de 1776, representou um confronto crucial para as forças coloniais americanas durante a Guerra Revolucionária. O cenário para este embate decisivo foi uma ilha barreira estrategicamente localizada perto de Charleston, na Carolina do Sul. As características geográficas do local desempenharam um papel fundamental no desfecho da batalha: um terreno predominantemente pantanoso e arenoso, combinado com uma enseada naturalmente intransitável, criou um obstáculo formidável para qualquer força invasora. Essas condições ambientais, que dificultavam a movimentação e o posicionamento de tropas e embarcações, foram decisivas para que os defensores coloniais conseguissem repelir o ataque das bem equipadas forças britânicas, marcando uma vitória significativa para a causa da independência.</p><p>No coração da defesa colonial estava um forte improvisado, mas robusto, construído principalmente com madeira de palmetto e areia. Embora um dos lados da fortificação, cuja construção foi em grande parte realizada por escravos, ainda estivesse inacabado no momento do ataque, os outros flancos apresentavam uma engenharia defensiva notável. Suas paredes tinham impressionantes 4, 8 metros de largura (equivalente a 16 pés), preenchidas densamente com areia, o que as tornava surpreendentemente resistentes aos projéteis de canhão britânicos. Essas estruturas abrigavam plataformas de armas de tábuas, onde estavam montados 31 canhões, prontos para disparar contra a frota inimiga. A combinação da flexibilidade da madeira de palmetto e a capacidade de absorção de impacto da areia conferiu ao forte uma resiliência inesperada contra o bombardeio naval.</p><p>O comandante britânico, Sir Peter Parker, havia planejado inicialmente um ataque coordenado por terra e mar. A estratégia terrestre envolveria o desembarque de tropas para flanquear o forte, enquanto a frota naval bombardearia a fortificação. Contudo, Parker subestimou a profundidade da enseada que separava a ilha principal da Ilha de Sullivan. Ao perceber que a parte mais rasa da fenda tinha pelo menos 2 metros de profundidade na maré baixa, o plano de um ataque terrestre direto tornou-se inviável. Essa descoberta forçou-o a abandonar a abordagem inicial e a recorrer a um ataque anfíbio mais arriscado, utilizando chatas para tentar transportar suas tropas através da água, o que expunha suas forças a um perigo considerável e atrasava a execução de seu plano.</p><p>Diante da iminente ofensiva britânica, as forças coloniais, cientes de suas limitações, especialmente a escassez de pólvora, adotaram uma estratégia de defesa focada e eficiente. Em vez de desperdiçar munição com disparos indiscriminados, os defensores concentraram seu fogo nos alvos mais críticos da frota inimiga. O principal alvo foi o navio que transportava o próprio comandante britânico, Sir Peter Parker. Essa tática demonstrou ser extremamente eficaz, pois os canhões coloniais conseguiram atingir o navio de Parker repetidamente, causando danos graves à embarcação e resultando na morte de 40 pessoas a bordo. A precisão e a disciplina dos artilheiros coloniais foram cruciais para maximizar o impacto de seus recursos limitados.</p><p>A batalha se estendeu por aproximadamente 10 horas, com as forças britânicas bombardeando o forte e tentando avançar, enquanto os coloniais resistiam tenazmente. Apesar da superioridade numérica e tecnológica dos britânicos, o forte de palmetto e areia provou ser notavelmente resistente, absorvendo os impactos dos projéteis sem desmoronar. À medida que a noite caía, as tropas britânicas, exaustas pelo longo e infrutífero combate, e sem conseguir fazer progressos significativos contra a fortificação colonial, foram forçadas a reconhecer a futilidade de seus esforços. Com suas embarcações danificadas e um número considerável de baixas, Sir Peter Parker ordenou a retirada de suas forças, marcando uma derrota humilhante para a Marinha Real.</p><p>A vitória na Batalha da Ilha de Sullivan teve um impacto moral e estratégico imenso para a causa colonial. Ela não apenas impediu a captura de Charleston, um porto vital no sul, mas também demonstrou a capacidade das forças americanas de resistir e derrotar uma potência militar global. O sucesso reforçou a confiança dos colonos em sua luta pela independência, provando que, mesmo com recursos limitados, a engenhosidade, a determinação e o aproveitamento das vantagens geográficas poderiam superar a superioridade bélica do inimigo. Este triunfo, ocorrido pouco antes da Declaração de Independência, serviu como um poderoso símbolo de resistência e um prenúncio das dificuldades que a Grã-Bretanha enfrentaria na tentativa de subjugar as colônias americanas.</p>",
-    "body_en": "<p>Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA Earth Observatory/Michala Garrison As Thomas Jefferson and the Committee of Five presented their first draft of the Declaration of Independence in Philadelphia on June 28. Historical maps show at least one road extending from the southern to northern tip of Sullivan’s Island, where hundreds of colonial soldiers were also encamped to protect Breach.</p><p>NASA Earth Observatory (2018, June 10) History and Seaports in Charleston. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery. Though one side of the fort, assembled largely by enslaved people, was still unfinished at the time of the battle, the other sides had 16-foot-wide walls packed with sand and.</p><p>Historical maps show at least one road extending from the southern to northern tip of Sullivan&#x27;s Island, where hundreds of colonial soldiers were also encamped to protect Breach. But he was forced to pivot to a more dangerous amphibious assault using flatboats when he realized the shallowest part of the break was at least 7 feet (2 meters) deep at low tide.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>With their limited powder, the colonists focused their fire on the ship carrying the British commander, Sir Peter Parker, severely damaging it and ultimately killing 40 people on. By the evening, exhausted from the 10-hour battle and making little progress, the British forces retreated.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Em foco: O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "26 jun 2026",
-    "date_pt": "26 jun 2026",
-    "date_en": "26 Jun 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-26T04:00:00+00:00",
-    "lastModifiedIso": "2026-06-26T17:27:34+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A Batalha pela Ilha de Sullivan"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A Batalha pela Ilha de Sullivan"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "The Battle for Sullivan's Island"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/",
-    "realUrl": "https://www.cosmosweek.com/?article=the-battle-for-sullivan-s-island",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=the-battle-for-sullivan-s-island",
-    "realUrl_en": "https://www.cosmosweek.com/?article=the-battle-for-sullivan-s-island&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-battle-for-sullivan-s-island/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-battle-for-sullivan-s-island/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "A Batalha pela Ilha de Sullivan",
-    "imageAlt_pt": "A Batalha pela Ilha de Sullivan",
-    "imageAlt_en": "The Battle for Sullivan’s Island",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -1390,19 +1374,19 @@ window.postsData = [
     "body_pt": "<p>A Fundação Nacional de Ciência (NSF) dos Estados Unidos reafirma seu apoio incondicional ao compromisso da Administração em solidificar a liderança americana no campo emergente e estratégico da ciência e tecnologia da informação quântica (QIST). Este posicionamento surge em resposta a uma recente Ordem Executiva, que sublinha a urgência e a importância de investimentos contínuos e coordenados para impulsionar a inovação e a segurança nacional neste setor. A QIST representa uma fronteira tecnológica com o potencial de revolucionar diversas áreas, desde a computação e a comunicação até a medicina e a segurança cibernética, exigindo uma abordagem multifacetada para seu desenvolvimento e aplicação.</p><p>Como agência federal líder no financiamento de pesquisas fundamentais, a NSF tem desempenhado um papel crucial no avanço da QIST por meio de investimentos substanciais em projetos de pesquisa de ponta e na formação de uma força de trabalho altamente qualificada. A agência apoia uma vasta gama de iniciativas, desde a exploração de novos materiais quânticos e o desenvolvimento de algoritmos inovadores até a construção de protótipos de computadores quânticos e redes de comunicação seguras. Este suporte abrangente visa não apenas a descoberta científica, mas também a transição de inovações do laboratório para aplicações práticas que beneficiem a sociedade e fortaleçam a economia americana.</p><p>A Ordem Executiva reforça a necessidade de uma estratégia nacional coesa para a QIST, incentivando a colaboração entre agências governamentais, universidades, indústria e parceiros internacionais. A NSF está preparada para intensificar seus esforços nesse ecossistema colaborativo, facilitando a troca de conhecimentos e recursos para acelerar o progresso. A agência reconhece que a complexidade e o potencial transformador da QIST exigem uma visão de longo prazo e um compromisso sustentado com a pesquisa e o desenvolvimento, garantindo que os Estados Unidos permaneçam na vanguarda dessa revolução tecnológica global.</p><p>Os programas da NSF abrangem um espectro diversificado de subcampos dentro da QIST, incluindo computação quântica, comunicação quântica, sensoriamento quântico e metrologia quântica. Cada uma dessas áreas possui desafios únicos e oportunidades promissoras. Por exemplo, na computação quântica, a agência financia pesquisas sobre diferentes arquiteturas de qubits e métodos de correção de erros, enquanto na comunicação quântica, o foco está no desenvolvimento de redes seguras e na distribuição de chaves quânticas. O objetivo é construir uma base robusta de conhecimento que possa sustentar futuras inovações e aplicações práticas.</p><p>Um pilar fundamental da estratégia da NSF é o desenvolvimento de talentos. A agência investe significativamente em programas educacionais e de treinamento para preparar a próxima geração de cientistas, engenheiros e técnicos especializados em QIST. Isso inclui bolsas de estudo, programas de pesquisa para estudantes de graduação e pós-graduação, e a criação de centros de excelência que servem como polos de inovação e aprendizado. A formação de uma força de trabalho diversificada e altamente capacitada é essencial para traduzir as descobertas científicas em avanços tecnológicos e para manter a competitividade global dos EUA.</p><p>A visão da NSF para a QIST vai além da mera pesquisa, buscando estabelecer um ecossistema vibrante que fomente a inovação, a comercialização e o impacto social. A agência está comprometida em trabalhar com seus parceiros para superar os desafios técnicos e conceituais que ainda persistem, garantindo que os benefícios da tecnologia quântica sejam amplamente acessíveis e utilizados de forma responsável. Este compromisso reflete a crença de que a ciência e a tecnologia da informação quântica são cruciais para o futuro da inovação e para a segurança e prosperidade dos Estados Unidos.</p>",
     "body_en": "<p>The U. S. National Science Foundation supports the Administration’s commitment to securing American leadership in quantum information science and technology. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. National Science Foundation supports the Administration’s commitment to securing American leadership in quantum information science and technology.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-statement-executive-order-ushering-next-frontier-quantum\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The U. S",
-      "Detail: Core point: The U. S",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The U. S. National Science Foundation supports the Administration’s commitment to securing American leadership in quantum information science and.",
+      "Key detail: The U. S",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "22 jun 2026",
     "date_pt": "22 jun 2026",

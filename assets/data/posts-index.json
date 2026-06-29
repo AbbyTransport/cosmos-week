@@ -1,6 +1,127 @@
 [
   {
     "id": 1,
+    "slug": "mapping-earth-s-observations-featuring-betsy-ford",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/earth-fleet-chart-06102025-1080p.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Mapeando as Observações da Terra, com Betsy Ford",
+    "title_pt": "Mapeando as Observações da Terra, com Betsy Ford",
+    "title_en": "Mapping Earth’s Observations, featuring Betsy Ford",
+    "sub": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo.",
+    "sub_pt": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo.",
+    "sub_en": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over.",
+    "excerpt": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo, como a cobertura do solo muda ao longo das décadas.",
+    "excerpt_pt": "Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a humidade desce através do solo, como a cobertura do solo muda ao longo das décadas.",
+    "excerpt_en": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades.",
+    "highlights": [
+      "Em foco: Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os satélites de observação da Terra da NASA rastreiam uma enorme variedade de fenómenos: como os aerossóis se movem através da atmosfera, como a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "29 jun 2026",
+    "date_pt": "29 jun 2026",
+    "date_en": "29 Jun 2026",
+    "time": "15h16",
+    "time_pt": "15h16",
+    "time_en": "15: 16 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-29T15:16:44+00:00",
+    "lastModifiedIso": "2026-06-29T18:08:48+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mapeando as Observações da Terra",
+      "com Betsy Ford"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mapeando as Observações da Terra",
+      "com Betsy Ford"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Mapping Earth Observations",
+      "com Betsy Ford"
+    ],
+    "srcUrl": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/",
+    "realUrl": "https://www.cosmosweek.com/?article=mapping-earth-s-observations-featuring-betsy-ford",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=mapping-earth-s-observations-featuring-betsy-ford",
+    "realUrl_en": "https://www.cosmosweek.com/?article=mapping-earth-s-observations-featuring-betsy-ford&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/mapping-earth-s-observations-featuring-betsy-ford/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/mapping-earth-s-observations-featuring-betsy-ford/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/mapping-earth-s-observations-featuring-betsy-ford/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Mapeando as Observações da Terra, com Betsy Ford",
+    "imageAlt_pt": "Mapeando as Observações da Terra, com Betsy Ford",
+    "imageAlt_en": "Mapping Earth’s Observations, featuring Betsy Ford",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "partners-nasa-ready-for-june-launch-of-swift-boost-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -144,7 +265,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
     "cat": "Química",
     "catCls": "quimica",
@@ -272,7 +393,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-identifies-more-than-40-space-technologies-for-collaboration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -390,7 +511,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-s-pace-mission-studies-smoke-fires",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -408,19 +529,19 @@
     "excerpt_pt": "Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite Plankton, Aerosol, Cloud, and Ocean Ecosystem (PACE) da NASA estão monitorando a vegetação precursora de incêndios e a.",
     "excerpt_en": "With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem satellite’s three instruments are observing vegetation precursors to fires, along.",
     "highlights": [
-      "Em foco: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite.",
+      "Dado-chave: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite.",
+      "Dado-chave: Com a temporada de incêndios na América do Norte em andamento e um número recorde de hectares já queimados, os três instrumentos do satélite",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean.",
+      "Key detail: With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 jun 2026",
     "date_pt": "26 jun 2026",
@@ -501,143 +622,6 @@
     "imageAlt": "Missão PACE da NASA estuda fumaça e incêndios",
     "imageAlt_pt": "Missão PACE da NASA estuda fumaça e incêndios",
     "imageAlt_en": "NASA’s PACE Mission Studies Smoke, Fires",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
-    "slug": "the-battle-for-sullivan-s-island",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/1280px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-battle-for-sullivan's-island/southcarolina_oli_20260603_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A Batalha pela Ilha de Sullivan",
-    "title_pt": "A Batalha pela Ilha de Sullivan",
-    "title_en": "The Battle for Sullivan’s Island",
-    "sub": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha.",
-    "sub_pt": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha.",
-    "sub_en": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June.",
-    "excerpt": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha decisiva na ilha barreira próxima a Charleston, Carolina do Sul.",
-    "excerpt_pt": "O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas britânicas durante uma batalha decisiva na ilha barreira próxima a Charleston, Carolina do Sul.",
-    "excerpt_en": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
-    "highlights": [
-      "Em foco: O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: O terreno pantanoso e arenoso, juntamente com uma enseada intransitável, foram fatores cruciais que permitiram às forças coloniais repelir as tropas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "26 jun 2026",
-    "date_pt": "26 jun 2026",
-    "date_en": "26 Jun 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-26T04:00:00+00:00",
-    "lastModifiedIso": "2026-06-26T17:27:34+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A Batalha pela Ilha de Sullivan"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A Batalha pela Ilha de Sullivan"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "The Battle for Sullivan's Island"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/",
-    "realUrl": "https://www.cosmosweek.com/?article=the-battle-for-sullivan-s-island",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=the-battle-for-sullivan-s-island",
-    "realUrl_en": "https://www.cosmosweek.com/?article=the-battle-for-sullivan-s-island&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-battle-for-sullivan-s-island/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-battle-for-sullivan-s-island/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-battle-for-sullivan-s-island/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "A Batalha pela Ilha de Sullivan",
-    "imageAlt_pt": "A Batalha pela Ilha de Sullivan",
-    "imageAlt_en": "The Battle for Sullivan’s Island",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -1355,19 +1339,19 @@
     "excerpt_pt": "A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação quântica.",
     "excerpt_en": "The U. S. National Science Foundation supports the Administration’s commitment to securing American leadership in quantum information science and technology.",
     "highlights": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da informação.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA apoia o compromisso da Administração em garantir a liderança americana na ciência e tecnologia da.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The U. S",
-      "Detail: Core point: The U. S",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The U. S. National Science Foundation supports the Administration’s commitment to securing American leadership in quantum information science and.",
+      "Key detail: The U. S",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "22 jun 2026",
     "date_pt": "22 jun 2026",
