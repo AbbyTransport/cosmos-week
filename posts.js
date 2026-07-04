@@ -1251,12 +1251,12 @@ window.postsData = [
     "body_en": "<p>NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of the universe and our place in it. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Related Images &amp; Videos Exoplanet WD 1856 b (Artist’s Concept) Exoplanet WD 1856 b, shown in this artist’s concept, is a gas giant that orbits its star at a distance 50 times. NASA’s James Webb Space Telescope is giving us new insight into the far-future of solar systems like our own, as the agency continues to reveal the secrets of Science James Webb.</p><p>NASA, ESA, CSA, Ralf Crawford (STScI) NASA Webb Mission Team To solve the mystery of how this exoplanet survived, an international team of astronomers used NASA’s James. WD 1856 b was discovered in 2020 by scientists using NASA’s TESS (Transiting Exoplanet Survey Satellite) and the retired Spitzer Space Telescope.</p><p>It orbits the white dwarf WD 1856+534, which is located about 80 light-years from Earth. WD 1856 b orbits extremely close to its host star, a distance 50 times closer than Earth orbits the Sun.</p><p>Using models of how sub-stellar objects like WD 1856 b cool down over time, coupled with the new data from Webb, the team was able to project its temperature back in time and. We recently observed four more transits of WD 1856 b with Webb to take a deeper look into its atmospheric chemistry and can’t wait to see the results.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>NASA, ESA, CSA, Joseph Olmsted (STScI) Solar system’s possible future In approximately five billion years, the Sun will run out of hydrogen fuel in its core and swell up more than. Exoplanet WD 1856 b, shown in this artist’s concept, is a gas giant that orbits its star at a distance 50 times closer than Earth orbits the Sun.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O Telescópio Espacial James Webb da NASA está revelando como exoplanetas podem sobreviver à fase final de suas estrelas hospedeiras, focando no.",
-      "Dado-chave: O Telescópio Espacial James Webb da NASA está revelando como exoplanetas podem sobreviver à fase final de suas estrelas hospedeiras, focando no",
+      "Dado-chave: O Telescópio Espacial James Webb da NASA está revelando como exoplanetas podem sobreviver à fase final de suas estrelas hospedeiras, focando no.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O Telescópio Espacial James Webb da NASA está revelando como exoplanetas podem sobreviver à fase final de suas estrelas hospedeiras, focando no.",
-      "Dado-chave: O Telescópio Espacial James Webb da NASA está revelando como exoplanetas podem sobreviver à fase final de suas estrelas hospedeiras, focando no",
+      "Dado-chave: O Telescópio Espacial James Webb da NASA está revelando como exoplanetas podem sobreviver à fase final de suas estrelas hospedeiras, focando no.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -4897,66 +4897,66 @@ window.postsData = [
     "inline_images": [
       {
         "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://content.cld.iop.org/journals/2041-8205/991/1/L24/revision1/apjlae028ef1_lr.jpg",
-        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
         "alt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
         "alt_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
+        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
+        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
       },
       {
         "src": "https://content.cld.iop.org/journals/2041-8205/991/1/L24/revision1/apjlae028ef1_hr.jpg",
-        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
         "alt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
         "alt_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
+        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
+        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
       },
       {
         "src": "https://content.cld.iop.org/journals/2041-8205/991/1/L24/revision1/apjlae028ef2_lr.jpg",
-        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
         "alt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
         "alt_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
+        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
+        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
       },
       {
         "src": "https://content.cld.iop.org/journals/2041-8205/991/1/L24/revision1/apjlae028ef2_hr.jpg",
-        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
         "alt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
         "alt_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
+        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
+        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
       },
       {
         "src": "https://content.cld.iop.org/journals/2041-8205/991/1/L24/revision1/apjlae028ef3_lr.jpg",
-        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
         "alt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
         "alt_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
+        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
+        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
       },
       {
         "src": "https://content.cld.iop.org/journals/2041-8205/991/1/L24/revision1/apjlae028ef3_hr.jpg",
-        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
         "alt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
         "alt_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
-        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
+        "alt_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU",
+        "caption": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_pt": "Um buraco negro supermassivo em uma galáxia anã diminuta e ultracompacta descoberto com JWST/NIRSpec+IFU",
+        "caption_en": "A Supermassive Black Hole in a Diminutive Ultracompact Dwarf Galaxy Discovered with JWST/NIRSpec+IFU"
       }
     ],
     "video": null,
