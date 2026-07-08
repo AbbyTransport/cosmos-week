@@ -1,6 +1,358 @@
 [
   {
     "id": 1,
+    "slug": "nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/2026/nh-hibernation_wakeUp_062426.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "A nave espacial New Horizons da NASA acorda da hibernação com boa saúde",
+    "title_pt": "A nave espacial New Horizons da NASA acorda da hibernação com boa saúde",
+    "title_en": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
+    "sub": "Após o seu período de hibernação mais longo de quase um ano, a sonda New Horizons da NASA emergiu com boa saúde e está pronta para começar a transmitir dados científicos.",
+    "sub_pt": "Após o seu período de hibernação mais longo de quase um ano, a sonda New Horizons da NASA emergiu com boa saúde e está pronta para começar a transmitir dados científicos.",
+    "sub_en": "Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered.",
+    "excerpt": "Após o seu período de hibernação mais longo de quase um ano, a sonda New Horizons da NASA emergiu com boa saúde e está pronta para começar a transmitir dados científicos recolhidos na distante Cintura de Kuiper, muito além de Plutão.",
+    "excerpt_pt": "Após o seu período de hibernação mais longo de quase um ano, a sonda New Horizons da NASA emergiu com boa saúde e está pronta para começar a transmitir dados científicos recolhidos na distante Cintura de Kuiper, muito além de Plutão.",
+    "excerpt_en": "Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto.",
+    "highlights": [
+      "Em foco: Após o seu período de hibernação mais longo de quase um ano, a sonda New Horizons da NASA emergiu com boa saúde e está pronta para começar a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Após o seu período de hibernação mais longo de quase um ano, a sonda New Horizons da NASA emergiu com boa saúde e está pronta para começar a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Following its longest hibernation period ever of nearly a year, NASA’s New Horizons spacecraft has emerged in good health and is ready to begin",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "17h48",
+    "time_pt": "17h48",
+    "time_en": "17: 48 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-07T17:48:49+00:00",
+    "lastModifiedIso": "2026-07-08T17:16:19+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Física",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A nave espacial New Horizons da NASA acorda da hibernação com boa saúde"
+    ],
+    "keywords_pt": [
+      "Física",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A nave espacial New Horizons da NASA acorda da hibernação com boa saúde"
+    ],
+    "keywords_en": [
+      "Physical",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's New Horizons spacecraft wakes up from hibernation in good health"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "A nave espacial New Horizons da NASA acorda da hibernação com boa saúde",
+    "imageAlt_pt": "A nave espacial New Horizons da NASA acorda da hibernação com boa saúde",
+    "imageAlt_en": "NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "imprint-of-swampland-inspired-coupled-early-dark-energy",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Impressão da energia escura inicial acoplada inspirada nos pântanos",
+    "title_pt": "Impressão da energia escura inicial acoplada inspirada nos pântanos",
+    "title_en": "Imprint of swampland-inspired coupled early dark energy",
+    "sub": "Inspirados na Conjectura da Distância do Pântano, investigamos as implicações cosmológicas de um acoplamento fracionário entre a matéria escura e a energia escura inicial à luz.",
+    "sub_pt": "Inspirados na Conjectura da Distância do Pântano, investigamos as implicações cosmológicas de um acoplamento fracionário entre a matéria escura e a energia escura inicial à luz.",
+    "sub_en": "Inspired by the Swampland Distance Conjecture, we investigate the cosmological implications of a fractional coupling between dark matter and early dark energy in light of the.",
+    "excerpt": "Inspirados na Conjectura da Distância do Pântano, investigamos as implicações cosmológicas de um acoplamento fracionário entre a matéria escura e a energia escura inicial à luz dos dados recentes do DESI DR2 BAO.",
+    "excerpt_pt": "Inspirados na Conjectura da Distância do Pântano, investigamos as implicações cosmológicas de um acoplamento fracionário entre a matéria escura e a energia escura inicial à luz dos dados recentes do DESI DR2 BAO.",
+    "excerpt_en": "Inspired by the Swampland Distance Conjecture, we investigate the cosmological implications of a fractional coupling between dark matter and early dark energy in light of the recent DESI DR2 BAO data.",
+    "highlights": [
+      "Em foco: Inspirados na Conjectura da Distância do Pântano, investigamos as implicações cosmológicas de um acoplamento fracionário entre a matéria escura e a",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Inspirados na Conjectura da Distância do Pântano, investigamos as implicações cosmológicas de um acoplamento fracionário entre a matéria escura e a",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Inspired by the Swampland Distance Conjecture, we investigate the cosmological implications of a fractional coupling between dark matter and early",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "11h15",
+    "time_pt": "11h15",
+    "time_en": "11: 15 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-07T11:15:39+00:00",
+    "lastModifiedIso": "2026-07-08T17:16:19+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Impressão da energia escura inicial acoplada inspirada nos pântanos"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Impressão da energia escura inicial acoplada inspirada nos pântanos"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Swamp-Inspired Early Coupled Dark Energy Print"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2607.06147v1",
+    "realUrl": "https://www.cosmosweek.com/?article=imprint-of-swampland-inspired-coupled-early-dark-energy",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=imprint-of-swampland-inspired-coupled-early-dark-energy",
+    "realUrl_en": "https://www.cosmosweek.com/?article=imprint-of-swampland-inspired-coupled-early-dark-energy&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/imprint-of-swampland-inspired-coupled-early-dark-energy/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/imprint-of-swampland-inspired-coupled-early-dark-energy/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/imprint-of-swampland-inspired-coupled-early-dark-energy/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/imprint-of-swampland-inspired-coupled-early-dark-energy/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/imprint-of-swampland-inspired-coupled-early-dark-energy/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/imprint-of-swampland-inspired-coupled-early-dark-energy/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Impressão da energia escura inicial acoplada inspirada nos pântanos",
+    "imageAlt_pt": "Impressão da energia escura inicial acoplada inspirada nos pântanos",
+    "imageAlt_en": "Imprint of swampland-inspired coupled early dark energy",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Neutron_Star.jpg/1280px-Neutron_Star.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Um possível cenário de formação tripla de fusão de buraco negro binário com uma lacuna de massa de supernova com instabilidade de par",
+    "title_pt": "Um possível cenário de formação tripla de fusão de buraco negro binário com uma lacuna de massa de supernova com instabilidade de par",
+    "title_en": "A Possible Triple Formation Scenario of Binary Black Hole Merge With One In Pair-instability Supernova Mass Gap",
+    "sub": "Observações de fusões de buracos negros binários detectadas pelo LIGO, como GW170729, GW190620, GW190706, GW230107, GW230820 e GW230928, apresentam rotações altamente efetivas e.",
+    "sub_pt": "Observações de fusões de buracos negros binários detectadas pelo LIGO, como GW170729, GW190620, GW190706, GW230107, GW230820 e GW230928, apresentam rotações altamente efetivas e.",
+    "sub_en": "Observations of binary black hole mergers detected by LIGO -- such as GW170729, GW190620, GW190706, GW230107, GW230820, and GW230928 -- feature high effective spins and primary.",
+    "excerpt": "Observações de fusões de buracos negros binários detectadas pelo LIGO, como GW170729, GW190620, GW190706, GW230107, GW230820 e GW230928, apresentam rotações altamente efetivas e buracos negros primários que caem diretamente na instabilidade do par.",
+    "excerpt_pt": "Observações de fusões de buracos negros binários detectadas pelo LIGO, como GW170729, GW190620, GW190706, GW230107, GW230820 e GW230928, apresentam rotações altamente efetivas e buracos negros primários que caem diretamente na instabilidade do par.",
+    "excerpt_en": "Observations of binary black hole mergers detected by LIGO -- such as GW170729, GW190620, GW190706, GW230107, GW230820, and GW230928 -- feature high effective spins and primary black holes that fall squarely into the pair-instability.",
+    "highlights": [
+      "Em foco: Observações de fusões de buracos negros binários detectadas pelo LIGO, como GW170729, GW190620, GW190706, GW230107, GW230820 e GW230928, apresentam",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Observações de fusões de buracos negros binários detectadas pelo LIGO, como GW170729, GW190620, GW190706, GW230107, GW230820 e GW230928, apresentam",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Observations of binary black hole mergers detected by LIGO -- such as GW170729, GW190620, GW190706, GW230107, GW230820, and GW230928 -- feature high",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "07 jul 2026",
+    "date_pt": "07 jul 2026",
+    "date_en": "07 Jul 2026",
+    "time": "09h39",
+    "time_pt": "09h39",
+    "time_en": "09: 39 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-07T09:39:16+00:00",
+    "lastModifiedIso": "2026-07-08T17:16:19+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Um possível cenário de formação tripla de fusão de buraco negro binário com uma lacuna de massa de supernova com instabilidade de par"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Um possível cenário de formação tripla de fusão de buraco negro binário com uma lacuna de massa de supernova com instabilidade de par"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "A possible triple binary black hole merger formation scenario with a supernova mass gap with pair instability"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2607.06067v1",
+    "realUrl": "https://www.cosmosweek.com/?article=a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup",
+    "realUrl_en": "https://www.cosmosweek.com/?article=a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-possible-triple-formation-scenario-of-binary-black-hole-merge-with-one-in-pair-instability-sup/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 63,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Um possível cenário de formação tripla de fusão de buraco negro binário com uma lacuna de massa de supernova com instabilidade de par",
+    "imageAlt_pt": "Um possível cenário de formação tripla de fusão de buraco negro binário com uma lacuna de massa de supernova com instabilidade de par",
+    "imageAlt_en": "A Possible Triple Formation Scenario of Binary Black Hole Merge With One In Pair-instability Supernova Mass Gap",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "unpacking-europe-s-new-weather-imagers",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -146,7 +498,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "the-world-cup-from-250-miles-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -283,7 +635,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -429,127 +781,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "O déficit de luminosidade do disco como um rastreador do recuo do disco durante as transições Suave para Difícil em Binários de Raios-X do Buraco Negro",
-    "title_pt": "O déficit de luminosidade do disco como um rastreador do recuo do disco durante as transições Suave para Difícil em Binários de Raios-X do Buraco Negro",
-    "title_en": "The disk luminosity deficit as a tracer of receding disk during Soft-to-Hard transitions in Black Hole X-ray Binaries",
-    "sub": "Rastrear a evolução do disco de acreção fino durante a transição de estado suave para duro em binários de raios X de buracos negros permanece difícil porque as estimativas.",
-    "sub_pt": "Rastrear a evolução do disco de acreção fino durante a transição de estado suave para duro em binários de raios X de buracos negros permanece difícil porque as estimativas.",
-    "sub_en": "Tracing the evolution of the thin accretion disk during the soft-to-hard state transition in black hole X-ray binaries remains difficult because conventional spectral estimates of.",
-    "excerpt": "Rastrear a evolução do disco de acreção fino durante a transição de estado suave para duro em binários de raios X de buracos negros permanece difícil porque as estimativas espectrais convencionais do raio interno do disco tornam-se altamente dependentes do.",
-    "excerpt_pt": "Rastrear a evolução do disco de acreção fino durante a transição de estado suave para duro em binários de raios X de buracos negros permanece difícil porque as estimativas espectrais convencionais do raio interno do disco tornam-se altamente dependentes do.",
-    "excerpt_en": "Tracing the evolution of the thin accretion disk during the soft-to-hard state transition in black hole X-ray binaries remains difficult because conventional spectral estimates of the disk inner radius become highly model-dependent once.",
-    "highlights": [
-      "Em foco: Rastrear a evolução do disco de acreção fino durante a transição de estado suave para duro em binários de raios X de buracos negros permanece difícil",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_pt": [
-      "Em foco: Rastrear a evolução do disco de acreção fino durante a transição de estado suave para duro em binários de raios X de buracos negros permanece difícil",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_en": [
-      "Focus: Tracing the evolution of the thin accretion disk during the soft-to-hard state transition in black hole X-ray binaries remains difficult because",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "15h57",
-    "time_pt": "15h57",
-    "time_en": "15: 57 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T15:57:12+00:00",
-    "lastModifiedIso": "2026-07-07T17:51:03+00:00",
-    "source": "arXiv High Energy Astrophysics",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "O déficit de luminosidade do disco como um rastreador do recuo do disco durante as transições Suave para Difícil em Binários de Raios",
-      "X do Buraco Negro"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "O déficit de luminosidade do disco como um rastreador do recuo do disco durante as transições Suave para Difícil em Binários de Raios",
-      "X do Buraco Negro"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Disk luminosity deficit as a tracer of disk recoil during Soft to Hard transitions in Ray Binaries",
-      "X of the Black Hole"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2607.05249v1",
-    "realUrl": "https://www.cosmosweek.com/?article=the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac",
-    "realUrl_en": "https://www.cosmosweek.com/?article=the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-disk-luminosity-deficit-as-a-tracer-of-receding-disk-during-soft-to-hard-transitions-in-blac/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 63,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "O déficit de luminosidade do disco como um rastreador do recuo do disco durante as transições Suave para Difícil em Binários de Raios-X do Buraco Negro",
-    "imageAlt_pt": "O déficit de luminosidade do disco como um rastreador do recuo do disco durante as transições Suave para Difícil em Binários de Raios-X do Buraco Negro",
-    "imageAlt_en": "The disk luminosity deficit as a tracer of receding disk during Soft-to-Hard transitions in Black Hole X-ray Binaries",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
+    "id": 7,
     "slug": "nasa-s-capstone-completes-extended-mission-testing-lunar-technologies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -695,7 +927,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 8,
     "slug": "nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -713,19 +945,19 @@
     "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA para comemorar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e complexo do que alguma vez visto antes.",
     "excerpt_en": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before.",
     "highlights": [
-      "Em foco: Em novas imagens do Telescópio Espacial James Webb da NASA para comemorar o seu quarto aniversário científico, uma galáxia familiar transforma-se em",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA para comemorar o seu quarto aniversário científico, uma galáxia familiar transforma-se em.",
+      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA para comemorar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Em novas imagens do Telescópio Espacial James Webb da NASA para comemorar o seu quarto aniversário científico, uma galáxia familiar transforma-se em",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Em novas imagens do Telescópio Espacial James Webb da NASA para comemorar o seu quarto aniversário científico, uma galáxia familiar transforma-se em.",
+      "Dado-chave: Em novas imagens do Telescópio Espacial James Webb da NASA para comemorar o seu quarto aniversário científico, uma galáxia familiar.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far.",
+      "Key detail: In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "06 jul 2026",
     "date_pt": "06 jul 2026",
@@ -813,7 +1045,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -993,153 +1225,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
-    "slug": "examining-algal-blooms-in-blue-mesa",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20211117_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20170919.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20211117.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/examining-algal-blooms-in-blue-mesa/bluemesablooms_oli_20211117_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Examinando a proliferação de algas em Blue Mesa",
-    "title_pt": "Examinando a proliferação de algas em Blue Mesa",
-    "title_en": "Examining Algal Blooms in Blue Mesa",
-    "sub": "Usando dados de satélite, os pesquisadores relacionaram a proliferação de algas nocivas com água quente e baixos níveis de água em um dos maiores reservatórios do Colorado.",
-    "sub_pt": "Usando dados de satélite, os pesquisadores relacionaram a proliferação de algas nocivas com água quente e baixos níveis de água em um dos maiores reservatórios do Colorado.",
-    "sub_en": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
-    "excerpt": "Usando dados de satélite, os pesquisadores relacionaram a proliferação de algas nocivas com água quente e baixos níveis de água em um dos maiores reservatórios do Colorado.",
-    "excerpt_pt": "Usando dados de satélite, os pesquisadores relacionaram a proliferação de algas nocivas com água quente e baixos níveis de água em um dos maiores reservatórios do Colorado.",
-    "excerpt_en": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
-    "highlights": [
-      "Em foco: Usando dados de satélite, os pesquisadores relacionaram a proliferação de algas nocivas com água quente e baixos níveis de água em um dos maiores",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Usando dados de satélite, os pesquisadores relacionaram a proliferação de algas nocivas com água quente e baixos níveis de água em um dos maiores",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T04:01:00+00:00",
-    "lastModifiedIso": "2026-07-06T18:16:22+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Examinando a proliferação de algas em Blue Mesa"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Examinando a proliferação de algas em Blue Mesa"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Examining algae blooms on Blue Mesa"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
-    "realUrl": "https://www.cosmosweek.com/?article=examining-algal-blooms-in-blue-mesa",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=examining-algal-blooms-in-blue-mesa",
-    "realUrl_en": "https://www.cosmosweek.com/?article=examining-algal-blooms-in-blue-mesa&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/examining-algal-blooms-in-blue-mesa/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/examining-algal-blooms-in-blue-mesa/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/examining-algal-blooms-in-blue-mesa/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/examining-algal-blooms-in-blue-mesa/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/examining-algal-blooms-in-blue-mesa/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/examining-algal-blooms-in-blue-mesa/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Examinando a proliferação de algas em Blue Mesa",
-    "imageAlt_pt": "Examinando a proliferação de algas em Blue Mesa",
-    "imageAlt_en": "Examining Algal Blooms in Blue Mesa",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 9,
+    "id": 10,
     "slug": "cotton-candy-exoplanets-two-for-the-price-of-one",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1270,7 +1356,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "surface-cubesat-contracted-for-ramses-asteroid-mission",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1316,19 +1402,19 @@
     "excerpt_pt": "A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um asteroide.",
     "excerpt_en": "The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
     "highlights": [
-      "Em foco: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
+      "Key detail: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 jul 2026",
     "date_pt": "02 jul 2026",
@@ -1416,7 +1502,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "authorisation-paves-the-way-for-aeolus-2-wind-mission",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1444,19 +1530,19 @@
     "excerpt_pt": "A Agência Espacial Europeia (ESA) concedeu à Airbus Defence and Space no Reino Unido a autorização para desenvolver o Aeolus-2, sucessor da bem-sucedida missão eólica Earth Explorer Aeolus.",
     "excerpt_en": "Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK the authorisation to proceed to begin the development of Aeolus’ successor, Aeolus-2.",
     "highlights": [
-      "Em foco: A Agência Espacial Europeia (ESA) concedeu à Airbus Defence and Space no Reino Unido a autorização para desenvolver o Aeolus-2, sucessor da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) concedeu à Airbus Defence and Space no Reino Unido a autorização para desenvolver o Aeolus-2, sucessor da.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) concedeu à Airbus Defence and Space no Reino Unido a autorização para desenvolver o Aeolus-2, sucessor da",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A Agência Espacial Europeia (ESA) concedeu à Airbus Defence and Space no Reino Unido a autorização para desenvolver o Aeolus-2, sucessor da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Agência Espacial Europeia (ESA) concedeu à Airbus Defence and Space no Reino Unido a autorização para desenvolver o Aeolus-2, sucessor da.",
+      "Dado-chave: A Agência Espacial Europeia (ESA) concedeu à Airbus Defence and Space no Reino Unido a autorização para desenvolver o Aeolus-2, sucessor da",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in the UK.",
+      "Key detail: Building on the remarkable success of the Earth Explorer Aeolus wind mission, the European Space Agency has given Airbus Defence and Space in.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 jul 2026",
     "date_pt": "02 jul 2026",
@@ -1541,127 +1627,6 @@
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 12,
-    "slug": "gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Ondas gravitacionais de buracos negros primordiais: conectando assinaturas induzidas por escalares de baixa frequência a fusões binárias de alta frequência",
-    "title_pt": "Ondas gravitacionais de buracos negros primordiais: conectando assinaturas induzidas por escalares de baixa frequência a fusões binárias de alta frequência",
-    "title_en": "Gravitational Waves from Primordial Black Holes: Connecting Low-Frequency Scalar-Induced Signatures to High-Frequency Binary Mergers",
-    "sub": "A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas gravitacionais: um fundo estocástico.",
-    "sub_pt": "A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas gravitacionais: um fundo estocástico.",
-    "sub_en": "Formation of primordial black holes requires a significant enhancement of curvature perturbations.",
-    "excerpt": "A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas gravitacionais: um fundo estocástico de baixa frequência e um sinal de alta frequência de fusões binárias.",
-    "excerpt_pt": "A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas gravitacionais: um fundo estocástico de baixa frequência e um sinal de alta frequência de fusões binárias.",
-    "excerpt_en": "Formation of primordial black holes requires a significant enhancement of curvature perturbations. This mechanism leaves a twofold gravitational-wave signature: a \\emph{low-frequency} stochastic background of scalar-induced GWs and a.",
-    "highlights": [
-      "Ponto central: A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas.",
-      "Dado-chave: A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas.",
-      "Dado-chave: A formação de buracos negros primordiais exige um aumento significativo nas perturbações de curvatura, gerando uma assinatura dupla de ondas",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: Formation of primordial black holes requires a significant enhancement of curvature perturbations.",
-      "Key detail: Formation of primordial black holes requires a significant enhancement of curvature perturbations",
-      "Result not yet peer reviewed."
-    ],
-    "date": "02 jul 2026",
-    "date_pt": "02 jul 2026",
-    "date_en": "02 Jul 2026",
-    "time": "07h30",
-    "time_pt": "07h30",
-    "time_en": "07: 30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-02T07:30:54+00:00",
-    "lastModifiedIso": "2026-07-03T17:07:28+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Ondas gravitacionais de buracos negros primordiais",
-      "conectando assinaturas induzidas por escalares de baixa frequência a fusões binárias de alta frequência"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Ondas gravitacionais de buracos negros primordiais",
-      "conectando assinaturas induzidas por escalares de baixa frequência a fusões binárias de alta frequência"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Gravitational waves from primordial black holes",
-      "connecting signatures induced by low-frequency scalars to high-frequency binary mergers"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2607.01818v1",
-    "realUrl": "https://www.cosmosweek.com/?article=gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur",
-    "realUrl_en": "https://www.cosmosweek.com/?article=gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/gravitational-waves-from-primordial-black-holes-connecting-low-frequency-scalar-induced-signatur/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Ondas gravitacionais de buracos negros primordiais: conectando assinaturas induzidas por escalares de baixa frequência a fusões binárias de alta frequência",
-    "imageAlt_pt": "Ondas gravitacionais de buracos negros primordiais: conectando assinaturas induzidas por escalares de baixa frequência a fusões binárias de alta frequência",
-    "imageAlt_en": "Gravitational Waves from Primordial Black Holes: Connecting Low-Frequency Scalar-Induced Signatures to High-Frequency Binary Mergers",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
     "storyKind": "science"
   },
   {
@@ -1961,134 +1926,6 @@
   },
   {
     "id": 15,
-    "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-find-most.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx2.b-cdn.net/gfx/news/2026/astronomers-find-most.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "title_pt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "title_en": "Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen",
-    "sub": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância.",
-    "sub_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância.",
-    "sub_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of.",
-    "excerpt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância de oxigênio recorde de apenas 1/240 da do Sol.",
-    "excerpt_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância de oxigênio recorde de apenas 1/240 da do Sol.",
-    "excerpt_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago.",
-    "highlights": [
-      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a.",
-      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "26 jun 2026",
-    "date_pt": "26 jun 2026",
-    "date_en": "26 Jun 2026",
-    "time": "16h40",
-    "time_pt": "16h40",
-    "time_en": "16: 40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-26T16:40:05+00:00",
-    "lastModifiedIso": "2026-06-26T17:27:34+00:00",
-    "source": "Phys. org Space",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Galáxia quimicamente primitiva de 13 bilhões de anos atrás revela nível recorde de oxigênio"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Galáxia quimicamente primitiva de 13 bilhões de anos atrás revela nível recorde de oxigênio"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Chemically primitive galaxy from 13 billion years ago reveals record level of oxygen"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-chemically-primitive-galaxy-billion-years.html",
-    "realUrl": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "realUrl_en": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 66,
-      "evidence": 54,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "imageAlt_pt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "imageAlt_en": "Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 16,
     "slug": "a-criptografia-que-promete-esconder-dados-ate-da-nuvem",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2206,7 +2043,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -2352,7 +2189,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2519,7 +2356,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "signs-of-thaw-in-the-bering-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2665,7 +2502,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2783,7 +2620,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "dozens-of-dust-devils-hidden-in-plain-sight",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2938,7 +2775,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "low-water-at-san-carlos-reservoir",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3084,7 +2921,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "pumice-rafts-encroach-on-admiralty-islands",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3215,7 +3052,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "nsf-supported-teams-advanced-through-the-presidential-ai-challenge-with-north-carolina-teacher-n",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3382,7 +3219,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3591,7 +3428,7 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "what-s-actually-new-about-nasa-s-artemis-missions",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3791,7 +3628,7 @@
     "storyKind": "science"
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -3950,7 +3787,7 @@
     "storyKind": "science"
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4068,7 +3905,7 @@
     "storyKind": "science"
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4199,7 +4036,7 @@
     "storyKind": "science"
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4317,7 +4154,7 @@
     "storyKind": "science"
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4441,6 +4278,134 @@
     "imageAlt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
     "imageAlt_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
     "imageAlt_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science"
+  },
+  {
+    "id": 31,
+    "slug": "theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/research-on-new-supern-1.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx2.b-cdn.net/gfx/news/2026/research-on-new-supern-1.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Modelos Teóricos da Química de Supernovas Revisados Após Dados de Raios X do Aglomerado de Perseu Revelarem Discrepâncias Importantes",
+    "title_pt": "Modelos Teóricos da Química de Supernovas Revisados Após Dados de Raios X do Aglomerado de Perseu Revelarem Discrepâncias Importantes",
+    "title_en": "Theoretical models of supernova chemistry overhauled after X-ray data from Perseus Cluster reveal key discrepancies",
+    "sub": "Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão desses modelos para melhor.",
+    "sub_pt": "Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão desses modelos para melhor.",
+    "sub_en": "The Perseus Cluster is a massive galaxy cluster located in the constellation Perseus. It is one of the largest structures in the observable universe, comprising more than a.",
+    "excerpt": "Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão desses modelos para melhor alinhamento com as observações.",
+    "excerpt_pt": "Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão desses modelos para melhor alinhamento com as observações.",
+    "excerpt_en": "The Perseus Cluster is a massive galaxy cluster located in the constellation Perseus. It is one of the largest structures in the observable universe, comprising more than a thousand galaxies, equivalent to roughly a thousand trillion times.",
+    "highlights": [
+      "Ponto central: Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão desses.",
+      "Dado-chave: Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão.",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_pt": [
+      "Ponto central: Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão desses.",
+      "Dado-chave: Dados de raios X do Aglomerado de Perseu revelaram discrepâncias importantes nos modelos teóricos da química de supernovas, levando à revisão.",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_en": [
+      "Core point: The Perseus Cluster is a massive galaxy cluster located in the constellation Perseus.",
+      "Key detail: The Perseus Cluster is a massive galaxy cluster located in the constellation Perseus",
+      "Science reporting: verify primary technical documentation."
+    ],
+    "date": "19 abr 2026",
+    "date_pt": "19 abr 2026",
+    "date_en": "19 Apr 2026",
+    "time": "16h00",
+    "time_pt": "16h00",
+    "time_en": "16: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-19T16:00:05+00:00",
+    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
+    "source": "Phys. org Space",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Modelos teóricos da química das supernovas revisados ​​após dados de raios X do Cluster Perseus revelarem discrepâncias importantes"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Modelos teóricos da química das supernovas revisados ​​após dados de raios X do Cluster Perseus revelarem discrepâncias importantes"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Theoretical models of supernova chemistry revised after Perseus Cluster X-ray data reveal key discrepancies"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-theoretical-supernova-chemistry-overhauled-ray.html",
+    "realUrl": "https://www.cosmosweek.com/?article=theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea",
+    "realUrl_en": "https://www.cosmosweek.com/?article=theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/theoretical-models-of-supernova-chemistry-overhauled-after-x-ray-data-from-perseus-cluster-revea/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 42,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Modelos Teóricos da Química de Supernovas Revisados Após Dados de Raios X do Aglomerado de Perseu Revelarem Discrepâncias Importantes",
+    "imageAlt_pt": "Modelos Teóricos da Química de Supernovas Revisados Após Dados de Raios X do Aglomerado de Perseu Revelarem Discrepâncias Importantes",
+    "imageAlt_en": "Theoretical models of supernova chemistry overhauled after X-ray data from Perseus Cluster reveal key discrepancies",
     "coverageKind": "news",
     "coverageKindLabel": "Jornalismo científico",
     "coverageKindLabel_pt": "Jornalismo científico",
@@ -4720,6 +4685,146 @@
   },
   {
     "id": 34,
+    "slug": "mining-waste-product-could-help-store-carbon-emissions-study-suggests",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/mining-waste-product-c.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx2.b-cdn.net/gfx/news/2026/mining-waste-product-c.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
+    "title_pt": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
+    "title_en": "Mining waste product could help store carbon emissions, study suggests",
+    "sub": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento.",
+    "sub_pt": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento.",
+    "sub_en": "A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
+    "excerpt": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento de dióxido de carbono.",
+    "excerpt_pt": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento de dióxido de carbono.",
+    "excerpt_en": "A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
+    "highlights": [
+      "Ponto central: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução.",
+      "Dado-chave: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma.",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução.",
+      "Dado-chave: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma.",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_en": [
+      "Core point: A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
+      "Key detail: A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions",
+      "Science reporting: verify primary technical documentation."
+    ],
+    "date": "17 abr 2026",
+    "date_pt": "17 abr 2026",
+    "date_en": "17 Apr 2026",
+    "time": "17h40",
+    "time_pt": "17h40",
+    "time_en": "17: 40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-17T17:40:03+00:00",
+    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
+    "source": "Phys. org Chemistry",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Química",
+      "Phys. org Chemistry",
+      "Cosmos Week",
+      "Resíduos de mineração podem ajudar a armazenar emissões de carbono",
+      "sugere estudo"
+    ],
+    "keywords_pt": [
+      "Química",
+      "Phys. org Chemistry",
+      "Cosmos Week",
+      "Resíduos de mineração podem ajudar a armazenar emissões de carbono",
+      "sugere estudo"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "Phys. org Chemistry",
+      "Cosmos Week",
+      "Mining waste can help store carbon emissions",
+      "suggests study"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-product-carbon-emissions.html",
+    "realUrl": "https://www.cosmosweek.com/?article=mining-waste-product-could-help-store-carbon-emissions-study-suggests",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=mining-waste-product-could-help-store-carbon-emissions-study-suggests",
+    "realUrl_en": "https://www.cosmosweek.com/?article=mining-waste-product-could-help-store-carbon-emissions-study-suggests&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 70,
+      "evidence": 42,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 52
+    },
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science",
+    "imageAlt": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
+    "imageAlt_pt": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
+    "imageAlt_en": "Mining waste product could help store carbon emissions, study suggests"
+  },
+  {
+    "id": 35,
     "slug": "sun-news-huge-coronal-hole-now-faces-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4866,143 +4971,6 @@
     "imageAlt": "Notícias do Sol: Enorme buraco coronal agora enfrenta a Terra",
     "imageAlt_pt": "Notícias do Sol: Enorme buraco coronal agora enfrenta a Terra",
     "imageAlt_en": "Sun news: Huge coronal hole now faces Earth"
-  },
-  {
-    "id": 35,
-    "slug": "how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-a-new-technique-wi.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx2.b-cdn.net/gfx/news/2026/how-a-new-technique-wi.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
-    "title_pt": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
-    "title_en": "How a new technique will help us mine rare-earth metals with plants",
-    "sub": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
-    "sub_pt": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
-    "sub_en": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant.",
-    "excerpt": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
-    "excerpt_pt": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
-    "excerpt_en": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant.",
-    "highlights": [
-      "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the.",
-      "Key detail: Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "16 abr 2026",
-    "date_pt": "16 abr 2026",
-    "date_en": "16 Apr 2026",
-    "time": "22h50",
-    "time_pt": "22h50",
-    "time_en": "22: 50 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-16T22:50:01+00:00",
-    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
-    "source": "Phys. org Chemistry",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Física",
-      "Phys. org Chemistry",
-      "Cosmos Week",
-      "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys. org Chemistry",
-      "Cosmos Week",
-      "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys. org Chemistry",
-      "Cosmos Week",
-      "How a new technique will help us extract rare earth metals with plants"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-technique-rare-earth-metals.html",
-    "realUrl": "https://www.cosmosweek.com/?article=how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
-    "realUrl_en": "https://www.cosmosweek.com/?article=how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 70,
-      "evidence": 42,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 49
-    },
-    "imageAlt": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
-    "imageAlt_pt": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
-    "imageAlt_en": "How a new technique will help us mine rare-earth metals with plants",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
   },
   {
     "id": 36,
@@ -5437,12 +5405,12 @@
     "inline_images": [
       {
         "src": "https://dq0hsqwjhea1.cloudfront.net/theme/src/img/comment.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       }
     ],
     "video": null,
