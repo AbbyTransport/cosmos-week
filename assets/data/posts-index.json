@@ -1,6 +1,449 @@
 [
   {
     "id": 1,
+    "slug": "nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/07/STScI-01KW2HRNXWCFJ07B2CEN49KTFP.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Hubble da NASA descobre o primeiro buraco negro desaparecido do aglomerado estelar",
+    "title_pt": "Hubble da NASA descobre o primeiro buraco negro desaparecido do aglomerado estelar",
+    "title_en": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
+    "sub": "Astrônomos, usando dados de arquivo do Hubble e observações de apoio do Webb, localizaram seu primeiro buraco negro de massa estelar no aglomerado estelar Omega Centauri.",
+    "sub_pt": "Astrônomos, usando dados de arquivo do Hubble e observações de apoio do Webb, localizaram seu primeiro buraco negro de massa estelar no aglomerado estelar Omega Centauri.",
+    "sub_en": "Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
+    "excerpt": "Astrônomos, usando dados de arquivo do Hubble e observações de apoio do Webb, localizaram seu primeiro buraco negro de massa estelar no aglomerado estelar Omega Centauri.",
+    "excerpt_pt": "Astrônomos, usando dados de arquivo do Hubble e observações de apoio do Webb, localizaram seu primeiro buraco negro de massa estelar no aglomerado estelar Omega Centauri.",
+    "excerpt_en": "Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star cluster Omega Centauri.",
+    "highlights": [
+      "Em foco: Astrônomos, usando dados de arquivo do Hubble e observações de apoio do Webb, localizaram seu primeiro buraco negro de massa estelar no aglomerado",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Astrônomos, usando dados de arquivo do Hubble e observações de apoio do Webb, localizaram seu primeiro buraco negro de massa estelar no aglomerado",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Astronomers using archival data from Hubble and supportive observations from Webb have located their first stellar-mass black hole in the star",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "13 jul 2026",
+    "date_pt": "13 jul 2026",
+    "date_en": "13 Jul 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-13T14:00:00+00:00",
+    "lastModifiedIso": "2026-07-13T17:49:05+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Hubble da NASA descobre o primeiro buraco negro desaparecido do aglomerado estelar"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Hubble da NASA descobre o primeiro buraco negro desaparecido do aglomerado estelar"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Hubble Discovers Star Cluster's First Missing Black Hole"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-discovers-first-of-star-clusters-missing-black-holes/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Hubble da NASA descobre o primeiro buraco negro desaparecido do aglomerado estelar",
+    "imageAlt_pt": "Hubble da NASA descobre o primeiro buraco negro desaparecido do aglomerado estelar",
+    "imageAlt_en": "NASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "http://cdn.esahubble.org/archives/images/screen/heic2610a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2610a.jpg",
+        "alt": "Imagem de contexto do Omega Centauri",
+        "alt_pt": "Imagem de contexto do Omega Centauri",
+        "alt_en": "Omega Centauri context image",
+        "caption": "Imagem de contexto do Omega Centauri",
+        "caption_pt": "Imagem de contexto do Omega Centauri",
+        "caption_en": "Omega Centauri context image"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2610a.jpg",
+        "alt": "Imagem de contexto do Omega Centauri",
+        "alt_pt": "Imagem de contexto do Omega Centauri",
+        "alt_en": "Omega Centauri context image",
+        "caption": "Imagem de contexto do Omega Centauri",
+        "caption_pt": "Imagem de contexto do Omega Centauri",
+        "caption_en": "Omega Centauri context image"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2409a.jpg",
+        "alt": "Ômega Centauro",
+        "alt_pt": "Ômega Centauro",
+        "alt_en": "Omega Centauri",
+        "caption": "Ômega Centauro",
+        "caption_pt": "Ômega Centauro",
+        "caption_en": "Omega Centauri"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/videos/news/heic2409a.jpg",
+        "alt": "Panela: Omega Centauri",
+        "alt_pt": "Panela: Omega Centauri",
+        "alt_en": "Pan: Omega Centauri",
+        "caption": "Panela: Omega Centauri",
+        "caption_pt": "Panela: Omega Centauri",
+        "caption_en": "Pan: Omega Centauri"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/screen/heic2610a.jpg",
+        "alt": "Imagem de contexto do Omega Centauri",
+        "alt_pt": "Imagem de contexto do Omega Centauri",
+        "alt_en": "Omega Centauri context image",
+        "caption": "Imagem de contexto do Omega Centauri",
+        "caption_pt": "Imagem de contexto do Omega Centauri",
+        "caption_en": "Omega Centauri context image"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/screen/heic2409a.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas",
+    "title_pt": "Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas",
+    "title_en": "Science Release: Hubble discovers first of star cluster’s missing black holes",
+    "sub": "O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.",
+    "sub_pt": "O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.",
+    "sub_en": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is.",
+    "excerpt": "O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas.",
+    "excerpt_pt": "O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas.",
+    "excerpt_en": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce.",
+    "highlights": [
+      "Em foco: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The massive globular star cluster Omega Centauri has puzzled astronomers for decades",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "13 jul 2026",
+    "date_pt": "13 jul 2026",
+    "date_en": "13 Jul 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-13T14:00:00+00:00",
+    "lastModifiedIso": "2026-07-13T17:49:05+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble. org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific launch",
+      "Hubble discovers first missing black hole from star cluster"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2610/",
+    "realUrl": "https://www.cosmosweek.com/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
+    "realUrl_en": "https://www.cosmosweek.com/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas",
+    "imageAlt_pt": "Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas",
+    "imageAlt_en": "Science Release: Hubble discovers first of star cluster’s missing black holes",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "wild-scenic-and-increasingly-rusty",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_20240520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_oli_20170712.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_oli_20200720.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/wild,-scenic,-and-increasingly-rusty/alaska_rustyrivers_oli_20200720_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Selvagem, pitoresco e cada vez mais enferrujado",
+    "title_pt": "Selvagem, pitoresco e cada vez mais enferrujado",
+    "title_en": "Wild, Scenic, and Increasingly Rusty",
+    "sub": "Os riachos Orange estão agora sendo avistados em centenas de bacias hidrográficas em áreas de permafrost em toda a cordilheira Brooks, no Alasca.",
+    "sub_pt": "Os riachos Orange estão agora sendo avistados em centenas de bacias hidrográficas em áreas de permafrost em toda a cordilheira Brooks, no Alasca.",
+    "sub_en": "Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range.",
+    "excerpt": "Os riachos Orange estão agora sendo avistados em centenas de bacias hidrográficas em áreas de permafrost em toda a cordilheira Brooks, no Alasca.",
+    "excerpt_pt": "Os riachos Orange estão agora sendo avistados em centenas de bacias hidrográficas em áreas de permafrost em toda a cordilheira Brooks, no Alasca.",
+    "excerpt_en": "Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range. The post Wild, Scenic, and Increasingly Rusty appeared first on NASA Science.",
+    "highlights": [
+      "Em foco: Os riachos Orange estão agora sendo avistados em centenas de bacias hidrográficas em áreas de permafrost em toda a cordilheira Brooks, no Alasca",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os riachos Orange estão agora sendo avistados em centenas de bacias hidrográficas em áreas de permafrost em toda a cordilheira Brooks, no Alasca",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "13 jul 2026",
+    "date_pt": "13 jul 2026",
+    "date_en": "13 Jul 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-13T04:01:00+00:00",
+    "lastModifiedIso": "2026-07-13T17:49:05+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Selvagem",
+      "pitoresco e cada vez mais enferrujado"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Selvagem",
+      "pitoresco e cada vez mais enferrujado"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Wild",
+      "picturesque and increasingly rusty"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/",
+    "realUrl": "https://www.cosmosweek.com/?article=wild-scenic-and-increasingly-rusty",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=wild-scenic-and-increasingly-rusty",
+    "realUrl_en": "https://www.cosmosweek.com/?article=wild-scenic-and-increasingly-rusty&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/wild-scenic-and-increasingly-rusty/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/wild-scenic-and-increasingly-rusty/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/wild-scenic-and-increasingly-rusty/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/wild-scenic-and-increasingly-rusty/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/wild-scenic-and-increasingly-rusty/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/wild-scenic-and-increasingly-rusty/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Selvagem, pitoresco e cada vez mais enferrujado",
+    "imageAlt_pt": "Selvagem, pitoresco e cada vez mais enferrujado",
+    "imageAlt_en": "Wild, Scenic, and Increasingly Rusty",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "where-venezuela-s-earthquakes-shifted-the-ground",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -137,7 +580,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-da",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -155,19 +598,19 @@
     "excerpt_pt": "Os relatórios contribuem para a crescente documentação sobre as contribuições dos dados comerciais para pesquisas e aplicações em ciências da Terra.",
     "excerpt_en": "The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications.",
     "highlights": [
-      "Em foco: Os relatórios contribuem para a crescente documentação sobre as contribuições dos dados comerciais para pesquisas e aplicações em ciências da Terra",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os relatórios contribuem para a crescente documentação sobre as contribuições dos dados comerciais para pesquisas e aplicações em ciências da Terra.",
+      "Dado-chave: Os relatórios contribuem para a crescente documentação sobre as contribuições dos dados comerciais para pesquisas e aplicações em ciências da.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Os relatórios contribuem para a crescente documentação sobre as contribuições dos dados comerciais para pesquisas e aplicações em ciências da Terra",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os relatórios contribuem para a crescente documentação sobre as contribuições dos dados comerciais para pesquisas e aplicações em ciências da Terra.",
+      "Dado-chave: Os relatórios contribuem para a crescente documentação sobre as contribuições dos dados comerciais para pesquisas e aplicações em ciências da.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications.",
+      "Key detail: The reports add to the growing documentation on commercial data’s contributions to Earth science research and applications",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 jul 2026",
     "date_pt": "09 jul 2026",
@@ -255,7 +698,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -423,7 +866,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "satellites-in-tandem-reveal-30-years-of-antarctic-ice-flow",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -578,7 +1021,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 8,
     "slug": "lambda-as-a-probe-of-lensing-consistency",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -596,18 +1039,19 @@
     "excerpt_pt": "Introduzimos uma estrutura para identificar a transição radial na confiabilidade da reconstrução de massa entre lentes gravitacionais fortes e fracas em aglomerados de galáxias.",
     "excerpt_en": "We introduce a framework to identify the radial transition in mass reconstruction reliability between strong and weak gravitational lensing in galaxy clusters.",
     "highlights": [
-      "Em foco: Introduzimos uma estrutura para identificar a transição radial na confiabilidade da reconstrução de massa entre lentes gravitacionais fortes e fracas",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Introduzimos uma estrutura para identificar a transição radial na confiabilidade da reconstrução de massa entre lentes gravitacionais fortes e fracas.",
+      "Dado-chave: Introduzimos uma estrutura para identificar a transição radial na confiabilidade da reconstrução de massa entre lentes gravitacionais fortes e.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Introduzimos uma estrutura para identificar a transição radial na confiabilidade da reconstrução de massa entre lentes gravitacionais fortes e fracas",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Introduzimos uma estrutura para identificar a transição radial na confiabilidade da reconstrução de massa entre lentes gravitacionais fortes e fracas.",
+      "Dado-chave: Introduzimos uma estrutura para identificar a transição radial na confiabilidade da reconstrução de massa entre lentes gravitacionais fortes e.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We introduce a framework to identify the radial transition in mass reconstruction reliability between strong and weak gravitational lensing in galaxy",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We introduce a framework to identify the radial transition in mass reconstruction reliability between strong and weak gravitational lensing in galaxy.",
+      "Key detail: We introduce a framework to identify the radial transition in mass reconstruction reliability between strong and weak gravitational lensing in.",
+      "Result not yet peer reviewed."
     ],
     "date": "09 jul 2026",
     "date_pt": "09 jul 2026",
@@ -695,125 +1139,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
-    "slug": "students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/cds/learn/science-activation-stories/2026/06.29.26_Students_Connect_NASA_Science_With_Indigenous_Knowledge_to_Study_Coastal_Erosion.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Estudantes conectam a ciência da NASA com o conhecimento indígena para estudar a erosão costeira",
-    "title_pt": "Estudantes conectam a ciência da NASA com o conhecimento indígena para estudar a erosão costeira",
-    "title_en": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-    "sub": "Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor.",
-    "sub_pt": "Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor.",
-    "sub_en": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher.",
-    "excerpt": "Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor. Situado no que é conhecido como Downeast Maine, ao longo das margens da Baía de Passamaquoddy, gerações de povos indígenas viveram ao longo do.",
-    "excerpt_pt": "Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor. Situado no que é conhecido como Downeast Maine, ao longo das margens da Baía de Passamaquoddy, gerações de povos indígenas viveram ao longo do.",
-    "excerpt_en": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the.",
-    "highlights": [
-      "Ponto central: Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor.",
-      "Dado-chave: Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor.",
-      "Dado-chave: Para a reserva Pleasant Point Passamaquoddy, ou Sipayik, o oceano sempre foi um professor.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher.",
-      "Key detail: For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 jul 2026",
-    "date_pt": "08 jul 2026",
-    "date_en": "08 Jul 2026",
-    "time": "21h04",
-    "time_pt": "21h04",
-    "time_en": "21: 04 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-08T21:04:14+00:00",
-    "lastModifiedIso": "2026-07-09T17:47:29+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudantes conectam a ciência da NASA com o conhecimento indígena para estudar a erosão costeira"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudantes conectam a ciência da NASA com o conhecimento indígena para estudar a erosão costeira"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Students connect NASA science with indigenous knowledge to study coastal erosion"
-    ],
-    "srcUrl": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "realUrl": "https://www.cosmosweek.com/?article=students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion",
-    "realUrl_en": "https://www.cosmosweek.com/?article=students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Estudantes conectam a ciência da NASA com o conhecimento indígena para estudar a erosão costeira",
-    "imageAlt_pt": "Estudantes conectam a ciência da NASA com o conhecimento indígena para estudar a erosão costeira",
-    "imageAlt_en": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "slug": "multiband-alma-polarimetry-of-the-jet-base-and-kiloparsec-scale-jet-of-3c-273-a-multicomponent-f",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -934,7 +1260,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "unpacking-europe-s-new-weather-imagers",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1080,7 +1406,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1226,7 +1552,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -1406,7 +1732,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 13,
     "slug": "cotton-candy-exoplanets-two-for-the-price-of-one",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1445,7 +1771,7 @@
     ],
     "highlights_en": [
       "Core point: NASA’s Transiting Exoplanet Survey Satellite has found two “super-puff” planets in the same system, each one as light as cotton candy.",
-      "Key detail: NASA’s Transiting Exoplanet Survey Satellite has found two “super-puff” planets in the same system, each one as light as cotton candy",
+      "Key detail: NASA’s Transiting Exoplanet Survey Satellite has found two “super-puff” planets in the same system, each one as light as cotton candy.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "02 jul 2026",
@@ -1537,7 +1863,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "surface-cubesat-contracted-for-ramses-asteroid-mission",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1683,7 +2009,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1820,7 +2146,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 16,
     "slug": "action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1978,7 +2304,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 17,
     "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
     "cat": "Química",
     "catCls": "quimica",
@@ -2106,7 +2432,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 18,
     "slug": "a-criptografia-que-promete-esconder-dados-ate-da-nuvem",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2224,7 +2550,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 19,
     "slug": "nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -2370,7 +2696,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 20,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2537,7 +2863,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 21,
     "slug": "signs-of-thaw-in-the-bering-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2683,7 +3009,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 22,
     "slug": "nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2801,162 +3127,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
-    "slug": "dozens-of-dust-devils-hidden-in-plain-sight",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/dust_devils_galore_mars_express_visits_mamers_valles_on_mars/27330596-1-eng-GB/Dust_devils_galore_Mars_Express_visits_Mamers_Valles_on_Mars_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/topographic_map_of_mamers_valles_on_mars/27330737-1-eng-GB/Topographic_map_of_Mamers_Valles_on_Mars_article.jpg",
-        "alt": "Mapa topográfico de Mamers Valles em Marte",
-        "alt_pt": "Mapa topográfico de Mamers Valles em Marte",
-        "alt_en": "Topographic map of Mamers Valles on Mars",
-        "caption": "Mapa topográfico de Mamers Valles em Marte",
-        "caption_pt": "Mapa topográfico de Mamers Valles em Marte",
-        "caption_en": "Topographic map of Mamers Valles on Mars"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/dust_devils_galore_mars_express_visits_mamers_valles_on_mars/27330596-1-eng-GB/Dust_devils_galore_Mars_Express_visits_Mamers_Valles_on_Mars_article.jpg",
-        "alt": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
-        "alt_pt": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
-        "alt_en": "Mars Express visits Mamers Valles on Mars, finding over 30 dust devils. Click on the image to zoom in and discover where they are hiding.",
-        "caption": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
-        "caption_pt": "A Mars Express visita Mamers Valles em Marte, encontrando mais de 30 redemoinhos de poeira. Clique na imagem para ampliar e descobrir onde eles estão escondidos.",
-        "caption_en": "Mars Express visits Mamers Valles on Mars, finding over 30 dust devils. Click on the image to zoom in and discover where they are hiding."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/where_on_mars_is_mamers_valles/27330784-1-eng-GB/Where_on_Mars_is_Mamers_Valles_article.png",
-        "alt": "Onde em Marte fica Mamers Valles?",
-        "alt_pt": "Onde em Marte fica Mamers Valles?",
-        "alt_en": "Where on Mars is Mamers Valles?",
-        "caption": "Onde em Marte fica Mamers Valles?",
-        "caption_pt": "Onde em Marte fica Mamers Valles?",
-        "caption_en": "Where on Mars is Mamers Valles?"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/mars_s_mamers_valles_in_3d/27330690-2-eng-GB/Mars_s_Mamers_Valles_in_3D_article.jpg",
-        "alt": "Mamers Valles de Marte em 3D",
-        "alt_pt": "Mamers Valles de Marte em 3D",
-        "alt_en": "Mars’s Mamers Valles in 3D",
-        "caption": "Mamers Valles de Marte em 3D",
-        "caption_pt": "Mamers Valles de Marte em 3D",
-        "caption_en": "Mars’s Mamers Valles in 3D"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Mars Express revela dezenas de redemoinhos de poeira em Mamers Valles",
-    "title_pt": "Mars Express revela dezenas de redemoinhos de poeira em Mamers Valles",
-    "title_en": "Dozens of dust devils hidden in plain sight",
-    "sub": "A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus numerosos redemoinhos de poeira.",
-    "sub_pt": "A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus numerosos redemoinhos de poeira.",
-    "sub_en": "The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.",
-    "excerpt": "A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus numerosos redemoinhos de poeira, semelhantes a pequenos tornados.",
-    "excerpt_pt": "A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus numerosos redemoinhos de poeira, semelhantes a pequenos tornados.",
-    "excerpt_en": "The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like whirlwinds known as dust devils.",
-    "highlights": [
-      "Ponto central: A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus numerosos.",
-      "Dado-chave: A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus numerosos.",
-      "Dado-chave: A sonda Mars Express, da Agência Espacial Europeia, registrou uma seção de Mamers Valles, em Marte, um sistema de vales notável por seus.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief, tornado-like.",
-      "Key detail: The European Space Agency’s Mars Express has captured part of Mars’s Mamers Valles: a fascinating valley system speckled with brief.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 jun 2026",
-    "date_pt": "17 jun 2026",
-    "date_en": "17 Jun 2026",
-    "time": "09h00",
-    "time_pt": "09h00",
-    "time_en": "09: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-17T09:00:00+00:00",
-    "lastModifiedIso": "2026-06-17T18:14:56+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Dezenas de redemoinhos escondidos à vista de todos"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Dezenas de redemoinhos escondidos à vista de todos"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Dozens of whirlpools hidden in plain sight"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dozens_of_dust_devils_hidden_in_plain_sight",
-    "realUrl": "https://www.cosmosweek.com/?article=dozens-of-dust-devils-hidden-in-plain-sight",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=dozens-of-dust-devils-hidden-in-plain-sight",
-    "realUrl_en": "https://www.cosmosweek.com/?article=dozens-of-dust-devils-hidden-in-plain-sight&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/dozens-of-dust-devils-hidden-in-plain-sight/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/dozens-of-dust-devils-hidden-in-plain-sight/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/dozens-of-dust-devils-hidden-in-plain-sight/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/dozens-of-dust-devils-hidden-in-plain-sight/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/dozens-of-dust-devils-hidden-in-plain-sight/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/dozens-of-dust-devils-hidden-in-plain-sight/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Mars Express revela dezenas de redemoinhos de poeira em Mamers Valles",
-    "imageAlt_pt": "Mars Express revela dezenas de redemoinhos de poeira em Mamers Valles",
-    "imageAlt_en": "Dozens of dust devils hidden in plain sight",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 22,
+    "id": 23,
     "slug": "low-water-at-san-carlos-reservoir",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3095,137 +3266,6 @@
     "imageAlt": "Crise Hídrica no Reservatório de San Carlos: Níveis Baixos e Morte de Peixes",
     "imageAlt_pt": "Crise Hídrica no Reservatório de San Carlos: Níveis Baixos e Morte de Peixes",
     "imageAlt_en": "Low Water at San Carlos Reservoir",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 23,
-    "slug": "pumice-rafts-encroach-on-admiralty-islands",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/pumice-rafts-encroach-on-admiralty-islands/bismarkpumicezm2_oli_20260604_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
-    "title_pt": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
-    "title_en": "Pumice Rafts Encroach on Admiralty Islands",
-    "sub": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
-    "sub_pt": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
-    "sub_en": "Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts.",
-    "excerpt": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
-    "excerpt_pt": "Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do Almirantado.",
-    "excerpt_en": "Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts. The post Pumice Rafts Encroach on Admiralty Islands appeared first on NASA Science.",
-    "highlights": [
-      "Ponto central: Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do.",
-      "Dado-chave: Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas do.",
-      "Dado-chave: Fragmentos flutuantes de rocha vulcânica, provenientes de uma erupção submarina, atravessaram o Mar de Bismarck e cobriram as costas das Ilhas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts.",
-      "Key detail: Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 jun 2026",
-    "date_pt": "15 jun 2026",
-    "date_en": "15 Jun 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-15T04:01:00+00:00",
-    "lastModifiedIso": "2026-06-15T19:42:09+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Jangadas de pedra",
-      "pomes invadem as Ilhas do Almirantado"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Jangadas de pedra",
-      "pomes invadem as Ilhas do Almirantado"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Stone rafts",
-      "pumice invade the Admiralty Islands"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/",
-    "realUrl": "https://www.cosmosweek.com/?article=pumice-rafts-encroach-on-admiralty-islands",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=pumice-rafts-encroach-on-admiralty-islands",
-    "realUrl_en": "https://www.cosmosweek.com/?article=pumice-rafts-encroach-on-admiralty-islands&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/pumice-rafts-encroach-on-admiralty-islands/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/pumice-rafts-encroach-on-admiralty-islands/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/pumice-rafts-encroach-on-admiralty-islands/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
-    "imageAlt_pt": "Jangadas de Pedra-Pomes Invadem as Ilhas do Almirantado",
-    "imageAlt_en": "Pumice Rafts Encroach on Admiralty Islands",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -3969,6 +4009,134 @@
   },
   {
     "id": 28,
+    "slug": "webb-hubble-find-massive-star-clusters-emerge-faster",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/star-forming_regions_in_m51/27255538-1-eng-GB/Star-forming_regions_in_M51_article.jpg",
+        "alt": "Regiões de formação de estrelas em M51",
+        "alt_pt": "Regiões de formação de estrelas em M51",
+        "alt_en": "Star-forming regions in M51",
+        "caption": "Regiões de formação de estrelas em M51",
+        "caption_pt": "Regiões de formação de estrelas em M51",
+        "caption_en": "Star-forming regions in M51"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido",
+    "title_pt": "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido",
+    "title_en": "Webb & Hubble find massive star clusters emerge faster",
+    "sub": "Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares jovens em profundidade, revelando que os.",
+    "sub_pt": "Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares jovens em profundidade, revelando que os.",
+    "sub_en": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four.",
+    "excerpt": "Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares jovens em profundidade, revelando que os mais massivos emergem de suas nuvens gasosas mais rapidamente.",
+    "excerpt_pt": "Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares jovens em profundidade, revelando que os mais massivos emergem de suas nuvens gasosas mais rapidamente.",
+    "excerpt_en": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of.",
+    "highlights": [
+      "Ponto central: Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares jovens em.",
+      "Dado-chave: Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares jovens em.",
+      "Dado-chave: Utilizando os telescópios espaciais James Webb (NASA/ESA/CSA) e Hubble (NASA/ESA), astrônomos observaram milhares de aglomerados estelares.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of.",
+      "Key detail: Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 mai 2026",
+    "date_pt": "06 mai 2026",
+    "date_en": "06 May 2026",
+    "time": "10h00",
+    "time_pt": "10h00",
+    "time_en": "10: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-05-06T10:00:00+00:00",
+    "lastModifiedIso": "2026-05-06T17:16:51+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Biologia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido"
+    ],
+    "keywords_en": [
+      "Biology",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb and Hubble discover that massive star clusters emerge faster"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster",
+    "realUrl": "https://www.cosmosweek.com/?article=webb-hubble-find-massive-star-clusters-emerge-faster",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-hubble-find-massive-star-clusters-emerge-faster",
+    "realUrl_en": "https://www.cosmosweek.com/?article=webb-hubble-find-massive-star-clusters-emerge-faster&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/webb-hubble-find-massive-star-clusters-emerge-faster/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-hubble-find-massive-star-clusters-emerge-faster/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-hubble-find-massive-star-clusters-emerge-faster/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-hubble-find-massive-star-clusters-emerge-faster/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-hubble-find-massive-star-clusters-emerge-faster/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-hubble-find-massive-star-clusters-emerge-faster/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 95,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido",
+    "imageAlt_pt": "Webb e Hubble descobrem que aglomerados estelares massivos emergem mais rápido",
+    "imageAlt_en": "Webb & Hubble find massive star clusters emerge faster",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 29,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4086,7 +4254,7 @@
     "storyKind": "science"
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4217,7 +4385,7 @@
     "storyKind": "science"
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4335,7 +4503,7 @@
     "storyKind": "science"
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "generalized-optical-meta-spanners-empower-arbitrary-light-paths-for-multitasking-optical-manipul",
     "cat": "Física",
     "catCls": "fisica",
@@ -4475,12 +4643,21 @@
     "imageAlt_en": "Generalized optical meta-spanners empower arbitrary light paths for multitasking optical manipulation"
   },
   {
-    "id": 32,
-    "slug": "antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://scx2.b-cdn.net/gfx/news/2026/the-antioxidant-glutat.jpg",
+    "id": 33,
+    "slug": "warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-finds-warmer-str-2.jpg",
     "inline_images": [
+      {
+        "src": "https://scx2.b-cdn.net/gfx/news/2026/study-finds-warmer-str-2.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
       {
         "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
         "alt": "",
@@ -4493,40 +4670,40 @@
     ],
     "video": null,
     "audio": null,
-    "title": "O antioxidante glutationa revela papel crucial no enovelamento proteico",
-    "title_pt": "O antioxidante glutationa revela papel crucial no enovelamento proteico",
-    "title_en": "Antioxidant glutathione discovered to play a key role in proper protein folding",
-    "sub": "Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes notáveis sobre o antioxidante.",
-    "sub_pt": "Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes notáveis sobre o antioxidante.",
-    "sub_en": "In the past several years, Rockefeller University's Kivanç Birsoy and his team in the Laboratory of Metabolic Regulation and Genetics have revealed remarkable details about the.",
-    "excerpt": "Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes notáveis sobre o antioxidante glutationa.",
-    "excerpt_pt": "Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes notáveis sobre o antioxidante glutationa.",
-    "excerpt_en": "In the past several years, Rockefeller University's Kivanç Birsoy and his team in the Laboratory of Metabolic Regulation and Genetics have revealed remarkable details about the antioxidant glutathione, which plays many essential roles in.",
+    "title": "Riachos mais quentes podem estar esgotando as teias alimentares fluviais, liberando mais carbono para a atmosfera",
+    "title_pt": "Riachos mais quentes podem estar esgotando as teias alimentares fluviais, liberando mais carbono para a atmosfera",
+    "title_en": "Warmer streams may be draining river food webs by sending more carbon into the air",
+    "sub": "O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se move através desses ecossistemas.",
+    "sub_pt": "O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se move através desses ecossistemas.",
+    "sub_en": "Rising stream temperatures may be weakening the foundation of river food webs by altering how carbon moves through these watery ecosystems.",
+    "excerpt": "O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se move através desses ecossistemas.",
+    "excerpt_pt": "O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se move através desses ecossistemas.",
+    "excerpt_en": "Rising stream temperatures may be weakening the foundation of river food webs by altering how carbon moves through these watery ecosystems.",
     "highlights": [
-      "Ponto central: Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes.",
-      "Dado-chave: Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes.",
+      "Ponto central: O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se.",
+      "Dado-chave: O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Ponto central: Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes.",
-      "Dado-chave: Nos últimos anos, Kivanç Birsoy, da Universidade Rockefeller, e sua equipe do Laboratório de Regulação Metabólica e Genética revelaram detalhes.",
+      "Ponto central: O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se.",
+      "Dado-chave: O aumento da temperatura dos cursos de água pode estar enfraquecendo a base das cadeias alimentares fluviais, alterando a forma como o carbono se",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Core point: In the past several years, Rockefeller University's Kivanç Birsoy and his team in the Laboratory of Metabolic Regulation and Genetics have revealed.",
-      "Key detail: In the past several years, Rockefeller University's Kivanç Birsoy and his team in the Laboratory of Metabolic Regulation and Genetics have.",
+      "Core point: Rising stream temperatures may be weakening the foundation of river food webs by altering how carbon moves through these watery ecosystems.",
+      "Key detail: Rising stream temperatures may be weakening the foundation of river food webs by altering how carbon moves through these watery ecosystems",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "17 abr 2026",
     "date_pt": "17 abr 2026",
     "date_en": "17 Apr 2026",
-    "time": "20h00",
-    "time_pt": "20h00",
-    "time_en": "20: 00 UTC",
+    "time": "23h00",
+    "time_pt": "23h00",
+    "time_en": "23: 00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-04-17T20:00:01+00:00",
+    "publishedIso": "2026-04-17T23:00:01+00:00",
     "lastModifiedIso": "2026-04-23T23:29:07+00:00",
     "source": "Phys. org Biology",
     "sourceDomain": "phys. org",
@@ -4546,43 +4723,43 @@
     "editorialBandLabel_pt": "Prioridade máxima",
     "editorialBandLabel_en": "Top priority",
     "keywords": [
-      "Biologia",
+      "Ciências da Terra",
       "Phys. org Biology",
       "Cosmos Week",
-      "Descobriu",
-      "se que o antioxidante glutationa desempenha um papel fundamental no enovelamento adequado das proteínas"
+      "Riachos mais quentes podem estar drenando as teias alimentares dos rios",
+      "enviando mais carbono para o ar"
     ],
     "keywords_pt": [
-      "Biologia",
+      "Ciências da Terra",
       "Phys. org Biology",
       "Cosmos Week",
-      "Descobriu",
-      "se que o antioxidante glutationa desempenha um papel fundamental no enovelamento adequado das proteínas"
+      "Riachos mais quentes podem estar drenando as teias alimentares dos rios",
+      "enviando mais carbono para o ar"
     ],
     "keywords_en": [
-      "Biology",
+      "Earth Sciences",
       "Phys. org Biology",
       "Cosmos Week",
-      "Discovered",
-      "It is clear that the antioxidant glutathione plays a fundamental role in the proper folding of proteins"
+      "Warmer streams may be draining river food webs",
+      "sending more carbon into the air"
     ],
-    "srcUrl": "https://phys.org/news/2026-04-antioxidant-glutathione-play-key-role.html",
-    "realUrl": "https://www.cosmosweek.com/?article=antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding",
-    "realUrl_en": "https://www.cosmosweek.com/?article=antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/antioxidant-glutathione-discovered-to-play-a-key-role-in-proper-protein-folding/",
+    "srcUrl": "https://phys.org/news/2026-04-warmer-streams-river-food-webs.html",
+    "realUrl": "https://www.cosmosweek.com/?article=warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air",
+    "realUrl_en": "https://www.cosmosweek.com/?article=warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air/",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
       "en-US"
     ],
     "featured": false,
-    "trending": false,
+    "trending": true,
     "isPreprint": false,
     "geminiReviewed": false,
     "geminiModel": "gemini-2.5-flash",
@@ -4601,12 +4778,12 @@
     "coverageKindLabel_pt": "Jornalismo científico",
     "coverageKindLabel_en": "Science journalism",
     "storyKind": "science",
-    "imageAlt": "O antioxidante glutationa revela papel crucial no enovelamento proteico",
-    "imageAlt_pt": "O antioxidante glutationa revela papel crucial no enovelamento proteico",
-    "imageAlt_en": "Antioxidant glutathione discovered to play a key role in proper protein folding"
+    "imageAlt": "Riachos mais quentes podem estar esgotando as teias alimentares fluviais, liberando mais carbono para a atmosfera",
+    "imageAlt_pt": "Riachos mais quentes podem estar esgotando as teias alimentares fluviais, liberando mais carbono para a atmosfera",
+    "imageAlt_en": "Warmer streams may be draining river food webs by sending more carbon into the air"
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "sun-news-huge-coronal-hole-now-faces-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4755,7 +4932,7 @@
     "imageAlt_en": "Sun news: Huge coronal hole now faces Earth"
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
     "cat": "Física",
     "catCls": "fisica",
@@ -4892,7 +5069,7 @@
     "storyKind": "science"
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -5013,7 +5190,7 @@
     "imageAlt_en": "Cloudy with a chance of metals: Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy"
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "jwst-sees-smoking-gun-for-black-hole-mergers-in-the-virgo-cluster",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -5195,7 +5372,7 @@
     "imageAlt_en": "JWST Sees Smoking Gun for Black Hole Mergers in the Virgo Cluster"
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -5323,7 +5500,7 @@
     "imageAlt_en": "Torsion balances set strongest direct limits yet on ultralight dark matter"
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "the-identification-of-cs2-and-evidence-for-carbon-sulfur-chemical-coupling-in-a-warm-giant-exopl",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -5444,7 +5621,7 @@
     "storyKind": "science"
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "planets-collide-around-young-sun-like-star",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -5570,172 +5747,5 @@
     "imageAlt": "Planetas Colidem em Torno de uma Estrela Jovem Semelhante ao Sol",
     "imageAlt_pt": "Planetas Colidem em Torno de uma Estrela Jovem Semelhante ao Sol",
     "imageAlt_en": "Planets Collide Around Young, Sun-like Star"
-  },
-  {
-    "id": 40,
-    "slug": "first-light-for-poet-shining-sun-light-on-exoplanet-research",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://cdn.eso.org/images/screen/eso2605a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.eso.org/images/news/eso2605a.jpg",
-        "alt": "O telescópio principal do PoET",
-        "alt_pt": "O telescópio principal do PoET",
-        "alt_en": "The PoET main telescope",
-        "caption": "O telescópio principal do PoET",
-        "caption_pt": "O telescópio principal do PoET",
-        "caption_en": "The PoET main telescope"
-      },
-      {
-        "src": "https://cdn.eso.org/images/news/eso2605b.jpg",
-        "alt": "A montagem do telescópio PoET",
-        "alt_pt": "A montagem do telescópio PoET",
-        "alt_en": "The mount of the PoET telescope",
-        "caption": "A montagem do telescópio PoET",
-        "caption_pt": "A montagem do telescópio PoET",
-        "caption_en": "The mount of the PoET telescope"
-      },
-      {
-        "src": "https://cdn.eso.org/images/news/eso2605c.jpg",
-        "alt": "A célula espelhada do telescópio principal do PoET",
-        "alt_pt": "A célula espelhada do telescópio principal do PoET",
-        "alt_en": "The mirror cell of the PoET main telescope",
-        "caption": "A célula espelhada do telescópio principal do PoET",
-        "caption_pt": "A célula espelhada do telescópio principal do PoET",
-        "caption_en": "The mirror cell of the PoET main telescope"
-      },
-      {
-        "src": "https://cdn.eso.org/images/news/eso2605d.jpg",
-        "alt": "O telescópio PoET apontando para o Sol",
-        "alt_pt": "O telescópio PoET apontando para o Sol",
-        "alt_en": "The PoET telescope pointing at the Sun",
-        "caption": "O telescópio PoET apontando para o Sol",
-        "caption_pt": "O telescópio PoET apontando para o Sol",
-        "caption_en": "The PoET telescope pointing at the Sun"
-      },
-      {
-        "src": "https://cdn.eso.org/images/news/eso2605e.jpg",
-        "alt": "A cúpula do PoET",
-        "alt_pt": "A cúpula do PoET",
-        "alt_en": "The PoET dome",
-        "caption": "A cúpula do PoET",
-        "caption_pt": "A cúpula do PoET",
-        "caption_en": "The PoET dome"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Primeira Luz para o PoET: A Contribuição da Luz Solar na Busca por Exoplanetas",
-    "title_pt": "Primeira Luz para o PoET: A Contribuição da Luz Solar na Busca por Exoplanetas",
-    "title_en": "First light for PoET: shining (sun)light on exoplanet research",
-    "sub": "O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações, marcando um avanço na pesquisa de.",
-    "sub_pt": "O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações, marcando um avanço na pesquisa de.",
-    "sub_en": "The Paranal solar ESPRESSO Telescope, installed at the European Southern Observatory's Paranal site in Chile, has made its first observations.",
-    "excerpt": "O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações, marcando um avanço na pesquisa de exoplanetas.",
-    "excerpt_pt": "O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações, marcando um avanço na pesquisa de exoplanetas.",
-    "excerpt_en": "The Paranal solar ESPRESSO Telescope, installed at the European Southern Observatory's Paranal site in Chile, has made its first observations.",
-    "date": "09 abr 2026",
-    "date_pt": "09 abr 2026",
-    "date_en": "09 Apr 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-09T12:00:00+00:00",
-    "lastModifiedIso": "2026-04-22T07:49:26+00:00",
-    "source": "ESO Press Releases",
-    "sourceDomain": "www. eso. org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Exoplanetas",
-      "ESO Press Releases",
-      "Cosmos Week",
-      "Primeira luz para o PoET",
-      "luz brilhante (do sol) na pesquisa de exoplanetas"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "ESO Press Releases",
-      "Cosmos Week",
-      "Primeira luz para o PoET",
-      "luz brilhante (do sol) na pesquisa de exoplanetas"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "ESO Press Releases",
-      "Cosmos Week",
-      "First light for PoET",
-      "bright light (from the sun) in exoplanet research"
-    ],
-    "srcUrl": "https://www.eso.org/public/news/eso2605/",
-    "realUrl": "https://www.cosmosweek.com/?article=first-light-for-poet-shining-sun-light-on-exoplanet-research",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=first-light-for-poet-shining-sun-light-on-exoplanet-research",
-    "realUrl_en": "https://www.cosmosweek.com/?article=first-light-for-poet-shining-sun-light-on-exoplanet-research&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/first-light-for-poet-shining-sun-light-on-exoplanet-research/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/first-light-for-poet-shining-sun-light-on-exoplanet-research/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/first-light-for-poet-shining-sun-light-on-exoplanet-research/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/first-light-for-poet-shining-sun-light-on-exoplanet-research/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/first-light-for-poet-shining-sun-light-on-exoplanet-research/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/first-light-for-poet-shining-sun-light-on-exoplanet-research/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 90,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    },
-    "imageAlt": "Primeira Luz para o PoET: A Contribuição da Luz Solar na Busca por Exoplanetas",
-    "imageAlt_pt": "Primeira Luz para o PoET: A Contribuição da Luz Solar na Busca por Exoplanetas",
-    "imageAlt_en": "First light for PoET: shining (sun)light on exoplanet research",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science",
-    "highlights": [
-      "Ponto central: O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações.",
-      "Dado-chave: O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações.",
-      "Dado-chave: O Telescópio solar ESPRESSO do Paranal (PoET), instalado no Observatório Europeu do Sul (ESO), no Chile, realizou suas primeiras observações.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The Paranal solar ESPRESSO Telescope, installed at the European Southern Observatory's Paranal site in Chile, has made its first observations.",
-      "Key detail: The Paranal solar ESPRESSO Telescope, installed at the European Southern Observatory's Paranal site in Chile, has made its first observations.",
-      "Institutional origin: separate announcement from evidence."
-    ]
   }
 ]
