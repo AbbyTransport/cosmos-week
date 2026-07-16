@@ -1,6 +1,164 @@
 [
   {
     "id": 1,
+    "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/psd/ares/figure%202.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "title_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "title_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+    "sub": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
+    "sub_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
+    "sub_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive.",
+    "excerpt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
+    "excerpt_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
+    "excerpt_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life.",
+    "body": "<p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a formar a vida. 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda está uma imagem de elétrons retroespalhados com dois clastos C1 748 circulados.</p><p>Os cientistas também conseguiram detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes de poderem ser estudados. Sais semelhantes foram identificados em amostras trazidas dos asteróides Bennu e Ryugu pela missão OSIRIS-REx da NASA e pela missão Hayabusa2 da JAXA (Agência de Exploração Aeroespacial do Japão).</p><p>Os fragmentos dos pedaços mais ricos em sal deste meteorito são bastante comparáveis ​​às amostras retornadas pelas missões Hayabusa2 e OSIRIS-REx”, disse Mike Zolensky, pesquisador de meteoritos da NASA Johnson e coautor do estudo. É apenas mais uma prova de que os blocos químicos de construção da vida poderiam ter sido entregues, e ainda estão a ser entregues, à Terra hoje por estes fragmentos de asteróides carbonáceos”, disse Glavin, que foi co-investigador da OSIRIS-REx, liderando uma equipa.</p><p>Os astrônomos reconstruíram a jornada do meteorito pelo espaço, encontrando evidências de que ele pode ter se originado da família de asteroides Erigone no cinturão de asteroides interno, lar do asteroide Donaldjohanson, que foi visitado em 2025 pela espaçonave Lucy da NASA.</p><p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química dos asteróides primitivos e os ingredientes que podem ter ajudado a tornar a vida. S e os ingredientes que podem ter ajudado a tornar a vida possível em todo o início do sistema solar.</p><p>Os cientistas também foram capazes de detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes que pudessem ser estudados.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a formar a vida. 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda está uma imagem de elétrons retroespalhados com dois clastos C1 748 circulados.</p><p>Os cientistas também conseguiram detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes de poderem ser estudados. Sais semelhantes foram identificados em amostras trazidas dos asteróides Bennu e Ryugu pela missão OSIRIS-REx da NASA e pela missão Hayabusa2 da JAXA (Agência de Exploração Aeroespacial do Japão).</p><p>Os fragmentos dos pedaços mais ricos em sal deste meteorito são bastante comparáveis ​​às amostras retornadas pelas missões Hayabusa2 e OSIRIS-REx”, disse Mike Zolensky, pesquisador de meteoritos da NASA Johnson e coautor do estudo. É apenas mais uma prova de que os blocos químicos de construção da vida poderiam ter sido entregues, e ainda estão a ser entregues, à Terra hoje por estes fragmentos de asteróides carbonáceos”, disse Glavin, que foi co-investigador da OSIRIS-REx, liderando uma equipa.</p><p>Os astrônomos reconstruíram a jornada do meteorito pelo espaço, encontrando evidências de que ele pode ter se originado da família de asteroides Erigone no cinturão de asteroides interno, lar do asteroide Donaldjohanson, que foi visitado em 2025 pela espaçonave Lucy da NASA.</p><p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química dos asteróides primitivos e os ingredientes que podem ter ajudado a tornar a vida. S e os ingredientes que podem ter ajudado a tornar a vida possível em todo o início do sistema solar.</p><p>Os cientistas também foram capazes de detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes que pudessem ser estudados.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 6 min read NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids C1 clasts in Hillsborough: On the left is a back-scattered electron image with two C1 748 clasts. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth’s atmosphere before they can be studied.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA’s OSIRIS-REx mission and JAXA’s (Japan Aerospace Exploration Agency) Hayabusa2 mission. The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,” said Mike Zolensky, a meteorite.</p><p>It’s just more proof that the chemical building blocks of life could have been delivered, and are still being delivered, to Earth today by these carbonaceous asteroid fragments,”. Astronomers reconstructed the meteorite’s journey through space, finding evidence that it may have originated from the Erigone asteroid family in the inner asteroid belt, home to.</p><p>NASA/SETI A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth&#x27;s atmosphere before they can be studied.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA&#x27;s OSIRIS-REx mission and JAXA&#x27;s (Japan Aerospace Exploration Agency) Hayabusa2 mission. The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,&quot; said Mike Zolensky, a meteorite.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "15 jul 2026",
+    "date_pt": "15 jul 2026",
+    "date_en": "15 Jul 2026",
+    "time": "19h28",
+    "time_pt": "19h28",
+    "time_en": "19: 28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-15T19:28:53+00:00",
+    "lastModifiedIso": "2026-07-16T17:20:35+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Study of Pristine Meteorite Adds to History of Ancient Asteroids"
+    ],
+    "srcUrl": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "imageAlt_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "imageAlt_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -149,7 +307,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -170,19 +328,19 @@
     "body_pt": "<p>Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.</p><p>3d Webb no sistema solar 3d Podcasts Webb Image Sonifications Equipe de primeiras imagens de Webb Equipe internacional Pessoas de Webb Mais Para a mídia Para cientistas Para educadores Para se divertir / aprender 6 min Leia Webb da NASA descobre planeta oculto no famoso sistema.</p><p>Créditos: Ilustração: NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente. Então, esse sinal revelador apareceu nos dados onde não esperávamos. ” Este sinal era uma série de picos e depressões nos dados espectroscópicos, onde a equipe esperava ver um espectro suave da luz refletida na poeira.</p><p>Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado de exoplaneta, escondido dentro de um dos telescópios espaciais Science James Webb (JWST). Ilustração: NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Sistema familiar, nova surpresa Localizado a 63 anos-luz da Terra e com cerca de 23 milhões de anos, Beta Pictoris é um sistema próximo na Via Láctea que oferece um raro vislumbre das interações entre planetas.</p><p>Então, este sinal revelador apareceu nos dados onde não esperávamos. &quot; Este sinal era uma série de altos e baixos nos dados espectroscópicos onde a equipe esperava ver um espectro suave da luz refletida na poeira. A equipe determinou que a velocidade, posição e alinhamento do planeta com o disco de detritos eram consistentes com algo que orbita Beta Pictoris, em vez de uma estrela de fundo ou anã marrom com monóxido de carbono em sua atmosfera.</p><p>Webb é um programa internacional liderado pela NASA com os seus parceiros, ESA (Agência Espacial Europeia) e CSA (Agência Espacial Canadense).</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way galaxy. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. 3d Webb in 3d Solar System Podcasts Webb Image Sonifications Webb’s First Images Team International Team People Of Webb More For the Media For Scientists For Educators For. NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an.</p><p>Then, this telltale signal appeared in the data where we didn’t expect it. ” This signal was a series of peaks and troughs within the spectroscopic data where the team expected to. Astronomers using NASA&#x27;s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the Science James Webb Space.</p><p>3d Webb in 3d Solar System Podcasts Webb Image Sonifications Webb&#x27;s First Images Team International Team People Of Webb More For the Media For Scientists For Educators For. NASA, ESA, CSA, STScI, Ralf Crawford (STScI) NASA Webb Mission Team The young, nearby star Beta Pictoris was already known to host two giant planets: Beta Pictoris.</p><p>NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Familiar system, new surprise Located 63 light-years from Earth and about 23 million years old, Beta Pictoris is a nearby system in. Although astronomers were not searching for another planet with Webb, Beta Pictoris d emerged while the team was using the telescope’s NIRSpec (Near-Infrared Spectrograph) to.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Then, this telltale signal appeared in the data where we didn’t expect it. &quot; This signal was a series of peaks and troughs within the spectroscopic data where the team expected to. The team determined the planet’s speed, position, and alignment with the debris disk were all consistent with something orbiting Beta Pictoris rather than a background star or.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
+      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
+      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one.",
+      "Key detail: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -270,7 +428,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -453,7 +611,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -611,7 +769,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "heat-dome-broils-the-western-u-s",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -755,7 +913,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -789,19 +947,19 @@
     "body_pt": "<p>Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo. Para responder a esta questão, os cientistas precisam de detetar e estudar buracos negros supermassivos a grandes distâncias, que existiram muito antes na história do Universo.</p><p>NASA, Ralf Crawford (STScI) Os buracos negros são melhor estudados procurando a luz emitida pelo seu disco de acreção, a matéria que gira à sua volta antes de ser consumida. Para ver este vídeo, ative o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5.</p><p>Esta visualização mostra o número médio de eventos de perturbação de marés que o Telescópio Espacial Nancy Grace Roman da NASA prevê detectar em um ano, com base em simulações. Editora de 2026 Ashley Balzer Contato Ashley Balzer ashley. m. balzer@nasa. gov Localização Goddard Space Flight Center Termos relacionados Nancy Grace Telescópio espacial romano Astrofísica Buracos negros Galáxias.</p><p>Uma nova pesquisa sugere o Telescópio Espacial Nancy Grace Roman da NASA, que está prestes a ser lançado em agosto. O Telescópio Espacial Romano será transformador para a ciência transitória”, disse o autor principal Mitchell Karmen, da Universidade Johns Hopkins, estudante de graduação e pesquisador graduado da National Science Foundation.</p><p>Esta pesquisa cobrirá cerca de 18 graus quadrados no céu, uma área equivalente a 90 luas cheias, numa cadência regular. Mas buracos negros mais leves, com cerca de 100 mil a 100 milhões de sóis, podem destruir uma estrela antes de consumi-la, criando um farol que brilha ao longo de algumas semanas antes de desaparecer gradualmente.</p><p>Para assistir a este vídeo, habilite o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. NASA, Ralf Crawford (STScI) Black holes are best studied by looking for the light emitted from their accretion disk, the matter that swirls around them before being consumed. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video This visualization shows the average number of tidal disruption.</p><p>2026 Editor Ashley Balzer Contact Ashley Balzer ashley. m. balzer@nasa. gov Location Goddard Space Flight Center Related Terms Nancy Grace Roman Space Telescope Astrophysics Black. NASA’s Nancy Grace Roman Space Telescope, which is on track to launch Aug.</p><p>The Roman Space Telescope is going to be transformative for transient science,” said lead author Mitchell Karmen of the Johns Hopkins University, a graduate student and National. This survey will cover about 18 square degrees on the sky, an area equivalent to 90 full moons, at a regular cadence.</p><p>But lighter black holes of about 100, 000 to 100 million Suns can shred a star before consuming it, creating a beacon that brightens over a couple of weeks before gradually fading. Karmen and his colleagues modeled these and other effects to predict how many tidal disruption events Roman could observe, as well as other observatories like the ground-based.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Roman will observe near-infrared wavelengths of light. As a result, Roman is inherently optimized to detect TDEs whose light traveled anywhere from 8 billion to 11 billion years to reach us.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo.",
+      "Dado-chave: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo.",
+      "Dado-chave: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: How do black holes at the center of galaxies form and grow over time",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: How do black holes at the center of galaxies form and grow over time. To answer this question, scientists need to detect and study supermassive black.",
+      "Key detail: How do black holes at the center of galaxies form and grow over time",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
@@ -889,7 +1047,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -910,18 +1068,19 @@
     "body_pt": "<p>Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel&#x27;dovich são afetadas por vieses de seleção. Estes catálogos incluem preferencialmente sistemas com alto teor de gás e brilho superficial.</p><p>Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel&#x27;dovich (SZ) são afetadas por vieses de seleção. Excluindo objetos com conteúdo de gás esgotado, clusters de baixa fração de gás (LGFCs), poderiam levar a uma amostragem incompleta.</p><p>Nosso objetivo é investigar a abundância e as propriedades da população de LGFCs usando simulações hidrodinâmicas The Three Hundred, com foco no código Gadget-X. Em particular, estudamos outliers na relação $f_{\\mathrm{g}, 500} - M_{500}$, influências ambientais e seu comportamento nas principais relações de escala, com foco no observável Compton-Y.</p><p>Analisamos uma amostra de $N_{\\mathrm{tot}} = 9858$ objetos simulados dos Trezentos, na banda de redshift $z \\in [0. LGFCs são selecionados estatisticamente como outliers da relação $f_{\\mathrm{g}, 500}-M_{500}$.</p><p>Finalmente, estudamos como a temperatura, a entropia e as relações de escala dos parâmetros Compton esféricos são afetadas pela inclusão de LGFCs. Perfis radiais de LGFCs mostram menores concentrações de gases nas regiões centrais e temperaturas mais altas, sugerindo um ICM mais difuso e aquecido.</p><p>Ao contrário das observações, os valores $Y_{\\mathrm{sph}, 500}$ dos LGFCs não mostram nenhum desvio significativo da população em geral.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.12607v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Galaxy cluster samples based on X-ray and Sunyaev-Zel&#x27;dovich observations are affected by selection biases. These catalogs preferentially include systems with high gas content and surface brightness. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It is relevant because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Galaxy cluster samples based on X-ray and Sunyaev-Zel&#x27;dovich (SZ) observations are affected by selection biases. These catalogs preferentially include systems with high gas content and surface brightness.</p><p>Excluding objects with depleted gas content, low-gas-fraction clusters (LGFCs), could lead to an incomplete sampling. We aim to investigate the abundance and the properties of the LGFCs population using The Three Hundred hydrodynamical simulations, focusing on the Gadget-X code.</p><p>In particular, we study outliers in the $f_{\\mathrm{g}, 500} - M_{500}$ relation, environmental influences, and their behavior in key scaling relations, with a focus on the. LGFCs are selected statistically as outliers of the $f_{\\mathrm{g}, 500}-M_{500}$ relation.</p><p>Finally, we study how the temperature, entropy, and spherical Compton parameter scaling relations are affected by the inclusion of LGFCs. Radial profiles of LGFCs show lower gas concentrations in the core regions and higher temperatures, suggesting a more diffuse and heated ICM.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Contrary to observations, the $Y_{\\mathrm{sph}, 500}$ values of LGFCs show no significant deviation from the general population. Nevertheless, we cannot rule out that these differences are partly driven by the mass incompleteness at the low-mass end and the environmental bias of our simulated sample.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.12607v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
+      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
+      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases.",
+      "Key detail: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases",
+      "Result not yet peer reviewed."
     ],
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
@@ -1009,127 +1168,6 @@
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
     "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
-    "slug": "nasa-study-points-to-smoother-air-taxi-rides",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "title_pt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "title_en": "NASA Study Points to Smoother Air Taxi Rides",
-    "sub": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais.",
-    "sub_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais.",
-    "sub_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short.",
-    "excerpt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e.",
-    "excerpt_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e.",
-    "excerpt_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and.",
-    "body": "<p>Ninguém quer entrar em uma aeronave desconfortável. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem [. ].</p><p>3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Matt Kamlet, funcionário do Armstrong Flight Research Center da NASA em Edwards, Califórnia, senta-se no topo do simulador de qualidade de viagem de passageiros de realidade. A NASA concluiu recentemente um estudo de vários anos para entender como o movimento grande e repentino do táxi aéreo afeta o conforto da viagem.</p><p>NASA/Christopher LC Clark Ninguém quer entrar em uma aeronave desconfortável. A investigação da NASA poderá ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de descolagem e aterragem verticais destinadas a viagens curtas, a compreender a relação entre conforto e vontade de voar.</p><p>É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que possam fazer com que os viajantes se sintam bem. A NASA conseguiu coletar esses dados submetendo seus próprios funcionários a alguns voos virtuais difíceis.</p><p>Suas reações estão dando à NASA uma nova visão sobre como o movimento da aeronave influencia o conforto e a confiança no vôo, por exemplo, que certos tipos de movimentos grandes e repentinos podem ser especialmente incômodos. Utilizando esses dados, a equipa desenvolveu novos modelos que ligam esses movimentos repentinos à vontade dos passageiros de voar.</p><p>Os dados da NASA permitem aos investigadores estimar quando os passageiros podem começar a sentir-se desconfortáveis ​​à medida que o movimento aumenta, dando-lhes a capacidade de moldar os designs e operações das aeronaves para minimizar o impacto dessas situações.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Ninguém quer entrar em uma aeronave desconfortável. É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que podem [. ].</p><p>3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Matt Kamlet, funcionário do Armstrong Flight Research Center da NASA em Edwards, Califórnia, senta-se no topo do simulador de qualidade de viagem de passageiros de realidade. A NASA concluiu recentemente um estudo de vários anos para entender como o movimento grande e repentino do táxi aéreo afeta o conforto da viagem.</p><p>NASA/Christopher LC Clark Ninguém quer entrar em uma aeronave desconfortável. A investigação da NASA poderá ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de descolagem e aterragem verticais destinadas a viagens curtas, a compreender a relação entre conforto e vontade de voar.</p><p>É aí que entra a NASA, com dados que podem ajudar a identificar como planejar viagens de táxi aéreo que possam fazer com que os viajantes se sintam bem. A NASA conseguiu coletar esses dados submetendo seus próprios funcionários a alguns voos virtuais difíceis.</p><p>Suas reações estão dando à NASA uma nova visão sobre como o movimento da aeronave influencia o conforto e a confiança no vôo, por exemplo, que certos tipos de movimentos grandes e repentinos podem ser especialmente incômodos. Utilizando esses dados, a equipa desenvolveu novos modelos que ligam esses movimentos repentinos à vontade dos passageiros de voar.</p><p>Os dados da NASA permitem aos investigadores estimar quando os passageiros podem começar a sentir-se desconfortáveis ​​à medida que o movimento aumenta, dando-lhes a capacidade de moldar os designs e operações das aeronaves para minimizar o impacto dessas situações.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Matt Kamlet, an employee at NASA’s Armstrong Flight Research Center in Edwards, California, sits.</p><p>NASA recently completed a multi-year study to understand how large, sudden air taxi motion affects ride comfort. NASA/Christopher LC Clark No one wants to get into an uncomfortable aircraft.</p><p>NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and. That’s where NASA comes in, with data that can help identify how to plan air taxi rides that can keep travelers feeling good.</p><p>NASA was able to gather that data by putting its own employees through some rough virtual flights. Their reactions are giving NASA new insight into how aircraft motion influences comfort and confidence in flight, for instance, that certain kinds of large, sudden motions can be.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Using that data, the team developed new models linking those sudden motions to passengers’ willingness to fly. The NASA data allows researchers to estimate when passengers may begin to feel uncomfortable as motion increases, giving them the ability to shape aircraft designs and operations.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
-      "Dado-chave: Ninguém quer entrar em uma aeronave desconfortável",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
-      "Dado-chave: Ninguém quer entrar em uma aeronave desconfortável",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing.",
-      "Key detail: No one wants to get into an uncomfortable aircraft",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 jul 2026",
-    "date_pt": "13 jul 2026",
-    "date_en": "13 Jul 2026",
-    "time": "21h46",
-    "time_pt": "21h46",
-    "time_en": "21: 46 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-13T21:46:11+00:00",
-    "lastModifiedIso": "2026-07-14T17:03:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA study points to smoother air taxi rides"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-study-points-to-smoother-air-taxi-rides",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-study-points-to-smoother-air-taxi-rides",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-study-points-to-smoother-air-taxi-rides&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-points-to-smoother-air-taxi-rides/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-points-to-smoother-air-taxi-rides/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "imageAlt_pt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "imageAlt_en": "NASA Study Points to Smoother Air Taxi Rides",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
@@ -1486,12 +1524,12 @@
     "body_en": "<p>Black holes are the sources of the strongest gravitational fields in the present-day Universe, offering unparalleled opportunities to test Einstein&#x27;s theory of General Relativity in the strong-field regime. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>The significance lies in astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Have an idea for a project that will add value for arXiv&#x27;s community. In this talk, I will examine the prospect of sending small spacecraft on an interstellar mission to the nearest black hole.</p><p>While highly speculative and fraught with technical challenges, such an endeavor is not entirely beyond the realm of possibility. Although the necessary technology does not yet exist, it may become available within the next 20 to 30 years.</p><p>The mission itself could span 80 to 100 years, yet the scientific return would be profound and potentially unattainable through other means.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.10982v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a",
+      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a",
+      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [

@@ -1,6 +1,161 @@
 [
   {
     "id": 1,
+    "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/psd/ares/figure%202.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "title_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "title_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+    "sub": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
+    "sub_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
+    "sub_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive.",
+    "excerpt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
+    "excerpt_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
+    "excerpt_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life.",
+    "highlights": [
+      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "15 jul 2026",
+    "date_pt": "15 jul 2026",
+    "date_en": "15 Jul 2026",
+    "time": "19h28",
+    "time_pt": "19h28",
+    "time_en": "19: 28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-15T19:28:53+00:00",
+    "lastModifiedIso": "2026-07-16T17:20:35+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Study of Pristine Meteorite Adds to History of Ancient Asteroids"
+    ],
+    "srcUrl": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "imageAlt_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
+    "imageAlt_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -146,7 +301,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -164,19 +319,19 @@
     "excerpt_pt": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.",
     "excerpt_en": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way galaxy.",
     "highlights": [
-      "Em foco: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
+      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
+      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one.",
+      "Key detail: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -264,7 +419,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -444,7 +599,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -599,7 +754,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "heat-dome-broils-the-western-u-s",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -740,7 +895,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -771,19 +926,19 @@
     "excerpt_pt": "Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo? . Para responder a esta questão, os cientistas precisam de detetar e estudar buracos negros supermassivos a grandes distâncias, que existiram muito antes na história do.",
     "excerpt_en": "How do black holes at the center of galaxies form and grow over time? . To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history.",
     "highlights": [
-      "Em foco: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo.",
+      "Dado-chave: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo.",
+      "Dado-chave: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: How do black holes at the center of galaxies form and grow over time",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: How do black holes at the center of galaxies form and grow over time. To answer this question, scientists need to detect and study supermassive black.",
+      "Key detail: How do black holes at the center of galaxies form and grow over time",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
@@ -871,7 +1026,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -889,18 +1044,19 @@
     "excerpt_pt": "Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção. Estes catálogos incluem preferencialmente sistemas com alto teor de gás e brilho superficial.",
     "excerpt_en": "Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases. These catalogs preferentially include systems with high gas content and surface brightness.",
     "highlights": [
-      "Em foco: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
+      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
+      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases.",
+      "Key detail: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases",
+      "Result not yet peer reviewed."
     ],
     "date": "14 jul 2026",
     "date_pt": "14 jul 2026",
@@ -988,124 +1144,6 @@
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
     "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
-    "slug": "nasa-study-points-to-smoother-air-taxi-rides",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "title_pt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "title_en": "NASA Study Points to Smoother Air Taxi Rides",
-    "sub": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais.",
-    "sub_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais.",
-    "sub_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short.",
-    "excerpt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e.",
-    "excerpt_pt": "Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de decolagem e pouso verticais destinadas a viagens curtas, a compreender a relação entre conforto e.",
-    "excerpt_en": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips, understand the relationship between comfort and.",
-    "highlights": [
-      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
-      "Dado-chave: Ninguém quer entrar em uma aeronave desconfortável",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Ninguém quer entrar em uma aeronave desconfortável. A pesquisa da NASA poderia ajudar a indústria emergente de táxis aéreos, pequenas aeronaves de.",
-      "Dado-chave: Ninguém quer entrar em uma aeronave desconfortável",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing.",
-      "Key detail: No one wants to get into an uncomfortable aircraft",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 jul 2026",
-    "date_pt": "13 jul 2026",
-    "date_en": "13 Jul 2026",
-    "time": "21h46",
-    "time_pt": "21h46",
-    "time_en": "21: 46 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-13T21:46:11+00:00",
-    "lastModifiedIso": "2026-07-14T17:03:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA aponta para viagens de táxi aéreo mais suaves"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA study points to smoother air taxi rides"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-study-points-to-smoother-air-taxi-rides",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-study-points-to-smoother-air-taxi-rides",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-study-points-to-smoother-air-taxi-rides&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-points-to-smoother-air-taxi-rides/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-points-to-smoother-air-taxi-rides/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-points-to-smoother-air-taxi-rides/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "imageAlt_pt": "Estudo da NASA aponta para viagens de táxi aéreo mais suaves",
-    "imageAlt_en": "NASA Study Points to Smoother Air Taxi Rides",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
@@ -1453,12 +1491,12 @@
     "excerpt_en": "Black holes are the sources of the strongest gravitational fields in the present-day Universe, offering unparalleled opportunities to test Einstein's theory of General Relativity in the strong-field regime.",
     "highlights": [
       "Ponto central: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a",
+      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a",
+      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
