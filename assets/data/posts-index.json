@@ -1,6 +1,451 @@
 [
   {
     "id": 1,
+    "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/nancy-grace-roman-clean-room.jpg?mtime=1731605990",
+    "inline_images": [
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x512_crop_center-center_82_line/installing-romans-detector-cover.jpg.webp",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x512_crop_center-center_82_line/installing-romans-detector-cover.jpg",
+        "alt": "Instalando a tampa do detector Roman",
+        "alt_pt": "Instalando a tampa do detector Roman",
+        "alt_en": "Installing Roman's detector cover",
+        "caption": "Instalando a tampa do detector Roman",
+        "caption_pt": "Instalando a tampa do detector Roman",
+        "caption_en": "Installing Roman's detector cover"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_82_line/simulated-roman-observation.jpg.webp",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_82_line/simulated-roman-observation.jpg",
+        "alt": "Observação romana simulada",
+        "alt_pt": "Observação romana simulada",
+        "alt_en": "Simulated Roman observation",
+        "caption": "Observação romana simulada",
+        "caption_pt": "Observação romana simulada",
+        "caption_en": "Simulated Roman observation"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x432_crop_center-center_82_line/roman-vs-hubble-views.jpg.webp",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x432_crop_center-center_82_line/roman-vs-hubble-views.jpg",
+        "alt": "Visualizações Roman vs Hubble",
+        "alt_pt": "Visualizações Roman vs Hubble",
+        "alt_en": "Roman vs Hubble views",
+        "caption": "Visualizações Roman vs Hubble",
+        "caption_pt": "Visualizações Roman vs Hubble",
+        "caption_en": "Roman vs Hubble views"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x949_crop_center-center_82_line/nancy-grace-roman.jpg",
+        "alt": "Nancy Grace Romana",
+        "alt_pt": "Nancy Grace Romana",
+        "alt_en": "Nancy Grace Roman",
+        "caption": "Nancy Grace Romana",
+        "caption_pt": "Nancy Grace Romana",
+        "caption_en": "Nancy Grace Roman"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/elt-3d-rendering.jpg",
+        "alt": "Elt renderização 3d",
+        "alt_pt": "Elt renderização 3d",
+        "alt_en": "Elt 3d rendering",
+        "caption": "Elt renderização 3d",
+        "caption_pt": "Elt renderização 3d",
+        "caption_en": "Elt 3d rendering"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lançamento do Telescópio Espacial Nancy Grace Roman: O que esperar",
+    "title_pt": "Lançamento do Telescópio Espacial Nancy Grace Roman: O que esperar",
+    "title_en": "The Nancy Grace Roman Space Telescope launch: What to expect",
+    "sub": "O próximo observatório orbital emblemático da NASA irá remodelar o que sabemos sobre os planetas em toda a galáxia.",
+    "sub_pt": "O próximo observatório orbital emblemático da NASA irá remodelar o que sabemos sobre os planetas em toda a galáxia.",
+    "sub_en": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
+    "excerpt": "O próximo observatório orbital emblemático da NASA irá remodelar o que sabemos sobre os planetas em toda a galáxia.",
+    "excerpt_pt": "O próximo observatório orbital emblemático da NASA irá remodelar o que sabemos sobre os planetas em toda a galáxia.",
+    "excerpt_en": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
+    "highlights": [
+      "Em foco: O próximo observatório orbital emblemático da NASA irá remodelar o que sabemos sobre os planetas em toda a galáxia",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_pt": [
+      "Em foco: O próximo observatório orbital emblemático da NASA irá remodelar o que sabemos sobre os planetas em toda a galáxia",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_en": [
+      "Focus: NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy",
+      "Detail: Science reporting: verify primary technical documentation",
+      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T14:00:00+00:00",
+    "lastModifiedIso": "2026-07-17T16:58:55+00:00",
+    "source": "The Planetary Society",
+    "sourceDomain": "www. planetary. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "The Planetary Society",
+      "Cosmos Week",
+      "Lançamento do Telescópio Espacial Nancy Grace Roman",
+      "O que esperar"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "The Planetary Society",
+      "Cosmos Week",
+      "Lançamento do Telescópio Espacial Nancy Grace Roman",
+      "O que esperar"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "The Planetary Society",
+      "Cosmos Week",
+      "Launch of the Nancy Grace Roman Space Telescope",
+      "What to expect"
+    ],
+    "srcUrl": "https://www.planetary.org/articles/the-nancy-grace-roman-space-telescope-launch-what-to-expect",
+    "realUrl": "https://www.cosmosweek.com/?article=the-nancy-grace-roman-space-telescope-launch-what-to-expect",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=the-nancy-grace-roman-space-telescope-launch-what-to-expect",
+    "realUrl_en": "https://www.cosmosweek.com/?article=the-nancy-grace-roman-space-telescope-launch-what-to-expect&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-launch-what-to-expect/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-launch-what-to-expect/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-nancy-grace-roman-space-telescope-launch-what-to-expect/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-launch-what-to-expect/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-launch-what-to-expect/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-nancy-grace-roman-space-telescope-launch-what-to-expect/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 90,
+    "scoreBreakdown": {
+      "source": 83,
+      "evidence": 54,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Lançamento do Telescópio Espacial Nancy Grace Roman: O que esperar",
+    "imageAlt_pt": "Lançamento do Telescópio Espacial Nancy Grace Roman: O que esperar",
+    "imageAlt_en": "The Nancy Grace Roman Space Telescope launch: What to expect",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
+    "title_pt": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
+    "title_en": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
+    "sub": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "sub_pt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "sub_en": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+    "excerpt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "excerpt_pt": "Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande número de tartarugas marinhas.",
+    "excerpt_en": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
+    "highlights": [
+      "Em foco: Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os extensos lodaçais, as praias arenosas e os mangais do arquipélago dos Bijagós sustentam uma variedade de aves limícolas migratórias e um grande",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T04:01:00+00:00",
+    "lastModifiedIso": "2026-07-17T16:58:55+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Um tesouro de biodiversidade alimentado pelas marés na Guiné",
+      "Bissau"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Um tesouro de biodiversidade alimentado pelas marés na Guiné",
+      "Bissau"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A treasure trove of tide-fed biodiversity in Guinea",
+      "Bissau"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "realUrl": "https://www.cosmosweek.com/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
+    "realUrl_en": "https://www.cosmosweek.com/?article=a-tide-fueled-trove-of-biodiversity-in-guinea-bissau&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
+    "imageAlt_pt": "Um tesouro de biodiversidade alimentado pelas marés na Guiné-Bissau",
+    "imageAlt_en": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Medições de spin de buraco negro por espectroscopia de reflexão de raios X: critérios de qualidade e recomendações da comunidade",
+    "title_pt": "Medições de spin de buraco negro por espectroscopia de reflexão de raios X: critérios de qualidade e recomendações da comunidade",
+    "title_en": "Black-Hole Spin Measurements from X-ray Reflection Spectroscopy: Quality Criteria and Community Recommendations",
+    "sub": "A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em acreção.",
+    "sub_pt": "A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em acreção.",
+    "sub_en": "X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes.",
+    "excerpt": "A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em acreção.",
+    "excerpt_pt": "A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em acreção.",
+    "excerpt_en": "X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes.",
+    "highlights": [
+      "Em foco: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "15 jul 2026",
+    "date_pt": "15 jul 2026",
+    "date_en": "15 Jul 2026",
+    "time": "21h16",
+    "time_pt": "21h16",
+    "time_en": "21: 16 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-15T21:16:51+00:00",
+    "lastModifiedIso": "2026-07-17T16:58:55+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Medições de spin de buraco negro por espectroscopia de reflexão de raios X",
+      "critérios de qualidade e recomendações da comunidade"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Medições de spin de buraco negro por espectroscopia de reflexão de raios X",
+      "critérios de qualidade e recomendações da comunidade"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Black hole spin measurements by X-ray reflection spectroscopy",
+      "quality criteria and community recommendations"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2607.14368v1",
+    "realUrl": "https://www.cosmosweek.com/?article=black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
+    "realUrl_en": "https://www.cosmosweek.com/?article=black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 63,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Medições de spin de buraco negro por espectroscopia de reflexão de raios X: critérios de qualidade e recomendações da comunidade",
+    "imageAlt_pt": "Medições de spin de buraco negro por espectroscopia de reflexão de raios X: critérios de qualidade e recomendações da comunidade",
+    "imageAlt_en": "Black-Hole Spin Measurements from X-ray Reflection Spectroscopy: Quality Criteria and Community Recommendations",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -155,7 +600,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -201,19 +646,19 @@
     "excerpt_pt": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides.",
     "excerpt_en": "NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts.",
     "highlights": [
-      "Em foco: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi.",
+      "Dado-chave: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi.",
+      "Dado-chave: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated.",
+      "Key detail: NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -301,7 +746,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -419,7 +864,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -599,7 +1044,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 8,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -754,7 +1199,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 9,
     "slug": "heat-dome-broils-the-western-u-s",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -895,138 +1340,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
-    "slug": "nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/tde.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://www.nasa.gov/wp-content/uploads/2026/07/tde-video-soni.mp4",
-      "poster": "https://www.nasa.gov/wp-content/uploads/2026/07/tde.jpg",
-      "title": "Telescópio romano da NASA detectará buracos negros distantes que destroem estrelas - NASA",
-      "title_pt": "Telescópio romano da NASA detectará buracos negros distantes que destroem estrelas - NASA",
-      "title_en": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars - NASA",
-      "caption": "Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo? Para responder a esta questão, os cientistas precisam de detectar e estudar buracos negros supermassivos em",
-      "caption_pt": "Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo? Para responder a esta questão, os cientistas precisam de detectar e estudar buracos negros supermassivos em",
-      "caption_en": "How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at",
-      "sourcePage": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/"
-    },
-    "audio": null,
-    "title": "O telescópio romano da NASA detectará buracos negros distantes que destroem estrelas",
-    "title_pt": "O telescópio romano da NASA detectará buracos negros distantes que destroem estrelas",
-    "title_en": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-    "sub": "Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo? . Para responder a esta questão, os cientistas precisam de detetar e estudar buracos negros.",
-    "sub_pt": "Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo? . Para responder a esta questão, os cientistas precisam de detetar e estudar buracos negros.",
-    "sub_en": "How do black holes at the center of galaxies form and grow over time? . To answer this question, scientists need to detect and study supermassive black holes at great distances.",
-    "excerpt": "Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo? . Para responder a esta questão, os cientistas precisam de detetar e estudar buracos negros supermassivos a grandes distâncias, que existiram muito antes na história do.",
-    "excerpt_pt": "Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo? . Para responder a esta questão, os cientistas precisam de detetar e estudar buracos negros supermassivos a grandes distâncias, que existiram muito antes na história do.",
-    "excerpt_en": "How do black holes at the center of galaxies form and grow over time? . To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history.",
-    "highlights": [
-      "Ponto central: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo.",
-      "Dado-chave: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo.",
-      "Dado-chave: Como os buracos negros no centro das galáxias se formam e crescem ao longo do tempo",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: How do black holes at the center of galaxies form and grow over time. To answer this question, scientists need to detect and study supermassive black.",
-      "Key detail: How do black holes at the center of galaxies form and grow over time",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "14 jul 2026",
-    "date_pt": "14 jul 2026",
-    "date_en": "14 Jul 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-14T14:00:00+00:00",
-    "lastModifiedIso": "2026-07-14T17:03:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O telescópio romano da NASA detectará buracos negros distantes que destroem estrelas"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O telescópio romano da NASA detectará buracos negros distantes que destroem estrelas"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Roman Telescope Will Detect Distant Star-Destroying Black Holes"
-    ],
-    "srcUrl": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "O telescópio romano da NASA detectará buracos negros distantes que destroem estrelas",
-    "imageAlt_pt": "O telescópio romano da NASA detectará buracos negros distantes que destroem estrelas",
-    "imageAlt_en": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
+    "id": 10,
     "slug": "the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1045,17 +1359,17 @@
     "excerpt_en": "Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases. These catalogs preferentially include systems with high gas content and surface brightness.",
     "highlights": [
       "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
+      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção",
+      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases.",
-      "Key detail: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases",
+      "Key detail: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases.",
       "Result not yet peer reviewed."
     ],
     "date": "14 jul 2026",
@@ -1147,7 +1461,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1323,7 +1637,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "wild-scenic-and-increasingly-rusty",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1472,128 +1786,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
-    "slug": "a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Uma missão espacial ao buraco negro mais próximo da Terra: realidade ou ficção científica?",
-    "title_pt": "Uma missão espacial ao buraco negro mais próximo da Terra: realidade ou ficção científica?",
-    "title_en": "A Space Mission to Earth's Nearest Black Hole: Reality or Science Fiction?",
-    "sub": "Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a teoria da Relatividade Geral de.",
-    "sub_pt": "Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a teoria da Relatividade Geral de.",
-    "sub_en": "Black holes are the sources of the strongest gravitational fields in the present-day Universe, offering unparalleled opportunities to test Einstein's theory of General Relativity.",
-    "excerpt": "Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a teoria da Relatividade Geral de Einstein no regime de campo forte.",
-    "excerpt_pt": "Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a teoria da Relatividade Geral de Einstein no regime de campo forte.",
-    "excerpt_en": "Black holes are the sources of the strongest gravitational fields in the present-day Universe, offering unparalleled opportunities to test Einstein's theory of General Relativity in the strong-field regime.",
-    "highlights": [
-      "Ponto central: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Dado-chave: Os buracos negros são as fontes dos campos gravitacionais mais fortes do Universo atual, oferecendo oportunidades incomparáveis ​​para testar a.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: Black holes are the sources of the strongest gravitational fields in the present-day Universe, offering unparalleled opportunities to test Einstein's.",
-      "Key detail: Black holes are the sources of the strongest gravitational fields in the present-day Universe, offering unparalleled opportunities to test.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "13 jul 2026",
-    "date_pt": "13 jul 2026",
-    "date_en": "13 Jul 2026",
-    "time": "01h04",
-    "time_pt": "01h04",
-    "time_en": "01: 04 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-13T01:04:42+00:00",
-    "lastModifiedIso": "2026-07-14T17:03:35+00:00",
-    "source": "arXiv High Energy Astrophysics",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Uma missão espacial ao buraco negro mais próximo da Terra",
-      "realidade ou ficção científica?"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Uma missão espacial ao buraco negro mais próximo da Terra",
-      "realidade ou ficção científica?"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "A space mission to the closest black hole to Earth",
-      "reality or science fiction?"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2607.10982v1",
-    "realUrl": "https://www.cosmosweek.com/?article=a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-space-mission-to-earth-s-nearest-black-hole-reality-or-science-fiction/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 63,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Uma missão espacial ao buraco negro mais próximo da Terra: realidade ou ficção científica?",
-    "imageAlt_pt": "Uma missão espacial ao buraco negro mais próximo da Terra: realidade ou ficção científica?",
-    "imageAlt_en": "A Space Mission to Earth's Nearest Black Hole: Reality or Science Fiction?",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 12,
+    "id": 13,
     "slug": "satellites-in-tandem-reveal-30-years-of-antarctic-ice-flow",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1748,7 +1941,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "unpacking-europe-s-new-weather-imagers",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1894,7 +2087,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2040,7 +2233,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -2220,7 +2413,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "cotton-candy-exoplanets-two-for-the-price-of-one",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2351,7 +2544,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2488,7 +2681,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2646,7 +2839,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
     "cat": "Química",
     "catCls": "quimica",
@@ -2774,7 +2967,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "a-criptografia-que-promete-esconder-dados-ate-da-nuvem",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2892,7 +3085,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3038,7 +3231,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3205,7 +3398,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "signs-of-thaw-in-the-bering-sea",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3351,7 +3544,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3469,7 +3662,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3678,206 +3871,6 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
-    "slug": "what-s-actually-new-about-nasa-s-artemis-missions",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/orion-selfie.jpg?mtime=1775487099",
-    "inline_images": [
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1800_crop_center-center_82_line/artemis-ii-taking-off.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1800_crop_center-center_82_line/artemis-ii-taking-off.jpg",
-        "alt": "Ártemis II alçando vôo",
-        "alt_pt": "Ártemis II alçando vôo",
-        "alt_en": "Artemis II taking flight",
-        "caption": "Ártemis II alçando vôo",
-        "caption_pt": "Ártemis II alçando vôo",
-        "caption_en": "Artemis II taking flight"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x2180_crop_center-center_82_line/20130510_endeavour-iss.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x2180_crop_center-center_82_line/20130510_endeavour-iss.jpg",
-        "alt": "Estação Espacial Internacional com ônibus espacial Endeavour",
-        "alt_pt": "Estação Espacial Internacional com ônibus espacial Endeavour",
-        "alt_en": "International Space Station with Space Shuttle Endeavour",
-        "caption": "Estação Espacial Internacional com ônibus espacial Endeavour",
-        "caption_pt": "Estação Espacial Internacional com ônibus espacial Endeavour",
-        "caption_en": "International Space Station with Space Shuttle Endeavour"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x3127_crop_center-center_82_line/tpr-june-2026-cover.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x3127_crop_center-center_82_line/tpr-june-2026-cover.jpg",
-        "alt": "Capa TPR de junho de 2026",
-        "alt_pt": "Capa TPR de junho de 2026",
-        "alt_en": "TPR June 2026 cover",
-        "caption": "Capa TPR de junho de 2026",
-        "caption_pt": "Capa TPR de junho de 2026",
-        "caption_en": "TPR June 2026 cover"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1506_crop_center-center_82_line/20190509_apollo-11-liftoff.jpg",
-        "alt": "Decolagem da Apollo 11",
-        "alt_pt": "Decolagem da Apollo 11",
-        "alt_en": "Apollo 11 liftoff",
-        "caption": "Decolagem da Apollo 11",
-        "caption_pt": "Decolagem da Apollo 11",
-        "caption_en": "Apollo 11 liftoff"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/destiny-module-iss.jpg",
-        "alt": "Módulo Destiny iss",
-        "alt_pt": "Módulo Destiny iss",
-        "alt_en": "Destiny module iss",
-        "caption": "Módulo Destiny iss",
-        "caption_pt": "Módulo Destiny iss",
-        "caption_en": "Destiny module iss"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/elt-3d-rendering.jpg",
-        "alt": "Elt renderização 3d",
-        "alt_pt": "Elt renderização 3d",
-        "alt_en": "Elt 3d rendering",
-        "caption": "Elt renderização 3d",
-        "caption_pt": "Elt renderização 3d",
-        "caption_en": "Elt 3d rendering"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O que há de realmente novo nas missões Artemis da NASA?",
-    "title_pt": "O que há de realmente novo nas missões Artemis da NASA?",
-    "title_en": "What's actually new about NASA's Artemis missions?",
-    "sub": "O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações tecnológicas significativas.",
-    "sub_pt": "O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações tecnológicas significativas.",
-    "sub_en": "Science Review by Bruce Betts, PhD June 8, 2026 When NASA astronauts touch down on the Moon for the first time in over 50 years, it will mark both a breakthrough and a sequel.",
-    "excerpt": "O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações tecnológicas significativas.",
-    "excerpt_pt": "O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações tecnológicas significativas.",
-    "excerpt_en": "Science Review by Bruce Betts, PhD June 8, 2026 When NASA astronauts touch down on the Moon for the first time in over 50 years, it will mark both a breakthrough and a sequel.",
-    "highlights": [
-      "Ponto central: O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações tecnológicas.",
-      "Dado-chave: O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações tecnológicas.",
-      "Dado-chave: O programa Artemis da NASA representa um retorno humano à Lua após mais de 50 anos, combinando o legado do programa Apollo com inovações.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: Science Review by Bruce Betts, PhD June 8, 2026 When NASA astronauts touch down on the Moon for the first time in over 50 years, it will mark both a.",
-      "Key detail: Science Review by Bruce Betts, PhD June 8, 2026 When NASA astronauts touch down on the Moon for the first time in over 50 years, it will mark.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "08 jun 2026",
-    "date_pt": "08 jun 2026",
-    "date_en": "08 Jun 2026",
-    "time": "13h22",
-    "time_pt": "13h22",
-    "time_en": "13: 22 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-08T13:22:00+00:00",
-    "lastModifiedIso": "2026-06-08T18:30:16+00:00",
-    "source": "The Planetary Society",
-    "sourceDomain": "www. planetary. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "The Planetary Society",
-      "Cosmos Week",
-      "O que há de realmente novo nas missões Artemis da NASA?"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "The Planetary Society",
-      "Cosmos Week",
-      "O que há de realmente novo nas missões Artemis da NASA?"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "The Planetary Society",
-      "Cosmos Week",
-      "What's really new about NASA's Artemis missions?"
-    ],
-    "srcUrl": "https://www.planetary.org/articles/the-space-tech-continuum",
-    "realUrl": "https://www.cosmosweek.com/?article=what-s-actually-new-about-nasa-s-artemis-missions",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=what-s-actually-new-about-nasa-s-artemis-missions",
-    "realUrl_en": "https://www.cosmosweek.com/?article=what-s-actually-new-about-nasa-s-artemis-missions&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/what-s-actually-new-about-nasa-s-artemis-missions/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/what-s-actually-new-about-nasa-s-artemis-missions/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/what-s-actually-new-about-nasa-s-artemis-missions/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/what-s-actually-new-about-nasa-s-artemis-missions/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/what-s-actually-new-about-nasa-s-artemis-missions/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/what-s-actually-new-about-nasa-s-artemis-missions/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 90,
-    "scoreBreakdown": {
-      "source": 83,
-      "evidence": 54,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "O que há de realmente novo nas missões Artemis da NASA?",
-    "imageAlt_pt": "O que há de realmente novo nas missões Artemis da NASA?",
-    "imageAlt_en": "What's actually new about NASA's Artemis missions?",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
     "id": 27,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
@@ -3937,19 +3930,19 @@
     "excerpt_pt": "Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
     "excerpt_en": "A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic. Using the European Southern Observatory’s Very Large Telescope and the Gemini North telescope, the researchers measured.",
     "highlights": [
-      "Em foco: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
+      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
+      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic.",
+      "Key detail: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 jun 2026",
     "date_pt": "02 jun 2026",
