@@ -3,6 +3,127 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "establishing-a-vte-risk-score-for-astronauts-algorithm",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "title_pt": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "title_en": "Establishing a VTE Risk Score for Astronauts Algorithm",
+    "sub": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados.",
+    "sub_pt": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados.",
+    "sub_en": "In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional data gathered revealing altered.",
+    "excerpt": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados revelando o status alterado do fluxo sanguíneo dentro de uma coorte de astronautas.",
+    "excerpt_pt": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados revelando o status alterado do fluxo sanguíneo dentro de uma coorte de astronautas.",
+    "excerpt_en": "In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss.",
+    "body": "<p>Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados revelando o status alterado do fluxo sanguíneo dentro de uma coorte de astronautas e discutir. Ecocontraste espontâneo (SEC) grau 3 com ecogenicidade periférica.</p><p>Risco de tromboembolismo venoso durante voos espaciais A NASA formou inicialmente um grupo de trabalho em outubro de 2024, após diagnosticar tromboembolismos venosos (TEV) em astronautas durante missões da ISS. Leia mais sobre os resultados do encontro aqui Localização aproximada dos trombos identificados nos tripulantes.</p><p>Fonte: Modificado de Trombose Venosa do Seio Cerebral - Universidade do Colorado Denver Detalhes de compartilhamento Última atualização em 17 de julho. Em abril de 2026, o Gabinete do Diretor Médico e de Saúde (OCHMO) da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais Artigo Conteúdo Recomendações Risco de tromboembolismo venoso durante voos espaciais Contraste de eco.</p><p>NASA/Pavela NASA/SP-20260005258/REV1, NASA Risk of Venous Thromboembolism in Spaceflight, Outcomes of Working Group Meeting, April 2026 Em abril de 2026. A seguir está um resumo das recomendações do grupo de trabalho: A NASA formou inicialmente um grupo de trabalho em outubro de 2024, após diagnosticar tromboembolismos venosos (TEV) em astronautas durante missões da ISS.</p><p>As limitações das atuais capacidades de ultrassom em voo para medir com precisão a estase/fluxo lento foram citadas como uma preocupação, especialmente se usarmos apenas a estase como um fator para indicar a necessidade de profilaxia. Foi recomendada uma revisão adicional da avaliação da estase com ultrassom durante o voo.</p><p>Depois de analisar os fatores de risco, discussões adicionais após o grupo de trabalho levaram a maioria do painel a concordar que a estase e o fluxo retrógrado justificavam o uso de profilaxia.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados revelando o status alterado do fluxo sanguíneo dentro de uma coorte de astronautas e discutir. Ecocontraste espontâneo (SEC) grau 3 com ecogenicidade periférica.</p><p>Risco de tromboembolismo venoso durante voos espaciais A NASA formou inicialmente um grupo de trabalho em outubro de 2024, após diagnosticar tromboembolismos venosos (TEV) em astronautas durante missões da ISS. Leia mais sobre os resultados do encontro aqui Localização aproximada dos trombos identificados nos tripulantes.</p><p>Fonte: Modificado de Trombose Venosa do Seio Cerebral - Universidade do Colorado Denver Detalhes de compartilhamento Última atualização em 17 de julho. Em abril de 2026, o Gabinete do Diretor Médico e de Saúde (OCHMO) da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais Artigo Conteúdo Recomendações Risco de tromboembolismo venoso durante voos espaciais Contraste de eco.</p><p>NASA/Pavela NASA/SP-20260005258/REV1, NASA Risk of Venous Thromboembolism in Spaceflight, Outcomes of Working Group Meeting, April 2026 Em abril de 2026. A seguir está um resumo das recomendações do grupo de trabalho: A NASA formou inicialmente um grupo de trabalho em outubro de 2024, após diagnosticar tromboembolismos venosos (TEV) em astronautas durante missões da ISS.</p><p>As limitações das atuais capacidades de ultrassom em voo para medir com precisão a estase/fluxo lento foram citadas como uma preocupação, especialmente se usarmos apenas a estase como um fator para indicar a necessidade de profilaxia. Foi recomendada uma revisão adicional da avaliação da estase com ultrassom durante o voo.</p><p>Depois de analisar os fatores de risco, discussões adicionais após o grupo de trabalho levaram a maioria do painel a concordar que a estase e o fluxo retrógrado justificavam o uso de profilaxia.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing. Spontaneous echo contrast (SEC) grade 3 with peripheral echogenicity.</p><p>Risk of Venous Thromboembolism During Spaceflight NASA initially formed a working group in October 2024 after diagnosing venous thromboembolisms (VTEs) in astronauts during ISS. Read more about the outcomes of the meeting here Approximate location of identified thrombi in crewmembers.</p><p>Modified from Cerebral Sinus Venous Thrombosis, University of Colorado Denver Share Details Last Updated Jul 17. In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data Article Contents.</p><p>NASA/Pavela NASA/SP-20260005258/REV1, NASA Risk of Venous Thromboembolism in Spaceflight, Outcomes of Working Group Meeting, April 2026 In April 2026. The following is a summary of the working group’s recommendations: NASA initially formed a working group in October 2024 after diagnosing venous thromboembolisms (VTEs) in.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Details Last Updated Jul 17. Limitations of current in-flight ultrasound capabilities to accurately measure stasis/slow flow was cited as a concern, especially if using only stasis as a factor for indicating.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "21h01",
+    "time_pt": "21h01",
+    "time_en": "21: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T21:01:38+00:00",
+    "lastModifiedIso": "2026-07-18T16:45:16+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Establishing a VTE Risk Scoring Algorithm for Astronauts"
+    ],
+    "srcUrl": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "realUrl": "https://www.cosmosweek.com/?article=establishing-a-vte-risk-score-for-astronauts-algorithm",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=establishing-a-vte-risk-score-for-astronauts-algorithm",
+    "realUrl_en": "https://www.cosmosweek.com/?article=establishing-a-vte-risk-score-for-astronauts-algorithm&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "imageAlt_pt": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "imageAlt_en": "Establishing a VTE Risk Score for Astronauts Algorithm",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -199,7 +320,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -333,7 +454,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -456,7 +577,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -514,19 +635,19 @@ window.postsData = [
     "body_pt": "<p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a formar a vida. 6 min de leitura Estudo da NASA sobre meteorito primitivo acrescenta à história de antigos asteróides Clastos C1 em Hillsborough: À esquerda está uma imagem de elétrons retroespalhados com dois clastos C1 748 circulados.</p><p>Os cientistas também conseguiram detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes de poderem ser estudados. Sais semelhantes foram identificados em amostras trazidas dos asteróides Bennu e Ryugu pela missão OSIRIS-REx da NASA e pela missão Hayabusa2 da JAXA (Agência de Exploração Aeroespacial do Japão).</p><p>Os fragmentos dos pedaços mais ricos em sal deste meteorito são bastante comparáveis ​​às amostras retornadas pelas missões Hayabusa2 e OSIRIS-REx”, disse Mike Zolensky, pesquisador de meteoritos da NASA Johnson e coautor do estudo. É apenas mais uma prova de que os blocos químicos de construção da vida poderiam ter sido entregues, e ainda estão a ser entregues, à Terra hoje por estes fragmentos de asteróides carbonáceos”, disse Glavin, que foi co-investigador da OSIRIS-REx, liderando uma equipa.</p><p>Os astrônomos reconstruíram a jornada do meteorito pelo espaço, encontrando evidências de que ele pode ter se originado da família de asteroides Erigone no cinturão de asteroides interno, lar do asteroide Donaldjohanson, que foi visitado em 2025 pela espaçonave Lucy da NASA.</p><p>Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química dos asteróides primitivos e os ingredientes que podem ter ajudado a tornar a vida. S e os ingredientes que podem ter ajudado a tornar a vida possível em todo o início do sistema solar.</p><p>Os cientistas também foram capazes de detectar sais frágeis de carbonato de sódio que normalmente reagem com a umidade na atmosfera da Terra antes que pudessem ser estudados.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 6 min read NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids C1 clasts in Hillsborough: On the left is a back-scattered electron image with two C1 748 clasts. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth’s atmosphere before they can be studied.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA’s OSIRIS-REx mission and JAXA’s (Japan Aerospace Exploration Agency) Hayabusa2 mission. The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,” said Mike Zolensky, a meteorite.</p><p>It’s just more proof that the chemical building blocks of life could have been delivered, and are still being delivered, to Earth today by these carbonaceous asteroid fragments,”. Astronomers reconstructed the meteorite’s journey through space, finding evidence that it may have originated from the Erigone asteroid family in the inner asteroid belt, home to.</p><p>NASA/SETI A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of. Scientists were also able to detect fragile sodium-carbonate salts that normally react with moisture in Earth&#x27;s atmosphere before they can be studied.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Similar salts were identified in samples returned from the asteroids Bennu and Ryugu by NASA&#x27;s OSIRIS-REx mission and JAXA&#x27;s (Japan Aerospace Exploration Agency) Hayabusa2 mission. The chips of the most salt-rich bits of this meteorite are quite comparable to the samples returned by the Hayabusa2 and OSIRIS-REx missions,&quot; said Mike Zolensky, a meteorite.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
+      "Dado-chave: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
+      "Dado-chave: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the.",
+      "Key detail: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -614,7 +735,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -756,127 +877,6 @@ window.postsData = [
     "imageAlt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
     "imageAlt_pt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
     "imageAlt_en": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/07/STScI-01KX448CEBRHBBJW579AG64G0H.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "title_pt": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "title_en": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
-    "sub": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas.",
-    "sub_pt": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas.",
-    "sub_en": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied.",
-    "excerpt": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.",
-    "excerpt_pt": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.",
-    "excerpt_en": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way galaxy.",
-    "body": "<p>Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.</p><p>3d Webb no sistema solar 3d Podcasts Webb Image Sonifications Equipe de primeiras imagens de Webb Equipe internacional Pessoas de Webb Mais Para a mídia Para cientistas Para educadores Para se divertir / aprender 6 min Leia Webb da NASA descobre planeta oculto no famoso sistema.</p><p>Créditos: Ilustração: NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente. Então, esse sinal revelador apareceu nos dados onde não esperávamos. ” Este sinal era uma série de picos e depressões nos dados espectroscópicos, onde a equipe esperava ver um espectro suave da luz refletida na poeira.</p><p>Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado de exoplaneta, escondido dentro de um dos telescópios espaciais Science James Webb (JWST). Ilustração: NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Sistema familiar, nova surpresa Localizado a 63 anos-luz da Terra e com cerca de 23 milhões de anos, Beta Pictoris é um sistema próximo na Via Láctea que oferece um raro vislumbre das interações entre planetas.</p><p>Então, este sinal revelador apareceu nos dados onde não esperávamos. &quot; Este sinal era uma série de altos e baixos nos dados espectroscópicos onde a equipe esperava ver um espectro suave da luz refletida na poeira. A equipe determinou que a velocidade, posição e alinhamento do planeta com o disco de detritos eram consistentes com algo que orbita Beta Pictoris, em vez de uma estrela de fundo ou anã marrom com monóxido de carbono em sua atmosfera.</p><p>Webb é um programa internacional liderado pela NASA com os seus parceiros, ESA (Agência Espacial Europeia) e CSA (Agência Espacial Canadense).</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.</p><p>3d Webb no sistema solar 3d Podcasts Webb Image Sonifications Equipe de primeiras imagens de Webb Equipe internacional Pessoas de Webb Mais Para a mídia Para cientistas Para educadores Para se divertir / aprender 6 min Leia Webb da NASA descobre planeta oculto no famoso sistema.</p><p>Créditos: Ilustração: NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente. Então, esse sinal revelador apareceu nos dados onde não esperávamos. ” Este sinal era uma série de picos e depressões nos dados espectroscópicos, onde a equipe esperava ver um espectro suave da luz refletida na poeira.</p><p>Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado de exoplaneta, escondido dentro de um dos telescópios espaciais Science James Webb (JWST). Ilustração: NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Sistema familiar, nova surpresa Localizado a 63 anos-luz da Terra e com cerca de 23 milhões de anos, Beta Pictoris é um sistema próximo na Via Láctea que oferece um raro vislumbre das interações entre planetas.</p><p>Então, este sinal revelador apareceu nos dados onde não esperávamos. &quot; Este sinal era uma série de altos e baixos nos dados espectroscópicos onde a equipe esperava ver um espectro suave da luz refletida na poeira. A equipe determinou que a velocidade, posição e alinhamento do planeta com o disco de detritos eram consistentes com algo que orbita Beta Pictoris, em vez de uma estrela de fundo ou anã marrom com monóxido de carbono em sua atmosfera.</p><p>Webb é um programa internacional liderado pela NASA com os seus parceiros, ESA (Agência Espacial Europeia) e CSA (Agência Espacial Canadense).</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way galaxy. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. 3d Webb in 3d Solar System Podcasts Webb Image Sonifications Webb’s First Images Team International Team People Of Webb More For the Media For Scientists For Educators For. NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an.</p><p>Then, this telltale signal appeared in the data where we didn’t expect it. ” This signal was a series of peaks and troughs within the spectroscopic data where the team expected to. Astronomers using NASA&#x27;s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the Science James Webb Space.</p><p>3d Webb in 3d Solar System Podcasts Webb Image Sonifications Webb&#x27;s First Images Team International Team People Of Webb More For the Media For Scientists For Educators For. NASA, ESA, CSA, STScI, Ralf Crawford (STScI) NASA Webb Mission Team The young, nearby star Beta Pictoris was already known to host two giant planets: Beta Pictoris.</p><p>NASA, ESA, CSA, STScI, Ralf Crawford (STScI) Familiar system, new surprise Located 63 light-years from Earth and about 23 million years old, Beta Pictoris is a nearby system in. Although astronomers were not searching for another planet with Webb, Beta Pictoris d emerged while the team was using the telescope’s NIRSpec (Near-Infrared Spectrograph) to.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Then, this telltale signal appeared in the data where we didn’t expect it. &quot; This signal was a series of peaks and troughs within the spectroscopic data where the team expected to. The team determined the planet’s speed, position, and alignment with the debris disk were all consistent with something orbiting Beta Pictoris rather than a background star or.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
-      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
-      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one.",
-      "Key detail: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T12:00:00+00:00",
-    "lastModifiedIso": "2026-07-15T17:08:55+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Exoplanetas",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Webb da NASA descobre planeta oculto em famoso sistema estelar"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Webb da NASA descobre planeta oculto em famoso sistema estelar"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Webb Discovers Hidden Planet in Famous Star System"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-webb-discovers-hidden-planet-in-famous-star-system&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "imageAlt_pt": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "imageAlt_en": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -4014,17 +4014,17 @@ window.postsData = [
     "body_en": "<p>A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic. Using the European Southern Observatory’s Very Large Telescope and the Gemini North telescope, the researchers measured. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. Using the European Southern Observatory’s Very Large Telescope (ESO&#x27;s VLT) and the Gemini North telescope, the researchers measured wind speeds on seven very hot, Jupiter-like. France and lead author of the study published today in Nature Astronomy.</p><p>Earth’s magnetic field influences our atmosphere in complex ways, and is therefore a key factor in understanding what keeps the planet habitable for life. The wind speeds in their sample ranged from around 7200 km/h to over 25 000 km/h.</p><p>In comparison, the fastest winds measured on Jupiter reach speeds of around 1500 km/h. In the beginning we set out to check if the atmospheric winds behaved the same way for all hot planets,” explains Seidel, who was previously an astronomer at ESO in Chile.</p><p>For their measurements, the team used data from the ESPRESSO instrument on ESO’s VLT, in the Chilean Atacama Desert, and from a similar instrument on the Gemini North telescope in. National Science Foundation (NSF) and operated by NSF NOIRLab. ) But when they looked at how the wind speeds varied with planet temperature, they saw a very intriguing pattern.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>+49 89 3200 6670 Cell: +49 151 241 664 00 Email: press@eso. org We use cookies that are essential for accessing our websites and using our services. The European Organisation for Astronomical Research in the Southern Hemisphere (ESO) is the pre-eminent intergovernmental science and technology organisation in astronomy.</p><p>Because the account originates with ESO Press Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.eso.org/public/news/eso2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
-      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
+      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
-      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
+      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic.",
-      "Key detail: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic",
+      "Key detail: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 jun 2026",

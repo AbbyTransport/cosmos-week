@@ -1,6 +1,124 @@
 [
   {
     "id": 1,
+    "slug": "establishing-a-vte-risk-score-for-astronauts-algorithm",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/10-1177-1358863x221086619-fig2.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "title_pt": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "title_en": "Establishing a VTE Risk Score for Astronauts Algorithm",
+    "sub": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados.",
+    "sub_pt": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados.",
+    "sub_en": "In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional data gathered revealing altered.",
+    "excerpt": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados revelando o status alterado do fluxo sanguíneo dentro de uma coorte de astronautas.",
+    "excerpt_pt": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados revelando o status alterado do fluxo sanguíneo dentro de uma coorte de astronautas.",
+    "excerpt_en": "In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss.",
+    "highlights": [
+      "Em foco: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "17 jul 2026",
+    "date_pt": "17 jul 2026",
+    "date_en": "17 Jul 2026",
+    "time": "21h01",
+    "time_pt": "21h01",
+    "time_en": "21: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-17T21:01:38+00:00",
+    "lastModifiedIso": "2026-07-18T16:45:16+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Establishing a VTE Risk Scoring Algorithm for Astronauts"
+    ],
+    "srcUrl": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "realUrl": "https://www.cosmosweek.com/?article=establishing-a-vte-risk-score-for-astronauts-algorithm",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=establishing-a-vte-risk-score-for-astronauts-algorithm",
+    "realUrl_en": "https://www.cosmosweek.com/?article=establishing-a-vte-risk-score-for-astronauts-algorithm&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "imageAlt_pt": "Estabelecendo um algoritmo de pontuação de risco de TEV para astronautas",
+    "imageAlt_en": "Establishing a VTE Risk Score for Astronauts Algorithm",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -194,7 +312,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -325,7 +443,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -445,7 +563,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -500,19 +618,19 @@
     "excerpt_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
     "excerpt_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life.",
     "highlights": [
-      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
+      "Dado-chave: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
+      "Dado-chave: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the.",
+      "Key detail: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -600,7 +718,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -739,124 +857,6 @@
     "imageAlt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
     "imageAlt_pt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
     "imageAlt_en": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/07/STScI-01KX448CEBRHBBJW579AG64G0H.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "title_pt": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "title_en": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
-    "sub": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas.",
-    "sub_pt": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas.",
-    "sub_en": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied.",
-    "excerpt": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.",
-    "excerpt_pt": "Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido dentro de um dos sistemas planetários mais intensamente estudados na nossa galáxia, a Via Láctea.",
-    "excerpt_en": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way galaxy.",
-    "highlights": [
-      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
-      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta, escondido.",
-      "Dado-chave: Astrônomos usando o Telescópio Espacial James Webb da NASA descobriram um planeta gigante fora do nosso sistema solar, chamado exoplaneta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one.",
-      "Key detail: Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "12h00",
-    "time_pt": "12h00",
-    "time_en": "12: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T12:00:00+00:00",
-    "lastModifiedIso": "2026-07-15T17:08:55+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Exoplanetas",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Webb da NASA descobre planeta oculto em famoso sistema estelar"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Webb da NASA descobre planeta oculto em famoso sistema estelar"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Webb Discovers Hidden Planet in Famous Star System"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-webb-discovers-hidden-planet-in-famous-star-system",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-webb-discovers-hidden-planet-in-famous-star-system&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-webb-discovers-hidden-planet-in-famous-star-system/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "imageAlt_pt": "Webb da NASA descobre planeta oculto em famoso sistema estelar",
-    "imageAlt_en": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -3931,17 +3931,17 @@
     "excerpt_en": "A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic. Using the European Southern Observatory’s Very Large Telescope and the Gemini North telescope, the researchers measured.",
     "highlights": [
       "Ponto central: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
-      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
+      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
-      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos",
+      "Dado-chave: Uma equipe de astrônomos encontrou a evidência mais forte até agora de que alguns planetas fora do nosso Sistema Solar podem ser magnéticos.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic.",
-      "Key detail: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic",
+      "Key detail: A team of astronomers has found the strongest evidence yet that some planets outside our Solar System may be magnetic.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 jun 2026",
