@@ -1,6 +1,127 @@
 [
   {
     "id": 1,
+    "slug": "from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2025/07/e1-viking-1-pia00381.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "title_pt": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "title_en": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+    "sub": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "sub_pt": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "sub_en": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration.",
+    "excerpt": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "excerpt_pt": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "excerpt_en": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration.",
+    "highlights": [
+      "Em foco: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "20 jul 2026",
+    "date_pt": "20 jul 2026",
+    "date_en": "20 Jul 2026",
+    "time": "15h47",
+    "time_pt": "15h47",
+    "time_en": "15: 47 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-20T15:47:15+00:00",
+    "lastModifiedIso": "2026-07-20T17:17:27+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "De Hampton a Marte",
+      "como a NASA Langley ajudou a pousar no Planeta Vermelho"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "De Hampton a Marte",
+      "como a NASA Langley ajudou a pousar no Planeta Vermelho"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "From Hampton to Marte",
+      "How NASA Langley Helped Land on the Red Planet"
+    ],
+    "srcUrl": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "realUrl": "https://www.cosmosweek.com/?article=from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet",
+    "realUrl_en": "https://www.cosmosweek.com/?article=from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": true,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "imageAlt_pt": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "imageAlt_en": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "establishing-a-vte-risk-score-for-astronauts-algorithm",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -118,7 +239,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -312,7 +433,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -443,7 +564,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -461,18 +582,19 @@
     "excerpt_pt": "A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em acreção.",
     "excerpt_en": "X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes.",
     "highlights": [
-      "Em foco: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em.",
+      "Dado-chave: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em.",
+      "Dado-chave: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes.",
+      "Key detail: X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black.",
+      "Result not yet peer reviewed."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -563,7 +685,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -711,152 +833,6 @@
     "imageAlt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
     "imageAlt_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
     "imageAlt_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/pia26574-selfie.jpg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/2026/nh-hibernation_wakeUp_062426.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/ciencias-terrestres/2026/Milky%20Way_Bill%20Dunford.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KV8SMVYFK67J7RPRW1HB0SKS.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "title_pt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "title_en": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
-    "sub": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos.",
-    "sub_pt": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos.",
-    "sub_en": "NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts.",
-    "excerpt": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides.",
-    "excerpt_pt": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides.",
-    "excerpt_en": "NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts.",
-    "highlights": [
-      "Ponto central: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi.",
-      "Dado-chave: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi.",
-      "Dado-chave: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated.",
-      "Key detail: NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "15h30",
-    "time_pt": "15h30",
-    "time_en": "15: 30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T15:30:04+00:00",
-    "lastModifiedIso": "2026-07-15T17:08:55+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Perseverance Rover da NASA lê registro de impactos antigos de Marte"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Perseverance Rover da NASA lê registro de impactos antigos de Marte"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Perseverance Rover Reads Record of Ancient Mars Impacts"
-    ],
-    "srcUrl": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "imageAlt_pt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "imageAlt_en": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",

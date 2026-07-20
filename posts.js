@@ -3,6 +3,130 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2025/07/e1-viking-1-pia00381.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "title_pt": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "title_en": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+    "sub": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "sub_pt": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "sub_en": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration.",
+    "excerpt": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "excerpt_pt": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
+    "excerpt_en": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration.",
+    "body": "<p>Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária. Por trás dessa conquista estava uma equipe do Centro de Pesquisa Langley da NASA em Hampton, Virgínia, cuja liderança constante e conhecimento técnico ajudaram a transformar uma ideia ambiciosa em uma missão que remodelou a forma como [. ].</p><p>Construindo o projeto para Marte A NASA selecionou Langley em 1968 para liderar o enorme projeto Viking, o primeiro projeto dos EUA. Os engenheiros de entrada, descida e pouso da NASA em Langley enfrentaram um desafio diferente de tudo tentado antes: desacelerar uma espaçonave que mergulhava na atmosfera marciana a mais de 16.000 quilômetros por hora.</p><p>Ciência e segurança, de mãos dadas Langley também ajudou a criar uma nova abordagem para encontrar locais de pouso seguros. NASA Uma missão renascida: da Voyager à Viking A Viking surgiu de uma mudança fundamental no programa.</p><p>Detalhes de compartilhamento da NASA Última atualização em 20 de julho de 2026 Termos relacionados General Langley Research Center Explore mais 3 min de leitura NASA empurra novo design de asa para encontrar limites estruturais Artigo 3 dias atrás 2 min de leitura Estabelecendo.</p><p>De mãos dadas, uma missão renascida: da Voyager à Viking, um legado que perdura Esta imagem histórica - a primeira da superfície de Marte - confirmou que o módulo de pouso Viking 1 da NASA se tornou a primeira espaçonave a pousar no Planeta Vermelho em 20 de julho. NASA/JPL-Caltech Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.</p><p>Por detrás dessa conquista esteve uma equipa do Centro de Investigação Langley da NASA em Hampton, Virgínia, cuja liderança constante e conhecimentos técnicos ajudaram a transformar uma ideia ambiciosa numa missão que remodelou a forma como exploramos outros mundos.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária. Por trás dessa conquista estava uma equipe do Centro de Pesquisa Langley da NASA em Hampton, Virgínia, cuja liderança constante e conhecimento técnico ajudaram a transformar uma ideia ambiciosa em uma missão que remodelou a forma como [. ].</p><p>Construindo o projeto para Marte A NASA selecionou Langley em 1968 para liderar o enorme projeto Viking, o primeiro projeto dos EUA. Os engenheiros de entrada, descida e pouso da NASA em Langley enfrentaram um desafio diferente de tudo tentado antes: desacelerar uma espaçonave que mergulhava na atmosfera marciana a mais de 16.000 quilômetros por hora.</p><p>Ciência e segurança, de mãos dadas Langley também ajudou a criar uma nova abordagem para encontrar locais de pouso seguros. NASA Uma missão renascida: da Voyager à Viking A Viking surgiu de uma mudança fundamental no programa.</p><p>Detalhes de compartilhamento da NASA Última atualização em 20 de julho de 2026 Termos relacionados General Langley Research Center Explore mais 3 min de leitura NASA empurra novo design de asa para encontrar limites estruturais Artigo 3 dias atrás 2 min de leitura Estabelecendo.</p><p>De mãos dadas, uma missão renascida: da Voyager à Viking, um legado que perdura Esta imagem histórica - a primeira da superfície de Marte - confirmou que o módulo de pouso Viking 1 da NASA se tornou a primeira espaçonave a pousar no Planeta Vermelho em 20 de julho. NASA/JPL-Caltech Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.</p><p>Por detrás dessa conquista esteve uma equipa do Centro de Investigação Langley da NASA em Hampton, Virgínia, cuja liderança constante e conhecimentos técnicos ajudaram a transformar uma ideia ambiciosa numa missão que remodelou a forma como exploramos outros mundos.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) This historic image, the first from the surface of Mars, confirmed that NASA’s Viking 1 lander had. NASA Entry, Descent, and Landing Langley engineers faced a challenge unlike anything attempted before: slowing a spacecraft plunging into the Martian atmosphere at more than.</p><p>Science and Safety, Hand in Hand Langley also helped create a new approach to finding safe landing sites. From Voyager to Viking Viking grew out of a pivotal program shift.</p><p>From Voyager to Viking A Legacy That Endures This historic image, the first from the surface of Mars, confirmed that NASA’s Viking 1 lander had become the first spacecraft to. NASA/JPL-Caltech Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration.</p><p>Langley engineers faced a challenge unlike anything attempted before: slowing a spacecraft plunging into the Martian atmosphere at more than 10, 000 miles per hour. Engineers and scientists adopted the sol, a Martian day slightly longer than 24 hours, to keep daily work aligned with local time on Mars, a practice still used for surface.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "20 jul 2026",
+    "date_pt": "20 jul 2026",
+    "date_en": "20 Jul 2026",
+    "time": "15h47",
+    "time_pt": "15h47",
+    "time_en": "15: 47 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-20T15:47:15+00:00",
+    "lastModifiedIso": "2026-07-20T17:17:27+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "De Hampton a Marte",
+      "como a NASA Langley ajudou a pousar no Planeta Vermelho"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "De Hampton a Marte",
+      "como a NASA Langley ajudou a pousar no Planeta Vermelho"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "From Hampton to Marte",
+      "How NASA Langley Helped Land on the Red Planet"
+    ],
+    "srcUrl": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "realUrl": "https://www.cosmosweek.com/?article=from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet",
+    "realUrl_en": "https://www.cosmosweek.com/?article=from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": true,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "imageAlt_pt": "De Hampton a Marte: como a NASA Langley ajudou a pousar no Planeta Vermelho",
+    "imageAlt_en": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "establishing-a-vte-risk-score-for-astronauts-algorithm",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -123,7 +247,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -320,7 +444,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -454,7 +578,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -475,18 +599,19 @@ window.postsData = [
     "body_pt": "<p>A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em acreção. Produziu restrições de rotação para buracos negros de massa estelar em binários de raios X e buracos negros supermassivos em núcleos galácticos ativos, e é fundamental para os objetivos científicos dos observatórios de raios X atuais e futuros.</p><p>Motivados pelas discussões no workshop Wake Forest de 2025 *Progresso recente nas medições de spin de buracos negros nos espectros eletromagnéticos e gravitacionais*, propomos uma estrutura prática para avaliar se as medições de spin baseadas em reflexão publicadas devem ser. A estrutura é construída sobre três princípios: **detectabilidade**, exigindo um sinal de reflexão relativística inequívoco.</p><p>Singularidade**, exigindo que o componente relativístico seja distinguível do continuum, reflexão distante, absorção e efeitos instrumentais. E **robustez**, exigindo que o spin inferido permaneça estável contra mudanças razoáveis ​​nas suposições do modelo, seleção de dados e tratamento do estado de acréscimo.</p><p>Traduzimos esses princípios em critérios de avaliação, um esquema de classificação de qualidade e uma lista de verificação de relatórios para estudos futuros. A calibração desses critérios por meio de simulações dedicadas é descrita aqui e adiada para um artigo complementar.</p><p>Nosso objetivo é estabelecer um caminho reproduzível em direção a uma compilação mantida pela comunidade de medições confiáveis ​​de rotação de buracos negros para a era de alto rendimento e alta resolução da astronomia de raios-X. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.14368v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. It has yielded spin constraints for stellar-mass black holes in X-ray binaries and supermassive black holes in active galactic nuclei, and is central to the science goals of. However, the technique is subject to observational and modeling systematics, including continuum-reflection degeneracy, limited spectral coverage, unresolved distant reflection or.</p><p>The framework is built on three principles: **detectability**, requiring an unambiguous relativistic reflection signal. Uniqueness**, requiring that the relativistic component be distinguishable from the continuum, distant reflection, absorption, and instrumental effects.</p><p>And **robustness**, requiring that the inferred spin remain stable against reasonable changes in model assumptions, data selection, and accretion-state treatment. We translate these principles into assessment criteria, a quality-classification scheme, and a reporting checklist for future studies.</p><p>Calibration of these criteria through dedicated simulations is outlined here and deferred to a companion paper. Our goal is to establish a reproducible path toward a community-maintained compilation of reliable black hole spin measurements for the high-throughput, high-resolution era of.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.14368v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em.",
+      "Dado-chave: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros em.",
+      "Dado-chave: A espectroscopia de reflexão de raios X fornece um dos métodos eletromagnéticos mais poderosos para medir o spin adimensional de buracos negros.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black holes.",
+      "Key detail: X-ray reflection spectroscopy provides one of the most powerful electromagnetic methods for measuring the dimensionless spin of accreting black.",
+      "Result not yet peer reviewed."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -577,7 +702,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -728,155 +853,6 @@ window.postsData = [
     "imageAlt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
     "imageAlt_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
     "imageAlt_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/pia26574-selfie.jpg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/2026/nh-hibernation_wakeUp_062426.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/ciencias-terrestres/2026/Milky%20Way_Bill%20Dunford.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KV8SMVYFK67J7RPRW1HB0SKS.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "title_pt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "title_en": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
-    "sub": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos.",
-    "sub_pt": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos.",
-    "sub_en": "NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts.",
-    "excerpt": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides.",
-    "excerpt_pt": "O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides.",
-    "excerpt_en": "NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts.",
-    "body": "<p>O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides. O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 75 metros de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides.</p><p>Referido como “membro de Broom Point” pela equipe científica do rover, esta sequência de camadas rochosas tem provavelmente mais de 3, 9 bilhões de anos, o que o torna um dos [. ]. 5 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O Perseverance da NASA tirou esta selfie em “Witch Hazel Hill” na borda da cratera de Jezero em 10 de maio de 2025.</p><p>Como Marte não possui placas tectónicas para reciclar a sua crosta, este registo antigo permanece intacto, dando-nos um raro vislumbre de um período geológico que não existe no nosso próprio planeta. As rochas de cores vivas que vão do centro à esquerda para o centro à direita da imagem, uma formação apelidada de “membro de Broom Point”, têm provavelmente mais de 3, 9 mil milhões de anos, o que as torna um dos terrenos mais antigos alguma vez examinados por um rover de Marte.</p><p>Se conseguirmos determinar a idade destas camadas, seria como ler um relatório meteorológico cósmico de há 4 mil milhões de anos. ” Este mapa orbital mostra o caminho que o rover Perseverance Mars da NASA percorreu desde seu local de pouso em 2021 na cratera de Jezero até o local. Para obter mais informações sobre o Perseverance da NASA, visite: https: //science. nasa. gov/mission/mars-2020-perseverance News Media Contacts DC Agle Jet Propulsion Laboratory, Pasadena, Califórnia.</p><p>NASA / JPL-Caltech / MSSS O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 75 metros de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides. Chamado de “membro de Broom Point” pela equipe científica do rover, esta sequência de camadas rochosas tem provavelmente mais de 3, 9 bilhões de anos, o que o torna um dos terrenos mais antigos já examinados por um rover de Marte.</p><p>Primeiro, um impacto colossal de asteroide criou a Bacia Isidis, com 1.900 quilômetros de largura, uma das maiores bacias de impacto em Marte, derrubando e inclinando as camadas rochosas outrora planas.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides. O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 75 metros de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides.</p><p>Referido como “membro de Broom Point” pela equipe científica do rover, esta sequência de camadas rochosas tem provavelmente mais de 3, 9 bilhões de anos, o que o torna um dos [. ]. 5 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O Perseverance da NASA tirou esta selfie em “Witch Hazel Hill” na borda da cratera de Jezero em 10 de maio de 2025.</p><p>Como Marte não possui placas tectónicas para reciclar a sua crosta, este registo antigo permanece intacto, dando-nos um raro vislumbre de um período geológico que não existe no nosso próprio planeta. As rochas de cores vivas que vão do centro à esquerda para o centro à direita da imagem, uma formação apelidada de “membro de Broom Point”, têm provavelmente mais de 3, 9 mil milhões de anos, o que as torna um dos terrenos mais antigos alguma vez examinados por um rover de Marte.</p><p>Se conseguirmos determinar a idade destas camadas, seria como ler um relatório meteorológico cósmico de há 4 mil milhões de anos. ” Este mapa orbital mostra o caminho que o rover Perseverance Mars da NASA percorreu desde seu local de pouso em 2021 na cratera de Jezero até o local. Para obter mais informações sobre o Perseverance da NASA, visite: https: //science. nasa. gov/mission/mars-2020-perseverance News Media Contacts DC Agle Jet Propulsion Laboratory, Pasadena, Califórnia.</p><p>NASA / JPL-Caltech / MSSS O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 75 metros de espessura na borda da cratera de Jezero foi construída por repetidos impactos de asteróides. Chamado de “membro de Broom Point” pela equipe científica do rover, esta sequência de camadas rochosas tem provavelmente mais de 3, 9 bilhões de anos, o que o torna um dos terrenos mais antigos já examinados por um rover de Marte.</p><p>Primeiro, um impacto colossal de asteroide criou a Bacia Isidis, com 1.900 quilômetros de largura, uma das maiores bacias de impacto em Marte, derrubando e inclinando as camadas rochosas outrora planas.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid impacts. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick (75-meter-thick) stack of ancient rock on the rim of Jezero Crater was built by repeated asteroid. Referred to as the “Broom Point member” by the rover’s science team, this sequence of layered bedrock is likely more than 3.9 billion years old, making it among.</p><p>5 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA’s Perseverance took this selfie at “Witch Hazel Hill” on Jezero Crater’s rim on May 10, 2025. Because Mars lacks plate tectonics to recycle its crust, this ancient record remains intact, giving us a rare glimpse into a geological time period that doesn’t exist on our own.</p><p>If we can pin down the ages of these layers, it would be like reading a cosmic weather report from 4 billion years ago. For more information on NASA’s Perseverance, visit: https: //science. nasa. gov/mission/mars-2020-perseverance News Media Contacts DC Agle Jet Propulsion Laboratory, Pasadena.</p><p>NASA/JPL-Caltech/MSSS NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick (75-meter-thick) stack of ancient rock on the rim of Jezero Crater was built by. First, a colossal asteroid impact created the 1, 200-mile-wide (1, 900-kilometer-wide) Isidis Basin, one of the largest impact basins on Mars, upending and tilting the once-flat.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>For more information on NASA’s Perseverance, visit: https: //science. nasa. gov/mission/mars-2020-perseverance DC Agle Jet Propulsion Laboratory, Pasadena, Calif. 2026 Related Terms Mars Asteroids Perseverance (Rover) Planetary Science Explore More 3 min read NASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health Following its.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi.",
-      "Dado-chave: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero foi.",
-      "Dado-chave: O rover Perseverance Mars da NASA descobriu evidências de que uma pilha de rocha antiga com 245 pés de espessura na borda da cratera de Jezero.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by repeated.",
-      "Key detail: NASA’s Perseverance Mars rover has uncovered evidence that a 245-foot-thick stack of ancient rock on the rim of Jezero Crater was built by.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "15h30",
-    "time_pt": "15h30",
-    "time_en": "15: 30 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T15:30:04+00:00",
-    "lastModifiedIso": "2026-07-15T17:08:55+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Perseverance Rover da NASA lê registro de impactos antigos de Marte"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Perseverance Rover da NASA lê registro de impactos antigos de Marte"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Perseverance Rover Reads Record of Ancient Mars Impacts"
-    ],
-    "srcUrl": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-perseverance-rover-reads-record-of-ancient-mars-impacts/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "imageAlt_pt": "Perseverance Rover da NASA lê registro de impactos antigos de Marte",
-    "imageAlt_en": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
