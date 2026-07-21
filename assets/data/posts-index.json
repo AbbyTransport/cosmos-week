@@ -1,6 +1,369 @@
 [
   {
     "id": 1,
+    "slug": "precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/06/niac-2026-ph1-stankus-2.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Astrometria de precisão usando nave espacial opticamente independente para detecção de ondas gravitacionais",
+    "title_pt": "Astrometria de precisão usando nave espacial opticamente independente para detecção de ondas gravitacionais",
+    "title_en": "Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection",
+    "sub": "Paul StankusBrookhaven Science Associates O objetivo científico é permitir um novo método para observar ondas gravitacionais em baixas frequências, com base na assinatura.",
+    "sub_pt": "Paul StankusBrookhaven Science Associates O objetivo científico é permitir um novo método para observar ondas gravitacionais em baixas frequências, com base na assinatura.",
+    "sub_en": "Paul StankusBrookhaven Science Associates The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW.",
+    "excerpt": "Paul StankusBrookhaven Science Associates O objetivo científico é permitir um novo método para observar ondas gravitacionais em baixas frequências, com base na assinatura astrométrica GW, as ondas gravitacionais que passam pela Terra causarão a.",
+    "excerpt_pt": "Paul StankusBrookhaven Science Associates O objetivo científico é permitir um novo método para observar ondas gravitacionais em baixas frequências, com base na assinatura astrométrica GW, as ondas gravitacionais que passam pela Terra causarão a.",
+    "excerpt_en": "Paul StankusBrookhaven Science Associates The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature, gravitational waves passing by the Earth will cause a.",
+    "highlights": [
+      "Em foco: Paul StankusBrookhaven Science Associates O objetivo científico é permitir um novo método para observar ondas gravitacionais em baixas frequências",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Paul StankusBrookhaven Science Associates O objetivo científico é permitir um novo método para observar ondas gravitacionais em baixas frequências",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Paul StankusBrookhaven Science Associates The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "21 jul 2026",
+    "date_pt": "21 jul 2026",
+    "date_en": "21 Jul 2026",
+    "time": "15h23",
+    "time_pt": "15h23",
+    "time_en": "15: 23 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-21T15:23:54+00:00",
+    "lastModifiedIso": "2026-07-21T17:15:37+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Astrometria de precisão usando nave espacial opticamente independente para detecção de ondas gravitacionais"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Astrometria de precisão usando nave espacial opticamente independente para detecção de ondas gravitacionais"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Precision Astrometry Using Optically Independent Spacecraft for Gravitational Wave Detection"
+    ],
+    "srcUrl": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+    "realUrl": "https://www.cosmosweek.com/?article=precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection",
+    "realUrl_en": "https://www.cosmosweek.com/?article=precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Astrometria de precisão usando nave espacial opticamente independente para detecção de ondas gravitacionais",
+    "imageAlt_pt": "Astrometria de precisão usando nave espacial opticamente independente para detecção de ondas gravitacionais",
+    "imageAlt_en": "Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "why-maine-s-sandy-shorelines-turn-jagged",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Surface_Temperature_Anomalies_1880-2013.jpg/1280px-Global_Surface_Temperature_Anomalies_1880-2013.jpg",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Por que as costas arenosas do Maine ficam irregulares",
+    "title_pt": "Por que as costas arenosas do Maine ficam irregulares",
+    "title_en": "Why Maine’s Sandy Shorelines Turn Jagged",
+    "sub": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
+    "sub_pt": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
+    "sub_en": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
+    "excerpt": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
+    "excerpt_pt": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
+    "excerpt_en": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
+    "highlights": [
+      "Em foco: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "21 jul 2026",
+    "date_pt": "21 jul 2026",
+    "date_en": "21 Jul 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-21T04:00:00+00:00",
+    "lastModifiedIso": "2026-07-21T17:15:37+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Por que as costas arenosas do Maine ficam irregulares"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Por que as costas arenosas do Maine ficam irregulares"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Why Maine's Sandy Coasts Get Bumpy"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+    "realUrl": "https://www.cosmosweek.com/?article=why-maine-s-sandy-shorelines-turn-jagged",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=why-maine-s-sandy-shorelines-turn-jagged",
+    "realUrl_en": "https://www.cosmosweek.com/?article=why-maine-s-sandy-shorelines-turn-jagged&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/why-maine-s-sandy-shorelines-turn-jagged/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/why-maine-s-sandy-shorelines-turn-jagged/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Por que as costas arenosas do Maine ficam irregulares",
+    "imageAlt_pt": "Por que as costas arenosas do Maine ficam irregulares",
+    "imageAlt_en": "Why Maine’s Sandy Shorelines Turn Jagged",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Milky_Way%2C_above_Mauna_Kea_-_by_Luc_Viatour.jpg/1280px-Milky_Way%2C_above_Mauna_Kea_-_by_Luc_Viatour.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Binários amplos em galáxias anãs ultrafracas como uma sonda de objetos escuros estendidos",
+    "title_pt": "Binários amplos em galáxias anãs ultrafracas como uma sonda de objetos escuros estendidos",
+    "title_en": "Wide binaries in ultra-faint dwarf galaxies as a probe of extended dark objects",
+    "sub": "Binários estelares amplos são sondas dinâmicas sensíveis da subestrutura da matéria escura.",
+    "sub_pt": "Binários estelares amplos são sondas dinâmicas sensíveis da subestrutura da matéria escura.",
+    "sub_en": "Wide stellar binaries are sensitive dynamical probes of dark matter substructure. We generalize existing point-mass disruption constraints to spherical extended dark objects and.",
+    "excerpt": "Binários estelares amplos são sondas dinâmicas sensíveis da subestrutura da matéria escura. Generalizamos as restrições existentes de ruptura de massa pontual para objetos escuros esféricos estendidos e aplicamos a estrutura resultante à população de.",
+    "excerpt_pt": "Binários estelares amplos são sondas dinâmicas sensíveis da subestrutura da matéria escura. Generalizamos as restrições existentes de ruptura de massa pontual para objetos escuros esféricos estendidos e aplicamos a estrutura resultante à população de.",
+    "excerpt_en": "Wide stellar binaries are sensitive dynamical probes of dark matter substructure. We generalize existing point-mass disruption constraints to spherical extended dark objects and apply the resulting framework to the population of.",
+    "highlights": [
+      "Em foco: Binários estelares amplos são sondas dinâmicas sensíveis da subestrutura da matéria escura",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Binários estelares amplos são sondas dinâmicas sensíveis da subestrutura da matéria escura",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Wide stellar binaries are sensitive dynamical probes of dark matter substructure",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "20 jul 2026",
+    "date_pt": "20 jul 2026",
+    "date_en": "20 Jul 2026",
+    "time": "17h23",
+    "time_pt": "17h23",
+    "time_en": "17: 23 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-20T17:23:48+00:00",
+    "lastModifiedIso": "2026-07-21T17:15:37+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Binários amplos em galáxias anãs ultrafracas como uma sonda de objetos escuros estendidos"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Binários amplos em galáxias anãs ultrafracas como uma sonda de objetos escuros estendidos"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Wide binaries in ultrafaint dwarf galaxies as a probe of extended dark objects"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2607.18185v1",
+    "realUrl": "https://www.cosmosweek.com/?article=wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects",
+    "realUrl_en": "https://www.cosmosweek.com/?article=wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/wide-binaries-in-ultra-faint-dwarf-galaxies-as-a-probe-of-extended-dark-objects/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Binários amplos em galáxias anãs ultrafracas como uma sonda de objetos escuros estendidos",
+    "imageAlt_pt": "Binários amplos em galáxias anãs ultrafracas como uma sonda de objetos escuros estendidos",
+    "imageAlt_en": "Wide binaries in ultra-faint dwarf galaxies as a probe of extended dark objects",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -18,19 +381,19 @@
     "excerpt_pt": "Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração planetária.",
     "excerpt_en": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration.",
     "highlights": [
-      "Em foco: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração.",
+      "Dado-chave: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração.",
+      "Dado-chave: Há cinquenta anos, as sondas Viking 1 e 2 da NASA fizeram as primeiras aterragens bem-sucedidas em Marte, abrindo uma nova era na exploração",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration.",
+      "Key detail: Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "20 jul 2026",
     "date_pt": "20 jul 2026",
@@ -121,7 +484,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "establishing-a-vte-risk-score-for-astronauts-algorithm",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -139,19 +502,19 @@
     "excerpt_pt": "Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV, dados adicionais coletados revelando o status alterado do fluxo sanguíneo dentro de uma coorte de astronautas.",
     "excerpt_en": "In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss.",
     "highlights": [
-      "Em foco: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV.",
+      "Dado-chave: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de TEV.",
+      "Dado-chave: Em abril de 2026, o Gabinete do Diretor Médico e de Saúde da NASA iniciou um grupo de trabalho para revisar informações atualizadas de casos de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional.",
+      "Key detail: In April 2026, NASA’s Office of the Chief Health and Medical Officer initiated a working group to review updated VTE case information, additional",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 jul 2026",
     "date_pt": "17 jul 2026",
@@ -239,7 +602,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -433,7 +796,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "a-tide-fueled-trove-of-biodiversity-in-guinea-bissau",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -564,7 +927,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 8,
     "slug": "black-hole-spin-measurements-from-x-ray-reflection-spectroscopy-quality-criteria-and-community-r",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -685,162 +1048,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
-    "slug": "nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/psd/ares/figure%202.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
-    "title_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
-    "title_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
-    "sub": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
-    "sub_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a.",
-    "sub_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive.",
-    "excerpt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
-    "excerpt_pt": "Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas sobre a água antiga, a evolução química de asteróides primitivos e os ingredientes que podem ter ajudado a.",
-    "excerpt_en": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life.",
-    "highlights": [
-      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
-      "Dado-chave: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas pistas.",
-      "Dado-chave: Um meteorito recuperado imediatamente após a sua queda na Terra, em 16 de julho de 2024, está a ajudar os cientistas da NASA a descobrir novas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the.",
-      "Key detail: A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "19h28",
-    "time_pt": "19h28",
-    "time_en": "19: 28 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T19:28:53+00:00",
-    "lastModifiedIso": "2026-07-16T17:20:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Study of Pristine Meteorite Adds to History of Ancient Asteroids"
-    ],
-    "srcUrl": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
-    "imageAlt_pt": "Estudo da NASA sobre meteorito intocado contribui para a história de asteróides antigos",
-    "imageAlt_en": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1020,7 +1228,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1175,7 +1383,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "heat-dome-broils-the-western-u-s",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1216,19 +1424,19 @@
     "excerpt_pt": "Uma crista de alta pressão alimentou temperaturas recordes em Montana, Utah e Wyoming em 12 de julho de 2026. A postagem Heat Dome Broils the Western U.",
     "excerpt_en": "A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026. The post Heat Dome Broils the Western U.",
     "highlights": [
-      "Em foco: Uma crista de alta pressão alimentou temperaturas recordes em Montana, Utah e Wyoming em 12 de julho de 2026",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma crista de alta pressão alimentou temperaturas recordes em Montana, Utah e Wyoming em 12 de julho de 2026.",
+      "Dado-chave: Uma crista de alta pressão alimentou temperaturas recordes em Montana, Utah e Wyoming em 12 de julho de 2026",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Uma crista de alta pressão alimentou temperaturas recordes em Montana, Utah e Wyoming em 12 de julho de 2026",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma crista de alta pressão alimentou temperaturas recordes em Montana, Utah e Wyoming em 12 de julho de 2026.",
+      "Dado-chave: Uma crista de alta pressão alimentou temperaturas recordes em Montana, Utah e Wyoming em 12 de julho de 2026",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026.",
+      "Key detail: A ridge of high pressure fueled record-breaking temperatures in Montana, Utah, and Wyoming on July 12, 2026",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 jul 2026",
     "date_pt": "15 jul 2026",
@@ -1316,128 +1524,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
-    "slug": "the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Milky_Way%2C_above_Mauna_Kea_-_by_Luc_Viatour.jpg/1280px-Milky_Way%2C_above_Mauna_Kea_-_by_Luc_Viatour.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "O projeto Trezentos: Propriedades de Clusters de Baixa Fração de Gás e seu ambiente",
-    "title_pt": "O projeto Trezentos: Propriedades de Clusters de Baixa Fração de Gás e seu ambiente",
-    "title_en": "The Three Hundred project: Low Gas Fraction Clusters properties and their environment",
-    "sub": "Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-    "sub_pt": "Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-    "sub_en": "Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases.",
-    "excerpt": "Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção. Estes catálogos incluem preferencialmente sistemas com alto teor de gás e brilho superficial.",
-    "excerpt_pt": "Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção. Estes catálogos incluem preferencialmente sistemas com alto teor de gás e brilho superficial.",
-    "excerpt_en": "Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases. These catalogs preferentially include systems with high gas content and surface brightness.",
-    "highlights": [
-      "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-      "Dado-chave: Amostras de aglomerados de galáxias baseadas em observações de raios X e Sunyaev-Zel'dovich são afetadas por vieses de seleção.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases.",
-      "Key detail: Galaxy cluster samples based on X-ray and Sunyaev-Zel'dovich observations are affected by selection biases.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "14 jul 2026",
-    "date_pt": "14 jul 2026",
-    "date_en": "14 Jul 2026",
-    "time": "10h35",
-    "time_pt": "10h35",
-    "time_en": "10: 35 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-14T10:35:20+00:00",
-    "lastModifiedIso": "2026-07-15T17:08:55+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "O projeto Trezentos",
-      "Propriedades de Clusters de Baixa Fração de Gás e seu ambiente"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "O projeto Trezentos",
-      "Propriedades de Clusters de Baixa Fração de Gás e seu ambiente"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "The Three Hundreds project",
-      "Properties of Low Gas Fraction Clusters and their environment"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2607.12607v1",
-    "realUrl": "https://www.cosmosweek.com/?article=the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment",
-    "realUrl_en": "https://www.cosmosweek.com/?article=the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-three-hundred-project-low-gas-fraction-clusters-properties-and-their-environment/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "O projeto Trezentos: Propriedades de Clusters de Baixa Fração de Gás e seu ambiente",
-    "imageAlt_pt": "O projeto Trezentos: Propriedades de Clusters de Baixa Fração de Gás e seu ambiente",
-    "imageAlt_en": "The Three Hundred project: Low Gas Fraction Clusters properties and their environment",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 11,
+    "id": 12,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1613,7 +1700,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "wild-scenic-and-increasingly-rusty",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1762,7 +1849,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "satellites-in-tandem-reveal-30-years-of-antarctic-ice-flow",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1917,7 +2004,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "unpacking-europe-s-new-weather-imagers",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2063,7 +2150,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2209,7 +2296,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -2389,7 +2476,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "cotton-candy-exoplanets-two-for-the-price-of-one",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2517,143 +2604,6 @@
     "coverageKindLabel": "Jornalismo científico",
     "coverageKindLabel_pt": "Jornalismo científico",
     "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 18,
-    "slug": "webb-studies-how-a-planet-survived-the-death-of-its-star",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_artist_s_concept/27358511-2-eng-GB/Exoplanet_WD_1856_b_artist_s_concept_article.jpg",
-        "alt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "alt_pt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "alt_en": "Exoplanet WD 1856 b (artist’s concept)",
-        "caption": "Exoplaneta WD 1856 b (conceito artístico)",
-        "caption_pt": "Exoplaneta WD 1856 b (conceito artístico)",
-        "caption_en": "Exoplanet WD 1856 b (artist’s concept)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/exoplanet_wd_1856_b_nirspec_transmission_spectrum/27358558-1-eng-GB/Exoplanet_WD_1856_b_NIRSpec_transmission_spectrum_article.jpg",
-        "alt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "alt_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "alt_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum",
-        "caption": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "caption_pt": "Espectro de transmissão do Exoplaneta WD 1856 b NIRSpec",
-        "caption_en": "Exoplanet WD 1856 b NIRSpec transmission spectrum"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O Telescópio Webb Investiga a Sobrevivência de um Planeta Após a Morte de Sua Estrela",
-    "title_pt": "O Telescópio Webb Investiga a Sobrevivência de um Planeta Após a Morte de Sua Estrela",
-    "title_en": "Webb studies how a planet survived the death of its star",
-    "sub": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, um gigante gasoso do tamanho de.",
-    "sub_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, um gigante gasoso do tamanho de.",
-    "sub_en": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the.",
-    "excerpt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, um gigante gasoso do tamanho de Júpiter, enquanto ele transitava por sua estrela hospedeira, uma anã branca.",
-    "excerpt_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, um gigante gasoso do tamanho de Júpiter, enquanto ele transitava por sua estrela hospedeira, uma anã branca.",
-    "excerpt_en": "An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its host star, measuring the planet’s mass and temperature and even detecting its atmosphere.",
-    "highlights": [
-      "Em foco: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, um",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA para observar o exoplaneta WD 1856 b, um",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: An international team of astronomers has used the NASA/ESA/CSA James Webb Space Telescope to watch the Jupiter-sized exoplanet WD 1856 b transit its",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "01 jul 2026",
-    "date_pt": "01 jul 2026",
-    "date_en": "01 Jul 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-01T15:00:00+00:00",
-    "lastModifiedIso": "2026-07-01T17:44:50+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Exoplanetas",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb estuda como um planeta sobreviveu à morte de sua estrela"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb estuda como um planeta sobreviveu à morte de sua estrela"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb studies how a planet survived the death of its star"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star",
-    "realUrl": "https://www.cosmosweek.com/?article=webb-studies-how-a-planet-survived-the-death-of-its-star",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-studies-how-a-planet-survived-the-death-of-its-star",
-    "realUrl_en": "https://www.cosmosweek.com/?article=webb-studies-how-a-planet-survived-the-death-of-its-star&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/webb-studies-how-a-planet-survived-the-death-of-its-star/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-studies-how-a-planet-survived-the-death-of-its-star/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-studies-how-a-planet-survived-the-death-of-its-star/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-studies-how-a-planet-survived-the-death-of-its-star/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-studies-how-a-planet-survived-the-death-of-its-star/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-studies-how-a-planet-survived-the-death-of-its-star/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "O Telescópio Webb Investiga a Sobrevivência de um Planeta Após a Morte de Sua Estrela",
-    "imageAlt_pt": "O Telescópio Webb Investiga a Sobrevivência de um Planeta Após a Morte de Sua Estrela",
-    "imageAlt_en": "Webb studies how a planet survived the death of its star",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
@@ -2816,134 +2766,6 @@
   },
   {
     "id": 20,
-    "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-find-most.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx2.b-cdn.net/gfx/news/2026/astronomers-find-most.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "title_pt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "title_en": "Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen",
-    "sub": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância.",
-    "sub_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância.",
-    "sub_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of.",
-    "excerpt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância de oxigênio recorde de apenas 1/240 da do Sol.",
-    "excerpt_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância de oxigênio recorde de apenas 1/240 da do Sol.",
-    "excerpt_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago.",
-    "highlights": [
-      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a.",
-      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "26 jun 2026",
-    "date_pt": "26 jun 2026",
-    "date_en": "26 Jun 2026",
-    "time": "16h40",
-    "time_pt": "16h40",
-    "time_en": "16: 40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-26T16:40:05+00:00",
-    "lastModifiedIso": "2026-06-26T17:27:34+00:00",
-    "source": "Phys. org Space",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Galáxia quimicamente primitiva de 13 bilhões de anos atrás revela nível recorde de oxigênio"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Galáxia quimicamente primitiva de 13 bilhões de anos atrás revela nível recorde de oxigênio"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Chemically primitive galaxy from 13 billion years ago reveals record level of oxygen"
-    ],
-    "srcUrl": "https://phys.org/news/2026-05-chemically-primitive-galaxy-billion-years.html",
-    "realUrl": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "realUrl_en": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 66,
-      "evidence": 54,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "imageAlt_pt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "imageAlt_en": "Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 21,
     "slug": "a-criptografia-que-promete-esconder-dados-ate-da-nuvem",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3061,7 +2883,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3207,7 +3029,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3374,122 +3196,113 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
-    "slug": "signs-of-thaw-in-the-bering-sea",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "id": 23,
+    "slug": "webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/interstellar_comet_3i_atlas_nirspec_ifu/27338945-1-eng-GB/Interstellar_Comet_3I_ATLAS_NIRSpec_IFU_pillars.jpg",
     "inline_images": [
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_tmo_20260603.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/interstellar_comet_3i_atlas_nirspec_ifu/27338945-1-eng-GB/Interstellar_Comet_3I_ATLAS_NIRSpec_IFU_article.jpg",
+        "alt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "alt_pt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "alt_en": "Interstellar Comet 3I/ATLAS (NIRSpec IFU)",
+        "caption": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "caption_pt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "caption_en": "Interstellar Comet 3I/ATLAS (NIRSpec IFU)"
       },
       {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/signs-of-thaw-in-the-bering-sea/alaskanunivak_721_tmo_20260603_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/3i_atlas_compared_to_solar_system_comets/27339111-1-eng-GB/3I_ATLAS_compared_to_Solar_System_comets_article.jpg",
+        "alt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "alt_pt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "alt_en": "3I/ATLAS compared to Solar System comets",
+        "caption": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "caption_pt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "caption_en": "3I/ATLAS compared to Solar System comets"
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Sinais de degelo no Mar de Bering",
-    "title_pt": "Sinais de degelo no Mar de Bering",
-    "title_en": "Signs of Thaw in the Bering Sea",
-    "sub": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de.",
-    "sub_pt": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de.",
-    "sub_en": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.",
-    "excerpt": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de verão.",
-    "excerpt_pt": "Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a aproximação do solstício de verão.",
-    "excerpt_en": "Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the summer solstice.",
+    "title": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "title_pt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "title_en": "Webb finds clues to ancient origin of Comet 3I/ATLAS",
+    "sub": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as.",
+    "sub_pt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as.",
+    "sub_en": "The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions in our own Solar System may.",
+    "excerpt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as condições no nosso Sistema Solar.",
+    "excerpt_pt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as condições no nosso Sistema Solar.",
+    "excerpt_en": "The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions in our own Solar System may be.",
     "highlights": [
-      "Ponto central: Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a.",
-      "Dado-chave: Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon.",
+      "Ponto central: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns.",
+      "Dado-chave: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon anunciaram a.",
-      "Dado-chave: Fragmentos de gelo marinho à deriva perto das ilhas de São Lourenço e Nunivak, no Alasca, e águas coloridas ao redor do Delta do Yukon.",
+      "Ponto central: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns.",
+      "Dado-chave: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of the.",
-      "Key detail: Drifting sea ice fragments near Alaska’s Saint Lawrence and Nunivak islands and colorful water around the Yukon Delta heralded the approach of.",
+      "Core point: The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions.",
+      "Key detail: The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "22 jun 2026",
     "date_pt": "22 jun 2026",
     "date_en": "22 Jun 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15: 00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-22T04:01:00+00:00",
-    "lastModifiedIso": "2026-06-22T19:04:12+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
+    "publishedIso": "2026-06-22T15:00:00+00:00",
+    "lastModifiedIso": "2026-06-22T15:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
     "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "sourceNote": "Fonte primária institucional. Preferida para missões, observatórios, agências e laboratórios oficiais.",
+    "sourceNote_pt": "Fonte primária institucional. Preferida para missões, observatórios, agências e laboratórios oficiais.",
+    "sourceNote_en": "Primary institutional source. Preferred for missions, observatories, agencies and official laboratories.",
     "evidenceKey": "institutional_update",
     "evidenceLabel": "Atualização institucional",
     "evidenceLabel_pt": "Atualização institucional",
     "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
     "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
+      "Química",
+      "ESA Space Science",
       "Cosmos Week",
-      "Sinais de degelo no Mar de Bering"
+      "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS"
     ],
     "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
+      "Química",
+      "ESA Space Science",
       "Cosmos Week",
-      "Sinais de degelo no Mar de Bering"
+      "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS"
     ],
     "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
+      "Chemical",
+      "ESA Space Science",
       "Cosmos Week",
-      "Signs of melting ice in the Bering Sea"
+      "Webb finds clues to ancient origin of comet 3I/ATLAS"
     ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/signs-of-thaw-in-the-bering-sea/",
-    "realUrl": "https://www.cosmosweek.com/?article=signs-of-thaw-in-the-bering-sea",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=signs-of-thaw-in-the-bering-sea",
-    "realUrl_en": "https://www.cosmosweek.com/?article=signs-of-thaw-in-the-bering-sea&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/signs-of-thaw-in-the-bering-sea/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/signs-of-thaw-in-the-bering-sea/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/signs-of-thaw-in-the-bering-sea/",
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_clues_to_ancient_origin_of_Comet_3I_ATLAS",
+    "realUrl": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "realUrl_en": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -3502,25 +3315,20 @@
     "geminiModel": "gemini-2.5-flash",
     "reviewStatus": "fallback",
     "reviewProvider": "gemini",
-    "score": 100,
+    "score": 81,
     "scoreBreakdown": {
-      "source": 92,
+      "source": 95,
       "evidence": 92,
-      "relevance": 84,
+      "relevance": 82,
       "accessibility": 60,
       "novelty": 55
     },
-    "imageAlt": "Sinais de degelo no Mar de Bering",
-    "imageAlt_pt": "Sinais de degelo no Mar de Bering",
-    "imageAlt_en": "Signs of Thaw in the Bering Sea",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
+    "imageAlt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "imageAlt_pt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "imageAlt_en": "Webb finds clues to ancient origin of Comet 3I/ATLAS"
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3638,7 +3446,7 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "are-we-ready-to-send-humans-to-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3847,7 +3655,7 @@
     "storyKind": "science"
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "strange-winds-reveal-strongest-hints-yet-of-magnetic-activity-in-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4006,7 +3814,7 @@
     "storyKind": "science"
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "webb-hubble-find-massive-star-clusters-emerge-faster",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4134,7 +3942,7 @@
     "storyKind": "science"
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4252,7 +4060,7 @@
     "storyKind": "science"
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4383,7 +4191,7 @@
     "storyKind": "science"
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4498,6 +4306,137 @@
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 31,
+    "slug": "sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/rice-researchers-find.jpg",
+    "inline_images": [
+      {
+        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "title_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "title_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
+    "sub": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
+    "sub_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
+    "sub_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is.",
+    "excerpt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
+    "excerpt_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
+    "excerpt_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is covered by an iron-poor and sulfur-rich crust.",
+    "highlights": [
+      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
+      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
+      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_en": [
+      "Core point: Mercury is a small, rocky planet about which researchers know relatively little.",
+      "Key detail: Mercury is a small, rocky planet about which researchers know relatively little",
+      "Science reporting: verify primary technical documentation."
+    ],
+    "date": "19 abr 2026",
+    "date_pt": "19 abr 2026",
+    "date_en": "19 Apr 2026",
+    "time": "19h00",
+    "time_pt": "19h00",
+    "time_en": "19: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-19T19:00:01+00:00",
+    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
+    "source": "Phys. org Space",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Magmas de Mercúrio ricos em enxofre comportam",
+      "se de maneira diferente dos da Terra"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Magmas de Mercúrio ricos em enxofre comportam",
+      "se de maneira diferente dos da Terra"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Sulfur-rich Mercury magmas contain",
+      "if different from those on Earth"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-sulfur-rich-mercury-magmas-differently.html",
+    "realUrl": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
+    "realUrl_en": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 42,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "imageAlt_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "imageAlt_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
     "storyKind": "science"
   },
   {
