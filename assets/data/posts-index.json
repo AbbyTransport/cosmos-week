@@ -1,6 +1,464 @@
 [
   {
     "id": 1,
+    "slug": "how-sentinel-1-measured-movement-of-venezuela-quakes",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/ground_displacement_following_venezuela_earthquakes/27394336-1-eng-GB/Ground_displacement_following_Venezuela_earthquakes_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/ground_displacement_following_venezuela_earthquakes/27394336-1-eng-GB/Ground_displacement_following_Venezuela_earthquakes_article.jpg",
+        "alt": "Os dados foram capturados por instrumentos de radar dos satélites Copernicus Sentinel-1.",
+        "alt_pt": "Os dados foram capturados por instrumentos de radar dos satélites Copernicus Sentinel-1.",
+        "alt_en": "The data was captured by radar instruments on the Copernicus Sentinel-1 satellites.",
+        "caption": "Os dados foram capturados por instrumentos de radar dos satélites Copernicus Sentinel-1.",
+        "caption_pt": "Os dados foram capturados por instrumentos de radar dos satélites Copernicus Sentinel-1.",
+        "caption_en": "The data was captured by radar instruments on the Copernicus Sentinel-1 satellites."
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_article.jpg",
+        "alt": "Visão de radar",
+        "alt_pt": "Visão de radar",
+        "alt_en": "Radar vision",
+        "caption": "Visão de radar",
+        "caption_pt": "Visão de radar",
+        "caption_en": "Radar vision"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/02/sentinel-1_radar_modes/14294106-1-eng-GB/Sentinel-1_radar_modes_article.jpg",
+        "alt": "Modos de radar Sentinel-1",
+        "alt_pt": "Modos de radar Sentinel-1",
+        "alt_en": "Sentinel-1 radar modes",
+        "caption": "Modos de radar Sentinel-1",
+        "caption_pt": "Modos de radar Sentinel-1",
+        "caption_en": "Sentinel-1 radar modes"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Como o Sentinel-1 mediu o movimento dos terremotos na Venezuela",
+    "title_pt": "Como o Sentinel-1 mediu o movimento dos terremotos na Venezuela",
+    "title_en": "How Sentinel-1 measured movement of Venezuela quakes",
+    "sub": "Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento do solo foi maior do que o.",
+    "sub_pt": "Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento do solo foi maior do que o.",
+    "sub_en": "More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was greater than first estimated.",
+    "excerpt": "Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento do solo foi maior do que o inicialmente estimado.",
+    "excerpt_pt": "Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento do solo foi maior do que o inicialmente estimado.",
+    "excerpt_en": "More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was greater than first estimated.",
+    "highlights": [
+      "Em foco: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "28 jul 2026",
+    "date_pt": "28 jul 2026",
+    "date_en": "28 Jul 2026",
+    "time": "12h04",
+    "time_pt": "12h04",
+    "time_en": "12: 04 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-28T12:04:00+00:00",
+    "lastModifiedIso": "2026-07-28T17:28:08+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Como o Sentinel",
+      "1 mediu o movimento dos terremotos na Venezuela"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Como o Sentinel",
+      "1 mediu o movimento dos terremotos na Venezuela"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "Like the Sentinel",
+      "1 measured the movement of earthquakes in Venezuela"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes",
+    "realUrl": "https://www.cosmosweek.com/?article=how-sentinel-1-measured-movement-of-venezuela-quakes",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=how-sentinel-1-measured-movement-of-venezuela-quakes",
+    "realUrl_en": "https://www.cosmosweek.com/?article=how-sentinel-1-measured-movement-of-venezuela-quakes&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/how-sentinel-1-measured-movement-of-venezuela-quakes/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/how-sentinel-1-measured-movement-of-venezuela-quakes/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/how-sentinel-1-measured-movement-of-venezuela-quakes/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/how-sentinel-1-measured-movement-of-venezuela-quakes/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/how-sentinel-1-measured-movement-of-venezuela-quakes/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/how-sentinel-1-measured-movement-of-venezuela-quakes/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Como o Sentinel-1 mediu o movimento dos terremotos na Venezuela",
+    "imageAlt_pt": "Como o Sentinel-1 mediu o movimento dos terremotos na Venezuela",
+    "imageAlt_en": "How Sentinel-1 measured movement of Venezuela quakes",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-science-soars-during-august-total-solar-eclipse",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/hpd/eclipse-2024/Eclipse_SwRI_mosaic_processed.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/7UqEGElLxfs?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse-2024/NEBP_20240408_195634.jpg?w=4624&h=3468&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Balões voando alto proporcionam aos alunos vistas únicas de eclipses solares",
+      "title_pt": "Balões voando alto proporcionam aos alunos vistas únicas de eclipses solares",
+      "title_en": "High-Flying Balloons Give Students Unique Views of Solar Eclipses",
+      "caption": "O Nationwide Eclipse Ballooning Project, financiado pela NASA, permite que equipes de estudantes de todos os EUA obtenham uma visão única dos eclipses solares totais com cientistas. ..",
+      "caption_pt": "O Nationwide Eclipse Ballooning Project, financiado pela NASA, permite que equipes de estudantes de todos os EUA obtenham uma visão única dos eclipses solares totais com cientistas. ..",
+      "caption_en": "The NASA-funded Nationwide Eclipse Ballooning Project allows teams of students from across the U. S. to get a unique view of total solar eclipses with scienti. ..",
+      "sourcePage": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/"
+    },
+    "audio": null,
+    "title": "Ciência da NASA dispara durante o eclipse solar total de agosto",
+    "title_pt": "Ciência da NASA dispara durante o eclipse solar total de agosto",
+    "title_en": "NASA Science Soars During August Total Solar Eclipse",
+    "sub": "Cada vez que a Lua cobre o Sol durante um eclipse solar total, escurecendo o céu diurno e revelando brevemente a atmosfera exterior etérea do Sol, a coroa, apresenta novas.",
+    "sub_pt": "Cada vez que a Lua cobre o Sol durante um eclipse solar total, escurecendo o céu diurno e revelando brevemente a atmosfera exterior etérea do Sol, a coroa, apresenta novas.",
+    "sub_en": "Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona, it presents new.",
+    "excerpt": "Cada vez que a Lua cobre o Sol durante um eclipse solar total, escurecendo o céu diurno e revelando brevemente a atmosfera exterior etérea do Sol, a coroa, apresenta novas oportunidades para compreender melhor a nossa estrela e a sua influência.",
+    "excerpt_pt": "Cada vez que a Lua cobre o Sol durante um eclipse solar total, escurecendo o céu diurno e revelando brevemente a atmosfera exterior etérea do Sol, a coroa, apresenta novas oportunidades para compreender melhor a nossa estrela e a sua influência.",
+    "excerpt_en": "Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere, the corona, it presents new opportunities to better understand our star and its influence on.",
+    "highlights": [
+      "Em foco: Cada vez que a Lua cobre o Sol durante um eclipse solar total, escurecendo o céu diurno e revelando brevemente a atmosfera exterior etérea do Sol, a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Cada vez que a Lua cobre o Sol durante um eclipse solar total, escurecendo o céu diurno e revelando brevemente a atmosfera exterior etérea do Sol, a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "27 jul 2026",
+    "date_pt": "27 jul 2026",
+    "date_en": "27 Jul 2026",
+    "time": "18h01",
+    "time_pt": "18h01",
+    "time_en": "18: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-27T18:01:14+00:00",
+    "lastModifiedIso": "2026-07-28T17:28:08+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ciência da NASA dispara durante o eclipse solar total de agosto"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ciência da NASA dispara durante o eclipse solar total de agosto"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Science Soars During August's Total Solar Eclipse"
+    ],
+    "srcUrl": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-science-soars-during-august-total-solar-eclipse",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-science-soars-during-august-total-solar-eclipse",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-science-soars-during-august-total-solar-eclipse&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-science-soars-during-august-total-solar-eclipse/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-science-soars-during-august-total-solar-eclipse/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-science-soars-during-august-total-solar-eclipse/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-science-soars-during-august-total-solar-eclipse/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-science-soars-during-august-total-solar-eclipse/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-science-soars-during-august-total-solar-eclipse/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Ciência da NASA dispara durante o eclipse solar total de agosto",
+    "imageAlt_pt": "Ciência da NASA dispara durante o eclipse solar total de agosto",
+    "imageAlt_en": "NASA Science Soars During August Total Solar Eclipse",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://videojs.org/og/support.png",
+        "alt": "suporta vídeo HTML5",
+        "alt_pt": "suporta vídeo HTML5",
+        "alt_en": "supports HTML5 video",
+        "caption": "suporta vídeo HTML5",
+        "caption_pt": "suporta vídeo HTML5",
+        "caption_en": "supports HTML5 video"
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/homepage/news-elsewhere/TDE%20video.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&h=2160&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’ - NASA Science",
+      "title_pt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’ - NASA Science",
+      "title_en": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star - NASA Science",
+      "caption": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante. Esses fenômenos",
+      "caption_pt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante. Esses fenômenos",
+      "caption_en": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena",
+      "sourcePage": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/"
+    },
+    "audio": null,
+    "title": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
+    "title_pt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
+    "title_en": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+    "sub": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
+    "sub_pt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
+    "sub_en": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
+    "excerpt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
+    "excerpt_pt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
+    "excerpt_en": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
+    "highlights": [
+      "Em foco: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "27 jul 2026",
+    "date_pt": "27 jul 2026",
+    "date_en": "27 Jul 2026",
+    "time": "16h06",
+    "time_pt": "16h06",
+    "time_en": "16: 06 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-27T16:06:37+00:00",
+    "lastModifiedIso": "2026-07-28T17:28:08+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Swift Spots 'Errant' Black Hole-Destroying Megastar"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-swift-sees-wandering-mega-black-hole-shredding-star&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
+    "imageAlt_pt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
+    "imageAlt_en": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "nasa-to-cover-three-us-spacewalks-host-preview-news-conference",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -18,19 +476,19 @@
     "excerpt_pt": "A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto para continuar a atualizar os painéis solares, substituir uma antena de comunicações e conectar cabos de energia.",
     "excerpt_en": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support.",
     "highlights": [
-      "Em foco: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto.",
+      "Dado-chave: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto.",
+      "Dado-chave: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading.",
+      "Key detail: NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "27 jul 2026",
     "date_pt": "27 jul 2026",
@@ -118,7 +576,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -259,7 +717,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "pink-penguin-guano-provides-diet-clues",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -387,7 +845,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "nih-researchers-identify-regulatory-cells-that-shield-against-inflammatory-bowel-disease",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -505,135 +963,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22076/PIA22076.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/133_lro_nearside.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "MAVEN da NASA ilumina nova compreensão das Auroras em Marte",
-    "title_pt": "MAVEN da NASA ilumina nova compreensão das Auroras em Marte",
-    "title_en": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
-    "sub": "Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte, descobrindo que elas se formam de maneira.",
-    "sub_pt": "Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte, descobrindo que elas se formam de maneira.",
-    "sub_en": "NASA MAVEN mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras.",
-    "excerpt": "Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte, descobrindo que elas se formam de maneira semelhante às auroras baseadas na Terra.",
-    "excerpt_pt": "Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte, descobrindo que elas se formam de maneira semelhante às auroras baseadas na Terra.",
-    "excerpt_en": "NASA MAVEN mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a similar way to Earth-based auroras.",
-    "highlights": [
-      "Ponto central: Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte, descobrindo.",
-      "Dado-chave: Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte, descobrindo.",
-      "Dado-chave: Os cientistas da missão MAVEN da NASA descobriram uma peça chave do quebra-cabeça para a compreensão de certos tipos de auroras em Marte.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA MAVEN mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a.",
-      "Key detail: NASA MAVEN mission scientists have uncovered a key puzzle piece in understanding certain types of auroras on Mars, finding that they form in a.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "23 jul 2026",
-    "date_pt": "23 jul 2026",
-    "date_en": "23 Jul 2026",
-    "time": "15h19",
-    "time_pt": "15h19",
-    "time_en": "15: 19 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-23T15:19:33+00:00",
-    "lastModifiedIso": "2026-07-23T17:19:30+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Física",
-      "NASA News Releases",
-      "Cosmos Week",
-      "MAVEN da NASA ilumina nova compreensão das Auroras em Marte"
-    ],
-    "keywords_pt": [
-      "Física",
-      "NASA News Releases",
-      "Cosmos Week",
-      "MAVEN da NASA ilumina nova compreensão das Auroras em Marte"
-    ],
-    "keywords_en": [
-      "Physical",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's MAVEN illuminates new understanding of Auroras on Mars"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/maven/nasas-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-maven-illuminates-new-understanding-of-auroras-at-mars/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "MAVEN da NASA ilumina nova compreensão das Auroras em Marte",
-    "imageAlt_pt": "MAVEN da NASA ilumina nova compreensão das Auroras em Marte",
-    "imageAlt_en": "NASA’s MAVEN Illuminates New Understanding of Auroras at Mars",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
+    "id": 8,
     "slug": "watch-the-total-solar-eclipse-with-esa-in-leon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -801,7 +1131,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "dark-monopoles-bounds-on-hidden-sectors-and-cosmological-implications",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -922,7 +1252,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "a-dust-free-hierarchically-nested-supermassive-star-model-for-james-webb-space-telescope-little-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1040,7 +1370,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1217,171 +1547,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
-    "slug": "nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://images-assets.nasa.gov/image/PIA26484/PIA26484~large.jpg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26757/PIA26757.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/5_detail_640x350_saturn.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/03/pia21770large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/5203/Jupiter_and_Galilean_Moons-1.jpeg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/carousel_io_4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Juno da NASA mede a temperatura da lua ardente de Júpiter, Io",
-    "title_pt": "Juno da NASA mede a temperatura da lua ardente de Júpiter, Io",
-    "title_en": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
-    "sub": "A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento significativo na subsuperfície rasa do.",
-    "sub_pt": "A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento significativo na subsuperfície rasa do.",
-    "sub_en": "NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating within the shallow subsurface of.",
-    "excerpt": "A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento significativo na subsuperfície rasa do mundo mais vulcanicamente ativo do sistema solar.",
-    "excerpt_pt": "A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento significativo na subsuperfície rasa do mundo mais vulcanicamente ativo do sistema solar.",
-    "excerpt_en": "NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system.",
-    "highlights": [
-      "Ponto central: A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento.",
-      "Dado-chave: A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento.",
-      "Dado-chave: A missão Juno da NASA forneceu as primeiras medições da temperatura abaixo da superfície da lua de Júpiter, Io, revelando um aquecimento.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating.",
-      "Key detail: NASA’s Juno mission has provided the first measurements of the temperature below the surface of Jupiter’s moon Io, revealing significant heating.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 jul 2026",
-    "date_pt": "22 jul 2026",
-    "date_en": "22 Jul 2026",
-    "time": "14h54",
-    "time_pt": "14h54",
-    "time_en": "14: 54 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-22T14:54:35+00:00",
-    "lastModifiedIso": "2026-07-22T17:15:38+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Juno da NASA mede a temperatura da lua ardente de Júpiter"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Juno da NASA mede a temperatura da lua ardente de Júpiter"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Juno measures the temperature of Jupiter's fiery moon"
-    ],
-    "srcUrl": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-juno-takes-temperature-of-jupiter-s-fiery-moon-io/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Juno da NASA mede a temperatura da lua ardente de Júpiter, Io",
-    "imageAlt_pt": "Juno da NASA mede a temperatura da lua ardente de Júpiter, Io",
-    "imageAlt_en": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 11,
+    "id": 12,
     "slug": "a-week-of-smoky-skies-across-north-america",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1531,7 +1697,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "dark-matter-searches-with-a-13-mev-threshold-superconducting-sensor-array",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1649,7 +1815,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "why-maine-s-sandy-shorelines-turn-jagged",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1678,12 +1844,12 @@
     "excerpt_en": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
     "highlights": [
       "Ponto central: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
-      "Dado-chave: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente",
+      "Dado-chave: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
-      "Dado-chave: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente",
+      "Dado-chave: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -1777,7 +1943,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1971,7 +2137,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2151,7 +2317,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "metallic-waves-on-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2306,7 +2472,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2482,7 +2648,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "satellites-in-tandem-reveal-30-years-of-antarctic-ice-flow",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2637,299 +2803,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
-    "slug": "unpacking-europe-s-new-weather-imagers",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mtg-i2_is_unboxed_at_europe_s_spaceport/27366685-2-eng-GB/MTG-I2_is_unboxed_at_Europe_s_Spaceport_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mtg-i2_is_unboxed_at_europe_s_spaceport/27366685-2-eng-GB/MTG-I2_is_unboxed_at_Europe_s_Spaceport_pillars.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/mtg-i2_inside_the_thermal_vacuum_chamber/27173601-1-eng-GB/MTG-I2_inside_the_Thermal_Vacuum_chamber_article.jpg",
-        "alt": "Aqui o satélite MTG-I2 é visto dentro da câmara de vácuo térmico",
-        "alt_pt": "Aqui o satélite MTG-I2 é visto dentro da câmara de vácuo térmico",
-        "alt_en": "Here the MTG-I2 satellite is seen inside the Thermal Vacuum chamber",
-        "caption": "Aqui o satélite MTG-I2 é visto dentro da câmara de vácuo térmico",
-        "caption_pt": "Aqui o satélite MTG-I2 é visto dentro da câmara de vácuo térmico",
-        "caption_en": "Here the MTG-I2 satellite is seen inside the Thermal Vacuum chamber"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/first_view_of_mtg-i2_since_leaving_europe/27366732-2-eng-GB/First_view_of_MTG-I2_since_leaving_Europe_article.jpg",
-        "alt": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "alt_pt": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "alt_en": "MTG-I2 was taken out of its protective casing at Europe’s Spaceport in French Guiana",
-        "caption": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "caption_pt": "O MTG-I2 foi retirado de sua caixa protetora no Porto Espacial Europeu na Guiana Francesa",
-        "caption_en": "MTG-I2 was taken out of its protective casing at Europe’s Spaceport in French Guiana"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Desvendando os novos sensores meteorológicos da Europa",
-    "title_pt": "Desvendando os novos sensores meteorológicos da Europa",
-    "title_en": "Unpacking Europe’s new weather imagers",
-    "sub": "O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do.",
-    "sub_pt": "O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do.",
-    "sub_en": "The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of.",
-    "excerpt": "O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao.",
-    "excerpt_pt": "O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser instalado na carenagem do foguetão Ariane 6 que o lançará ao espaço em direcção ao.",
-    "excerpt_en": "The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before being fitted inside the fairing of the Ariane 6 rocket that will launch it into space towards the.",
-    "highlights": [
-      "Ponto central: O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser.",
-      "Dado-chave: O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes de ser.",
-      "Dado-chave: O segundo satélite Meteosat Third Generation Imager iniciou a sua campanha de lançamento, durante a qual passará pelas inspecções finais antes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before being.",
-      "Key detail: The second Meteosat Third Generation Imager satellite has begun its launch campaign, during which it will go through final inspections before.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 jul 2026",
-    "date_pt": "07 jul 2026",
-    "date_en": "07 Jul 2026",
-    "time": "08h00",
-    "time_pt": "08h00",
-    "time_en": "08: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-07T08:00:00+00:00",
-    "lastModifiedIso": "2026-07-07T17:51:03+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Desvendando os novos sensores meteorológicos da Europa"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Desvendando os novos sensores meteorológicos da Europa"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "Unveiling Europe's new weather sensors"
-    ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Unpacking_Europe_s_new_weather_imagers",
-    "realUrl": "https://www.cosmosweek.com/?article=unpacking-europe-s-new-weather-imagers",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=unpacking-europe-s-new-weather-imagers",
-    "realUrl_en": "https://www.cosmosweek.com/?article=unpacking-europe-s-new-weather-imagers&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/unpacking-europe-s-new-weather-imagers/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/unpacking-europe-s-new-weather-imagers/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/unpacking-europe-s-new-weather-imagers/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/unpacking-europe-s-new-weather-imagers/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/unpacking-europe-s-new-weather-imagers/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/unpacking-europe-s-new-weather-imagers/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 86,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Desvendando os novos sensores meteorológicos da Europa",
-    "imageAlt_pt": "Desvendando os novos sensores meteorológicos da Europa",
-    "imageAlt_en": "Unpacking Europe’s new weather imagers",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
     "id": 20,
-    "slug": "webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_image/27358464-1-eng-GB/Centaurus_A_MIRI_image_article.jpg",
-        "alt": "Centauro A (imagem MIRI)",
-        "alt_pt": "Centauro A (imagem MIRI)",
-        "alt_en": "Centaurus A (MIRI image)",
-        "caption": "Centauro A (imagem MIRI)",
-        "caption_pt": "Centauro A (imagem MIRI)",
-        "caption_en": "Centaurus A (MIRI image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_miri_and_nircam_image/27358605-1-eng-GB/Centaurus_A_MIRI_and_NIRCam_image_article.jpg",
-        "alt": "Centaurus A (imagem MIRI e NIRCam)",
-        "alt_pt": "Centaurus A (imagem MIRI e NIRCam)",
-        "alt_en": "Centaurus A (MIRI and NIRCam image)",
-        "caption": "Centaurus A (imagem MIRI e NIRCam)",
-        "caption_pt": "Centaurus A (imagem MIRI e NIRCam)",
-        "caption_en": "Centaurus A (MIRI and NIRCam image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/centaurus_a_ground-based_context/27359451-1-eng-GB/Centaurus_A_ground-based_context_article.jpg",
-        "alt": "Centaurus A: contexto terrestre",
-        "alt_pt": "Centaurus A: contexto terrestre",
-        "alt_en": "Centaurus A: ground-based context",
-        "caption": "Centaurus A: contexto terrestre",
-        "caption_pt": "Centaurus A: contexto terrestre",
-        "caption_en": "Centaurus A: ground-based context"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Webb revela milhões de estrelas em galáxia próxima",
-    "title_pt": "Webb revela milhões de estrelas em galáxia próxima",
-    "title_en": "Webb reveals millions of stars in nearby galaxy",
-    "sub": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
-    "sub_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e.",
-    "sub_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more.",
-    "excerpt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes.",
-    "excerpt_pt": "Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar transforma-se em algo muito mais rico e muito mais complexo do que alguma vez visto antes.",
-    "excerpt_en": "In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before.",
-    "highlights": [
-      "Em foco: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Em novas imagens do Telescópio Espacial James Webb da NASA/ESA/CSA para celebrar o seu quarto aniversário científico, uma galáxia familiar",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: In new images from the NASA/ESA/CSA James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "06 jul 2026",
-    "date_pt": "06 jul 2026",
-    "date_en": "06 Jul 2026",
-    "time": "16h00",
-    "time_pt": "16h00",
-    "time_en": "16: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-06T16:00:00+00:00",
-    "lastModifiedIso": "2026-07-06T18:16:22+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb revela milhões de estrelas em galáxia próxima"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb revela milhões de estrelas em galáxia próxima"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Webb reveals millions of stars in nearby galaxy"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_millions_of_stars_in_nearby_galaxy",
-    "realUrl": "https://www.cosmosweek.com/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-reveals-millions-of-stars-in-nearby-galaxy",
-    "realUrl_en": "https://www.cosmosweek.com/?article=webb-reveals-millions-of-stars-in-nearby-galaxy&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/webb-reveals-millions-of-stars-in-nearby-galaxy/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-reveals-millions-of-stars-in-nearby-galaxy/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-reveals-millions-of-stars-in-nearby-galaxy/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-reveals-millions-of-stars-in-nearby-galaxy/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-reveals-millions-of-stars-in-nearby-galaxy/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-reveals-millions-of-stars-in-nearby-galaxy/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Webb revela milhões de estrelas em galáxia próxima",
-    "imageAlt_pt": "Webb revela milhões de estrelas em galáxia próxima",
-    "imageAlt_en": "Webb reveals millions of stars in nearby galaxy",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 21,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -3109,7 +2983,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "cotton-candy-exoplanets-two-for-the-price-of-one",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -3240,7 +3114,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3398,7 +3272,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3544,7 +3418,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3709,6 +3583,138 @@
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
+  },
+  {
+    "id": 25,
+    "slug": "webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/interstellar_comet_3i_atlas_nirspec_ifu/27338945-1-eng-GB/Interstellar_Comet_3I_ATLAS_NIRSpec_IFU_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/interstellar_comet_3i_atlas_nirspec_ifu/27338945-1-eng-GB/Interstellar_Comet_3I_ATLAS_NIRSpec_IFU_article.jpg",
+        "alt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "alt_pt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "alt_en": "Interstellar Comet 3I/ATLAS (NIRSpec IFU)",
+        "caption": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "caption_pt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "caption_en": "Interstellar Comet 3I/ATLAS (NIRSpec IFU)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/3i_atlas_compared_to_solar_system_comets/27339111-1-eng-GB/3I_ATLAS_compared_to_Solar_System_comets_article.jpg",
+        "alt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "alt_pt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "alt_en": "3I/ATLAS compared to Solar System comets",
+        "caption": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "caption_pt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "caption_en": "3I/ATLAS compared to Solar System comets"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "title_pt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "title_en": "Webb finds clues to ancient origin of Comet 3I/ATLAS",
+    "sub": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as.",
+    "sub_pt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as.",
+    "sub_en": "The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions in our own Solar System may.",
+    "excerpt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as condições no nosso Sistema Solar.",
+    "excerpt_pt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as condições no nosso Sistema Solar.",
+    "excerpt_en": "The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions in our own Solar System may be.",
+    "highlights": [
+      "Ponto central: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns.",
+      "Dado-chave: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns.",
+      "Dado-chave: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions.",
+      "Key detail: The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 jun 2026",
+    "date_pt": "22 jun 2026",
+    "date_en": "22 Jun 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-22T15:00:00+00:00",
+    "lastModifiedIso": "2026-06-22T15:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Preferida para missões, observatórios, agências e laboratórios oficiais.",
+    "sourceNote_pt": "Fonte primária institucional. Preferida para missões, observatórios, agências e laboratórios oficiais.",
+    "sourceNote_en": "Primary institutional source. Preferred for missions, observatories, agencies and official laboratories.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Química",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS"
+    ],
+    "keywords_pt": [
+      "Química",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb finds clues to ancient origin of comet 3I/ATLAS"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_clues_to_ancient_origin_of_Comet_3I_ATLAS",
+    "realUrl": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "realUrl_en": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 95,
+      "evidence": 92,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "imageAlt_pt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "imageAlt_en": "Webb finds clues to ancient origin of Comet 3I/ATLAS"
   },
   {
     "id": 26,
@@ -4827,146 +4833,6 @@
   },
   {
     "id": 34,
-    "slug": "mining-waste-product-could-help-store-carbon-emissions-study-suggests",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/mining-waste-product-c.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx2.b-cdn.net/gfx/news/2026/mining-waste-product-c.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
-    "title_pt": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
-    "title_en": "Mining waste product could help store carbon emissions, study suggests",
-    "sub": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento.",
-    "sub_pt": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento.",
-    "sub_en": "A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
-    "excerpt": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento de dióxido de carbono.",
-    "excerpt_pt": "Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução promissora para o armazenamento de dióxido de carbono.",
-    "excerpt_en": "A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
-    "highlights": [
-      "Ponto central: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução.",
-      "Dado-chave: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma solução.",
-      "Dado-chave: Um novo estudo liderado pela Universidade Concordia sugere que a escória rica em ferro, um dos maiores resíduos da mineração, pode ser uma.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
-      "Key detail: A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "17 abr 2026",
-    "date_pt": "17 abr 2026",
-    "date_en": "17 Apr 2026",
-    "time": "17h40",
-    "time_pt": "17h40",
-    "time_en": "17: 40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-17T17:40:03+00:00",
-    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
-    "source": "Phys. org Chemistry",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Química",
-      "Phys. org Chemistry",
-      "Cosmos Week",
-      "Resíduos de mineração podem ajudar a armazenar emissões de carbono",
-      "sugere estudo"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys. org Chemistry",
-      "Cosmos Week",
-      "Resíduos de mineração podem ajudar a armazenar emissões de carbono",
-      "sugere estudo"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Phys. org Chemistry",
-      "Cosmos Week",
-      "Mining waste can help store carbon emissions",
-      "suggests study"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-product-carbon-emissions.html",
-    "realUrl": "https://www.cosmosweek.com/?article=mining-waste-product-could-help-store-carbon-emissions-study-suggests",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=mining-waste-product-could-help-store-carbon-emissions-study-suggests",
-    "realUrl_en": "https://www.cosmosweek.com/?article=mining-waste-product-could-help-store-carbon-emissions-study-suggests&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/mining-waste-product-could-help-store-carbon-emissions-study-suggests/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 70,
-      "evidence": 42,
-      "relevance": 84,
-      "accessibility": 52,
-      "novelty": 52
-    },
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science",
-    "imageAlt": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
-    "imageAlt_pt": "Resíduos de mineração podem ajudar a armazenar emissões de carbono, sugere estudo",
-    "imageAlt_en": "Mining waste product could help store carbon emissions, study suggests"
-  },
-  {
-    "id": 35,
     "slug": "sun-news-huge-coronal-hole-now-faces-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -5113,6 +4979,143 @@
     "imageAlt": "Notícias do Sol: Enorme buraco coronal agora enfrenta a Terra",
     "imageAlt_pt": "Notícias do Sol: Enorme buraco coronal agora enfrenta a Terra",
     "imageAlt_en": "Sun news: Huge coronal hole now faces Earth"
+  },
+  {
+    "id": 35,
+    "slug": "how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-a-new-technique-wi.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx2.b-cdn.net/gfx/news/2026/how-a-new-technique-wi.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
+    "title_pt": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
+    "title_en": "How a new technique will help us mine rare-earth metals with plants",
+    "sub": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
+    "sub_pt": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
+    "sub_en": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant.",
+    "excerpt": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
+    "excerpt_pt": "Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a planta.",
+    "excerpt_en": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant.",
+    "highlights": [
+      "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
+      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
+      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_en": [
+      "Core point: Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the.",
+      "Key detail: Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying.",
+      "Science reporting: verify primary technical documentation."
+    ],
+    "date": "16 abr 2026",
+    "date_pt": "16 abr 2026",
+    "date_en": "16 Apr 2026",
+    "time": "22h50",
+    "time_pt": "22h50",
+    "time_en": "22: 50 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-16T22:50:01+00:00",
+    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
+    "source": "Phys. org Chemistry",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Física",
+      "Phys. org Chemistry",
+      "Cosmos Week",
+      "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys. org Chemistry",
+      "Cosmos Week",
+      "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys. org Chemistry",
+      "Cosmos Week",
+      "How a new technique will help us extract rare earth metals with plants"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-technique-rare-earth-metals.html",
+    "realUrl": "https://www.cosmosweek.com/?article=how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
+    "realUrl_en": "https://www.cosmosweek.com/?article=how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 70,
+      "evidence": 42,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 49
+    },
+    "imageAlt": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
+    "imageAlt_pt": "Como uma nova técnica nos ajudará a extrair metais de terras raras com plantas",
+    "imageAlt_en": "How a new technique will help us mine rare-earth metals with plants",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science"
   },
   {
     "id": 36,
