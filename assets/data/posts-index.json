@@ -1,6 +1,411 @@
 [
   {
     "id": 1,
+    "slug": "nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia26729-curiosity-discovers-a-field-of-martian-polygons.png",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/03/pia24173-crop.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/4740_NRA_402388588EDR_F0043416NCAM00442M_-full2.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel",
+    "title_pt": "Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel",
+    "title_en": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+    "sub": "Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas.",
+    "sub_pt": "Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas.",
+    "sub_en": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists.",
+    "excerpt": "Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas semelhantes a favos de mel chamadas fracturas poligonais, cada uma com cerca de.",
+    "excerpt_pt": "Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas semelhantes a favos de mel chamadas fracturas poligonais, cada uma com cerca de.",
+    "excerpt_en": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.",
+    "highlights": [
+      "Em foco: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "29 jul 2026",
+    "date_pt": "29 jul 2026",
+    "date_en": "29 Jul 2026",
+    "time": "15h30",
+    "time_pt": "15h30",
+    "time_en": "15: 30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-29T15:30:00+00:00",
+    "lastModifiedIso": "2026-07-29T17:08:45+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Curiosity Mars Rover Discovers Field of Honeycomb Textures"
+    ],
+    "srcUrl": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel",
+    "imageAlt_pt": "Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel",
+    "imageAlt_en": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-webb-explores-family-tree-of-newly-discovered-distant-objects",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/07/STScI-01KVTW3MA3BWZ66MW2C9HG0601.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "vimeo",
+      "embedUrl": "https://player.vimeo.com/video/1190518970",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://viewspace.org/video_library/videos/1483-1190518970?tags=51"
+    },
+    "audio": null,
+    "title": "NASA Webb explora árvore genealógica de objetos distantes recentemente descobertos",
+    "title_pt": "NASA Webb explora árvore genealógica de objetos distantes recentemente descobertos",
+    "title_en": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+    "sub": "Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos.",
+    "sub_pt": "Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos.",
+    "sub_en": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers.",
+    "excerpt": "Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos.",
+    "excerpt_pt": "Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os astrónomos.",
+    "excerpt_en": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers.",
+    "highlights": [
+      "Em foco: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "29 jul 2026",
+    "date_pt": "29 jul 2026",
+    "date_en": "29 Jul 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-29T14:00:00+00:00",
+    "lastModifiedIso": "2026-07-29T17:08:45+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Webb explora árvore genealógica de objetos distantes recentemente descobertos"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Webb explora árvore genealógica de objetos distantes recentemente descobertos"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Webb Explores Family Tree of Recently Discovered Distant Objects"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-webb-explores-family-tree-of-newly-discovered-distant-objects",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-webb-explores-family-tree-of-newly-discovered-distant-objects",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-webb-explores-family-tree-of-newly-discovered-distant-objects&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "NASA Webb explora árvore genealógica de objetos distantes recentemente descobertos",
+    "imageAlt_pt": "NASA Webb explora árvore genealógica de objetos distantes recentemente descobertos",
+    "imageAlt_en": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "sizing-up-the-sargassum-belt",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Dimensionando o Cinturão dos Sargaços",
+    "title_pt": "Dimensionando o Cinturão dos Sargaços",
+    "title_en": "Sizing Up the Sargassum Belt",
+    "sub": "As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo da América atingindo níveis.",
+    "sub_pt": "As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo da América atingindo níveis.",
+    "sub_en": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.",
+    "excerpt": "As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo da América atingindo níveis máximos históricos.",
+    "excerpt_pt": "As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo da América atingindo níveis máximos históricos.",
+    "excerpt_en": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.",
+    "highlights": [
+      "Em foco: As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "29 jul 2026",
+    "date_pt": "29 jul 2026",
+    "date_en": "29 Jul 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-29T04:00:00+00:00",
+    "lastModifiedIso": "2026-07-29T17:08:45+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Dimensionando o Cinturão dos Sargaços"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Dimensionando o Cinturão dos Sargaços"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Sizing the Sargasso Belt"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+    "realUrl": "https://www.cosmosweek.com/?article=sizing-up-the-sargassum-belt",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=sizing-up-the-sargassum-belt",
+    "realUrl_en": "https://www.cosmosweek.com/?article=sizing-up-the-sargassum-belt&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/sizing-up-the-sargassum-belt/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/sizing-up-the-sargassum-belt/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/sizing-up-the-sargassum-belt/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/sizing-up-the-sargassum-belt/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/sizing-up-the-sargassum-belt/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/sizing-up-the-sargassum-belt/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Dimensionando o Cinturão dos Sargaços",
+    "imageAlt_pt": "Dimensionando o Cinturão dos Sargaços",
+    "imageAlt_en": "Sizing Up the Sargassum Belt",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "how-sentinel-1-measured-movement-of-venezuela-quakes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -149,7 +554,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "nasa-science-soars-during-august-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -317,7 +722,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -358,19 +763,19 @@
     "excerpt_pt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
     "excerpt_en": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
     "highlights": [
-      "Em foco: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia.",
+      "Dado-chave: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia.",
+      "Dado-chave: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
+      "Key detail: NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "27 jul 2026",
     "date_pt": "27 jul 2026",
@@ -458,266 +863,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-to-cover-three-us-spacewalks-host-preview-news-conference",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/07/meir.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia",
-    "title_pt": "NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia",
-    "title_en": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
-    "sub": "A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto para continuar a atualizar os.",
-    "sub_pt": "A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto para continuar a atualizar os.",
-    "sub_en": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a.",
-    "excerpt": "A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto para continuar a atualizar os painéis solares, substituir uma antena de comunicações e conectar cabos de energia.",
-    "excerpt_pt": "A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto para continuar a atualizar os painéis solares, substituir uma antena de comunicações e conectar cabos de energia.",
-    "excerpt_en": "NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables in support.",
-    "highlights": [
-      "Ponto central: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto.",
-      "Dado-chave: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em agosto.",
-      "Dado-chave: A NASA fornecerá cobertura enquanto os astronautas se aventuram fora da Estação Espacial Internacional durante três caminhadas espaciais em.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading.",
-      "Key detail: NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 jul 2026",
-    "date_pt": "27 jul 2026",
-    "date_en": "27 Jul 2026",
-    "time": "14h35",
-    "time_pt": "14h35",
-    "time_en": "14: 35 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-27T14:35:11+00:00",
-    "lastModifiedIso": "2026-07-27T17:36:08+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA to Cover Three U. S. Spacewalks and Present Preview News Conference"
-    ],
-    "srcUrl": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-to-cover-three-us-spacewalks-host-preview-news-conference",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-to-cover-three-us-spacewalks-host-preview-news-conference",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-to-cover-three-us-spacewalks-host-preview-news-conference&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia",
-    "imageAlt_pt": "NASA cobrirá três caminhadas espaciais nos EUA e apresentará conferência de notícias prévia",
-    "imageAlt_en": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
-    "slug": "nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/07/STScI-01KY7FCQSFZQV2HS57RRQSQF9N.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/07/STScI-01KY7FSW9S0TZ25DQFQ0WX020P.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/07/STScI-01KXZZ6H029XBJTKYKRPARFJE9.jpg?w=8502&h=4935&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo - NASA Science",
-      "title_pt": "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo - NASA Science",
-      "title_en": "NASA's Hubble Shows Star Formation in Andromeda Galaxy Winding Down - NASA Science",
-      "caption": "O Telescópio Espacial Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos.",
-      "caption_pt": "O Telescópio Espacial Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos.",
-      "caption_en": "NASA’s Hubble Space Telescope finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
-      "sourcePage": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/"
-    },
-    "audio": null,
-    "title": "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo",
-    "title_pt": "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo",
-    "title_en": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
-    "sub": "O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos.",
-    "sub_pt": "O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos.",
-    "sub_en": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
-    "excerpt": "O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos.",
-    "excerpt_pt": "O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos.",
-    "excerpt_en": "NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline.",
-    "highlights": [
-      "Em foco: O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: O Hubble da NASA descobriu que a formação de estrelas na galáxia de Andrômeda sofreu um declínio de 500 milhões de anos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: NASA’s Hubble finds that star formation in the Andromeda galaxy has undergone a 500-million-year decline",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "27 jul 2026",
-    "date_pt": "27 jul 2026",
-    "date_en": "27 Jul 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-27T14:00:14+00:00",
-    "lastModifiedIso": "2026-07-27T17:36:08+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Hubble shows star formation in the Andromeda galaxy slowing"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo",
-    "imageAlt_pt": "Hubble da NASA mostra formação de estrelas na galáxia de Andrômeda diminuindo",
-    "imageAlt_en": "NASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
+    "id": 7,
     "slug": "pink-penguin-guano-provides-diet-clues",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -845,7 +991,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nih-researchers-identify-regulatory-cells-that-shield-against-inflammatory-bowel-disease",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -963,7 +1109,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "watch-the-total-solar-eclipse-with-esa-in-leon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1131,7 +1277,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "dark-monopoles-bounds-on-hidden-sectors-and-cosmological-implications",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1252,7 +1398,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "a-dust-free-hierarchically-nested-supermassive-star-model-for-james-webb-space-telescope-little-",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1370,7 +1516,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1547,7 +1693,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "a-week-of-smoky-skies-across-north-america",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1597,19 +1743,19 @@
     "excerpt_pt": "O carbono marrom, emitido por incêndios florestais e rastreado ao longo de uma semana em julho de 2026, piorou a qualidade do ar em partes dos EUA e do Canadá.",
     "excerpt_en": "Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U. S.",
     "highlights": [
-      "Em foco: O carbono marrom, emitido por incêndios florestais e rastreado ao longo de uma semana em julho de 2026, piorou a qualidade do ar em partes dos EUA e",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O carbono marrom, emitido por incêndios florestais e rastreado ao longo de uma semana em julho de 2026, piorou a qualidade do ar em partes dos EUA e.",
+      "Dado-chave: O carbono marrom, emitido por incêndios florestais e rastreado ao longo de uma semana em julho de 2026, piorou a qualidade do ar em partes dos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O carbono marrom, emitido por incêndios florestais e rastreado ao longo de uma semana em julho de 2026, piorou a qualidade do ar em partes dos EUA e",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O carbono marrom, emitido por incêndios florestais e rastreado ao longo de uma semana em julho de 2026, piorou a qualidade do ar em partes dos EUA e.",
+      "Dado-chave: O carbono marrom, emitido por incêndios florestais e rastreado ao longo de uma semana em julho de 2026, piorou a qualidade do ar em partes dos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U.",
+      "Key detail: Brown carbon, emitted by wildland fires and tracked over the span of a week in July 2026, worsened air quality in parts of the U",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "22 jul 2026",
     "date_pt": "22 jul 2026",
@@ -1697,7 +1843,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "dark-matter-searches-with-a-13-mev-threshold-superconducting-sensor-array",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1812,134 +1958,6 @@
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
     "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 14,
-    "slug": "why-maine-s-sandy-shorelines-turn-jagged",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Surface_Temperature_Anomalies_1880-2013.jpg/1280px-Global_Surface_Temperature_Anomalies_1880-2013.jpg",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Por que as costas arenosas do Maine ficam irregulares",
-    "title_pt": "Por que as costas arenosas do Maine ficam irregulares",
-    "title_en": "Why Maine’s Sandy Shorelines Turn Jagged",
-    "sub": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
-    "sub_pt": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
-    "sub_en": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
-    "excerpt": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
-    "excerpt_pt": "As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente daquelas a nordeste da cidade.",
-    "excerpt_en": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
-    "highlights": [
-      "Ponto central: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
-      "Dado-chave: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
-      "Dado-chave: As diferenças na rocha subjacente e na forma como os rios distribuem os sedimentos fazem com que a costa a oeste de Portland pareça diferente.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
-      "Key detail: Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 jul 2026",
-    "date_pt": "21 jul 2026",
-    "date_en": "21 Jul 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-21T04:00:00+00:00",
-    "lastModifiedIso": "2026-07-21T17:15:37+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Por que as costas arenosas do Maine ficam irregulares"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Por que as costas arenosas do Maine ficam irregulares"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Why Maine's Sandy Coasts Get Bumpy"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
-    "realUrl": "https://www.cosmosweek.com/?article=why-maine-s-sandy-shorelines-turn-jagged",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=why-maine-s-sandy-shorelines-turn-jagged",
-    "realUrl_en": "https://www.cosmosweek.com/?article=why-maine-s-sandy-shorelines-turn-jagged&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/why-maine-s-sandy-shorelines-turn-jagged/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/why-maine-s-sandy-shorelines-turn-jagged/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/why-maine-s-sandy-shorelines-turn-jagged/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Por que as costas arenosas do Maine ficam irregulares",
-    "imageAlt_pt": "Por que as costas arenosas do Maine ficam irregulares",
-    "imageAlt_en": "Why Maine’s Sandy Shorelines Turn Jagged",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
@@ -5019,12 +5037,12 @@
     "excerpt_en": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant.",
     "highlights": [
       "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a",
+      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
       "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a",
+      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
