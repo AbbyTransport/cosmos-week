@@ -5,9 +5,29 @@
     <link>https://www.cosmosweek.com/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Jul 2026 17:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 17:24:51 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
+              <title>A salinidade do SMOS pode oferecer um indicador precoce do El Niño</title>
+              <link>https://www.cosmosweek.com/noticia/smos-salinity-could-offer-early-indicator-of-el-nino/</link>
+              <guid>https://www.cosmosweek.com/noticia/smos-salinity-could-offer-early-indicator-of-el-nino/</guid>
+              <pubDate>Thu, 30 Jul 2026 07:20:00 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do mar, que é outro indicador-chave deste fenómeno.</description>
+              <category>Ciências da Terra</category><category>ESA Space News</category><category>Cosmos Week</category><category>A salinidade do SMOS pode oferecer um indicador precoce do El Niño</category>
+              <source url="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino">ESA Space News</source>
+              <content:encoded>À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as mudanças na temperatura da superfície do mar, mas também na salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. As medições efectuadas por satélites como a missão SMOS da Agência Espacial Europeia estão a revelar como os padrões da água doce e do sal mudam no Pacífico à medida que o El Niño deste ano se desenvolve, oferecendo um novo caminho potencial para a detecção precoce. Fonte</content:encoded>
+            </item><item>
+              <title>Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas</title>
+              <link>https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/</link>
+              <guid>https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/</guid>
+              <pubDate>Wed, 29 Jul 2026 17:23:42 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas.</description>
+              <category>Cosmologia</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>Shear</category>
+              <source url="https://arxiv.org/abs/2607.27149v1">arXiv Cosmology</source>
+              <content:encoded>Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas. Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático Sunyaev-Zel'dovich (kSZ) com o campo de velocidade da linha de visão e o mapa de convergência de lentes fracas. Analogamente ao estimador kSZ empilhado padrão, este estimador fatora em um kernel de velocidade calibrável multiplicando o espectro de potência cruzada matéria-elétron, $P_{me}(k)$. Como o estimador acessa $P_{me}(k)$ para a distribuição completa da matéria, em vez de em torno de um traçador tendencioso específico, como é o caso do estimador kSZ empilhado padrão, ele nos permite determinar a supressão bariônica do espectro de potência da matéria, $</content:encoded>
+            </item><item>
               <title>Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel</title>
               <link>https://www.cosmosweek.com/noticia/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/</link>
               <guid>https://www.cosmosweek.com/noticia/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/</guid>
@@ -37,6 +57,16 @@
               <category>Ciências da Terra</category><category>NASA Earth Observatory</category><category>Cosmos Week</category><category>Dimensionando o Cinturão dos Sargaços</category>
               <source url="https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/">NASA Earth Observatory</source>
               <content:encoded>As algas marinhas que compõem o Grande Cinturão Atlântico de Sargaços atingiram níveis quase recordes em junho de 2026, com o Mar do Caribe e o Golfo da América atingindo níveis máximos históricos. O post Dimensionando o Cinturão dos Sargaços apareceu pela primeira vez na NASA Science. A abundância de sargaços no cinturão em junho de 2026 tornou-o o segundo maior ano de sargaços no registro de satélite, um pouco atrás de 2025, de acordo com cientistas da Faculdade de Ciências Marinhas da Universidade do Sul da Flórida (USF). Os dados para os mapas foram fornecidos por Lin Qi, oceanógrafo do Centro de Aplicações e Pesquisa de Satélites da NOAA, que tem trabalhado para gerar mapas de Sargassum com base em dados do PACE, lançado em fevereiro de 2024. NASA Earth Observatory/Lauren Dauphin O gráfico acima usa o registro MODIS contínuo desde março de 2000 para mostrar como a biomassa de Sargas</content:encoded>
+            </item><item>
+              <title>Polarização de raios X inalterada durante quedas de acreção no estado de baixa dureza de Cygnus X-1</title>
+              <link>https://www.cosmosweek.com/noticia/unchanged-x-ray-polarization-during-accretion-dips-in-the-low-hard-state-of-cygnus-x-1/</link>
+              <guid>https://www.cosmosweek.com/noticia/unchanged-x-ray-polarization-during-accretion-dips-in-the-low-hard-state-of-cygnus-x-1/</guid>
+              <pubDate>Tue, 28 Jul 2026 18:00:09 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.</description>
+              <category>Astrofísica</category><category>arXiv High Energy Astrophysics</category><category>Cosmos Week</category><category>Polarização de raios X inalterada durante quedas de acreção no estado de baixa dureza de Cygnus X</category>
+              <source url="https://arxiv.org/abs/2607.26144v1">arXiv High Energy Astrophysics</source>
+              <content:encoded>Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar. Embora a temporização e a espectroscopia tradicionais de raios X tenham mapeado suas transições de estado bimodal, restringir a configuração geométrica exata de seu plasma de acreção requer ferramentas adicionais. Nesta carta, apresentamos uma análise espectropolarimétrica conjunta de Cygnus X-1 durante eventos de diminuição de fluxo, ou ``dips'', observados em seu estado de baixa dureza usando dados simultâneos de IXPE, NICER e NuSTAR. O modelo espectral de banda larga revela que a redução do fluxo dependente de energia durante essas quedas é melhor descrita por um modelo de absorção de cobertura parcial, impactando fortemente as bandas de energia mais suaves. Esta absorção é consistente com o obscurecimento por aglomerados densos e frios origina</content:encoded>
             </item><item>
               <title>Como o Sentinel-1 mediu o movimento dos terremotos na Venezuela</title>
               <link>https://www.cosmosweek.com/noticia/how-sentinel-1-measured-movement-of-venezuela-quakes/</link>
@@ -97,26 +127,6 @@
               <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Assista ao eclipse solar total com a ESA em León</category>
               <source url="https://www.esa.int/Science_Exploration/Space_Science/Watch_the_total_solar_eclipse_with_ESA_in_Leon">ESA Space Science</source>
               <content:encoded>Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia, a cidade de León e a Universidade de León. Descubra a ciência por trás de um dos fenômenos mais extraordinários da natureza e experimente um eclipse solar total com a Agência Espacial Europeia (ESA), a cidade de León e a Universidade de León. No dia 12 de Agosto, milhões de pessoas em toda a Europa olharão para o céu para testemunhar um dos fenómenos mais espectaculares da natureza: um eclipse solar total. O norte da Espanha será um dos melhores lugares do mundo para vivenciar a totalidade, quando a Lua cobrir completamente o Sol. Para assinalar esta ocasião extraordinária, a ESA, juntamente com a Cidade de Leão e a Universidade de Leão, está a organizar um evento público gratuito no Palácio de Exposições e Congressos de Leão. O evento reu</content:encoded>
-            </item><item>
-              <title>Monopólos Sombrios, Limites em Setores Ocultos e Implicações Cosmológicas</title>
-              <link>https://www.cosmosweek.com/noticia/dark-monopoles-bounds-on-hidden-sectors-and-cosmological-implications/</link>
-              <guid>https://www.cosmosweek.com/noticia/dark-monopoles-bounds-on-hidden-sectors-and-cosmological-implications/</guid>
-              <pubDate>Thu, 23 Jul 2026 02:11:12 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>Os setores ocultos são uma previsão genérica das compactações da teoria das cordas e resultam em um cenário promissor para a construção de modelos de matéria escura.</description>
-              <category>Cosmologia</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>Monopólos Sombrios</category>
-              <source url="https://arxiv.org/abs/2607.20843v1">arXiv Cosmology</source>
-              <content:encoded>Os setores ocultos são uma previsão genérica das compactações da teoria das cordas e resultam em um cenário promissor para a construção de modelos de matéria escura. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário. ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? . Saiba mais sobre o arXivLabs. Resumo: Setores ocultos são uma previsão genérica de compactações da teoria das cordas e resultam em um cenário promissor para a construção de modelos de matéria escura. Consideramos o caso de monopolos magnéticos de setor oculto produzidos através de uma transição de fase térmica no Universo primordial e subsequentemente diluídos pela aniquilação de pares. Mostramos que para </content:encoded>
-            </item><item>
-              <title>Um modelo de estrela supermassiva hierarquicamente aninhado e livre de poeira para o Telescópio Espacial James Webb Little Red Dots</title>
-              <link>https://www.cosmosweek.com/noticia/a-dust-free-hierarchically-nested-supermassive-star-model-for-james-webb-space-telescope-little-/</link>
-              <guid>https://www.cosmosweek.com/noticia/a-dust-free-hierarchically-nested-supermassive-star-model-for-james-webb-space-telescope-little-/</guid>
-              <pubDate>Wed, 22 Jul 2026 18:00:02 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>As observações do Telescópio Espacial James Webb revelam uma população de objetos com alto desvio para o vermelho, os pequenos pontos vermelhos.</description>
-              <category>Astrofísica</category><category>arXiv High Energy Astrophysics</category><category>Cosmos Week</category><category>Um modelo de estrela supermassiva hierarquicamente aninhado e livre de poeira para o Telescópio Espacial James Webb Little Red Dots</category>
-              <source url="https://arxiv.org/abs/2607.20617v1">arXiv High Energy Astrophysics</source>
-              <content:encoded>As observações do Telescópio Espacial James Webb revelam uma população de objetos com alto desvio para o vermelho, os pequenos pontos vermelhos. Essas fontes exibem vermelhidão óptica ao lado da continuação ultravioleta azul, hospedando linhas largas de Balmer indicativas de atividade. Esta topologia aninhada termaliza os raios X e alimenta os amplos recursos $α$ do hidrogênio. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário. ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? . Resumo: Observações feitas pelo Telescópio Espacial James Webb revelam uma população de objetos com alto desvio para o vermelho, os pequenos pontos vermelhos. Estas fontes exibem vermelhidão ópt</content:encoded>
             </item><item>
               <title>A detecção de nova ‘exolua’ desafia os rótulos cósmicos</title>
               <link>https://www.cosmosweek.com/noticia/new-exomoon-detection-challenges-cosmic-labels/</link>
@@ -187,16 +197,6 @@
               <category>Astrofísica</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
               <source url="https://esahubble.org/news/heic2610/">ESA Hubble News</source>
               <content:encoded>O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas. Deveria estar preenchido com buracos negros deixados pela explosão de estrelas, mas as evidências deles são escassas. Agora, os astrónomos, usando dados de arquivo do Telescópio Espacial Hubble da NASA/ESA e observações de apoio do Telescópio Espacial James Webb da NASA/ESA/CSA, finalmente localizaram o seu primeiro buraco negro de massa estelar neste aglomerado. Embora a comunidade astronómica já tenha encontrado evidências com o Hubble de que um buraco negro de massa intermédia se esconde no seu centro, os modelos sugerem que este enxame estelar deve conter cerca de 10.000 buracos negros mais pequenos, de massa estelar. Esta notável população de buracos negros escapou à detecção em estudos anteriores, que utilizaram o método da velocidade radial [1] ou procuraram emissões de rádio e raios X prov</content:encoded>
-            </item><item>
-              <title>Satélites em conjunto revelam 30 anos de fluxo de gelo na Antártica</title>
-              <link>https://www.cosmosweek.com/noticia/satellites-in-tandem-reveal-30-years-of-antarctic-ice-flow/</link>
-              <guid>https://www.cosmosweek.com/noticia/satellites-in-tandem-reveal-30-years-of-antarctic-ice-flow/</guid>
-              <pubDate>Thu, 09 Jul 2026 15:10:00 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>Trinta anos depois de a Agência Espacial Europeia ter demonstrado pela primeira vez o poder de voar dois satélites em formação muito próxima, o conceito foi recentemente recriado.</description>
-              <category>Ciências da Terra</category><category>ESA Space News</category><category>Cosmos Week</category><category>Satélites em conjunto revelam 30 anos de fluxo de gelo na Antártica</category>
-              <source url="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow">ESA Space News</source>
-              <content:encoded>Trinta anos depois de a Agência Espacial Europeia ter demonstrado pela primeira vez o poder de voar dois satélites em formação muito próxima, o conceito foi recentemente recriado. Ao posicionar temporariamente dois satélites de radar Copernicus Sentinel-1 para replicar a pioneira “missão tandem” ERS-1, ERS-2, a ESA conseguiu repetir imagens de radar de um dia da mesma região antártica. Os primeiros satélites de observação da Terra da ESA, ERS-1 e ERS-2, foram lançados em 1991 e 1995, respectivamente. Pouco depois do ERS-2 ter sido colocado em órbita, a ESA manobrou os dois satélites ERS numa nova formação em tandem, permitindo-lhes observar a mesma área da Terra com apenas 24 horas de intervalo. A missão conjunta proporcionou aos cientistas um volume sem precedentes de observações espaçadas e uma oportunidade única de rastrear mudanças que ocorrem em escalas de tempo muito curtas. Embora</content:encoded>
             </item><item>
               <title>Mais velho que o Sol: Astrônomos encontram novas pistas sobre a origem do cometa interestelar 3I/ATLAS</title>
               <link>https://www.cosmosweek.com/noticia/older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas/</link>
