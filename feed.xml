@@ -5,9 +5,29 @@
     <link>https://www.cosmosweek.com/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Jul 2026 17:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:27:59 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
+              <title>Dados HydroGNSS abertos para novos insights sobre a água da Terra</title>
+              <link>https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/</link>
+              <guid>https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/</guid>
+              <pubDate>Fri, 31 Jul 2026 09:36:00 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.</description>
+              <category>Ciências da Terra</category><category>ESA Space News</category><category>Cosmos Week</category><category>Dados HydroGNSS abertos para novos insights sobre a água da Terra</category>
+              <source url="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water">ESA Space News</source>
+              <content:encoded>A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, os dados HydroGNSS estão agora disponíveis gratuitamente para utilizadores em todo o mundo, abrindo novas oportunidades para avançar a nossa compreensão da disponibilidade de água e dos impactos. Fonte</content:encoded>
+            </item><item>
+              <title>Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball</title>
+              <link>https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/</link>
+              <guid>https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/</guid>
+              <pubDate>Thu, 30 Jul 2026 16:55:29 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.</description>
+              <category>Cosmologia</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q</category>
+              <source url="https://arxiv.org/abs/2607.28517v1">arXiv Cosmology</source>
+              <content:encoded>A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário. ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? . Saiba mais sobre o arXivLabs. Resumo: A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala. No entanto, as tensões permanecem em pequenas escalas galácticas, mais notavelmente o problema do núcleo da cúspide, ou déficit de massa interna, e a diversidade de formas de curvas de rotação internas e densidades centrais em massa fixa de halo. Estas ob</content:encoded>
+            </item><item>
               <title>A salinidade do SMOS pode oferecer um indicador precoce do El Niño</title>
               <link>https://www.cosmosweek.com/noticia/smos-salinity-could-offer-early-indicator-of-el-nino/</link>
               <guid>https://www.cosmosweek.com/noticia/smos-salinity-could-offer-early-indicator-of-el-nino/</guid>
@@ -17,16 +37,6 @@
               <category>Ciências da Terra</category><category>ESA Space News</category><category>Cosmos Week</category><category>A salinidade do SMOS pode oferecer um indicador precoce do El Niño</category>
               <source url="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino">ESA Space News</source>
               <content:encoded>À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as alterações na temperatura da superfície do mar, mas também a salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. À medida que o Oceano Pacífico entra numa fase de El Niño, os cientistas monitorizam as mudanças na temperatura da superfície do mar, mas também na salinidade da superfície do mar, que é outro indicador-chave deste fenómeno. As medições efectuadas por satélites como a missão SMOS da Agência Espacial Europeia estão a revelar como os padrões da água doce e do sal mudam no Pacífico à medida que o El Niño deste ano se desenvolve, oferecendo um novo caminho potencial para a detecção precoce. Fonte</content:encoded>
-            </item><item>
-              <title>Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas</title>
-              <link>https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/</link>
-              <guid>https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/</guid>
-              <pubDate>Wed, 29 Jul 2026 17:23:42 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas.</description>
-              <category>Cosmologia</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>Shear</category>
-              <source url="https://arxiv.org/abs/2607.27149v1">arXiv Cosmology</source>
-              <content:encoded>Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas. Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático Sunyaev-Zel'dovich (kSZ) com o campo de velocidade da linha de visão e o mapa de convergência de lentes fracas. Analogamente ao estimador kSZ empilhado padrão, este estimador fatora em um kernel de velocidade calibrável multiplicando o espectro de potência cruzada matéria-elétron, $P_{me}(k)$. Como o estimador acessa $P_{me}(k)$ para a distribuição completa da matéria, em vez de em torno de um traçador tendencioso específico, como é o caso do estimador kSZ empilhado padrão, ele nos permite determinar a supressão bariônica do espectro de potência da matéria, $</content:encoded>
             </item><item>
               <title>Curiosity Mars Rover da NASA descobre campo de texturas de favo de mel</title>
               <link>https://www.cosmosweek.com/noticia/nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures/</link>
@@ -177,16 +187,6 @@
               <category>Exoplanetas</category><category>ESO Press Releases</category><category>Cosmos Week</category><category>O planeta mais fraco já fotografado da Terra é encontrado após mais de 10 anos de esconde</category>
               <source url="https://www.eso.org/public/news/eso2609/">ESO Press Releases</source>
               <content:encoded>Uma equipe de astrônomos descobriu um terceiro planeta orbitando a estrela Beta Pictoris. O novo planeta, Beta Pictoris d, é 100 vezes mais fraco que Beta Pictoris b, o primeiro planeta descoberto no mesmo sistema, e está entre os mais leves. O novo planeta, Beta Pictoris d, é 100 vezes mais ténue que Beta Pictoris b, o primeiro planeta descoberto no mesmo sistema, e está entre os exoplanetas mais leves alguma vez observados a partir do solo. Depois de detectar o planeta utilizando o Very Large Telescope do Observatório Europeu do Sul (VLT do ESO), a equipa descobriu que este estava escondido em observações de arquivo que duravam mais de uma década. Para confirmar a natureza da sua deteção, a equipa consultou o arquivo do ESO, um catálogo de observações anteriores feitas nas instalações do ESO. Embora os dois primeiros planetas tenham, cada um, cerca de dez vezes a massa de Júpiter, o no</content:encoded>
-            </item><item>
-              <title>Ondas metálicas no antigo Marte</title>
-              <link>https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/</link>
-              <guid>https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/</guid>
-              <pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento.</description>
-              <category>Astronomia</category><category>ESA Space News</category><category>Cosmos Week</category><category>Ondas metálicas no antigo Marte</category>
-              <source url="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars">ESA Space News</source>
-              <content:encoded>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento. A fotografia de Marte deste mês, tirada pela Câmara Estéreo de Alta Resolução (HRSC) a bordo da sonda orbital de Marte da ESA, capta uma das partes mais antigas do Planeta Vermelho: Noachis Terra. Situada nas antigas terras altas do sul de Marte, Noachis Terra foi fortemente bombardeada com rochas vindas do espaço ao longo dos últimos quatro mil milhões de anos, e as cicatrizes destas colisões são visíveis. A metade direita da imagem é dominada por parte do fundo da gigante Cratera Kaiser, uma grande bacia que mede cerca de 180 km de diâmetro e alguns quilómetros de profundidade. Todas estas crateras foram o foco de lançamentos anteriores da Mars Express, e a última tem o nome de Gerhard Neuku</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas</title>
               <link>https://www.cosmosweek.com/noticia/science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes/</link>

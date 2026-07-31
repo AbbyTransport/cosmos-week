@@ -1,11 +1,269 @@
 [
   {
     "id": 1,
+    "slug": "hydrognss-data-open-for-new-insights-into-earth-s-water",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Surface_Temperature_Anomalies_1880-2013.jpg/1280px-Global_Surface_Temperature_Anomalies_1880-2013.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/hydrognss_scouting_for_water/26912191-1-eng-GB/HydroGNSS_Scouting_for_water_article.jpg",
+        "alt": "HydroGNSS: Exploração de água",
+        "alt_pt": "HydroGNSS: Exploração de água",
+        "alt_en": "HydroGNSS: Scouting for water",
+        "caption": "HydroGNSS: Exploração de água",
+        "caption_pt": "HydroGNSS: Exploração de água",
+        "caption_en": "HydroGNSS: Scouting for water"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "title_pt": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "title_en": "HydroGNSS data open for new insights into Earth’s water",
+    "sub": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "sub_pt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "sub_en": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
+    "excerpt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "excerpt_pt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "excerpt_en": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
+    "highlights": [
+      "Em foco: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "31 jul 2026",
+    "date_pt": "31 jul 2026",
+    "date_en": "31 Jul 2026",
+    "time": "09h36",
+    "time_pt": "09h36",
+    "time_en": "09: 36 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-31T09:36:00+00:00",
+    "lastModifiedIso": "2026-07-31T17:26:27+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Dados HydroGNSS abertos para novos insights sobre a água da Terra"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Dados HydroGNSS abertos para novos insights sobre a água da Terra"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "Open HydroGNSS data for new insights into Earth's water"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+    "realUrl": "https://www.cosmosweek.com/?article=hydrognss-data-open-for-new-insights-into-earth-s-water",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=hydrognss-data-open-for-new-insights-into-earth-s-water",
+    "realUrl_en": "https://www.cosmosweek.com/?article=hydrognss-data-open-for-new-insights-into-earth-s-water&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "imageAlt_pt": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "imageAlt_en": "HydroGNSS data open for new insights into Earth’s water",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "title_pt": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "title_en": "Dynamical flattening of halo density cusps by Q-ball dark matter",
+    "sub": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "sub_pt": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "sub_en": "Cold, collisionless dark matter successfully explains a wide range of observations, including the formation of large-scale structure.",
+    "excerpt": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "excerpt_pt": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "excerpt_en": "Cold, collisionless dark matter successfully explains a wide range of observations, including the formation of large-scale structure.",
+    "highlights": [
+      "Em foco: A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Cold, collisionless dark matter successfully explains a wide range of observations, including the formation of large-scale structure",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "30 jul 2026",
+    "date_pt": "30 jul 2026",
+    "date_en": "30 Jul 2026",
+    "time": "16h55",
+    "time_pt": "16h55",
+    "time_en": "16: 55 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-30T16:55:29+00:00",
+    "lastModifiedIso": "2026-07-31T17:26:27+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q",
+      "ball"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q",
+      "ball"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Dynamic flattening of halo density cusps by dark matter Q",
+      "ball"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2607.28517v1",
+    "realUrl": "https://www.cosmosweek.com/?article=dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter",
+    "realUrl_en": "https://www.cosmosweek.com/?article=dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "imageAlt_pt": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "imageAlt_en": "Dynamical flattening of halo density cusps by Q-ball dark matter",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "smos-salinity-could-offer-early-indicator-of-el-nino",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_pillars.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "A salinidade do SMOS pode oferecer um indicador precoce do El Niño",
@@ -118,130 +376,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
-    "slug": "shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "title_pt": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "title_en": "Shear-kSZ: A New Estimator for the Matter-Electron Power Spectrum from kSZ Tomography and Weak Lensing",
-    "sub": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão.",
-    "sub_pt": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão.",
-    "sub_en": "We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel'dovich field with the line-of-sight velocity field and the.",
-    "excerpt": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas.",
-    "excerpt_pt": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas.",
-    "excerpt_en": "We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel'dovich field with the line-of-sight velocity field and the weak-lensing convergence map.",
-    "highlights": [
-      "Em foco: Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_pt": [
-      "Em foco: Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_en": [
-      "Focus: We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel'dovich field with the",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
-    ],
-    "date": "29 jul 2026",
-    "date_pt": "29 jul 2026",
-    "date_en": "29 Jul 2026",
-    "time": "17h23",
-    "time_pt": "17h23",
-    "time_en": "17: 23 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-29T17:23:42+00:00",
-    "lastModifiedIso": "2026-07-30T17:23:33+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Shear",
-      "um novo estimador para o espectro de potência matéria",
-      "elétron da tomografia kSZ e lentes fracas"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Shear",
-      "um novo estimador para o espectro de potência matéria",
-      "elétron da tomografia kSZ e lentes fracas"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Shear",
-      "a new estimator for the matter power spectrum",
-      "kSZ tomography electron and weak lenses"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2607.27149v1",
-    "realUrl": "https://www.cosmosweek.com/?article=shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le",
-    "realUrl_en": "https://www.cosmosweek.com/?article=shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "imageAlt_pt": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "imageAlt_en": "Shear-kSZ: A New Estimator for the Matter-Electron Power Spectrum from kSZ Tomography and Weak Lensing",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -278,19 +413,19 @@
     "excerpt_pt": "Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas semelhantes a favos de mel chamadas fracturas poligonais, cada uma com cerca de.",
     "excerpt_en": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.",
     "highlights": [
-      "Em foco: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos.",
+      "Dado-chave: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos.",
+      "Dado-chave: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to.",
+      "Key detail: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "29 jul 2026",
     "date_pt": "29 jul 2026",
@@ -378,7 +513,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-webb-explores-family-tree-of-newly-discovered-distant-objects",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -410,17 +545,17 @@
     "excerpt_en": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers.",
     "highlights": [
       "Ponto central: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os.",
-      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os",
+      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os.",
-      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os",
+      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers.",
-      "Key detail: Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers",
+      "Key detail: Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "29 jul 2026",
@@ -509,7 +644,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "sizing-up-the-sargassum-belt",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -646,7 +781,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "unchanged-x-ray-polarization-during-accretion-dips-in-the-low-hard-state-of-cygnus-x-1",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -664,18 +799,19 @@
     "excerpt_pt": "Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
     "excerpt_en": "Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries.",
     "highlights": [
-      "Em foco: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
+      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
+      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries.",
+      "Key detail: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries",
+      "Result not yet peer reviewed."
     ],
     "date": "28 jul 2026",
     "date_pt": "28 jul 2026",
@@ -763,7 +899,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "how-sentinel-1-measured-movement-of-venezuela-quakes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -809,19 +945,19 @@
     "excerpt_pt": "Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento do solo foi maior do que o inicialmente estimado.",
     "excerpt_en": "More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was greater than first estimated.",
     "highlights": [
-      "Em foco: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento.",
+      "Dado-chave: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento.",
+      "Dado-chave: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was.",
+      "Key detail: More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "28 jul 2026",
     "date_pt": "28 jul 2026",
@@ -912,7 +1048,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-science-soars-during-august-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -991,7 +1127,7 @@
     ],
     "highlights_en": [
       "Core point: Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere.",
-      "Key detail: Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere",
+      "Key detail: Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "27 jul 2026",
@@ -1080,7 +1216,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1221,7 +1357,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "pink-penguin-guano-provides-diet-clues",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1349,7 +1485,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "nih-researchers-identify-regulatory-cells-that-shield-against-inflammatory-bowel-disease",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1467,7 +1603,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "watch-the-total-solar-eclipse-with-esa-in-leon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1635,7 +1771,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1812,7 +1948,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "a-week-of-smoky-skies-across-north-america",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1962,7 +2098,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "dark-matter-searches-with-a-13-mev-threshold-superconducting-sensor-array",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -2080,7 +2216,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2274,7 +2410,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2447,161 +2583,6 @@
     "imageAlt": "O planeta mais fraco já fotografado da Terra é encontrado após mais de 10 anos de esconde-esconde",
     "imageAlt_pt": "O planeta mais fraco já fotografado da Terra é encontrado após mais de 10 anos de esconde-esconde",
     "imageAlt_en": "Faintest planet ever imaged from Earth found after more than 10 years of hide-and-seek",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 18,
-    "slug": "metallic-waves-on-ancient-mars",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_article.jpg",
-        "alt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_pt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_en": "Mars Express visits Kaiser Crater on Mars. Click on the image to zoom in and explore.",
-        "caption": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_pt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_en": "Mars Express visits Kaiser Crater on Mars. Click on the image to zoom in and explore."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/bird_s-eye_view_of_wind-blown_dunes_in_mars_s_kaiser_crater/27378645-1-eng-GB/Bird_s-eye_view_of_wind-blown_dunes_in_Mars_s_Kaiser_Crater_article.jpg",
-        "alt": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "alt_pt": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "alt_en": "Bird’s-eye view of wind-blown dunes in Mars’s Kaiser Crater",
-        "caption": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "caption_pt": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "caption_en": "Bird’s-eye view of wind-blown dunes in Mars’s Kaiser Crater"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/the_floor_of_mars_s_kaiser_crater_from_above/27378692-1-eng-GB/The_floor_of_Mars_s_Kaiser_Crater_from_above_article.jpg",
-        "alt": "O fundo da cratera Kaiser de Marte visto de cima",
-        "alt_pt": "O fundo da cratera Kaiser de Marte visto de cima",
-        "alt_en": "The floor of Mars’s Kaiser Crater from above",
-        "caption": "O fundo da cratera Kaiser de Marte visto de cima",
-        "caption_pt": "O fundo da cratera Kaiser de Marte visto de cima",
-        "caption_en": "The floor of Mars’s Kaiser Crater from above"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_s_kaiser_crater_in_3d/27378786-1-eng-GB/Mars_s_Kaiser_Crater_in_3D_article.jpg",
-        "alt": "Cratera Kaiser de Marte em 3D",
-        "alt_pt": "Cratera Kaiser de Marte em 3D",
-        "alt_en": "Mars’s Kaiser Crater in 3D",
-        "caption": "Cratera Kaiser de Marte em 3D",
-        "caption_pt": "Cratera Kaiser de Marte em 3D",
-        "caption_en": "Mars’s Kaiser Crater in 3D"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Ondas metálicas no antigo Marte",
-    "title_pt": "Ondas metálicas no antigo Marte",
-    "title_en": "Metallic waves on ancient Mars",
-    "sub": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural.",
-    "sub_pt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural.",
-    "sub_en": "The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind.",
-    "excerpt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento.",
-    "excerpt_pt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento.",
-    "excerpt_en": "The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind.",
-    "highlights": [
-      "Em foco: A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "09h00",
-    "time_pt": "09h00",
-    "time_en": "09: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T09:00:00+00:00",
-    "lastModifiedIso": "2026-07-15T17:08:55+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Ondas metálicas no antigo Marte"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Ondas metálicas no antigo Marte"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space News",
-      "Cosmos Week",
-      "Metallic waves on ancient Mars"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars",
-    "realUrl": "https://www.cosmosweek.com/?article=metallic-waves-on-ancient-mars",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=metallic-waves-on-ancient-mars",
-    "realUrl_en": "https://www.cosmosweek.com/?article=metallic-waves-on-ancient-mars&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/metallic-waves-on-ancient-mars/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/metallic-waves-on-ancient-mars/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Ondas metálicas no antigo Marte",
-    "imageAlt_pt": "Ondas metálicas no antigo Marte",
-    "imageAlt_en": "Metallic waves on ancient Mars",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",

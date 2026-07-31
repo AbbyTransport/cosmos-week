@@ -3,11 +3,275 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "hydrognss-data-open-for-new-insights-into-earth-s-water",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Surface_Temperature_Anomalies_1880-2013.jpg/1280px-Global_Surface_Temperature_Anomalies_1880-2013.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/hydrognss_scouting_for_water/26912191-1-eng-GB/HydroGNSS_Scouting_for_water_article.jpg",
+        "alt": "HydroGNSS: Exploração de água",
+        "alt_pt": "HydroGNSS: Exploração de água",
+        "alt_en": "HydroGNSS: Scouting for water",
+        "caption": "HydroGNSS: Exploração de água",
+        "caption_pt": "HydroGNSS: Exploração de água",
+        "caption_en": "HydroGNSS: Scouting for water"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "title_pt": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "title_en": "HydroGNSS data open for new insights into Earth’s water",
+    "sub": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "sub_pt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "sub_en": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
+    "excerpt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "excerpt_pt": "A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
+    "excerpt_en": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
+    "body": "<p>A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, os dados HydroGNSS estão agora disponíveis gratuitamente para utilizadores em todo o mundo, abrindo novas oportunidades para avançar a nossa compreensão da disponibilidade de água e dos impactos.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica. Após extensos testes e validação dos satélites, instrumentos e segmento terrestre, os dados HydroGNSS estão agora disponíveis gratuitamente para utilizadores em todo o mundo, abrindo novas oportunidades para avançar a nossa compreensão da disponibilidade de água e dos impactos.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency&#x27;s two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Following extensive testing and validation of the satellites, instruments and ground segment, HydroGNSS data are now freely available to users worldwide, opening new opportunities.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "31 jul 2026",
+    "date_pt": "31 jul 2026",
+    "date_en": "31 Jul 2026",
+    "time": "09h36",
+    "time_pt": "09h36",
+    "time_en": "09: 36 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-31T09:36:00+00:00",
+    "lastModifiedIso": "2026-07-31T17:26:27+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Dados HydroGNSS abertos para novos insights sobre a água da Terra"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Dados HydroGNSS abertos para novos insights sobre a água da Terra"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "Open HydroGNSS data for new insights into Earth's water"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
+    "realUrl": "https://www.cosmosweek.com/?article=hydrognss-data-open-for-new-insights-into-earth-s-water",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=hydrognss-data-open-for-new-insights-into-earth-s-water",
+    "realUrl_en": "https://www.cosmosweek.com/?article=hydrognss-data-open-for-new-insights-into-earth-s-water&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/hydrognss-data-open-for-new-insights-into-earth-s-water/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "imageAlt_pt": "Dados HydroGNSS abertos para novos insights sobre a água da Terra",
+    "imageAlt_en": "HydroGNSS data open for new insights into Earth’s water",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "title_pt": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "title_en": "Dynamical flattening of halo density cusps by Q-ball dark matter",
+    "sub": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "sub_pt": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "sub_en": "Cold, collisionless dark matter successfully explains a wide range of observations, including the formation of large-scale structure.",
+    "excerpt": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "excerpt_pt": "A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.",
+    "excerpt_en": "Cold, collisionless dark matter successfully explains a wide range of observations, including the formation of large-scale structure.",
+    "body": "<p>A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? .</p><p>Saiba mais sobre o arXivLabs. Resumo: A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.</p><p>No entanto, as tensões permanecem em pequenas escalas galácticas, mais notavelmente o problema do núcleo da cúspide, ou déficit de massa interna, e a diversidade de formas de curvas de rotação internas e densidades centrais em massa fixa de halo. Estas observações sugerem que a física adicional do sector escuro pode afectar a estrutura interna dos halos, embora ainda não tenha surgido nenhuma explicação geralmente aceite.</p><p>Aqui, fazendo uso de um modelo de brinquedo, mas representativo, mostramos que a interação de bolas Q de matéria escura - sólitons não topológicos estabilizados por uma carga conservada - pode fornecer um mecanismo natural para o achatamento das cúspides do halo e pode. Produzidas no Universo primitivo, no setor escuro, essas bolas Q crescem nas densas regiões centrais dos halos, enquanto sua seção transversal de interação diminui à medida que a massa do soliton aumenta.</p><p>Este processo opera preferencialmente em centros de halo, convertendo parte da energia da massa restante armazenada em bolas Q massivas em partículas relativísticas do setor escuro e, assim, modificando o perfil interno de densidade de massa.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.28517v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? .</p><p>Saiba mais sobre o arXivLabs. Resumo: A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala.</p><p>No entanto, as tensões permanecem em pequenas escalas galácticas, mais notavelmente o problema do núcleo da cúspide, ou déficit de massa interna, e a diversidade de formas de curvas de rotação internas e densidades centrais em massa fixa de halo. Estas observações sugerem que a física adicional do sector escuro pode afectar a estrutura interna dos halos, embora ainda não tenha surgido nenhuma explicação geralmente aceite.</p><p>Aqui, fazendo uso de um modelo de brinquedo, mas representativo, mostramos que a interação de bolas Q de matéria escura - sólitons não topológicos estabilizados por uma carga conservada - pode fornecer um mecanismo natural para o achatamento das cúspides do halo e pode. Produzidas no Universo primitivo, no setor escuro, essas bolas Q crescem nas densas regiões centrais dos halos, enquanto sua seção transversal de interação diminui à medida que a massa do soliton aumenta.</p><p>Este processo opera preferencialmente em centros de halo, convertendo parte da energia da massa restante armazenada em bolas Q massivas em partículas relativísticas do setor escuro e, assim, modificando o perfil interno de densidade de massa.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.28517v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Cold, collisionless dark matter successfully explains a wide range of observations, including the formation of large-scale structure. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Have an idea for a project that will add value for arXiv&#x27;s community. Nevertheless, tensions remain on small, galactic scales, most notably the cusp-core, or inner-mass-deficit, problem and the diversity of inner rotation-curve shapes and central.</p><p>These observations suggest that additional dark-sector physics may affect the inner structure of halos, although no generally accepted explanation has yet emerged. Produced in the early Universe in the dark sector, these Q-balls grow in the dense central regions of halos, while their interaction cross section decreases as the soliton mass.</p><p>This process operates preferentially in halo centers, converting part of the rest-mass energy stored in massive Q-balls into relativistic dark-sector particles and thereby. The resulting density-dependent, self-regulating energy loss provides a dynamical mechanism for flattening halo cusps while leaving the outer halo largely unaffected.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.28517v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: A matéria escura fria e sem colisões explica com sucesso uma ampla gama de observações, incluindo a formação de estruturas em grande escala",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Cold, collisionless dark matter successfully explains a wide range of observations, including the formation of large-scale structure",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "30 jul 2026",
+    "date_pt": "30 jul 2026",
+    "date_en": "30 Jul 2026",
+    "time": "16h55",
+    "time_pt": "16h55",
+    "time_en": "16: 55 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-30T16:55:29+00:00",
+    "lastModifiedIso": "2026-07-31T17:26:27+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q",
+      "ball"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q",
+      "ball"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Dynamic flattening of halo density cusps by dark matter Q",
+      "ball"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2607.28517v1",
+    "realUrl": "https://www.cosmosweek.com/?article=dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter",
+    "realUrl_en": "https://www.cosmosweek.com/?article=dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "imageAlt_pt": "Achatamento dinâmico de cúspides de densidade de halo pela matéria escura Q-ball",
+    "imageAlt_en": "Dynamical flattening of halo density cusps by Q-ball dark matter",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "smos-salinity-could-offer-early-indicator-of-el-nino",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/pacific_ocean_salinity_june_2026/27397989-1-eng-GB/Pacific_Ocean_salinity_June_2026_pillars.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "A salinidade do SMOS pode oferecer um indicador precoce do El Niño",
@@ -123,133 +387,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
-    "slug": "shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "title_pt": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "title_en": "Shear-kSZ: A New Estimator for the Matter-Electron Power Spectrum from kSZ Tomography and Weak Lensing",
-    "sub": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão.",
-    "sub_pt": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão.",
-    "sub_en": "We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel'dovich field with the line-of-sight velocity field and the.",
-    "excerpt": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas.",
-    "excerpt_pt": "Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas.",
-    "excerpt_en": "We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel'dovich field with the line-of-sight velocity field and the weak-lensing convergence map.",
-    "body": "<p>Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel&#x27;dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas. Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático Sunyaev-Zel&#x27;dovich (kSZ) com o campo de velocidade da linha de visão e o mapa de convergência de lentes fracas.</p><p>Analogamente ao estimador kSZ empilhado padrão, este estimador fatora em um kernel de velocidade calibrável multiplicando o espectro de potência cruzada matéria-elétron, $P_{me}(k)$. Como o estimador acessa $P_{me}(k)$ para a distribuição completa da matéria, em vez de em torno de um traçador tendencioso específico, como é o caso do estimador kSZ empilhado padrão, ele nos permite determinar a supressão bariônica do espectro de potência da matéria, $S(k)$.</p><p>Derivamos e validamos uma expressão analítica para o estimador em relação a simulações, encontrando concordância em nível percentual. Devido à sua estrutura de paridade, as contribuições dos primeiros planos de fundo cósmico em micro-ondas (CMB) são canceladas.</p><p>Como a relação sinal-ruído é dominada pelo ruído CMB em vez da profundidade da lente, esperamos uma detecção já em $\\sim10σ$ com os primeiros lançamentos de dados LSST. Ganhos substanciais (fator de 2) na relação sinal-ruído são esperados com o Advanced Simons Observatory.</p><p>Embora aqui nos concentremos em LRGs do tipo DESI como amostra de primeiro plano, amostras de redshift inferior fornecem uma gama ainda maior de amostras de origem em segundo plano. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.27149v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel&#x27;dovich com o campo de velocidade na linha de visão e o mapa de convergência de lentes fracas. Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático Sunyaev-Zel&#x27;dovich (kSZ) com o campo de velocidade da linha de visão e o mapa de convergência de lentes fracas.</p><p>Analogamente ao estimador kSZ empilhado padrão, este estimador fatora em um kernel de velocidade calibrável multiplicando o espectro de potência cruzada matéria-elétron, $P_{me}(k)$. Como o estimador acessa $P_{me}(k)$ para a distribuição completa da matéria, em vez de em torno de um traçador tendencioso específico, como é o caso do estimador kSZ empilhado padrão, ele nos permite determinar a supressão bariônica do espectro de potência da matéria, $S(k)$.</p><p>Derivamos e validamos uma expressão analítica para o estimador em relação a simulações, encontrando concordância em nível percentual. Devido à sua estrutura de paridade, as contribuições dos primeiros planos de fundo cósmico em micro-ondas (CMB) são canceladas.</p><p>Como a relação sinal-ruído é dominada pelo ruído CMB em vez da profundidade da lente, esperamos uma detecção já em $\\sim10σ$ com os primeiros lançamentos de dados LSST. Ganhos substanciais (fator de 2) na relação sinal-ruído são esperados com o Advanced Simons Observatory.</p><p>Embora aqui nos concentremos em LRGs do tipo DESI como amostra de primeiro plano, amostras de redshift inferior fornecem uma gama ainda maior de amostras de origem em segundo plano. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.27149v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel&#x27;dovich field with the line-of-sight velocity field and the weak-lensing convergence map. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It is relevant because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel&#x27;dovich (kSZ) field with the line-of-sight velocity field and the. Analogously to the standard stacked kSZ estimator, this estimator factorizes into a calibratable velocity kernel multiplying the matter--electron cross-power spectrum, $P_{me}(k)$.</p><p>Because the estimator accesses $P_{me}(k)$ for the full matter distribution rather than around a specific biased tracer as is the case with the standard stacked kSZ estimator, it. We derive and validate an analytical expression for the estimator against simulations, finding percent-level agreement.</p><p>Due to its parity structure, contributions from cosmic microwave background (CMB) foregrounds cancel. Because the signal-to-noise is dominated by CMB noise rather than lensing depth, we expect a detection already at $\\sim10σ$ with early LSST data releases.</p><p>Substantial (factor of 2) gains in signal-to-noise are expected with Advanced Simons Observatory. While here we focus on DESI-like LRGs as the foreground sample, lower-redshift samples provide an even wider array of source samples in the background.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.27149v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Em foco: Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_pt": [
-      "Em foco: Propomos um novo estimador para o espectro de potência gás-matéria ionizado, que correlaciona o campo cinemático de Sunyaev-Zel'dovich com o campo de",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_en": [
-      "Focus: We propose a new estimator for the ionized gas--matter power spectrum, which correlates the kinematic Sunyaev--Zel'dovich field with the",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
-    ],
-    "date": "29 jul 2026",
-    "date_pt": "29 jul 2026",
-    "date_en": "29 Jul 2026",
-    "time": "17h23",
-    "time_pt": "17h23",
-    "time_en": "17: 23 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-29T17:23:42+00:00",
-    "lastModifiedIso": "2026-07-30T17:23:33+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Shear",
-      "um novo estimador para o espectro de potência matéria",
-      "elétron da tomografia kSZ e lentes fracas"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Shear",
-      "um novo estimador para o espectro de potência matéria",
-      "elétron da tomografia kSZ e lentes fracas"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Shear",
-      "a new estimator for the matter power spectrum",
-      "kSZ tomography electron and weak lenses"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2607.27149v1",
-    "realUrl": "https://www.cosmosweek.com/?article=shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le",
-    "realUrl_en": "https://www.cosmosweek.com/?article=shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/shear-ksz-a-new-estimator-for-the-matter-electron-power-spectrum-from-ksz-tomography-and-weak-le/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "imageAlt_pt": "Shear-kSZ: um novo estimador para o espectro de potência matéria-elétron da tomografia kSZ e lentes fracas",
-    "imageAlt_en": "Shear-kSZ: A New Estimator for the Matter-Electron Power Spectrum from kSZ Tomography and Weak Lensing",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -289,19 +427,19 @@ window.postsData = [
     "body_pt": "<p>Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos cientistas da missão: texturas semelhantes a favos de mel chamadas fracturas poligonais, cada uma com cerca de 4 a 8 centímetros. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O rover Curiosity da NASA descobriu uma extensão de terreno coberta por características de superfície chamadas polígonos.</p><p>O rover Curiosity Mars da NASA capturou este monte coberto de areia, apelidado de “Miraflores”, estimado em cerca de 6 metros de altura, em 11 de junho de 2026. NASA/JPL-Caltech/MSSS Gerenciado pela Caltech em Pasadena, o JPL construiu o Curiosity e lidera a missão em nome da Diretoria de Missões Científicas da NASA em Washington como parte do portfólio do Programa de Exploração de Marte da agência.</p><p>Para saber mais sobre o Curiosity, visite: https: //science. nasa. gov/mission/msl-curiosity Notícias Contatos com a mídia Andrew Good Jet Propulsion Laboratory, Pasadena, Califórnia. Num panorama de 360 ​​graus que o rover capturou em 19 e 20 de junho, os 4.930 e 4.931 dias marcianos, ou sóis, da missão, as formas poligonais espalham-se em todas as direções até onde o rover consegue ver.</p><p>Vimos muitas paisagens fascinantes através dos olhos do Curiosity, mas este mar de polígonos deixou-nos sem fôlego”, disse o cientista do projeto da missão, Ashwin Vasavada, do Laboratório de Propulsão a Jato da NASA, no sul da Califórnia. Esses polígonos recém-descobertos estão entre as muitas surpresas que o Curiosity encontrou desde que pousou em Marte, há 14 anos, em 20 de agosto.</p><p>Gerenciado pela Caltech em Pasadena, o JPL construiu o Curiosity e lidera a missão em nome da Diretoria de Missões Científicas da NASA em Washington como parte do portfólio do Programa de Exploração de Marte da agência. 818-393-2433 andrew. c. good@jpl. nasa. gov Karen Fox / Alana Johnson Sede da NASA.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) NASA’s Curiosity rover discovered an expanse of terrain covered in surface features called polygons. NASA’s Curiosity Mars rover captured this sand-capped butte, nicknamed “Miraflores,” estimated to be about 20 feet (6 meters) tall, on June 11, 2026.</p><p>NASA/JPL-Caltech/MSSS Managed by Caltech in Pasadena, JPL built Curiosity and leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of the. To learn more about Curiosity, visit: https: //science. nasa. gov/mission/msl-curiosity News Media Contacts Andrew Good Jet Propulsion Laboratory, Pasadena, Calif.</p><p>NASA/JPL-Caltech/MSSS As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission. In a 360-degree panorama that the rover captured on June 19 and 20, the 4, 930th and 4, 931st Martian days, or sols, of the mission, the polygonal shapes spread in all directions.</p><p>We’ve seen a lot of fascinating landscapes through Curiosity’s eyes, but this sea of polygons took our breath away,” said the mission’s project scientist, Ashwin Vasavada of. These newly discovered polygons are among the many surprises Curiosity has trundled across since landing on Mars 14 years ago, on Aug.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Managed by Caltech in Pasadena, JPL built Curiosity and leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of the agency’s Mars Exploration. 818-393-2433 andrew. c. good@jpl. nasa. gov Karen Fox / Alana Johnson NASA Headquarters.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos.",
+      "Dado-chave: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares aos.",
+      "Dado-chave: Quando o rover Curiosity da NASA começou recentemente a escalar um vale marciano apelidado de “Valle Grande”, enviou imagens que eram familiares.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to.",
+      "Key detail: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "29 jul 2026",
     "date_pt": "29 jul 2026",
@@ -389,7 +527,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-webb-explores-family-tree-of-newly-discovered-distant-objects",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -424,17 +562,17 @@ window.postsData = [
     "body_en": "<p>Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Alyssa Pagan (STScI) Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Alyssa Pagan (STScI) Their conclusions are based on their analysis of lower-redshift spiral galaxy WISEA J123635.56+621424.</p><p>Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Previous studies by NASA’s retired Spitzer Space Telescope provided the first hint of the dust-obscured, compact galaxy population in the lower-redshift universe that the Saguaro.</p><p>To get as broad a view of the spiral galaxy as possible across the electromagnetic spectrum, the team used Hubble’s ultraviolet- and Webb’s infrared-imaging and spectroscopic. Because the Saguaro is at lower redshift, we can see the very beautiful and bright host galaxy in high resolution and detail with Webb and Hubble,” said Zihao Wu of the.</p><p>Although the majority of little red dots at high redshift are not detectable in X-ray light, NASA’s Chandra X-ray Observatory detected weak X-ray emission from the Saguaro. We simply are not able to sample the immediate environment of high-redshift little red dots because their surroundings are just too faint to be observed even with Webb.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os.",
-      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os",
+      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os.",
-      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para os",
+      "Dado-chave: Desde a sua descoberta pelo Telescópio Espacial James Webb da NASA em 2022, pequenos pontos vermelhos têm sido objeto de grande interesse para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers.",
-      "Key detail: Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers",
+      "Key detail: Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots have been the subject of great interest to astronomers.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "29 jul 2026",
@@ -523,7 +661,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "sizing-up-the-sargassum-belt",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -663,7 +801,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "unchanged-x-ray-polarization-during-accretion-dips-in-the-low-hard-state-of-cygnus-x-1",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -684,18 +822,19 @@ window.postsData = [
     "body_pt": "<p>Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar. Embora a temporização e a espectroscopia tradicionais de raios X tenham mapeado suas transições de estado bimodal, restringir a configuração geométrica exata de seu plasma de acreção requer ferramentas adicionais.</p><p>Nesta carta, apresentamos uma análise espectropolarimétrica conjunta de Cygnus X-1 durante eventos de diminuição de fluxo, ou ``dips&#x27;&#x27;, observados em seu estado de baixa dureza usando dados simultâneos de IXPE, NICER e NuSTAR. O modelo espectral de banda larga revela que a redução do fluxo dependente de energia durante essas quedas é melhor descrita por um modelo de absorção de cobertura parcial, impactando fortemente as bandas de energia mais suaves.</p><p>Esta absorção é consistente com o obscurecimento por aglomerados densos e frios originados do vento estelar da companheira ou do disco de acreção externo durante a conjunção superior. Notavelmente, nossa análise polarimétrica demonstra que, apesar das quedas significativas de fluxo, o grau de polarização e o ângulo de polarização na banda de 2-8 keV permanecem amplamente consistentes entre os intervalos de mergulho e de desligamento.</p><p>A estabilidade da assinatura de polarização durante estes períodos altamente absorvidos indica que a emissão obscurecida do disco térmico não contribui significativamente para a polarização total. Em última análise, estes resultados apoiam fortemente um cenário onde a polarização dos raios X se origina de uma coroa de disco de acreção estendida, provavelmente oblata, cuja grande escala torna a sua geometria geral não afetada pela aglomeração localizada.</p><p>Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário. ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem.</p><p>Tem uma ideia de um projeto que agregue valor à comunidade arXiv? .</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.26144v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>The significance lies in astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. While traditional X-ray timing and spectroscopy have mapped its bimodal state transitions, constraining the exact geometric configuration of its accreting plasma requires. In this letter, we present a joint spectro-polarimetric analysis of Cygnus X-1 during flux-decrease events, or ``dips&#x27;&#x27;, observed in its low hard state using simultaneous data.</p><p>The broadband spectral model reveals that the energy-dependent flux reduction during these dips is best described by a partial-covering absorption model, heavily impacting the. This absorption is consistent with obscuration by dense, cold clumps originating from the companion&#x27;s stellar wind or the outer accretion disk during superior conjunction.</p><p>Notably, our polarimetric analysis demonstrates that despite significant flux drops, the polarization degree and polarization angle in the 2-8 keV band remain largely consistent. The stability of the polarization signature during these highly absorbed periods indicates that the obscured thermal disk emission does not significantly contribute to the total.</p><p>Ultimately, these results strongly support a scenario where the X-ray polarization originates from an extended, likely oblate, accretion-disk corona whose large scale renders its. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>ArXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv&#x27;s community.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2607.26144v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
+      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
+      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries.",
+      "Key detail: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries",
+      "Result not yet peer reviewed."
     ],
     "date": "28 jul 2026",
     "date_pt": "28 jul 2026",
@@ -783,7 +922,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "how-sentinel-1-measured-movement-of-venezuela-quakes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -832,19 +971,19 @@ window.postsData = [
     "body_pt": "<p>Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento do solo foi maior do que o inicialmente estimado. As medições efectuadas nos dias 24 e 25 de Junho foram comparadas com as medições anteriores de 18 de Junho, para apurar diferenças no nível do solo após os sismos.</p><p>Um deslocamento ascendente de 65 cm em torno de Caracas foi medido pelos instrumentos de radar da missão. Isto utiliza medições feitas antes e depois do evento de deslocamento, capturadas por missões que transportam instrumentos de radar avançados, como o instrumento de radar de abertura sintética (SAR) de banda C a bordo dos satélites Sentinel-1.</p><p>Estes são direcionados para o solo em um ângulo diagonal (em vez de verticalmente), atingindo o solo ao lado do caminho orbital do satélite sobre a Terra. As medições realizadas em 24 e 25 de junho, em comparação com as medições de 18 de junho, mostram um deslocamento ascendente de 65 cm em torno de Caracas, La Guaira e Caraballeda, com algum deslocamento descendente ao norte da falha geológica de Boconó.</p><p>Os dados preliminares do Sentinel-1 divulgados cinco dias após os terremotos indicaram um deslocamento do solo da ordem de 30 cm. O Gestor de Missão da ESA para o Sentinel-1, Nuno Miranda, observou: “Os satélites de observação da Terra equipados com radar fornecem informações rápidas e perspicazes na sequência de desastres naturais - e os dados de radar fornecidos pelo Sentinel-1 são um excelente exemplo.</p><p>Com epicentro a oeste de Caracas, foram relatados danos graves nas áreas da Grande Caracas e La Guaira, aproximadamente 30 km ao norte da capital. O relatório do Copernicus EMS sobre a catástrofe concluiu que mais de 3.000 edifícios na área foram danificados e mais de 2, 7 milhões de pessoas estavam potencialmente nas áreas afetadas.</p><p>Os terramotos na Venezuela, em 24 de Junho, foram causados ​​por um movimento superficial de deslizamento nas placas tectónicas que se empurram umas contra as outras no fundo do mar, ao largo da costa da Venezuela.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was greater than first estimated. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The measurements taken on the 24 and 25 June were compared with the previous measurements from 18 June, to ascertain differences in ground level following the earthquakes. An upwards displacement of 65 cm around Caracas was measured by the mission&#x27;s radar instruments.</p><p>This uses measurements taken before and after the displacement event, captured by missions carrying advanced radar instruments, such as the C-band synthetic aperture radar (SAR). These are directed towards the ground at a diagonal angle (rather than vertically), hitting the ground to the side of the satellite’s orbital path over Earth.</p><p>The measurements taken on 24 and 25 June, compared with measurements on 18 June, show an upwards displacement of 65 cm around Caracas, La Guaira and Caraballeda, with some. The preliminary data from Sentinel-1 released five days after the earthquakes indicated ground displacement of the order of 30 cm.</p><p>ESA’s Mission Manager for Sentinel-1, Nuno Miranda, noted: “Earth observation satellites equipped with radar provide insightful and rapid information in the wake of natural. With the epicentre west of Caracas, severe damage was reported in the areas of Greater Caracas and La Guaira, approximately 30 km north of the capital.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Copernicus EMS report on the disaster found that more than 3000 buildings in the area were damaged and more than 2.7 million people were potentially in the affected areas. The earthquakes in Venezuela on 24 June were caused by a shallow slip-strike movement in the tectonic plates that push against each other under the sea off the coast of Venezuela.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento.",
+      "Dado-chave: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o deslocamento.",
+      "Dado-chave: Mais de um mês depois dos catastróficos terremotos gêmeos no norte da Venezuela, em 24 de junho de 2026, dados de satélite mostram que o.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement was.",
+      "Key detail: More than one month on from the catastrophic twin earthquakes in northern Venezuela on 24 June 2026, satellite data show the ground displacement.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "28 jul 2026",
     "date_pt": "28 jul 2026",
@@ -935,7 +1074,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-science-soars-during-august-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1017,7 +1156,7 @@ window.postsData = [
     ],
     "highlights_en": [
       "Core point: Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere.",
-      "Key detail: Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer atmosphere",
+      "Key detail: Each time the Moon covers the Sun during a total solar eclipse, darkening daytime skies and briefly revealing the Sun’s ethereal outer.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "27 jul 2026",
@@ -1106,7 +1245,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1250,7 +1389,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "pink-penguin-guano-provides-diet-clues",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1381,7 +1520,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "nih-researchers-identify-regulatory-cells-that-shield-against-inflammatory-bowel-disease",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1502,7 +1641,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "watch-the-total-solar-eclipse-with-esa-in-leon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1673,7 +1812,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1853,7 +1992,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "a-week-of-smoky-skies-across-north-america",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2006,7 +2145,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "dark-matter-searches-with-a-13-mev-threshold-superconducting-sensor-array",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -2127,7 +2266,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2324,7 +2463,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "faintest-planet-ever-imaged-from-earth-found-after-more-than-10-years-of-hide-and-seek",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2500,164 +2639,6 @@ window.postsData = [
     "imageAlt": "O planeta mais fraco já fotografado da Terra é encontrado após mais de 10 anos de esconde-esconde",
     "imageAlt_pt": "O planeta mais fraco já fotografado da Terra é encontrado após mais de 10 anos de esconde-esconde",
     "imageAlt_en": "Faintest planet ever imaged from Earth found after more than 10 years of hide-and-seek",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 18,
-    "slug": "metallic-waves-on-ancient-mars",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_express_spies_metallic_waves_in_mars_s_ancient_highlands/27378598-1-eng-GB/Mars_Express_spies_metallic_waves_in_Mars_s_ancient_highlands_article.jpg",
-        "alt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_pt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "alt_en": "Mars Express visits Kaiser Crater on Mars. Click on the image to zoom in and explore.",
-        "caption": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_pt": "Mars Express visita a cratera Kaiser em Marte. Clique na imagem para ampliar e explorar.",
-        "caption_en": "Mars Express visits Kaiser Crater on Mars. Click on the image to zoom in and explore."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/bird_s-eye_view_of_wind-blown_dunes_in_mars_s_kaiser_crater/27378645-1-eng-GB/Bird_s-eye_view_of_wind-blown_dunes_in_Mars_s_Kaiser_Crater_article.jpg",
-        "alt": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "alt_pt": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "alt_en": "Bird’s-eye view of wind-blown dunes in Mars’s Kaiser Crater",
-        "caption": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "caption_pt": "Vista panorâmica das dunas sopradas pelo vento na cratera Kaiser de Marte",
-        "caption_en": "Bird’s-eye view of wind-blown dunes in Mars’s Kaiser Crater"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/the_floor_of_mars_s_kaiser_crater_from_above/27378692-1-eng-GB/The_floor_of_Mars_s_Kaiser_Crater_from_above_article.jpg",
-        "alt": "O fundo da cratera Kaiser de Marte visto de cima",
-        "alt_pt": "O fundo da cratera Kaiser de Marte visto de cima",
-        "alt_en": "The floor of Mars’s Kaiser Crater from above",
-        "caption": "O fundo da cratera Kaiser de Marte visto de cima",
-        "caption_pt": "O fundo da cratera Kaiser de Marte visto de cima",
-        "caption_en": "The floor of Mars’s Kaiser Crater from above"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/mars_s_kaiser_crater_in_3d/27378786-1-eng-GB/Mars_s_Kaiser_Crater_in_3D_article.jpg",
-        "alt": "Cratera Kaiser de Marte em 3D",
-        "alt_pt": "Cratera Kaiser de Marte em 3D",
-        "alt_en": "Mars’s Kaiser Crater in 3D",
-        "caption": "Cratera Kaiser de Marte em 3D",
-        "caption_pt": "Cratera Kaiser de Marte em 3D",
-        "caption_en": "Mars’s Kaiser Crater in 3D"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Ondas metálicas no antigo Marte",
-    "title_pt": "Ondas metálicas no antigo Marte",
-    "title_en": "Metallic waves on ancient Mars",
-    "sub": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural.",
-    "sub_pt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural.",
-    "sub_en": "The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind.",
-    "excerpt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento.",
-    "excerpt_pt": "A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento.",
-    "excerpt_en": "The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind.",
-    "body": "<p>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento. A fotografia de Marte deste mês, tirada pela Câmara Estéreo de Alta Resolução (HRSC) a bordo da sonda orbital de Marte da ESA, capta uma das partes mais antigas do Planeta Vermelho: Noachis Terra.</p><p>Situada nas antigas terras altas do sul de Marte, Noachis Terra foi fortemente bombardeada com rochas vindas do espaço ao longo dos últimos quatro mil milhões de anos, e as cicatrizes destas colisões são visíveis. A metade direita da imagem é dominada por parte do fundo da gigante Cratera Kaiser, uma grande bacia que mede cerca de 180 km de diâmetro e alguns quilómetros de profundidade.</p><p>Todas estas crateras foram o foco de lançamentos anteriores da Mars Express, e a última tem o nome de Gerhard Neukum: um dos cientistas planetários que fundou a própria missão Mars Express e liderou o desenvolvimento do HRSC da nave espacial. Estas cristas são dunas de areia que foram moldadas pelos ventos marcianos, podem elevar-se mais de 100 m acima da superfície circundante.</p><p>São o tipo de duna mais comum encontrado em Marte e também predominante nos desertos da Terra (como os desertos do Saara e do Namibe na África). Os ventos nesta parte de Marte sopram predominantemente do oeste (topo), empurrando e movendo a areia para formar estas cristas de ondas distintas.</p><p>A areia em si é fina e basáltica por natureza, o que significa que é rica em minerais como piroxênio e olivina, que são formados por vulcões, e está em constante movimento, fazendo com que essas formas dinâmicas de relevo mudem e evoluam lentamente ao longo do tempo. Esta imagem é cortesia da câmera HRSC, um dos oito instrumentos a bordo da Mars Express.</p><p>A Mars Express tem capturado e explorado muitas paisagens de Marte desde o seu lançamento em 2003.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de dunas antigo e sobrenatural esculpido pelo vento. A fotografia de Marte deste mês, tirada pela Câmara Estéreo de Alta Resolução (HRSC) a bordo da sonda orbital de Marte da ESA, capta uma das partes mais antigas do Planeta Vermelho: Noachis Terra.</p><p>Situada nas antigas terras altas do sul de Marte, Noachis Terra foi fortemente bombardeada com rochas vindas do espaço ao longo dos últimos quatro mil milhões de anos, e as cicatrizes destas colisões são visíveis. A metade direita da imagem é dominada por parte do fundo da gigante Cratera Kaiser, uma grande bacia que mede cerca de 180 km de diâmetro e alguns quilómetros de profundidade.</p><p>Todas estas crateras foram o foco de lançamentos anteriores da Mars Express, e a última tem o nome de Gerhard Neukum: um dos cientistas planetários que fundou a própria missão Mars Express e liderou o desenvolvimento do HRSC da nave espacial. Estas cristas são dunas de areia que foram moldadas pelos ventos marcianos, podem elevar-se mais de 100 m acima da superfície circundante.</p><p>São o tipo de duna mais comum encontrado em Marte e também predominante nos desertos da Terra (como os desertos do Saara e do Namibe na África). Os ventos nesta parte de Marte sopram predominantemente do oeste (topo), empurrando e movendo a areia para formar estas cristas de ondas distintas.</p><p>A areia em si é fina e basáltica por natureza, o que significa que é rica em minerais como piroxênio e olivina, que são formados por vulcões, e está em constante movimento, fazendo com que essas formas dinâmicas de relevo mudem e evoluam lentamente ao longo do tempo. Esta imagem é cortesia da câmera HRSC, um dos oito instrumentos a bordo da Mars Express.</p><p>A Mars Express tem capturado e explorado muitas paisagens de Marte desde o seu lançamento em 2003.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and otherworldly dune field sculpted by wind. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This month’s snapshot of Mars, taken by the High Resolution Stereo Camera (HRSC) aboard ESA’s Mars orbiter, captures one of the oldest parts of the Red Planet: Noachis Terra. Situated in Mars’s ancient southern highlands, Noachis Terra has been heavily bombarded with rocks from space over the past four billion years, and the scars from these collisions.</p><p>The right half of the image is dominated by part of the floor of the giant Kaiser Crater, a large basin that measures about 180 km across and a couple of kilometres deep. All of these craters have been the focus of previous Mars Express releases, and the last is named after Gerhard Neukum: one of the planetary scientists that founded the Mars.</p><p>These ridges are sand dunes that have been moulded by martian winds, they can tower more than 100 m above the surrounding surface. They are the most common type of dune found on Mars and also prevalent in Earth’s deserts (such as Africa’s Sahara and Namib deserts).</p><p>The winds in this part of Mars blow predominantly from the west (top), pushing and moving sand around to form these distinctive wave crests. The sand itself is fine and basaltic in nature, meaning that it’s rich in minerals such as pyroxene and olivine, which are formed by volcanoes, and is constantly in motion.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>This image comes courtesy of the HRSC camera, one of eight instruments aboard Mars Express. Mars Express has been capturing and exploring Mars’s many landscapes since it launched in 2003.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Em foco: A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: A Mars Express da Agência Espacial Europeia avistou uma faixa de ondas de aparência metálica enchendo a grande Cratera Kaiser de Marte, um campo de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: The European Space Agency’s Mars Express has spotted a swathe of metallic-looking waves filling Mars’s large Kaiser Crater, an ancient and",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "15 jul 2026",
-    "date_pt": "15 jul 2026",
-    "date_en": "15 Jul 2026",
-    "time": "09h00",
-    "time_pt": "09h00",
-    "time_en": "09: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-15T09:00:00+00:00",
-    "lastModifiedIso": "2026-07-15T17:08:55+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Ondas metálicas no antigo Marte"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Ondas metálicas no antigo Marte"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Space News",
-      "Cosmos Week",
-      "Metallic waves on ancient Mars"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Metallic_waves_on_ancient_Mars",
-    "realUrl": "https://www.cosmosweek.com/?article=metallic-waves-on-ancient-mars",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=metallic-waves-on-ancient-mars",
-    "realUrl_en": "https://www.cosmosweek.com/?article=metallic-waves-on-ancient-mars&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/metallic-waves-on-ancient-mars/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/metallic-waves-on-ancient-mars/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/metallic-waves-on-ancient-mars/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Ondas metálicas no antigo Marte",
-    "imageAlt_pt": "Ondas metálicas no antigo Marte",
-    "imageAlt_en": "Metallic waves on ancient Mars",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
