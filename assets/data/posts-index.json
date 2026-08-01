@@ -1,6 +1,127 @@
 [
   {
     "id": 1,
+    "slug": "tb-26-04-webbings-for-use-in-elevated-oxygen-environments",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2015/04/prepost-flammability-test-photo-of-natural-webbing.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "TB 26-04 Correias para Uso em Ambientes com Elevado Oxigênio",
+    "title_pt": "TB 26-04 Correias para Uso em Ambientes com Elevado Oxigênio",
+    "title_en": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+    "sub": "Os resultados dos testes de inflamabilidade para correias comerciais que atendem aos requisitos de inflamabilidade da NASA são relatados para uso em ambientes com alto teor de.",
+    "sub_pt": "Os resultados dos testes de inflamabilidade para correias comerciais que atendem aos requisitos de inflamabilidade da NASA são relatados para uso em ambientes com alto teor de.",
+    "sub_en": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for.",
+    "excerpt": "Os resultados dos testes de inflamabilidade para correias comerciais que atendem aos requisitos de inflamabilidade da NASA são relatados para uso em ambientes com alto teor de oxigênio previstos para futuras missões lunares e marcianas.",
+    "excerpt_pt": "Os resultados dos testes de inflamabilidade para correias comerciais que atendem aos requisitos de inflamabilidade da NASA são relatados para uso em ambientes com alto teor de oxigênio previstos para futuras missões lunares e marcianas.",
+    "excerpt_en": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions.",
+    "highlights": [
+      "Em foco: Os resultados dos testes de inflamabilidade para correias comerciais que atendem aos requisitos de inflamabilidade da NASA são relatados para uso em",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os resultados dos testes de inflamabilidade para correias comerciais que atendem aos requisitos de inflamabilidade da NASA são relatados para uso em",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "31 jul 2026",
+    "date_pt": "31 jul 2026",
+    "date_en": "31 Jul 2026",
+    "time": "19h05",
+    "time_pt": "19h05",
+    "time_en": "19: 05 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-07-31T19:05:25+00:00",
+    "lastModifiedIso": "2026-08-01T16:47:52+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "TB 26",
+      "04 Correias para Uso em Ambientes com Elevado Oxigênio"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "TB 26",
+      "04 Correias para Uso em Ambientes com Elevado Oxigênio"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "TB 26",
+      "04 Belts for Use in High Oxygen Environments"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "realUrl": "https://www.cosmosweek.com/?article=tb-26-04-webbings-for-use-in-elevated-oxygen-environments",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=tb-26-04-webbings-for-use-in-elevated-oxygen-environments",
+    "realUrl_en": "https://www.cosmosweek.com/?article=tb-26-04-webbings-for-use-in-elevated-oxygen-environments&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "TB 26-04 Correias para Uso em Ambientes com Elevado Oxigênio",
+    "imageAlt_pt": "TB 26-04 Correias para Uso em Ambientes com Elevado Oxigênio",
+    "imageAlt_en": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "hydrognss-data-open-for-new-insights-into-earth-s-water",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -128,7 +249,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "dynamical-flattening-of-halo-density-cusps-by-q-ball-dark-matter",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -248,7 +369,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "smos-salinity-could-offer-early-indicator-of-el-nino",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -376,7 +497,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-s-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -424,7 +545,7 @@
     ],
     "highlights_en": [
       "Core point: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to.",
-      "Key detail: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to",
+      "Key detail: As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "29 jul 2026",
@@ -513,7 +634,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "nasa-webb-explores-family-tree-of-newly-discovered-distant-objects",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -644,7 +765,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "sizing-up-the-sargassum-belt",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -781,7 +902,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "unchanged-x-ray-polarization-during-accretion-dips-in-the-low-hard-state-of-cygnus-x-1",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -800,17 +921,17 @@
     "excerpt_en": "Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries.",
     "highlights": [
       "Ponto central: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
-      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
+      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
-      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar",
+      "Dado-chave: Cygnus X-1 serve como referência fundamental para o estudo de mecanismos de acreção em binários de raios X de buracos negros de massa estelar.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries.",
-      "Key detail: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries",
+      "Key detail: Cygnus X-1 serves as a foundational benchmark for studying accretion mechanisms in stellar-mass black hole X-ray binaries.",
       "Result not yet peer reviewed."
     ],
     "date": "28 jul 2026",
@@ -899,7 +1020,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "how-sentinel-1-measured-movement-of-venezuela-quakes",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1048,7 +1169,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-science-soars-during-august-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1209,147 +1330,6 @@
     "imageAlt": "Ciência da NASA dispara durante o eclipse solar total de agosto",
     "imageAlt_pt": "Ciência da NASA dispara durante o eclipse solar total de agosto",
     "imageAlt_en": "NASA Science Soars During August Total Solar Eclipse",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 10,
-    "slug": "nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://videojs.org/og/support.png",
-        "alt": "suporta vídeo HTML5",
-        "alt_pt": "suporta vídeo HTML5",
-        "alt_en": "supports HTML5 video",
-        "caption": "suporta vídeo HTML5",
-        "caption_pt": "suporta vídeo HTML5",
-        "caption_en": "supports HTML5 video"
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/homepage/news-elsewhere/TDE%20video.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia22/pia22355/PIA22355.jpg?w=3816&h=2160&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’ - NASA Science",
-      "title_pt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’ - NASA Science",
-      "title_en": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star - NASA Science",
-      "caption": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante. Esses fenômenos",
-      "caption_pt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante. Esses fenômenos",
-      "caption_en": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy. These phenomena",
-      "sourcePage": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/"
-    },
-    "audio": null,
-    "title": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
-    "title_pt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
-    "title_en": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
-    "sub": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
-    "sub_pt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
-    "sub_en": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
-    "excerpt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
-    "excerpt_pt": "O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia distante.",
-    "excerpt_en": "NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
-    "highlights": [
-      "Ponto central: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia.",
-      "Dado-chave: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma galáxia.",
-      "Dado-chave: O Observatório Neil Gehrels Swift da NASA capturou um buraco negro “órfão” iluminando-se enquanto devorava uma estrela nos arredores de uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
-      "Key detail: NASA’s Neil Gehrels Swift Observatory captured an “orphan” black hole lighting up as it devoured a star on the outskirts of a faraway galaxy.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 jul 2026",
-    "date_pt": "27 jul 2026",
-    "date_en": "27 Jul 2026",
-    "time": "16h06",
-    "time_pt": "16h06",
-    "time_en": "16: 06 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-27T16:06:37+00:00",
-    "lastModifiedIso": "2026-07-28T17:28:08+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Swift Spots 'Errant' Black Hole-Destroying Megastar"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-swift-sees-wandering-mega-black-hole-shredding-star",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-swift-sees-wandering-mega-black-hole-shredding-star&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-swift-sees-wandering-mega-black-hole-shredding-star/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
-    "imageAlt_pt": "Swift da NASA vê mega estrela destruidora de buraco negro ‘errante’",
-    "imageAlt_en": "NASA’s Swift Sees ‘Wandering’ Mega Black Hole Shredding Star",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
