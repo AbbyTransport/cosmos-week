@@ -53,7 +53,7 @@ SITE_DESCRIPTION_PT = 'Portal de jornalismo científico com foco em astronomia, 
 SITE_DESCRIPTION_EN = 'Science journalism portal focused on astronomy, astrophysics, cosmology and frontier research.'
 
 GA_MEASUREMENT_ID = os.getenv('COSMOS_GA_MEASUREMENT_ID', 'G-MX20J1ZG06').strip()
-STATIC_ARTICLE_TEMPLATE_VERSION = 'site-shell-v4-2026-06-15'
+STATIC_ARTICLE_TEMPLATE_VERSION = 'inline-media-v3-2026-04-29'
 
 def analytics_head_snippet() -> str:
     """Return the single Analytics loader used by every static article page.
@@ -4697,7 +4697,7 @@ def render_static_article_page(post: dict, lang: str = 'pt') -> str:
         'other_language': 'Read in Portuguese' if is_en else 'Read in English',
         'published': 'Published' if is_en else 'Publicado',
         'updated': 'Updated' if is_en else 'Atualizado',
-        'home_url': urllib.parse.urljoin(SITE_URL, 'en/') if is_en else SITE_URL,
+        'home_url': f'{SITE_URL}?lang=en' if is_en else SITE_URL,
         'section': (_cat_field(post.get('cat') or ('Science' if is_en else 'Ciência'), 'en').capitalize() if is_en else sanitize_plain_text(post.get('cat') or 'Ciência')),
         'breadcrumbs_home': 'Home' if is_en else 'Início',
         'breadcrumbs_news': 'News' if is_en else 'Notícias',
@@ -5320,138 +5320,6 @@ def save_archive_posts(posts: list[dict]) -> None:
         encoding='utf-8'
     )
 
-def enhance_static_article_shell(page: str, lang: str, post: dict) -> str:
-    '''Add the full Cosmos Week site shell around static article pages.'''
-    is_en = lang == 'en'
-    slug = collapse_ws(str(post.get('slug') or ''))
-    home_url = '/en/' if is_en else '/'
-    archive_url = '/en/archive/' if is_en else '/arquivo/'
-    about_url = '/en/about/' if is_en else '/sobre/'
-    standards_url = '/en/standards/' if is_en else '/padroes/'
-    guides_url = '/guias/'
-    advertise_url = '/en/advertise/' if is_en else '/anuncie.html'
-    media_url = '/en/media-kit/' if is_en else '/media-kit.html'
-    privacy_url = '/en/privacy/' if is_en else '/politica-de-privacidade.html'
-    terms_url = '/en/terms/' if is_en else '/termos-de-uso.html'
-    contact_url = '/en/contact/' if is_en else '/contato/'
-    feed_label = 'Portal RSS' if is_en else 'RSS do portal'
-    topic_labels = ['Astronomy', 'Cosmology', 'Astrophysics', 'Exoplanets', 'Physics', 'Biology', 'Chemistry', 'Earth sciences'] if is_en else ['Astronomia', 'Cosmologia', 'Astrofísica', 'Exoplanetas', 'Física', 'Biologia', 'Química', 'Ciências da Terra']
-    labels = {
-        'topbar': 'Cosmos Week · science journalism with editorial context and evidence-first reporting' if is_en else 'Cosmos Week · jornalismo científico com contexto editorial e compromisso com evidência',
-        'archive_note': 'Static article · inside the Cosmos Week archive' if is_en else 'Matéria estática · dentro do arquivo Cosmos Week',
-        'sub': 'Science news in English' if is_en else 'Notícias científicas em português',
-        'nav_home': 'Home' if is_en else 'Início',
-        'nav_archive': 'Archive' if is_en else 'Arquivo',
-        'nav_about': 'About' if is_en else 'Sobre',
-        'nav_standards': 'Standards' if is_en else 'Padrões',
-        'nav_guides': 'Guides' if is_en else 'Guias',
-        'search': 'Search stories, topics or sources...' if is_en else 'Buscar notícias, temas ou fontes...',
-        'method': 'Methodology' if is_en else 'Metodologia',
-        'advertise': 'Advertise' if is_en else 'Anuncie',
-        'topics': 'Sections' if is_en else 'Editorias',
-        'footer_desc': 'Science journalism with context, source traceability and visible editorial standards.' if is_en else 'Jornalismo científico com contexto, rastreabilidade de fontes e padrões editoriais visíveis.',
-        'footer_nav': 'Navigation' if is_en else 'Navegação',
-        'footer_transparency': 'Transparency' if is_en else 'Transparência',
-        'footer_bottom': 'Scientific news with context and commitment to evidence.' if is_en else 'Notícias científicas com contexto e compromisso com a evidência.',
-        'lang_pt': 'Portuguese edition' if is_en else 'Edição em português',
-        'lang_en': 'English edition' if is_en else 'Edição em inglês',
-    }
-    topics_html = ''.join(
-        f'<a class="cw-shell-topic" href="{html_escape_attr(archive_url)}">{html.escape(topic)}</a>'
-        for topic in topic_labels
-    )
-    header = f'''
-  <div class="cw-article-topbar">
-    <div class="cw-shell-wrap cw-article-topbar-inner">
-      <div>{html.escape(labels['topbar'])}</div>
-      <div>{html.escape(labels['archive_note'])}</div>
-    </div>
-  </div>
-  <header class="cw-article-header" role="banner">
-    <div class="cw-shell-wrap cw-article-header-inner">
-      <a class="cw-article-logo" href="{html_escape_attr(home_url)}" aria-label="Cosmos Week">
-        <div class="cw-article-logo-title">Cosmos<em>Week</em></div>
-        <div class="cw-article-logo-sub">{html.escape(labels['sub'])}</div>
-      </a>
-      <nav class="cw-article-nav" aria-label="{'Main navigation' if is_en else 'Navegação principal'}">
-        <a href="{html_escape_attr(home_url)}">{html.escape(labels['nav_home'])}</a>
-        <a href="{html_escape_attr(archive_url)}">{html.escape(labels['nav_archive'])}</a>
-        <a href="{html_escape_attr(about_url)}">{html.escape(labels['nav_about'])}</a>
-        <a href="{html_escape_attr(standards_url)}">{html.escape(labels['nav_standards'])}</a>
-        <a href="{html_escape_attr(guides_url)}">{html.escape(labels['nav_guides'])}</a>
-      </nav>
-      <div class="cw-article-tools">
-        <form class="cw-article-search" action="{html_escape_attr(home_url)}" method="get" role="search">
-          <input name="q" type="search" autocomplete="off" placeholder="{html_escape_attr(labels['search'])}">
-          <button type="submit" aria-label="{'Search' if is_en else 'Buscar'}">⌕</button>
-        </form>
-        <div class="cw-article-lang" aria-label="{'Language selector' if is_en else 'Selecionar idioma'}">
-          <a class="{'on' if not is_en else ''}" href="{html_escape_attr(article_static_url(slug, 'pt'))}" title="{html_escape_attr(labels['lang_pt'])}">🇧🇷</a>
-          <a class="{'on' if is_en else ''}" href="{html_escape_attr(article_static_url(slug, 'en'))}" title="{html_escape_attr(labels['lang_en'])}">🇺🇸</a>
-        </div>
-        <a class="cw-article-method" href="{html_escape_attr(standards_url)}">{html.escape(labels['method'])}</a>
-        <a class="cw-article-method cw-article-method-soft" href="{html_escape_attr(advertise_url)}">{html.escape(labels['advertise'])}</a>
-      </div>
-    </div>
-    <div class="cw-article-topicbar" aria-label="{html_escape_attr(labels['topics'])}">
-      <div class="cw-shell-wrap cw-article-topicbar-inner">{topics_html}</div>
-    </div>
-  </header>'''
-    footer = f'''
-  <footer class="cw-article-footer" role="contentinfo">
-    <div class="cw-shell-wrap cw-article-footer-inner">
-      <div class="cw-article-footer-brand">
-        <div class="cw-article-logo-title cw-article-footer-logo">Cosmos<em>Week</em></div>
-        <p>{html.escape(labels['footer_desc'])}</p>
-        <a class="cw-article-instagram" href="https://www.instagram.com/cosmos_week/" target="_blank" rel="noopener">Instagram</a>
-      </div>
-      <div>
-        <div class="cw-article-footer-title">{html.escape(labels['footer_nav'])}</div>
-        <div class="cw-article-footer-links">
-          <a href="{html_escape_attr(home_url)}">{html.escape(labels['nav_home'])}</a>
-          <a href="{html_escape_attr(archive_url)}">{html.escape(labels['nav_archive'])}</a>
-          <a href="{html_escape_attr(about_url)}">{html.escape(labels['nav_about'])}</a>
-          <a href="{html_escape_attr(standards_url)}">{html.escape(labels['nav_standards'])}</a>
-          <a href="{html_escape_attr(guides_url)}">{html.escape(labels['nav_guides'])}</a>
-          <a href="{html_escape_attr(media_url)}">Media kit</a>
-        </div>
-      </div>
-      <div>
-        <div class="cw-article-footer-title">{html.escape(labels['footer_transparency'])}</div>
-        <div class="cw-article-footer-links">
-          <a href="/feed.xml" target="_blank" rel="noopener">{html.escape(feed_label)}</a>
-          <a href="/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
-          <a href="{html_escape_attr(privacy_url)}">{'Privacy policy' if is_en else 'Política de privacidade'}</a>
-          <a href="{html_escape_attr(terms_url)}">{'Terms of use' if is_en else 'Termos de uso'}</a>
-          <a href="{html_escape_attr(contact_url)}">{'Contact' if is_en else 'Contato'}</a>
-        </div>
-      </div>
-    </div>
-    <div class="cw-shell-wrap cw-article-footer-bottom"><span>© 2026 Cosmos Week</span><span>{html.escape(labels['footer_bottom'])}</span></div>
-  </footer>'''
-    if '/assets/css/article-shell.css' not in page:
-        page = page.replace('</head>', '  <link href="/assets/css/article-shell.css" rel="stylesheet">\n</head>', 1)
-    if '<body>' in page:
-        page = page.replace('<body>', f'<body class="cw-static-article" data-cw-lang="{html_escape_attr(lang)}">', 1)
-    elif '<body ' in page and 'cw-static-article' not in page:
-        page = page.replace('<body ', f'<body class="cw-static-article" data-cw-lang="{html_escape_attr(lang)}" ', 1)
-    if 'cw-article-header' not in page:
-        page = re.sub(r'(<a class="skip-link"[^>]*>.*?</a>)', lambda m: m.group(1) + header, page, count=1, flags=re.S)
-    if 'cw-article-footer' not in page:
-        page = page.replace('  <script src="/assets/js/article-layout.js"></script>', footer + '\n  <script src="/assets/js/article-layout.js"></script>', 1)
-    if is_en:
-        page = page.replace('>Open homepage</a>', '>More stories</a>')
-        page = re.sub(r'<a class="btn" href="https://www\.cosmosweek\.com/\?article=[^"]+&amp;lang=en">Open live edition</a>', '<a class="btn" href="https://www.cosmosweek.com/en/archive/">Explore archive</a>', page)
-        page = page.replace('Dynamic version keeps live navigation and the current homepage context.', 'Keep reading inside the Cosmos Week archive or open the original source for primary context.')
-        page = page.replace('<a href="https://www.cosmosweek.com/en/">News</a>', '<a href="https://www.cosmosweek.com/en/archive/">News</a>')
-    else:
-        page = page.replace('>Abrir homepage</a>', '>Mais notícias</a>')
-        page = re.sub(r'<a class="btn" href="https://www\.cosmosweek\.com/\?article=[^"]+">Abrir versão dinâmica</a>', '<a class="btn" href="https://www.cosmosweek.com/arquivo/">Explorar arquivo</a>', page)
-        page = page.replace('A versão dinâmica mantém navegação viva e o contexto mais recente da homepage.', 'Continue lendo dentro do arquivo do Cosmos Week ou abra a fonte original para conferir o contexto primário.')
-        page = page.replace('<a href="https://www.cosmosweek.com/">Notícias</a>', '<a href="https://www.cosmosweek.com/arquivo/">Notícias</a>')
-    return page
-
-
 def build_preview_pages(posts: list[dict], rebuild_slugs: Optional[set[str]] = None) -> None:
     # Do not wipe old article directories on every run. Existing articles should
     # remain byte-stable unless they are new in this workflow run or their static
@@ -5480,10 +5348,10 @@ def build_preview_pages(posts: list[dict], rebuild_slugs: Optional[set[str]] = N
             continue
 
         article_dir_pt.mkdir(parents=True, exist_ok=True)
-        page_pt.write_text(enhance_static_article_shell(render_static_article_page(post, 'pt'), 'pt', post), encoding='utf-8')
+        page_pt.write_text(render_static_article_page(post, 'pt'), encoding='utf-8')
 
         article_dir_en.mkdir(parents=True, exist_ok=True)
-        page_en.write_text(enhance_static_article_shell(render_static_article_page(post, 'en'), 'en', post), encoding='utf-8')
+        page_en.write_text(render_static_article_page(post, 'en'), encoding='utf-8')
 
 
 # ── Output generation ─────────────────────────────────────────────────────────
