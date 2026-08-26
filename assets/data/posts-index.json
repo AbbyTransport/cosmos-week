@@ -1,6 +1,282 @@
 [
   {
     "id": 1,
+    "slug": "a-changing-world-for-emperor-penguins",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_tm4_19891224.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_oli_20251210.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsidc.org/sites/default/files/images/Data/sea_ice_index_antmin_2025_plot.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Um mundo em mudança para os pinguins-imperadores",
+    "title_pt": "Um mundo em mudança para os pinguins-imperadores",
+    "title_en": "A Changing World for Emperor Penguins",
+    "sub": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "sub_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "sub_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
+    "excerpt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "excerpt_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "excerpt_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
+    "highlights": [
+      "Em foco: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-26T04:01:00+00:00",
+    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Um mundo em mudança para os pinguins",
+      "imperadores"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Um mundo em mudança para os pinguins",
+      "imperadores"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "A changing world for penguins",
+      "emperors"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
+    "realUrl": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
+    "realUrl_en": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Um mundo em mudança para os pinguins-imperadores",
+    "imageAlt_pt": "Um mundo em mudança para os pinguins-imperadores",
+    "imageAlt_en": "A Changing World for Emperor Penguins",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-ames-contributions-to-roman-s-mission",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/roman-beautypass2026-med.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Contribuições da NASA Ames para a missão de Roman",
+    "title_pt": "Contribuições da NASA Ames para a missão de Roman",
+    "title_en": "NASA Ames’ Contributions to Roman’s Mission",
+    "sub": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver.",
+    "sub_pt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver.",
+    "sub_en": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the.",
+    "excerpt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do.",
+    "excerpt_pt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do.",
+    "excerpt_en": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar.",
+    "highlights": [
+      "Em foco: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Set to launch on Sunday, Aug",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "19h44",
+    "time_pt": "19h44",
+    "time_en": "19: 44 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T19:44:55+00:00",
+    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Contribuições da NASA Ames para a missão de Roman"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Contribuições da NASA Ames para a missão de Roman"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Ames contributions to Roman's mission"
+    ],
+    "srcUrl": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-ames-contributions-to-roman-s-mission/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-ames-contributions-to-roman-s-mission/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Contribuições da NASA Ames para a missão de Roman",
+    "imageAlt_pt": "Contribuições da NASA Ames para a missão de Roman",
+    "imageAlt_en": "NASA Ames’ Contributions to Roman’s Mission",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-miss",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -18,19 +294,19 @@
     "excerpt_pt": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
     "excerpt_en": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
     "highlights": [
-      "Em foco: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
+      "Dado-chave: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
+      "Dado-chave: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
+      "Key detail: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "25 ago 2026",
     "date_pt": "25 ago 2026",
@@ -121,7 +397,124 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
+    "slug": "spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "title_pt": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "title_en": "Spatially resolved spectral properties of M87* on event horizon scales",
+    "sub": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "sub_pt": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "sub_en": "The supermassive black hole at the center of the nearby radio galaxy M87 is a prime target for studying black hole physics.",
+    "excerpt": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "excerpt_pt": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "excerpt_en": "The supermassive black hole at the center of the nearby radio galaxy M87 is a prime target for studying black hole physics.",
+    "highlights": [
+      "Em foco: O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: The supermassive black hole at the center of the nearby radio galaxy M87 is a prime target for studying black hole physics",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "06h17",
+    "time_pt": "06h17",
+    "time_en": "06: 17 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T06:17:35+00:00",
+    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Spatially resolved spectral properties of M87* at event horizon scales"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2608.24110v1",
+    "realUrl": "https://www.cosmosweek.com/?article=spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales",
+    "realUrl_en": "https://www.cosmosweek.com/?article=spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 63,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "imageAlt_pt": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "imageAlt_en": "Spatially resolved spectral properties of M87* on event horizon scales",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 5,
     "slug": "nasa-sets-coverage-for-roman-space-telescope-launch-from-florida",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -139,19 +532,19 @@
     "excerpt_pt": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy.",
     "excerpt_en": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy.",
     "highlights": [
-      "Em foco: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities.",
+      "Dado-chave: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities.",
+      "Dado-chave: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities.",
+      "Key detail: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 ago 2026",
     "date_pt": "24 ago 2026",
@@ -239,7 +632,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "starstruck-nasa-research-shows-how-sun-s-ancient-history-shaped-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -280,19 +673,19 @@
     "excerpt_pt": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven.",
     "excerpt_en": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven.",
     "highlights": [
-      "Em foco: At the center of our solar system, the Sun influences every planet that orbits it",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: At the center of our solar system, the Sun influences every planet that orbits it.",
+      "Dado-chave: At the center of our solar system, the Sun influences every planet that orbits it",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: At the center of our solar system, the Sun influences every planet that orbits it",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: At the center of our solar system, the Sun influences every planet that orbits it.",
+      "Dado-chave: At the center of our solar system, the Sun influences every planet that orbits it",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: At the center of our solar system, the Sun influences every planet that orbits it",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: At the center of our solar system, the Sun influences every planet that orbits it.",
+      "Key detail: At the center of our solar system, the Sun influences every planet that orbits it",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 ago 2026",
     "date_pt": "24 ago 2026",
@@ -383,7 +776,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "dynamics-of-wave-structures-in-multifield-fuzzy-dark-matter-halos",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -401,18 +794,19 @@
     "excerpt_pt": "As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
     "excerpt_en": "As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
     "highlights": [
-      "Em foco: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
+      "Dado-chave: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
+      "Dado-chave: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
+      "Key detail: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
+      "Result not yet peer reviewed."
     ],
     "date": "24 ago 2026",
     "date_pt": "24 ago 2026",
@@ -500,313 +894,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "title_pt": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "title_en": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "sub": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of.",
-    "sub_pt": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of.",
-    "sub_en": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of.",
-    "excerpt": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways.",
-    "excerpt_pt": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways.",
-    "excerpt_en": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways.",
-    "highlights": [
-      "Em foco: Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_pt": [
-      "Em foco: Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_en": [
-      "Focus: Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
-    ],
-    "date": "24 ago 2026",
-    "date_pt": "24 ago 2026",
-    "date_en": "24 Aug 2026",
-    "time": "02h44",
-    "time_pt": "02h44",
-    "time_en": "02: 44 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-24T02:44:06+00:00",
-    "lastModifiedIso": "2026-08-25T16:13:24+00:00",
-    "source": "arXiv High Energy Astrophysics",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Tidal disruption of stellar binaries as a pathway to exotic transients"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Tidal disruption of stellar binaries as a pathway to exotic transients"
-    ],
-    "keywords_en": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Tidal disruption of stellar binaries as a pathway to exotic transients"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2608.22735v1",
-    "realUrl": "https://www.cosmosweek.com/?article=tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients",
-    "realUrl_en": "https://www.cosmosweek.com/?article=tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 63,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "imageAlt_pt": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "imageAlt_en": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg",
-    "inline_images": [
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/2026_eclipse_psi_prediction_reprojected_to_deb_raw.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/2026_DEB_eclipse_image_flipped_rotated.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/hpd/eclipse/2026Eclipse_WB57GoPro_Totality_H264_Abridged.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_o.jpg?w=4663&h=5277&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço - NASA Science",
-      "title_pt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço - NASA Science",
-      "title_en": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space - NASA Science",
-      "caption": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina camada externa do Sol.",
-      "caption_pt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina camada externa do Sol.",
-      "caption_en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer",
-      "sourcePage": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
-    },
-    "audio": null,
-    "title": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "title_pt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "title_en": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-    "sub": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-    "sub_pt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-    "sub_en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere, the corona.",
-    "excerpt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a.",
-    "excerpt_pt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a.",
-    "excerpt_en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere, the corona, to those in the path of totality who were lucky enough to.",
-    "highlights": [
-      "Ponto central: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-      "Dado-chave: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-      "Dado-chave: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain.",
-      "Key detail: On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 ago 2026",
-    "date_pt": "21 ago 2026",
-    "date_en": "21 Aug 2026",
-    "time": "18h43",
-    "time_pt": "18h43",
-    "time_en": "18: 43 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-21T18:43:40+00:00",
-    "lastModifiedIso": "2026-08-22T15:52:38+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA compartilha vistas do eclipse solar de agosto do solo",
-      "do ar e do espaço"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA compartilha vistas do eclipse solar de agosto do solo",
-      "do ar e do espaço"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA shares views of August solar eclipse from the ground",
-      "of air and space"
-    ],
-    "srcUrl": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-shares-views-of-august-solar-eclipse-from-ground-air-space&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "imageAlt_pt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "imageAlt_en": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 7,
+    "id": 8,
     "slug": "sentinel-1-captures-major-ice-loss-from-greenland-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -946,7 +1034,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1186,7 +1274,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1232,19 +1320,19 @@
     "excerpt_pt": "Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê.",
     "excerpt_en": "Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why.",
     "highlights": [
-      "Em foco: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê.",
+      "Dado-chave: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê.",
+      "Dado-chave: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why.",
+      "Key detail: Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
@@ -1332,7 +1420,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1481,7 +1569,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1618,7 +1706,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "science-release-hubble-solves-merger-mystery-from-milky-way-s-early-years",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1767,7 +1855,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1908,17 +1996,17 @@
     "excerpt_en": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer.",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
-      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas",
+      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
-      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas",
+      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades.",
-      "Key detail: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades",
+      "Key detail: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "14 ago 2026",
@@ -2007,7 +2095,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "stops-along-the-path-of-totality",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2144,7 +2232,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2281,7 +2369,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "the-quadratic-growth-of-krylov-spread-complexity-in-the-btz-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2399,7 +2487,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "a-child-s-language-may-predict-the-arrival-of-depression-and-anxiety-disorders-years-before-onse",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2527,7 +2615,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "how-the-tide-turns-at-the-mouth-of-the-elbe",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2673,7 +2761,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "europe-s-forests-losing-more-biomass-since-2018",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2791,143 +2879,6 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
-    "slug": "the-paradox-of-lencois-maranhenses-national-park",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "The Paradox of Lençóis Maranhenses National Park",
-    "title_pt": "The Paradox of Lençóis Maranhenses National Park",
-    "title_en": "The Paradox of Lençóis Maranhenses National Park",
-    "sub": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-    "sub_pt": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-    "sub_en": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
-    "excerpt": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos. O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos. O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year. The post The Paradox of Lençóis Maranhenses National Park appeared first on NASA Science.",
-    "highlights": [
-      "Ponto central: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Dado-chave: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Dado-chave: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
-      "Key detail: The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "05 ago 2026",
-    "date_pt": "05 ago 2026",
-    "date_en": "05 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-05T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-05T17:07:42+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "The Paradox of Lençóis Maranhenses National Park"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "The Paradox of Lençóis Maranhenses National Park"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "The Paradox of Lençóis Maranhenses National Park"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/",
-    "realUrl": "https://www.cosmosweek.com/?article=the-paradox-of-lencois-maranhenses-national-park",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=the-paradox-of-lencois-maranhenses-national-park",
-    "realUrl_en": "https://www.cosmosweek.com/?article=the-paradox-of-lencois-maranhenses-national-park&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-paradox-of-lencois-maranhenses-national-park/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-paradox-of-lencois-maranhenses-national-park/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "The Paradox of Lençóis Maranhenses National Park",
-    "imageAlt_pt": "The Paradox of Lençóis Maranhenses National Park",
-    "imageAlt_en": "The Paradox of Lençóis Maranhenses National Park",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
     "id": 21,
     "slug": "hydrognss-data-open-for-new-insights-into-earth-s-water",
     "cat": "Ciências da Terra",
@@ -2957,17 +2908,17 @@
     "excerpt_en": "The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
     "highlights": [
       "Ponto central: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
-      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
-      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
-      "Key detail: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations",
+      "Key detail: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "31 jul 2026",
@@ -3970,17 +3921,17 @@
     "excerpt_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago.",
     "highlights": [
       "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
       "Core point: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a.",
-      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a",
+      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "26 jun 2026",

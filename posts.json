@@ -1,6 +1,288 @@
 [
   {
     "id": 1,
+    "slug": "a-changing-world-for-emperor-penguins",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_tm4_19891224.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_oli_20251210.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsidc.org/sites/default/files/images/Data/sea_ice_index_antmin_2025_plot.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Um mundo em mudança para os pinguins-imperadores",
+    "title_pt": "Um mundo em mudança para os pinguins-imperadores",
+    "title_en": "A Changing World for Emperor Penguins",
+    "sub": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "sub_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "sub_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
+    "excerpt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "excerpt_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
+    "excerpt_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
+    "body": "<p>Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado. A postagem Um mundo em mudança para os pinguins-imperadores apareceu pela primeira vez na NASA Science.</p><p>Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antarctic Survey relataram falhas reprodutivas “catastróficas” entre as colônias do Mar de Bellingshausen. Michael Van Woert, NOAA NESDIS, ORA “Há pouca informação básica sobre o que é ‘normal’ para a maioria destas colónias”, disse Michelle LaRue, ecologista da vida selvagem na Universidade de Canterbury.</p><p>É quando começamos a ver falhas reprodutivas frequentes, ano após ano, que as aves não conseguem acompanhar, e isso começa a ser um problema para uma colônia. Estas colónias são tão remotas e de difícil acesso que os satélites, especialmente os satélites governamentais com dados facilmente acessíveis, serão absolutamente inestimáveis ​​para compreender o que o futuro lhes trará.</p><p>O Fish &amp; Wildlife Service listou os pinguins-imperadores como ameaçados em 2022, e a União Internacional para a Conservação da Natureza os classificou como ameaçados em 2026. Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antártica relataram falhas reprodutivas &quot;catastróficas&quot; entre as colônias do Mar de Bellingshausen.</p><p>Dois novos estudos publicados em 2026 usaram décadas de observações do Landsat para começar a preencher lacunas na compreensão. Usando esta técnica, investigadores da Universidade de Friburgo descobriram que 18 colónias antecedem a sua identificação inicial em 17 anos, em média.</p><p>A imagem acima à direita mostra a colônia em dezembro de 2025, o mês mais recente que o Landsat observou a colônia.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado. A postagem Um mundo em mudança para os pinguins-imperadores apareceu pela primeira vez na NASA Science.</p><p>Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antarctic Survey relataram falhas reprodutivas “catastróficas” entre as colônias do Mar de Bellingshausen. Michael Van Woert, NOAA NESDIS, ORA “Há pouca informação básica sobre o que é ‘normal’ para a maioria destas colónias”, disse Michelle LaRue, ecologista da vida selvagem na Universidade de Canterbury.</p><p>É quando começamos a ver falhas reprodutivas frequentes, ano após ano, que as aves não conseguem acompanhar, e isso começa a ser um problema para uma colônia. Estas colónias são tão remotas e de difícil acesso que os satélites, especialmente os satélites governamentais com dados facilmente acessíveis, serão absolutamente inestimáveis ​​para compreender o que o futuro lhes trará.</p><p>O Fish &amp; Wildlife Service listou os pinguins-imperadores como ameaçados em 2022, e a União Internacional para a Conservação da Natureza os classificou como ameaçados em 2026. Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antártica relataram falhas reprodutivas &quot;catastróficas&quot; entre as colônias do Mar de Bellingshausen.</p><p>Dois novos estudos publicados em 2026 usaram décadas de observações do Landsat para começar a preencher lacunas na compreensão. Usando esta técnica, investigadores da Universidade de Friburgo descobriram que 18 colónias antecedem a sua identificação inicial em 17 anos, em média.</p><p>A imagem acima à direita mostra a colônia em dezembro de 2025, o mês mais recente que o Landsat observou a colônia.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past. The post A Changing World for Emperor Penguins appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post A Changing World for Emperor Penguins appeared first on NASA Science. After Antarctic sea ice cover hit a record low in 2022, British Antarctic Survey researchers reported “catastrophic” breeding failures among Bellingshausen Sea colonies.</p><p>Michael Van Woert, NOAA NESDIS, ORA “There’s little baseline information for what’s ‘normal’ for most of these colonies,” said Michelle LaRue, a wildlife ecologist at the. It’s when we start to see frequent breeding failures year after year that the birds won’t be able to keep up, and it starts to be a problem for a colony.</p><p>These colonies are so remote and difficult to access that satellites, especially government satellites with easily accessible data, are going to be absolutely invaluable to. Fish &amp; Wildlife Service listed emperor penguins as threatened in 2022, and the International Union for Conservation of Nature classified them as endangered in 2026.</p><p>After Antarctic sea ice cover hit a record low in 2022, British Antarctic Survey researchers reported &quot;catastrophic&quot; breeding failures among Bellingshausen Sea colonies. However, new research, based on decades of observations from NASA-USGS Landsat satellites, offers some hope, underscoring that many colonies have persisted for decades and that.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Two new studies published in 2026 used decades of Landsat observations to start filling gaps in understanding. Using this technique, researchers at the University of Freiburg found that 18 colonies predate their initial identification by an average of 17 years.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-26T04:01:00+00:00",
+    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Um mundo em mudança para os pinguins",
+      "imperadores"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Um mundo em mudança para os pinguins",
+      "imperadores"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "A changing world for penguins",
+      "emperors"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
+    "realUrl": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
+    "realUrl_en": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Um mundo em mudança para os pinguins-imperadores",
+    "imageAlt_pt": "Um mundo em mudança para os pinguins-imperadores",
+    "imageAlt_en": "A Changing World for Emperor Penguins",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-ames-contributions-to-roman-s-mission",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/roman-beautypass2026-med.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Contribuições da NASA Ames para a missão de Roman",
+    "title_pt": "Contribuições da NASA Ames para a missão de Roman",
+    "title_en": "NASA Ames’ Contributions to Roman’s Mission",
+    "sub": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver.",
+    "sub_pt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver.",
+    "sub_en": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the.",
+    "excerpt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do.",
+    "excerpt_pt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do.",
+    "excerpt_en": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar.",
+    "body": "<p>Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do nosso sol.</p><p>NASA JPL/Chris Gunn Supercomputação avançada Especialistas da Divisão de Supercomputação Avançada da NASA em Ames estão avançando a ciência de Roman, trazendo ampla experiência em pipelines de dados e operações de missão para fornecer aconselhamento e orientação ao projeto Roman. Saiba mais sobre a missão do Telescópio Espacial Romano Nancy Grace: https: //science. nasa. gov/mission/roman-space-telescope/ Para mídia de notícias: Recursos de mídia romana: https: //science. nasa.</p><p>30, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e resolver artigos essenciais O Telescópio Espacial Nancy Grace Roman é um observatório da NASA projetado para resolver questões essenciais nas áreas de energia. NASA com lançamento previsto para domingo, agosto.</p><p>As principais contribuições para a missão de Roman feitas por pesquisadores do Centro de Pesquisa Ames da NASA, no Vale do Silício, na Califórnia, farão avançar a ciência de Roman usando as instalações, conhecimentos e inovações do centro. Um software inovador desenvolvido por uma equipe da NASA Ames, com colaboradores do Goddard Space Flight Center da NASA em Greenbelt, Maryland, e do IPAC/Caltech em Pasadena, Califórnia, melhorará as imagens de Roman e otimizará os planos de observação.</p><p>Através de uma colaboração com o Laboratório de Propulsão a Jato da NASA no sul da Califórnia, as máscaras MSWC são incluídas no instrumento de voo do Roman Coronagraph como uma capacidade adicional além dos modos de observação de base do Roman. Isso inclui os modos multiestrelas que estão sendo desenvolvidos na NASA Ames que usam diferentes máscaras além da linha de base ou novos algoritmos de controle e detecção de frente de onda.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do nosso sol.</p><p>NASA JPL/Chris Gunn Supercomputação avançada Especialistas da Divisão de Supercomputação Avançada da NASA em Ames estão avançando a ciência de Roman, trazendo ampla experiência em pipelines de dados e operações de missão para fornecer aconselhamento e orientação ao projeto Roman. Saiba mais sobre a missão do Telescópio Espacial Romano Nancy Grace: https: //science. nasa. gov/mission/roman-space-telescope/ Para mídia de notícias: Recursos de mídia romana: https: //science. nasa.</p><p>30, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e resolver artigos essenciais O Telescópio Espacial Nancy Grace Roman é um observatório da NASA projetado para resolver questões essenciais nas áreas de energia. NASA com lançamento previsto para domingo, agosto.</p><p>As principais contribuições para a missão de Roman feitas por pesquisadores do Centro de Pesquisa Ames da NASA, no Vale do Silício, na Califórnia, farão avançar a ciência de Roman usando as instalações, conhecimentos e inovações do centro. Um software inovador desenvolvido por uma equipe da NASA Ames, com colaboradores do Goddard Space Flight Center da NASA em Greenbelt, Maryland, e do IPAC/Caltech em Pasadena, Califórnia, melhorará as imagens de Roman e otimizará os planos de observação.</p><p>Através de uma colaboração com o Laboratório de Propulsão a Jato da NASA no sul da Califórnia, as máscaras MSWC são incluídas no instrumento de voo do Roman Coronagraph como uma capacidade adicional além dos modos de observação de base do Roman. Isso inclui os modos multiestrelas que estão sendo desenvolvidos na NASA Ames que usam diferentes máscaras além da linha de base ou novos algoritmos de controle e detecção de frente de onda.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. NASA Simulated, unprocessed Simulated, processed BEFORE AND AFTER PROCESSING Simulated View From Roman’s Wide Field Instrument Curtain Toggle 2-Up Image Details Left: Simulated. NASA JPL/Chris Gunn Advanced supercomputing Experts at NASA’s Advanced Supercomputing Division at Ames are advancing Roman’s science by bringing extensive experience in data.</p><p>Learn more about the Nancy Grace Roman Space Telescope mission: https: //science. nasa. gov/mission/roman-space-telescope/ For news media: Roman media resources: https: //science. NASA Set to launch on Sunday, Aug.</p><p>30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark. Key contributions to Roman’s mission made by researchers at NASA’s Ames Research Center in California’s Silicon Valley will advance Roman’s science using the center’s facilities.</p><p>Innovative software developed by a team at NASA Ames, with collaborators at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and IPAC/Caltech in Pasadena, California. Through a collaboration with NASA’s Jet Propulsion Laboratory in Southern California, the MSWC masks are included on the Roman Coronagraph’s flight instrument as an added.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Although no exoplanets are confirmed around the Sun-like stars in this system, a planet candidate has been identified by NASA’s James Webb Space Telescope in the habitable zone of. This includes the multi-star modes being developed at NASA Ames that use different masks beyond the baseline or new wavefront control and sensing algorithms.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Set to launch on Sunday, Aug",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "19h44",
+    "time_pt": "19h44",
+    "time_en": "19: 44 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T19:44:55+00:00",
+    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Contribuições da NASA Ames para a missão de Roman"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Contribuições da NASA Ames para a missão de Roman"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Ames contributions to Roman's mission"
+    ],
+    "srcUrl": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-ames-contributions-to-roman-s-mission/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-ames-contributions-to-roman-s-mission/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Contribuições da NASA Ames para a missão de Roman",
+    "imageAlt_pt": "Contribuições da NASA Ames para a missão de Roman",
+    "imageAlt_en": "NASA Ames’ Contributions to Roman’s Mission",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-miss",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -21,19 +303,19 @@
     "body_pt": "<p>Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. Credit: HelioSwarm Project Team As NASA strives to push the boundaries of space travel with the Artemis program and the agency’s upcoming deep-space science missions, increased system autonomy and resiliency have inevitably become key technology needs.</p><p>To address this challenge Article Contents The QSI Approach The HelioSwarm Demonstration Relevance to future NASA missions and non-NASA applications Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. This approach was successfully demonstrated with the model-based generation of a failure modes and effects analysis and fault trees using NASA’s HelioSwarm mission early design information.</p><p>As NASA strives to push the boundaries of space travel with the Artemis program and the agency’s upcoming deep-space science missions, increased system autonomy and resiliency have inevitably become key technology needs. (QSI) for development of FM capabilities and enhancements to its commercially available toolset, TEAMS® (a product that resulted from commercialization of the company’s earlier NASA-sponsored SBIR work), to support HelioSwarm and other NASA heliophysics missions.</p><p>Together, SHM/FM consists of a set of mechanisms that ensure that mission goals are achieved by preventing failures from occurring, or detecting and then mitigating them if they do occur. NASA often employs a model-based approach for its SE process, using Systems Modeling Language (SysML) as the framework.</p><p>This NASA-funded QSI team’s approach integrates SHM/FM directly within the MBSE process from the beginning of a project. Under this SBIR effort, QSI worked with the SysML v2 Submission Team (SST), an assorted group of end users, vendors, academics, and government liaisons involved in the development of specifications for SysML v2, which is the latest iteration of SysML.</p><p>Furthermore, the toolset recommends design improvements (e. g, optimal location of sensors onboard the spacecraft) based on the results from such analyses, and it provides these recommendations in industry-standard formats that can be easily understood and incorporated into the.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. HelioSwarm Project Team As NASA strives to push the boundaries of space travel with the Artemis program and the agency’s upcoming deep-space science missions, increased system. To address this challenge Article Contents The QSI Approach The HelioSwarm Demonstration Relevance to future NASA missions and non-NASA applications Fully autonomous space mission.</p><p>This approach was successfully demonstrated with the model-based generation of a failure modes and effects analysis and fault trees using NASA’s HelioSwarm mission early design. As NASA strives to push the boundaries of space travel with the Artemis program and the agency’s upcoming deep-space science missions, increased system autonomy and resiliency.</p><p>(QSI) for development of FM capabilities and enhancements to its commercially available toolset, TEAMS® (a product that resulted from commercialization of the company’s earlier. Together, SHM/FM consists of a set of mechanisms that ensure that mission goals are achieved by preventing failures from occurring, or detecting and then mitigating them if they.</p><p>NASA often employs a model-based approach for its SE process, using Systems Modeling Language (SysML) as the framework. This NASA-funded QSI team’s approach integrates SHM/FM directly within the MBSE process from the beginning of a project.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Under this SBIR effort, QSI worked with the SysML v2 Submission Team (SST), an assorted group of end users, vendors, academics, and government liaisons involved in the development. Furthermore, the toolset recommends design improvements (e. g, optimal location of sensors onboard the spacecraft) based on the results from such analyses, and it provides these.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
+      "Dado-chave: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
+      "Dado-chave: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention.",
+      "Key detail: Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "25 ago 2026",
     "date_pt": "25 ago 2026",
@@ -124,7 +406,127 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
+    "slug": "spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "title_pt": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "title_en": "Spatially resolved spectral properties of M87* on event horizon scales",
+    "sub": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "sub_pt": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "sub_en": "The supermassive black hole at the center of the nearby radio galaxy M87 is a prime target for studying black hole physics.",
+    "excerpt": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "excerpt_pt": "O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros.",
+    "excerpt_en": "The supermassive black hole at the center of the nearby radio galaxy M87 is a prime target for studying black hole physics.",
+    "body": "<p>O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros. O buraco negro supermassivo no centro da galáxia de rádio próxima M87 (M87*) é um alvo principal para o estudo da física dos buracos negros.</p><p>Obtemos o primeiro mapa de índice espectral espacialmente resolvido ($S_ν\\propto ν^α$) dentro da região compacta ($\\leq 100\\, μ$as). Detectamos ainda um gradiente radial robusto com um aumento modesto no interior $\\lesssim 20~μ$as (ligeiramente dentro do anel de 1, 3 mm), seguido por um declínio sistemático em raios maiores.</p><p>O índice espectral transita de valores positivos para negativos perto de $\\sim 30~μ$as, próximo ao raio do anel de 3, 5 mm, consistente com a opacidade síncrotron dependente da frequência no fluxo de acreção mais interno. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? .</p><p>Resumo: O buraco negro supermassivo no centro da rádio galáxia próxima M87 (M87*) é um alvo principal para o estudo da física dos buracos negros. Aqui, apresentamos uma análise de propriedades espectrais com base em imagens de alta resolução quase simultâneas em 3, 5 mm (86 GHz) e 1, 3 mm (230 GHz), obtidas em 2018 com o Global Millimeter VLBI Array (GMVA), incluindo ALMA e o Telescópio da Groenlândia, e o Event Horizon.</p><p>Obtemos o primeiro mapa de índice espectral espacialmente resolvido ($S_\\nu \\propto \\nu^\\alpha$) dentro da região compacta ($\\leq 100\\, \\mu$as).</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.24110v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros. O buraco negro supermassivo no centro da galáxia de rádio próxima M87 (M87*) é um alvo principal para o estudo da física dos buracos negros.</p><p>Obtemos o primeiro mapa de índice espectral espacialmente resolvido ($S_ν\\propto ν^α$) dentro da região compacta ($\\leq 100\\, μ$as). Detectamos ainda um gradiente radial robusto com um aumento modesto no interior $\\lesssim 20~μ$as (ligeiramente dentro do anel de 1, 3 mm), seguido por um declínio sistemático em raios maiores.</p><p>O índice espectral transita de valores positivos para negativos perto de $\\sim 30~μ$as, próximo ao raio do anel de 3, 5 mm, consistente com a opacidade síncrotron dependente da frequência no fluxo de acreção mais interno. Tanto indivíduos como organizações que trabalham com arXivLabs abraçaram e aceitaram nossos valores de abertura, comunidade, excelência e privacidade dos dados do usuário.</p><p>ArXiv está comprometido com esses valores e só trabalha com parceiros que os aderem. Tem uma ideia de um projeto que agregue valor à comunidade arXiv? .</p><p>Resumo: O buraco negro supermassivo no centro da rádio galáxia próxima M87 (M87*) é um alvo principal para o estudo da física dos buracos negros. Aqui, apresentamos uma análise de propriedades espectrais com base em imagens de alta resolução quase simultâneas em 3, 5 mm (86 GHz) e 1, 3 mm (230 GHz), obtidas em 2018 com o Global Millimeter VLBI Array (GMVA), incluindo ALMA e o Telescópio da Groenlândia, e o Event Horizon.</p><p>Obtemos o primeiro mapa de índice espectral espacialmente resolvido ($S_\\nu \\propto \\nu^\\alpha$) dentro da região compacta ($\\leq 100\\, \\mu$as).</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.24110v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The supermassive black hole at the center of the nearby radio galaxy M87 is a prime target for studying black hole physics. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The supermassive black hole at the center of the nearby radio galaxy M87 (M87*) is a prime target for studying black hole physics. We obtain the first spatially resolved spectral-index map ($S_ν\\propto ν^α$) within the compact region ($\\leq 100\\, μ$as).</p><p>We further detect a robust radial gradient with a modest rise in the inner $\\lesssim 20~μ$as (slightly inside the 1.3 mm ring), followed by a systematic decline at larger radii. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>ArXiv is committed to these values and only works with partners that adhere to them. Have an idea for a project that will add value for arXiv&#x27;s community.</p><p>We obtain the first spatially resolved spectral-index map ($S_\\nu \\propto \\nu^\\alpha$) within the compact region ($\\leq 100\\, \\mu$as). We further detect a robust radial gradient with a modest rise in the inner $\\lesssim 20~\\mu$as (slightly inside the 1.3 mm ring), followed by a systematic decline at larger radii.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>These results provide new observational constraints that can help discriminate between models of the horizon-scale emission and the launching of relativistic jets in M87*.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.24110v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: O buraco negro supermassivo no centro da galáxia de rádio próxima M87 é um alvo principal para o estudo da física dos buracos negros",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: The supermassive black hole at the center of the nearby radio galaxy M87 is a prime target for studying black hole physics",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "06h17",
+    "time_pt": "06h17",
+    "time_en": "06: 17 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T06:17:35+00:00",
+    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Spatially resolved spectral properties of M87* at event horizon scales"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2608.24110v1",
+    "realUrl": "https://www.cosmosweek.com/?article=spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales",
+    "realUrl_en": "https://www.cosmosweek.com/?article=spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/spatially-resolved-spectral-properties-of-m87-on-event-horizon-scales/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 63,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "imageAlt_pt": "Propriedades espectrais espacialmente resolvidas de M87* em escalas de horizonte de eventos",
+    "imageAlt_en": "Spatially resolved spectral properties of M87* on event horizon scales",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 5,
     "slug": "nasa-sets-coverage-for-roman-space-telescope-launch-from-florida",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -145,19 +547,19 @@
     "body_pt": "<p>Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy.</p><p>Learn where to watch online: https: //www. nasa. gov/live Named for NASA’s first chief astronomer, the Nancy Grace Roman Space Telescope will pair sharp infrared vision with a field of view at least 100 times larger than the agency’s Hubble Space Telescope. 29 9 a. m: NASA’s Roman Space Telescope Mission Science Briefing: The briefing will take place in the NASA Kennedy Press Site auditorium with the following participants: Shawn Domagal-Goldman, director.</p><p>10: 30 a. m: NASA’s Roman Space Telescope Prelaunch News Conference: The news conference will take place in the NASA Kennedy Press Site auditorium with the following participants: Nicky Fox, associate administrator. 7: 26 a. m: Launch 9: 30 a. m: Postlaunch news conference with the following participants: NASA Administrator Jared Isaacman Nicky Fox, associate administrator.</p><p>Audio-only coverage Audio-only coverage of the launch will be carried on the NASA “V” circuits, accessible by dialing 321-867-1220 or 321-867-1240. 301-286-1940 claire. andreoli@nasa. gov Share Details Last Updated Aug 24, 2026 Editor Jessica Taveau Location NASA Headquarters Related Terms Nancy Grace Roman Space Telescope Astrophysics Division Goddard Space Flight Center Jet Propulsion Laboratory Kennedy Space Center.</p><p>MEDIA ADVISORY M26-063 NASA Headquarters NASA’s Nancy Grace Roman Space Telescope is encapsulated within the payload fairing at the agency’s Kennedy Space Center in Florida, ahead of mating to a SpaceX Falcon Heavy rocket for launch. Learn where to watch online: Named for NASA’s first chief astronomer, the Nancy Grace Roman Space Telescope will pair sharp infrared vision with a field of view at least 100 times larger than the agency’s Hubble Space Telescope.</p><p>After launch and separation from the rocket, Roman will travel to the second Sun-Earth Lagrange point, or L2, about one million miles from Earth.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Https: //www. nasa. gov/live Named for NASA’s first chief astronomer, the Nancy Grace Roman Space Telescope will pair sharp infrared vision with a field of view at least 100 times. 29 9 a. m: NASA’s Roman Space Telescope Mission Science Briefing: The briefing will take place in the NASA Kennedy Press Site auditorium with the following participants: Shawn.</p><p>10: 30 a. m: NASA’s Roman Space Telescope Prelaunch News Conference: The news conference will take place in the NASA Kennedy Press Site auditorium with the following participants. 7: 26 a. m: Launch 9: 30 a. m: Postlaunch news conference with the following participants: NASA Administrator Jared Isaacman Nicky Fox, associate administrator.</p><p>Audio-only coverage Audio-only coverage of the launch will be carried on the NASA “V” circuits, accessible by dialing 321-867-1220 or 321-867-1240. 301-286-1940 claire. andreoli@nasa. gov Share Details Last Updated Aug 24, 2026 Editor Jessica Taveau Location NASA Headquarters Related Terms Nancy Grace Roman Space Telescope.</p><p>MEDIA ADVISORY M26-063 NASA Headquarters NASA’s Nancy Grace Roman Space Telescope is encapsulated within the payload fairing at the agency’s Kennedy Space Center in Florida, ahead. Named for NASA’s first chief astronomer, the Nancy Grace Roman Space Telescope will pair sharp infrared vision with a field of view at least 100 times larger than the agency’s.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>After launch and separation from the rocket, Roman will travel to the second Sun-Earth Lagrange point, or L2, about one million miles from Earth. The mission has a five-year primary lifetime with a goal of operating for 10 years, and Roman’s science data will be publicly available after processing.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities.",
+      "Dado-chave: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities.",
+      "Dado-chave: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities.",
+      "Key detail: Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 ago 2026",
     "date_pt": "24 ago 2026",
@@ -245,7 +647,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "starstruck-nasa-research-shows-how-sun-s-ancient-history-shaped-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -289,19 +691,19 @@
     "body_pt": "<p>At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven.</p><p>In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center, one of [. ]. 6 Min Read Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth At the center of our solar system, the Sun influences every planet that orbits it.</p><p>In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center, one of NASA’s DRIVE (Diversify. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video This animated illustration shows Earth and the Sun protected by the heliosphere, the massive bubble created by our Sun.</p><p>Airapetian’s team simulated early Earth’s atmosphere in a sealed chamber, mixing molecular nitrogen, ammonia, carbon dioxide, and carbon monoxide. But even if only 10% of the nitrous observed in the experiment survived, Airapetian’s team’s computer simulations confirmed, it would still warm Earth’s equatorial regions to about 41 degrees Fahrenheit (5 degrees Celsius), above water’s freezing point.</p><p>Space Article 3 days ago 6 min read Europe’s Scorching Summer A series of heat waves in 2026 is breaking records and taking a toll in. In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center, one of NASA&#x27;s DRIVE (Diversify.</p><p>21 in Annual Review of Astronomy and Astrophysics, researchers at NASA’s SHIELD used computer modeling to reverse-engineer the path of the heliosphere through our galaxy, revealing that the environments it passed through may have triggered changes on Earth.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center, one of. 6 Min Read Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth At the center of our solar system, the Sun influences every planet that orbits it.</p><p>In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center, one of NASA’s DRIVE (Diversify. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video This animated illustration shows Earth and the Sun protected by the.</p><p>Airapetian’s team simulated early Earth’s atmosphere in a sealed chamber, mixing molecular nitrogen, ammonia, carbon dioxide, and carbon monoxide. But even if only 10% of the nitrous observed in the experiment survived, Airapetian’s team’s computer simulations confirmed, it would still warm Earth’s equatorial regions to.</p><p>Space Article 3 days ago 6 min read Europe’s Scorching Summer A series of heat waves in 2026 is breaking records and taking a toll in. In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center, one of NASA&#x27;s DRIVE (Diversify.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>21 in Annual Review of Astronomy and Astrophysics, researchers at NASA’s SHIELD used computer modeling to reverse-engineer the path of the heliosphere through our galaxy. These exposures, approximately 2 to 3 million years, 6 to 7 million years, and 13 to 14 million years ago, would have exposed Earth’s atmosphere to totally different surroundings.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: At the center of our solar system, the Sun influences every planet that orbits it",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: At the center of our solar system, the Sun influences every planet that orbits it.",
+      "Dado-chave: At the center of our solar system, the Sun influences every planet that orbits it",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: At the center of our solar system, the Sun influences every planet that orbits it",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: At the center of our solar system, the Sun influences every planet that orbits it.",
+      "Dado-chave: At the center of our solar system, the Sun influences every planet that orbits it",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: At the center of our solar system, the Sun influences every planet that orbits it",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: At the center of our solar system, the Sun influences every planet that orbits it.",
+      "Key detail: At the center of our solar system, the Sun influences every planet that orbits it",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 ago 2026",
     "date_pt": "24 ago 2026",
@@ -392,7 +794,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "dynamics-of-wave-structures-in-multifield-fuzzy-dark-matter-halos",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -413,18 +815,19 @@
     "body_pt": "<p>As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years. As a natural extension of the single-field fuzzy dark matter (FDM) model, multifield FDM has attracted increasing attention in recent years.</p><p>This scenario is motivated both by the axiverse scenario predicted by string theory and by the possibility that multifield FDM may provide a better match to astrophysical observations than its single-field counterpart. In this work, we perform high-resolution numerical simulations to systematically investigate the dynamics of wave structures in multifield FDM halos.</p><p>In particular, we study the oscillatory and stochastic motions of the central core, the evolution and statistical properties of granules, and the resulting dynamical heating of embedded stellar systems. We find that the frequency spectra of the core density oscillations develop multiple peaks and shift toward higher frequencies relative to the single-field case.</p><p>The centers of different field components undergo nearly synchronized random walks, while subdominant components exhibit larger random-walk amplitudes. We further show that the suppression of granule density fluctuations with increasing number of fields is largely insensitive to the fractional abundance of each component over a broad parameter range.</p><p>Moreover, using self-consistent simulations, we find that the dynamical heating induced by granules is progressively suppressed as the number of fields increases. However, once the contribution from the central core is taken into account, this trend would become much less pronounced.</p><p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.23162v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>It is relevant because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. As a natural extension of the single-field fuzzy dark matter (FDM) model, multifield FDM has attracted increasing attention in recent years. This scenario is motivated both by the axiverse scenario predicted by string theory and by the possibility that multifield FDM may provide a better match to astrophysical.</p><p>In this work, we perform high-resolution numerical simulations to systematically investigate the dynamics of wave structures in multifield FDM halos. In particular, we study the oscillatory and stochastic motions of the central core, the evolution and statistical properties of granules, and the resulting dynamical heating of.</p><p>We find that the frequency spectra of the core density oscillations develop multiple peaks and shift toward higher frequencies relative to the single-field case. The centers of different field components undergo nearly synchronized random walks, while subdominant components exhibit larger random-walk amplitudes.</p><p>Moreover, using self-consistent simulations, we find that the dynamical heating induced by granules is progressively suppressed as the number of fields increases. However, once the contribution from the central core is taken into account, this trend would become much less pronounced.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. ArXiv is committed to these values and only works with partners that adhere to them.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.23162v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
+      "Dado-chave: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
+      "Dado-chave: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years.",
+      "Key detail: As a natural extension of the single-field fuzzy dark matter model, multifield FDM has attracted increasing attention in recent years",
+      "Result not yet peer reviewed."
     ],
     "date": "24 ago 2026",
     "date_pt": "24 ago 2026",
@@ -512,319 +915,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "title_pt": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "title_en": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "sub": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of.",
-    "sub_pt": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of.",
-    "sub_en": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of.",
-    "excerpt": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways.",
-    "excerpt_pt": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways.",
-    "excerpt_en": "Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways.",
-    "body": "<p>Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways. Tidal disruption event (TDE) progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole (SMBH), yet observations point to a richer diversity of dynamical pathways.</p><p>We show that the tidal separation of stellar binaries by a $10^6\\, M_\\odot$ SMBH provides a natural mechanism for producing eccentric TDEs. Using restricted three-body dynamics and smoothed particle hydrodynamics (SPH) simulations, we model a binary composed of a solar-like star (SLS) and a white dwarf (WD) on a parabolic orbit.</p><p>The binary orbital phase governs the outcome: one component is captured onto a tightly bound orbit while the other is ejected as a hypervelocity object, naturally producing TDEs with eccentricities $e \\neq 1$. We classify the resulting events into Elliptical TDEs (eTDEs) and Hyperbolic TDEs (hTDEs), which occur with equal probability.</p><p>For $\\sim 88\\%$ of binary orientations the disruption is clean, with no mass accreted by the WD. The remaining $\\sim 12\\%$ lies in two narrow windows of binary phase in which the WD captures material and becomes a WD with debris envelope (WDDE).</p><p>About a third of that range, $\\sim 4\\%$ of all orientations, involves a direct WD--SLS collision near pericenter, giving fallback that peaks up to five times earlier and twenty times higher than in the single-star case. For the innermost $\\sim 1.5\\%$ the total WDDE mass exceeds $1.4\\, M_\\odot$, although the degenerate core itself does not, since the captured material forms a non-degenerate envelope.</p><p>This suggests outcomes ranging from nova-like events to peculiar red giant-like objects.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.22735v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways. Tidal disruption event (TDE) progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole (SMBH), yet observations point to a richer diversity of dynamical pathways.</p><p>We show that the tidal separation of stellar binaries by a $10^6\\, M_\\odot$ SMBH provides a natural mechanism for producing eccentric TDEs. Using restricted three-body dynamics and smoothed particle hydrodynamics (SPH) simulations, we model a binary composed of a solar-like star (SLS) and a white dwarf (WD) on a parabolic orbit.</p><p>The binary orbital phase governs the outcome: one component is captured onto a tightly bound orbit while the other is ejected as a hypervelocity object, naturally producing TDEs with eccentricities $e \\neq 1$. We classify the resulting events into Elliptical TDEs (eTDEs) and Hyperbolic TDEs (hTDEs), which occur with equal probability.</p><p>For $\\sim 88\\%$ of binary orientations the disruption is clean, with no mass accreted by the WD. The remaining $\\sim 12\\%$ lies in two narrow windows of binary phase in which the WD captures material and becomes a WD with debris envelope (WDDE).</p><p>About a third of that range, $\\sim 4\\%$ of all orientations, involves a direct WD--SLS collision near pericenter, giving fallback that peaks up to five times earlier and twenty times higher than in the single-star case. For the innermost $\\sim 1.5\\%$ the total WDDE mass exceeds $1.4\\, M_\\odot$, although the degenerate core itself does not, since the captured material forms a non-degenerate envelope.</p><p>This suggests outcomes ranging from nova-like events to peculiar red giant-like objects.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.22735v1\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point to a richer diversity of dynamical pathways. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Tidal disruption event (TDE) progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole (SMBH), yet observations point to a richer. We show that the tidal separation of stellar binaries by a $10^6\\, M_\\odot$ SMBH provides a natural mechanism for producing eccentric TDEs.</p><p>The binary orbital phase governs the outcome: one component is captured onto a tightly bound orbit while the other is ejected as a hypervelocity object, naturally producing TDEs. We classify the resulting events into Elliptical TDEs (eTDEs) and Hyperbolic TDEs (hTDEs), which occur with equal probability.</p><p>For $\\sim 88\\%$ of binary orientations the disruption is clean, with no mass accreted by the WD. The remaining $\\sim 12\\%$ lies in two narrow windows of binary phase in which the WD captures material and becomes a WD with debris envelope (WDDE).</p><p>About a third of that range, $\\sim 4\\%$ of all orientations, involves a direct WD--SLS collision near pericenter, giving fallback that peaks up to five times earlier and twenty. For the innermost $\\sim 1.5\\%$ the total WDDE mass exceeds $1.4\\, M_\\odot$, although the degenerate core itself does not, since the captured material forms a non-degenerate.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>This suggests outcomes ranging from nova-like events to peculiar red giant-like objects. Binary--SMBH encounters thus provide a robust channel for generating diverse TDEs with distinct observational signatures.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2608.22735v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Em foco: Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_pt": [
-      "Em foco: Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_en": [
-      "Focus: Tidal disruption event progenitors are commonly modelled as single stars on parabolic orbits around a supermassive black hole, yet observations point",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
-    ],
-    "date": "24 ago 2026",
-    "date_pt": "24 ago 2026",
-    "date_en": "24 Aug 2026",
-    "time": "02h44",
-    "time_pt": "02h44",
-    "time_en": "02: 44 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-24T02:44:06+00:00",
-    "lastModifiedIso": "2026-08-25T16:13:24+00:00",
-    "source": "arXiv High Energy Astrophysics",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Tidal disruption of stellar binaries as a pathway to exotic transients"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Tidal disruption of stellar binaries as a pathway to exotic transients"
-    ],
-    "keywords_en": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Tidal disruption of stellar binaries as a pathway to exotic transients"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2608.22735v1",
-    "realUrl": "https://www.cosmosweek.com/?article=tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients",
-    "realUrl_en": "https://www.cosmosweek.com/?article=tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/tidal-disruption-of-stellar-binaries-as-a-pathway-to-exotic-transients/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 63,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "imageAlt_pt": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "imageAlt_en": "Tidal disruption of stellar binaries as a pathway to exotic transients",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg",
-    "inline_images": [
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/2026_eclipse_psi_prediction_reprojected_to_deb_raw.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/eclipse/2026_DEB_eclipse_image_flipped_rotated.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/hpd/eclipse/2026Eclipse_WB57GoPro_Totality_H264_Abridged.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_o.jpg?w=4663&h=5277&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço - NASA Science",
-      "title_pt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço - NASA Science",
-      "title_en": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space - NASA Science",
-      "caption": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina camada externa do Sol.",
-      "caption_pt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina camada externa do Sol.",
-      "caption_en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer",
-      "sourcePage": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/"
-    },
-    "audio": null,
-    "title": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "title_pt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "title_en": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-    "sub": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-    "sub_pt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-    "sub_en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere, the corona.",
-    "excerpt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a.",
-    "excerpt_pt": "Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a.",
-    "excerpt_en": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere, the corona, to those in the path of totality who were lucky enough to.",
-    "body": "<p>Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a sorte de fazê-lo.</p><p>3 minutos de leitura NASA compartilha visualizações do eclipse solar de agosto do solo, do ar e do espaço Esta imagem composta mostra a progressão de um eclipse solar total enquanto o Sol se põe sobre San Millán de los Caballeros, Espanha, na quarta-feira, 20 de agosto. A bordo da estação como parte da Expedição 75 estão os astronautas da NASA Jessica Meir, Anil Menon e Jack Hathaway.</p><p>Da estação, a Lua cobriu cerca de 18% do Sol no pico do eclipse. 000 pés, passando pela sombra do eclipse para prolongar seu tempo no eclipse.</p><p>O dia 12 de dezembro de 2026 foi capturado por uma câmera montada dentro da janela da cabine da aeronave WB-57F da NASA enquanto ela voava a cerca de 50.000 pés de altitude ao largo da costa da Islândia. NASA Um conjunto de câmeras instaladas na aeronave WB-57F da NASA capturou imagens da coroa solar e de proeminências em diferentes comprimentos de onda de luz visível e infravermelha durante o eclipse solar total em 20 de agosto.</p><p>Uma equipa científica liderada pelo Southwest Research Institute em Boulder, Colorado, irá analisar as imagens para aprender mais sobre as características complexas e dinâmicas da atmosfera exterior do Sol. Estudantes que participam do Nationwide Eclipse Ballooning Project, financiado pela NASA, se preparam para lançar um balão científico em Mosfellsbær, na Islândia, durante o eclipse solar total em agosto.</p><p>À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a sorte de ter céu limpo.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha. À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a sorte de fazê-lo.</p><p>3 minutos de leitura NASA compartilha visualizações do eclipse solar de agosto do solo, do ar e do espaço Esta imagem composta mostra a progressão de um eclipse solar total enquanto o Sol se põe sobre San Millán de los Caballeros, Espanha, na quarta-feira, 20 de agosto. A bordo da estação como parte da Expedição 75 estão os astronautas da NASA Jessica Meir, Anil Menon e Jack Hathaway.</p><p>Da estação, a Lua cobriu cerca de 18% do Sol no pico do eclipse. 000 pés, passando pela sombra do eclipse para prolongar seu tempo no eclipse.</p><p>O dia 12 de dezembro de 2026 foi capturado por uma câmera montada dentro da janela da cabine da aeronave WB-57F da NASA enquanto ela voava a cerca de 50.000 pés de altitude ao largo da costa da Islândia. NASA Um conjunto de câmeras instaladas na aeronave WB-57F da NASA capturou imagens da coroa solar e de proeminências em diferentes comprimentos de onda de luz visível e infravermelha durante o eclipse solar total em 20 de agosto.</p><p>Uma equipa científica liderada pelo Southwest Research Institute em Boulder, Colorado, irá analisar as imagens para aprender mais sobre as características complexas e dinâmicas da atmosfera exterior do Sol. Estudantes que participam do Nationwide Eclipse Ballooning Project, financiado pela NASA, se preparam para lançar um balão científico em Mosfellsbær, na Islândia, durante o eclipse solar total em agosto.</p><p>À medida que a Lua cobria o Sol, ela revelou brevemente a fina atmosfera externa do Sol, a coroa, para aqueles que estavam no caminho da totalidade e que tiveram a sorte de ter céu limpo.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere, the corona, to those in the path of totality who were lucky enough to. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Aboard the station as part of Expedition 75 are NASA astronauts Jessica Meir, Anil Menon, and Jack Hathaway. NASA/Joel Kowsky Meanwhile, from about 250 miles above the ground, a NASA astronaut aboard the International Space Station snapped a few photos of the partial eclipse from their.</p><p>From the station, the Moon covered about 18% of the Sun at the peak of the eclipse. NASA/Jessica Meir Between the ground and the space station, NASA pilots flew NASA’s WB-57F research jet at an altitude of 50, 000 feet, passing through the eclipse’s shadow to.</p><p>12, 2026, was captured by a camera mounted inside the cockpit window of NASA’s WB-57F aircraft as it flew around 50, 000 feet altitude off the coast of Iceland. NASA A suite of cameras installed on NASA’s WB-57F aircraft captured images of the solar corona and prominences in different wavelengths of visible and infrared light during the.</p><p>A science team led by the Southwest Research Institute in Boulder, Colorado, will analyze the images to learn more about complex and dynamic features in the Sun’s outer atmosphere. Students participating in the NASA-funded Nationwide Eclipse Ballooning Project prepare to launch a scientific balloon in Mosfellsbær, Iceland, during the total solar eclipse on.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>NASA/Abbey Interrante To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video The Moon’s shadow passes over the atmosphere. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere, the corona, to those in the path of totality who were lucky enough to have clear skies.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-      "Dado-chave: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha.",
-      "Dado-chave: Em 12 de agosto, um eclipse solar total escureceu os céus da Groenlândia, Islândia e Espanha",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain.",
-      "Key detail: On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 ago 2026",
-    "date_pt": "21 ago 2026",
-    "date_en": "21 Aug 2026",
-    "time": "18h43",
-    "time_pt": "18h43",
-    "time_en": "18: 43 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-21T18:43:40+00:00",
-    "lastModifiedIso": "2026-08-22T15:52:38+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA compartilha vistas do eclipse solar de agosto do solo",
-      "do ar e do espaço"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA compartilha vistas do eclipse solar de agosto do solo",
-      "do ar e do espaço"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA shares views of August solar eclipse from the ground",
-      "of air and space"
-    ],
-    "srcUrl": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-shares-views-of-august-solar-eclipse-from-ground-air-space&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "imageAlt_pt": "NASA compartilha vistas do eclipse solar de agosto do solo, do ar e do espaço",
-    "imageAlt_en": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 7,
+    "id": 8,
     "slug": "sentinel-1-captures-major-ice-loss-from-greenland-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -967,7 +1058,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1210,7 +1301,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1259,19 +1350,19 @@
     "body_pt": "<p>O post Espionando um cometa dividido apareceu pela primeira vez na Sky &amp; Telescope. Uma dessas classes, conhecidas como cometas da família de Júpiter, viajou desde a Cintura de Kuiper até períodos orbitais curtos (menos de 20 anos), cujos percursos através do sistema solar são moldados pela gravidade de Júpiter.</p><p>Descoberto em 2002, o 240P/NEAT é um cometa da família de Júpiter que circula entre Júpiter e Marte numa órbita de 7, 6 anos. Ao aproximar-se de Júpiter, o 240P experimenta interações fortes e frequentes com o gigante gasoso que podem alterar a órbita do cometa e causar explosões repentinas de brilho à medida que o gelo e a poeira são aquecidos e libertados da superfície do cometa.</p><p>Mais recentemente, o 240P passou mais perto de Júpiter em julho de 2007, mudando a distância do periélio do cometa (aproximação mais próxima do Sol) de 2, 5 para 2, 1 ua, e várias explosões de brilho de longa duração em 2018/2019 poderiam ter sido estimuladas por esta mudança. Curiosamente, um objeto em movimento mais fraco, 240P-B, foi relatado pela primeira vez em junho de 2025, quando o cometa se dirigia para o periélio, em algum momento recentemente, 240P tinha-se dividido em dois! .</p><p>Com evidências crescentes sugerindo que a divisão e a desintegração são os principais mecanismos de destruição do cometa, é imperativo compreender as propriedades e a causa da divisão do 240P. Com o 240P em movimento para o periélio, David Jewitt (Universidade da Califórnia, Los Angeles) e colaboradores monitorizaram o cometa de outubro de 2025 a abril de 2026 para estabelecer a causa provável da sua divisão.</p><p>Empregando o espectrógrafo de objetos fracos Alhambra e a câmera do Telescópio Óptico Nórdico de 2, 56 metros, os autores obtiveram imagens detalhadas do cometa de dois meses antes até quatro meses depois do periélio para caracterizar ambos os componentes. Acompanhando as mudanças fotométricas e morfológicas em suas observações, os autores estimaram as taxas de perda de poeira, tamanhos físicos e velocidade de separação de 240P-A e 240P-B.</p><p>A partir da sua menor taxa de perda de poeira e menor brilho, os autores estimaram um raio em torno de 300 metros (e não inferior a 50).</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/spying-on-a-split-comet/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why. The post Spying on a Split Comet appeared first on Sky &amp; Telescope. The science-journalism coverage adds useful context, while the strongest evidential footing still comes from the underlying data, papers or institutional documentation.</p><p>This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. One such class, known as Jupiter-family comets, traveled from the Kuiper Belt to short orbital periods (less than 20 years) whose paths through the solar system are shaped by. Discovered in 2002, 240P/NEAT is a Jupiter-family comet that loops between Jupiter and Mars on a 7.6-year orbit.</p><p>Making close approaches to Jupiter, 240P experiences frequent, strong interactions with the gas giant that can alter the comet’s orbit and cause sudden bursts in brightness as ice. Excitingly, a fainter comoving object, 240P-B, was first reported in June 2025 as the comet headed toward perihelion, at some point recently, 240P had split in two.</p><p>With growing evidence suggesting splitting and disintegration are the primary mechanisms of comet destruction, understanding the properties and cause of 240P’s split is imperative. With 240P on the move to perihelion, David Jewitt (University of California, Los Angeles) and collaborators monitored the comet from October 2025 to April 2026 to establish the.</p><p>Employing the Alhambra Faint Object Spectrograph and Camera on the 2.56-meter Nordic Optical Telescope, the authors obtained detailed imaging of the comet from two months before. Tracking both photometric and morphological changes across their observations, the authors estimated the dust-loss rates, physical sizes, and separation speed of 240P-A and 240P-B.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>From its lower dust-loss rate and lower brightness, the authors estimated a radius around 300 meters (and no smaller than 50). Based on how the separation of the two comet pieces changes over time, the authors determined that the split of 240P occurred at least three years before their observations.</p><p>Because this item comes through Sky &amp; Telescope as science journalism, it should be treated as contextual reporting rather than primary evidence. Good science reporting can identify why a result matters, connect it to the wider literature and make technical work readable, but the decisive evidence remains in the original paper, dataset, mission release or technical record. That distinction is especially important when a story is later repeated by aggregators, because repetition increases visibility, not evidential strength.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/spying-on-a-split-comet/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê.",
+      "Dado-chave: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê.",
+      "Dado-chave: Atravessando o sistema solar, um cometa se dividiu em dois, e um estudo recente usou seis meses de observações para investigar quando e por quê",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why.",
+      "Key detail: Traversing through the solar system, a comet split in two, and a recent study used six months of observations to investigate when and why",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
@@ -1359,7 +1450,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1511,7 +1602,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1651,7 +1742,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "science-release-hubble-solves-merger-mystery-from-milky-way-s-early-years",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1803,7 +1894,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1947,17 +2038,17 @@
     "body_en": "<p>On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer atmosphere.</p><p>I think ‘boggles the mind’ sums it up,” says the European Space Agency&#x27;s Director of Science Professor Carole Mundell, during ESA&#x27;s live broadcast from the Observatorio. ESA arranged for live telescope feeds from the Spanish sites of León, Palencia and Javalambre, and photographers across Europe shared their photos with us.</p><p>Earth observation satellite MTG-I1 captured the Moon’s shadow moving across Earth, and ESA&#x27;s artificial eclipse-maker Proba-3 captured a double eclipse from Earth orbit. For those unable to travel to regions from where totality was visible, ESA&#x27;s live broadcast allowed them to experience the eclipse together with scientists from ESA and the.</p><p>Hosted by Dame Dr Maggie Aderin, the programme explored topics ranging from the mysteries of the Sun and its corona, to how one famous eclipse changed our understanding of. The highlight was the coverage of 1 minute and 21 seconds of totality, as the Moon plunged Javalambre into complete darkness.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA, together with the City of León and the University of León, organised a free public event at the Palacio de Exposiciones y Congresos de León (Spain) on the day of the eclipse. A highlight was the ‘an inclusive eclipse’ workshop, where members of ESA’s CESAR science education team demonstrated tools to experience an eclipse without using your eyes.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
-      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas",
+      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
-      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas",
+      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades.",
-      "Key detail: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades",
+      "Key detail: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "14 ago 2026",
@@ -2046,7 +2137,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "stops-along-the-path-of-totality",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2186,7 +2277,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2326,7 +2417,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "the-quadratic-growth-of-krylov-spread-complexity-in-the-btz-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2447,7 +2538,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "a-child-s-language-may-predict-the-arrival-of-depression-and-anxiety-disorders-years-before-onse",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2578,7 +2669,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "how-the-tide-turns-at-the-mouth-of-the-elbe",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2727,7 +2818,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "europe-s-forests-losing-more-biomass-since-2018",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2848,146 +2939,6 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
-    "slug": "the-paradox-of-lencois-maranhenses-national-park",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-paradox-of-lençóis-maranhenses-national-park/brazillencois_oli_20260608_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "The Paradox of Lençóis Maranhenses National Park",
-    "title_pt": "The Paradox of Lençóis Maranhenses National Park",
-    "title_en": "The Paradox of Lençóis Maranhenses National Park",
-    "sub": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-    "sub_pt": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-    "sub_en": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
-    "excerpt": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos. O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez na NASA Science.",
-    "excerpt_pt": "O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos. O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez na NASA Science.",
-    "excerpt_en": "The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year. The post The Paradox of Lençóis Maranhenses National Park appeared first on NASA Science.",
-    "body": "<p>O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos. O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez na NASA Science.</p><p>O post The Paradox of Lençóis Maranhenses National Park apareceu primeiro em NASA Science. Os ventos que sopram do nordeste criaram as linhas de dunas visíveis nesta vista detalhada de uma parte da imagem do Landsat 9 mostrada acima.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Explore dados de ciências da terra Acesso aberto ao arquivo de dados de ciências da terra da NASA O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez em NASA Science.</p><p>Abrange cerca de 900 quilômetros quadrados (350 milhas quadradas), aproximadamente o tamanho da cidade de Nova York. As imagens Landsat, por sua vez, mostram que o campo de dunas nos Lençóis Maranhenses se estendeu para oeste cerca de 0, 5 quilómetros entre 1986 e 2026 em algumas áreas devido à correia transportadora de dunas que corre para o interior a partir da costa.</p><p>Imagens do Observatório da Terra da NASA por Michala Garrison, usando dados Landsat dos EUA.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos. O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez na NASA Science.</p><p>O post The Paradox of Lençóis Maranhenses National Park apareceu primeiro em NASA Science. Os ventos que sopram do nordeste criaram as linhas de dunas visíveis nesta vista detalhada de uma parte da imagem do Landsat 9 mostrada acima.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Explore dados de ciências da terra Acesso aberto ao arquivo de dados de ciências da terra da NASA O post O Paradoxo do Parque Nacional dos Lençóis Maranhenses apareceu pela primeira vez em NASA Science.</p><p>Abrange cerca de 900 quilômetros quadrados (350 milhas quadradas), aproximadamente o tamanho da cidade de Nova York. As imagens Landsat, por sua vez, mostram que o campo de dunas nos Lençóis Maranhenses se estendeu para oeste cerca de 0, 5 quilómetros entre 1986 e 2026 em algumas áreas devido à correia transportadora de dunas que corre para o interior a partir da costa.</p><p>Imagens do Observatório da Terra da NASA por Michala Garrison, usando dados Landsat dos EUA.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year. The post The Paradox of Lençóis Maranhenses National Park appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post The Paradox of Lençóis Maranhenses National Park appeared first on NASA Science. Winds blowing from the northeast created the lines of dunes visible in this detailed view of a portion of the Landsat 9 image shown above.</p><p>Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet. Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your.</p><p>Earth Observatory Image of the Day NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery. Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post The Paradox of Lençóis Maranhenses National Park appeared first on NASA.</p><p>It spans about 900 square kilometers (350 square miles), roughly the size of New York City. NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Open access to NASA’s archive of Earth science data Atlas Obscura (2020, July 16) The Brazilian Desert That Turns Into a Thousand Lagoons. (2019) Modelling Dunes from Lençóis Maranhenses National Park (Brazil): Largest dune field in South America.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Dado-chave: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Dado-chave: O campo de dunas costeiras do Brasil parece um deserto, mas se enche de lagoas de água doce todos os anos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
-      "Key detail: The coastal dune field in Brazil looks like a desert but fills with freshwater lagoons every year.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "05 ago 2026",
-    "date_pt": "05 ago 2026",
-    "date_en": "05 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-05T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-05T17:07:42+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "The Paradox of Lençóis Maranhenses National Park"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "The Paradox of Lençóis Maranhenses National Park"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "The Paradox of Lençóis Maranhenses National Park"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-paradox-of-lencois-maranhenses-national-park/",
-    "realUrl": "https://www.cosmosweek.com/?article=the-paradox-of-lencois-maranhenses-national-park",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=the-paradox-of-lencois-maranhenses-national-park",
-    "realUrl_en": "https://www.cosmosweek.com/?article=the-paradox-of-lencois-maranhenses-national-park&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-paradox-of-lencois-maranhenses-national-park/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-paradox-of-lencois-maranhenses-national-park/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-paradox-of-lencois-maranhenses-national-park/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "The Paradox of Lençóis Maranhenses National Park",
-    "imageAlt_pt": "The Paradox of Lençóis Maranhenses National Park",
-    "imageAlt_en": "The Paradox of Lençóis Maranhenses National Park",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
     "id": 21,
     "slug": "hydrognss-data-open-for-new-insights-into-earth-s-water",
     "cat": "Ciências da Terra",
@@ -3020,17 +2971,17 @@
     "body_en": "<p>The European Space Agency&#x27;s two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Following extensive testing and validation of the satellites, instruments and ground segment, HydroGNSS data are now freely available to users worldwide, opening new opportunities.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
-      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
-      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica",
+      "Dado-chave: A missão HydroGNSS Scout de dois satélites da Agência Espacial Europeia concluiu o comissionamento e está agora em plena operação científica.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
-      "Key detail: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations",
+      "Key detail: The European Space Agency's two-satellite HydroGNSS Scout mission has completed commissioning and is now in full scientific operations.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "31 jul 2026",
@@ -4051,17 +4002,17 @@
     "body_en": "<p>An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago. The science-journalism coverage adds useful context, while the strongest evidential footing still comes from the underlying data, papers or institutional documentation.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. An international team of astronomers has used the James Webb Space Telescope (JWST) and a natural phenomenon known as gravitational lensing to achieve a definitive. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Nature (2026).</p><p>Revealing the nature of the ultra-faint galaxy LAP1-B through a giant gravitational lens. A three-color image created from data taken with the Near-Infrared Camera (NIRCam) on the James Webb Space Telescope (JWST).</p><p>Expanding upon initial detections, this new study revealed a record-breaking low oxygen abundance, merely 1/240th that of the sun. This chemically primitive state, coupled with an elevated carbon-to-oxygen ratio and a dominant dark matter halo, suggests that LAP1-B is the long-sought &quot;ancestor&quot; of the.</p><p>The finding is published in Nature. A research team led by Kimihiko Nakajima of Kanazawa University and including Masami Ouchi at the National Astronomical Observatory of Japan (NAOJ) and the University of Tokyo.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>By staring at this spot for over 30 hours with JWST, the team determined that the galaxy&#x27;s oxygen abundance is roughly 1/240th that of the sun. This unique ratio of elements aligns closely with theoretical predictions for the material dispersed by the explosions of the universe&#x27;s first-generation stars.</p><p>Because this item comes through Phys. org Space as science journalism, it should be treated as contextual reporting rather than primary evidence. Good science reporting can identify why a result matters, connect it to the wider literature and make technical work readable, but the decisive evidence remains in the original paper, dataset, mission release or technical record. That distinction is especially important when a story is later repeated by aggregators, because repetition increases visibility, not evidential strength.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-05-chemically-primitive-galaxy-billion-years.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
       "Core point: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a.",
-      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a",
+      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "26 jun 2026",
