@@ -1,6 +1,407 @@
 [
   {
     "id": 1,
+    "slug": "president-trump-signs-executive-order-to-create-us-space-academy",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/eo-1.png",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "President Trump Signs Executive Order to Create US Space Academy",
+    "title_pt": "President Trump Signs Executive Order to Create US Space Academy",
+    "title_en": "President Trump Signs Executive Order to Create US Space Academy",
+    "sub": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
+    "sub_pt": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
+    "sub_en": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
+    "excerpt": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.",
+    "excerpt_pt": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.",
+    "excerpt_en": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.",
+    "highlights": [
+      "Em foco: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "28 ago 2026",
+    "date_pt": "28 ago 2026",
+    "date_en": "28 Aug 2026",
+    "time": "17h21",
+    "time_pt": "17h21",
+    "time_en": "17: 21 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-28T17:21:04+00:00",
+    "lastModifiedIso": "2026-08-29T00:11:46+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "President Trump Signs Executive Order to Create US Space Academy"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "President Trump Signs Executive Order to Create US Space Academy"
+    ],
+    "keywords_en": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "President Trump Signs Executive Order to Create US Space Academy"
+    ],
+    "srcUrl": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "realUrl": "https://www.cosmosweek.com/?article=president-trump-signs-executive-order-to-create-us-space-academy",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=president-trump-signs-executive-order-to-create-us-space-academy",
+    "realUrl_en": "https://www.cosmosweek.com/?article=president-trump-signs-executive-order-to-create-us-space-academy&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/president-trump-signs-executive-order-to-create-us-space-academy/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "President Trump Signs Executive Order to Create US Space Academy",
+    "imageAlt_pt": "President Trump Signs Executive Order to Create US Space Academy",
+    "imageAlt_en": "President Trump Signs Executive Order to Create US Space Academy",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "what-could-the-artemis-iv-astronauts-discover-on-the-moon",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/artemis-astronaut-on-moon.jpg?mtime=1753479582",
+    "inline_images": [
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x1609_crop_center-center_82_line/artemis-ii-launch_2026-04-02-132243_kglx.jpg",
+        "alt": "Artemis II launch",
+        "alt_pt": "Artemis II launch",
+        "alt_en": "Artemis II launch",
+        "caption": "Artemis II launch",
+        "caption_pt": "Artemis II launch",
+        "caption_en": "Artemis II launch"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x675_crop_center-center_82_line/artemis-astronaut-on-moon.jpg",
+        "alt": "Artemis astronauts on the Moon",
+        "alt_pt": "Artemis astronauts on the Moon",
+        "alt_en": "Artemis astronauts on the Moon",
+        "caption": "Artemis astronauts on the Moon",
+        "caption_pt": "Artemis astronauts on the Moon",
+        "caption_en": "Artemis astronauts on the Moon"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/OPTIMISM-rover-drives-Into-the-Mars-yard-PIA23966.jpg",
+        "alt": "OPTIMISM rover drives Into the Mars yard PIA23966",
+        "alt_pt": "OPTIMISM rover drives Into the Mars yard PIA23966",
+        "alt_en": "OPTIMISM rover drives Into the Mars yard PIA23966",
+        "caption": "OPTIMISM rover drives Into the Mars yard PIA23966",
+        "caption_pt": "OPTIMISM rover drives Into the Mars yard PIA23966",
+        "caption_en": "OPTIMISM rover drives Into the Mars yard PIA23966"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/nancy-grace-roman-clean-room.jpg",
+        "alt": "Nancy grace roman clean room",
+        "alt_pt": "Nancy grace roman clean room",
+        "alt_en": "Nancy grace roman clean room",
+        "caption": "Nancy grace roman clean room",
+        "caption_pt": "Nancy grace roman clean room",
+        "caption_en": "Nancy grace roman clean room"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "What could the Artemis IV astronauts discover on the Moon?",
+    "title_pt": "What could the Artemis IV astronauts discover on the Moon?",
+    "title_en": "What could the Artemis IV astronauts discover on the Moon?",
+    "sub": "Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours total to step out and explore.",
+    "sub_pt": "Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours total to step out and explore.",
+    "sub_en": "Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours total to step out and explore.",
+    "excerpt": "Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours total to step out and explore its surface.",
+    "excerpt_pt": "Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours total to step out and explore its surface.",
+    "excerpt_en": "Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours total to step out and explore its surface.",
+    "highlights": [
+      "Em foco: Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_pt": [
+      "Em foco: Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_en": [
+      "Focus: Science Review by Bruce Betts, PhD August 28, 2026 Once they land on the Moon, the crew of NASA’s Artemis IV mission will have no more than 32 hours",
+      "Detail: Science reporting: verify primary technical documentation",
+      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+    ],
+    "date": "28 ago 2026",
+    "date_pt": "28 ago 2026",
+    "date_en": "28 Aug 2026",
+    "time": "13h30",
+    "time_pt": "13h30",
+    "time_en": "13: 30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-28T13:30:00+00:00",
+    "lastModifiedIso": "2026-08-29T00:11:46+00:00",
+    "source": "The Planetary Society",
+    "sourceDomain": "www. planetary. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "The Planetary Society",
+      "Cosmos Week",
+      "What could the Artemis IV astronauts discover on the Moon?"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "The Planetary Society",
+      "Cosmos Week",
+      "What could the Artemis IV astronauts discover on the Moon?"
+    ],
+    "keywords_en": [
+      "Astronomia",
+      "The Planetary Society",
+      "Cosmos Week",
+      "What could the Artemis IV astronauts discover on the Moon?"
+    ],
+    "srcUrl": "https://www.planetary.org/articles/what-could-the-artemis-iv-astronauts-discover-on-the-moon",
+    "realUrl": "https://www.cosmosweek.com/?article=what-could-the-artemis-iv-astronauts-discover-on-the-moon",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=what-could-the-artemis-iv-astronauts-discover-on-the-moon",
+    "realUrl_en": "https://www.cosmosweek.com/?article=what-could-the-artemis-iv-astronauts-discover-on-the-moon&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/what-could-the-artemis-iv-astronauts-discover-on-the-moon/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/what-could-the-artemis-iv-astronauts-discover-on-the-moon/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/what-could-the-artemis-iv-astronauts-discover-on-the-moon/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/what-could-the-artemis-iv-astronauts-discover-on-the-moon/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/what-could-the-artemis-iv-astronauts-discover-on-the-moon/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/what-could-the-artemis-iv-astronauts-discover-on-the-moon/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 90,
+    "scoreBreakdown": {
+      "source": 83,
+      "evidence": 54,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "What could the Artemis IV astronauts discover on the Moon?",
+    "imageAlt_pt": "What could the Artemis IV astronauts discover on the Moon?",
+    "imageAlt_en": "What could the Artemis IV astronauts discover on the Moon?",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "the-forested-floodplains-of-congaree-national-park",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-forested-floodplains-of-congaree-national-park/sccongareenp_oli2_20250818_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "The Forested Floodplains of Congaree National Park",
+    "title_pt": "The Forested Floodplains of Congaree National Park",
+    "title_en": "The Forested Floodplains of Congaree National Park",
+    "sub": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "sub_pt": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "sub_en": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "excerpt": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "excerpt_pt": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "excerpt_en": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
+    "highlights": [
+      "Em foco: The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "28 ago 2026",
+    "date_pt": "28 ago 2026",
+    "date_en": "28 Aug 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-28T04:01:00+00:00",
+    "lastModifiedIso": "2026-08-29T00:11:46+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The Forested Floodplains of Congaree National Park"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The Forested Floodplains of Congaree National Park"
+    ],
+    "keywords_en": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The Forested Floodplains of Congaree National Park"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
+    "realUrl": "https://www.cosmosweek.com/?article=the-forested-floodplains-of-congaree-national-park",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=the-forested-floodplains-of-congaree-national-park",
+    "realUrl_en": "https://www.cosmosweek.com/?article=the-forested-floodplains-of-congaree-national-park&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/the-forested-floodplains-of-congaree-national-park/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-forested-floodplains-of-congaree-national-park/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-forested-floodplains-of-congaree-national-park/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-forested-floodplains-of-congaree-national-park/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-forested-floodplains-of-congaree-national-park/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-forested-floodplains-of-congaree-national-park/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "The Forested Floodplains of Congaree National Park",
+    "imageAlt_pt": "The Forested Floodplains of Congaree National Park",
+    "imageAlt_en": "The Forested Floodplains of Congaree National Park",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "mtg-i2-completes-europe-s-latest-weather-trio",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -146,7 +547,133 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
+    "slug": "elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information",
+    "title_pt": "ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information",
+    "title_en": "ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information",
+    "sub": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
+    "sub_pt": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
+    "sub_en": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
+    "excerpt": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
+    "excerpt_pt": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
+    "excerpt_en": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
+    "highlights": [
+      "Em foco: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "27 ago 2026",
+    "date_pt": "27 ago 2026",
+    "date_en": "27 Aug 2026",
+    "time": "06h23",
+    "time_pt": "06h23",
+    "time_en": "06: 23 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-27T06:23:24+00:00",
+    "lastModifiedIso": "2026-08-29T00:11:46+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "ELUCID",
+      "DESI II. Revealing dark matter mass",
+      "tidal",
+      "and velocity (MTV) fields using galaxy group phase information"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "ELUCID",
+      "DESI II. Revealing dark matter mass",
+      "tidal",
+      "and velocity (MTV) fields using galaxy group phase information"
+    ],
+    "keywords_en": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "ELUCID",
+      "DESI II. Revealing dark matter mass",
+      "tidal",
+      "and velocity (MTV) fields using galaxy group phase information"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2608.26668v1",
+    "realUrl": "https://www.cosmosweek.com/?article=elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase",
+    "realUrl_en": "https://www.cosmosweek.com/?article=elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information",
+    "imageAlt_pt": "ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information",
+    "imageAlt_en": "ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 6,
     "slug": "rare-widespread-snow-in-the-atacama-desert",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -292,7 +819,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 7,
     "slug": "building-foresight-for-earth-science-featuring-lindsey-jacobson",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -310,19 +837,19 @@
     "excerpt_pt": "As missões de satélite de observação da Terra da NASA rastreiam dezenas de características de um planeta em mudança, aerossóis, níveis do mar, cobertura terrestre, cobertura de nuvens, ao longo de anos e décadas.",
     "excerpt_en": "NASA’s Earth-observing satellite missions track dozens of features of a changing planet, aerosols, sea levels, land cover, cloud cover, over years and decades.",
     "highlights": [
-      "Em foco: As missões de satélite de observação da Terra da NASA rastreiam dezenas de características de um planeta em mudança, aerossóis, níveis do mar",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As missões de satélite de observação da Terra da NASA rastreiam dezenas de características de um planeta em mudança, aerossóis, níveis do mar.",
+      "Dado-chave: As missões de satélite de observação da Terra da NASA rastreiam dezenas de características de um planeta em mudança, aerossóis, níveis do mar",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: As missões de satélite de observação da Terra da NASA rastreiam dezenas de características de um planeta em mudança, aerossóis, níveis do mar",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As missões de satélite de observação da Terra da NASA rastreiam dezenas de características de um planeta em mudança, aerossóis, níveis do mar.",
+      "Dado-chave: As missões de satélite de observação da Terra da NASA rastreiam dezenas de características de um planeta em mudança, aerossóis, níveis do mar",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA’s Earth-observing satellite missions track dozens of features of a changing planet, aerosols, sea levels, land cover, cloud cover, over years",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA’s Earth-observing satellite missions track dozens of features of a changing planet, aerosols, sea levels, land cover, cloud cover, over years.",
+      "Key detail: NASA’s Earth-observing satellite missions track dozens of features of a changing planet, aerosols, sea levels, land cover, cloud cover, over.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 ago 2026",
     "date_pt": "26 ago 2026",
@@ -413,171 +940,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406812.jpg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/iss049e035512~orig.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NASA Johnson Pilots perseguem a sombra da Lua para a ciência do Eclipse",
-    "title_pt": "NASA Johnson Pilots perseguem a sombra da Lua para a ciência do Eclipse",
-    "title_en": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
-    "sub": "Durante o eclipse solar total de 12 de agosto sobre a Europa, os cientistas pretendiam estudar um mistério de longa data: porque é que a atmosfera exterior do Sol, a coroa, é.",
-    "sub_pt": "Durante o eclipse solar total de 12 de agosto sobre a Europa, os cientistas pretendiam estudar um mistério de longa data: porque é que a atmosfera exterior do Sol, a coroa, é.",
-    "sub_en": "During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible.",
-    "excerpt": "Durante o eclipse solar total de 12 de agosto sobre a Europa, os cientistas pretendiam estudar um mistério de longa data: porque é que a atmosfera exterior do Sol, a coroa, é muito mais quente do que a sua superfície visível.",
-    "excerpt_pt": "Durante o eclipse solar total de 12 de agosto sobre a Europa, os cientistas pretendiam estudar um mistério de longa data: porque é que a atmosfera exterior do Sol, a coroa, é muito mais quente do que a sua superfície visível.",
-    "excerpt_en": "During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface.",
-    "highlights": [
-      "Em foco: Durante o eclipse solar total de 12 de agosto sobre a Europa, os cientistas pretendiam estudar um mistério de longa data: porque é que a atmosfera",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Durante o eclipse solar total de 12 de agosto sobre a Europa, os cientistas pretendiam estudar um mistério de longa data: porque é que a atmosfera",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: During the Aug",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "26 ago 2026",
-    "date_pt": "26 ago 2026",
-    "date_en": "26 Aug 2026",
-    "time": "17h33",
-    "time_pt": "17h33",
-    "time_en": "17: 33 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-26T17:33:05+00:00",
-    "lastModifiedIso": "2026-08-28T00:36:47+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Johnson Pilots perseguem a sombra da Lua para a ciência do Eclipse"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Johnson Pilots perseguem a sombra da Lua para a ciência do Eclipse"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Johnson Pilots Chase the Moon's Shadow for Eclipse Science"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-johnson-pilots-chase-moon-s-shadow-for-eclipse-science/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "NASA Johnson Pilots perseguem a sombra da Lua para a ciência do Eclipse",
-    "imageAlt_pt": "NASA Johnson Pilots perseguem a sombra da Lua para a ciência do Eclipse",
-    "imageAlt_en": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
+    "id": 8,
     "slug": "nsf-launches-three-new-science-and-technology-centers-with-90m-investment-in-transformative-rese",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -741,124 +1104,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
-    "slug": "distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Distinguindo matéria escura fria e autointeragente por meio de análise topológica",
-    "title_pt": "Distinguindo matéria escura fria e autointeragente por meio de análise topológica",
-    "title_en": "Distinguishing cold and self-interacting dark matter through topological analysis",
-    "sub": "Modelos alternativos de matéria escura surgiram para resolver os desafios enfrentados pelas previsões de matéria escura fria e sem colisões em escalas galácticas.",
-    "sub_pt": "Modelos alternativos de matéria escura surgiram para resolver os desafios enfrentados pelas previsões de matéria escura fria e sem colisões em escalas galácticas.",
-    "sub_en": "Alternative dark matter models have emerged to solve the challenges faced by the predictions of collisionless cold dark matter on galactic scales.",
-    "excerpt": "Modelos alternativos de matéria escura surgiram para resolver os desafios enfrentados pelas previsões de matéria escura fria e sem colisões em escalas galácticas.",
-    "excerpt_pt": "Modelos alternativos de matéria escura surgiram para resolver os desafios enfrentados pelas previsões de matéria escura fria e sem colisões em escalas galácticas.",
-    "excerpt_en": "Alternative dark matter models have emerged to solve the challenges faced by the predictions of collisionless cold dark matter on galactic scales.",
-    "highlights": [
-      "Em foco: Modelos alternativos de matéria escura surgiram para resolver os desafios enfrentados pelas previsões de matéria escura fria e sem colisões em",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_pt": [
-      "Em foco: Modelos alternativos de matéria escura surgiram para resolver os desafios enfrentados pelas previsões de matéria escura fria e sem colisões em",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_en": [
-      "Focus: Alternative dark matter models have emerged to solve the challenges faced by the predictions of collisionless cold dark matter on galactic scales",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
-    ],
-    "date": "26 ago 2026",
-    "date_pt": "26 ago 2026",
-    "date_en": "26 Aug 2026",
-    "time": "11h01",
-    "time_pt": "11h01",
-    "time_en": "11: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-26T11:01:10+00:00",
-    "lastModifiedIso": "2026-08-28T00:36:47+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Distinguindo matéria escura fria e autointeragente por meio de análise topológica"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Distinguindo matéria escura fria e autointeragente por meio de análise topológica"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Distinguishing cold and self-interacting dark matter through topological analysis"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2608.25632v1",
-    "realUrl": "https://www.cosmosweek.com/?article=distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis",
-    "realUrl_en": "https://www.cosmosweek.com/?article=distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/distinguishing-cold-and-self-interacting-dark-matter-through-topological-analysis/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Distinguindo matéria escura fria e autointeragente por meio de análise topológica",
-    "imageAlt_pt": "Distinguindo matéria escura fria e autointeragente por meio de análise topológica",
-    "imageAlt_en": "Distinguishing cold and self-interacting dark matter through topological analysis",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "slug": "weak-gravitational-lensing-by-a-dark-matter-admixed-neutron-star-a-self-consistent-two-fluid-hal",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -876,18 +1122,19 @@
     "excerpt_pt": "Calculamos a fraca deflexão gravitacional da luz por uma estrela de nêutrons que carrega um componente autoconsistente de matéria escura, no regime em que a matéria escura forma um \"halo estendido\" que vai além da superfície bariônica.",
     "excerpt_en": "We compute the weak gravitational deflection of light by a neutron star that carries a self-consistent dark-matter component, in the regime in which the dark matter forms an \"extended halo\" reaching beyond the baryonic surface.",
     "highlights": [
-      "Em foco: Calculamos a fraca deflexão gravitacional da luz por uma estrela de nêutrons que carrega um componente autoconsistente de matéria escura, no regime",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Calculamos a fraca deflexão gravitacional da luz por uma estrela de nêutrons que carrega um componente autoconsistente de matéria escura, no regime.",
+      "Dado-chave: Calculamos a fraca deflexão gravitacional da luz por uma estrela de nêutrons que carrega um componente autoconsistente de matéria escura, no.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Calculamos a fraca deflexão gravitacional da luz por uma estrela de nêutrons que carrega um componente autoconsistente de matéria escura, no regime",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Calculamos a fraca deflexão gravitacional da luz por uma estrela de nêutrons que carrega um componente autoconsistente de matéria escura, no regime.",
+      "Dado-chave: Calculamos a fraca deflexão gravitacional da luz por uma estrela de nêutrons que carrega um componente autoconsistente de matéria escura, no.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We compute the weak gravitational deflection of light by a neutron star that carries a self-consistent dark-matter component, in the regime in which",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We compute the weak gravitational deflection of light by a neutron star that carries a self-consistent dark-matter component, in the regime in which.",
+      "Key detail: We compute the weak gravitational deflection of light by a neutron star that carries a self-consistent dark-matter component, in the regime in.",
+      "Result not yet peer reviewed."
     ],
     "date": "26 ago 2026",
     "date_pt": "26 ago 2026",
@@ -981,7 +1228,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "a-changing-world-for-emperor-penguins",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1139,125 +1386,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
-    "slug": "nasa-ames-contributions-to-roman-s-mission",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/roman-beautypass2026-med.png",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Contribuições da NASA Ames para a missão de Roman",
-    "title_pt": "Contribuições da NASA Ames para a missão de Roman",
-    "title_en": "NASA Ames’ Contributions to Roman’s Mission",
-    "sub": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver.",
-    "sub_pt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver.",
-    "sub_en": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the.",
-    "excerpt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do.",
-    "excerpt_pt": "Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas regiões do cosmos e a resolver questões importantes nas áreas de energia escura, matéria escura e planetas fora do.",
-    "excerpt_en": "Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle essential questions in the areas of dark energy, dark matter, planets outside our solar.",
-    "highlights": [
-      "Ponto central: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas.",
-      "Dado-chave: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas.",
-      "Dado-chave: Com lançamento previsto para domingo, 30 de agosto, o Telescópio Espacial Nancy Grace Roman da NASA capacitará os astrônomos a explorar vastas",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Set to launch on Sunday, Aug. 30, NASA’s Nancy Grace Roman Space Telescope will empower astronomers to explore vast regions of the cosmos and settle.",
-      "Key detail: Set to launch on Sunday, Aug",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "19h44",
-    "time_pt": "19h44",
-    "time_en": "19: 44 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-25T19:44:55+00:00",
-    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Contribuições da NASA Ames para a missão de Roman"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Contribuições da NASA Ames para a missão de Roman"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Ames contributions to Roman's mission"
-    ],
-    "srcUrl": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-ames-contributions-to-roman-s-mission&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-ames-contributions-to-roman-s-mission/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-ames-contributions-to-roman-s-mission/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-ames-contributions-to-roman-s-mission/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Contribuições da NASA Ames para a missão de Roman",
-    "imageAlt_pt": "Contribuições da NASA Ames para a missão de Roman",
-    "imageAlt_en": "NASA Ames’ Contributions to Roman’s Mission",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 10,
+    "id": 11,
     "slug": "sentinel-1-captures-major-ice-loss-from-greenland-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1295,12 +1424,12 @@
     "excerpt_en": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026.",
     "highlights": [
       "Ponto central: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76.",
-      "Dado-chave: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76",
+      "Dado-chave: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76.",
-      "Dado-chave: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76",
+      "Dado-chave: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -1397,7 +1526,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1637,7 +1766,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1783,7 +1912,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1932,7 +2061,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2069,7 +2198,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "science-release-hubble-solves-merger-mystery-from-milky-way-s-early-years",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2218,7 +2347,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2458,7 +2587,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "stops-along-the-path-of-totality",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2595,7 +2724,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2633,17 +2762,17 @@
     "excerpt_en": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy.",
     "highlights": [
       "Ponto central: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
-      "Dado-chave: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e",
+      "Dado-chave: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
-      "Dado-chave: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e",
+      "Dado-chave: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive.",
-      "Key detail: Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive",
+      "Key detail: Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "11 ago 2026",
@@ -2732,7 +2861,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "the-quadratic-growth-of-krylov-spread-complexity-in-the-btz-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2850,7 +2979,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "how-the-tide-turns-at-the-mouth-of-the-elbe",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2996,7 +3125,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3173,7 +3302,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "the-nancy-grace-roman-space-telescope-launch-what-to-expect",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3367,7 +3496,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3441,17 +3570,17 @@
     "excerpt_en": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce.",
     "highlights": [
       "Ponto central: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.",
-      "Dado-chave: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas",
+      "Dado-chave: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.",
-      "Dado-chave: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas",
+      "Dado-chave: O enorme aglomerado estelar globular Omega Centauri tem intrigado os astrônomos há décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The massive globular star cluster Omega Centauri has puzzled astronomers for decades.",
-      "Key detail: The massive globular star cluster Omega Centauri has puzzled astronomers for decades",
+      "Key detail: The massive globular star cluster Omega Centauri has puzzled astronomers for decades.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "13 jul 2026",
@@ -3543,7 +3672,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -3723,7 +3852,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "surface-cubesat-contracted-for-ramses-asteroid-mission",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3780,7 +3909,7 @@
     ],
     "highlights_en": [
       "Core point: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
-      "Key detail: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid",
+      "Key detail: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 jul 2026",
@@ -3869,7 +3998,7 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4027,7 +4156,7 @@
     "storyKind": "science"
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
     "cat": "Química",
     "catCls": "quimica",
@@ -4148,215 +4277,6 @@
     "imageAlt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
     "imageAlt_pt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
     "imageAlt_en": "Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 28,
-    "slug": "are-we-ready-to-send-humans-to-mars",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/destiny-module-iss.jpg?mtime=1780504542",
-    "inline_images": [
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x800_crop_center-center_82_line/hera.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x800_crop_center-center_82_line/hera.jpg",
-        "alt": "Participantes da HERA",
-        "alt_pt": "Participantes da HERA",
-        "alt_en": "Participants in HERA",
-        "caption": "Participantes da HERA",
-        "caption_pt": "Participantes da HERA",
-        "caption_en": "Participants in HERA"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x1600_crop_center-center_82_line/iss-vision-experiment.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x1600_crop_center-center_82_line/iss-vision-experiment.jpg",
-        "alt": "Experimento de visão da ISS",
-        "alt_pt": "Experimento de visão da ISS",
-        "alt_en": "ISS vision experiment",
-        "caption": "Experimento de visão da ISS",
-        "caption_pt": "Experimento de visão da ISS",
-        "caption_en": "ISS vision experiment"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x1600_crop_center-center_82_line/destiny-module-iss.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x1600_crop_center-center_82_line/destiny-module-iss.jpg",
-        "alt": "Uma perspectiva sobre o módulo Destiny",
-        "alt_pt": "Uma perspectiva sobre o módulo Destiny",
-        "alt_en": "A perspective on the Destiny module",
-        "caption": "Uma perspectiva sobre o módulo Destiny",
-        "caption_pt": "Uma perspectiva sobre o módulo Destiny",
-        "caption_en": "A perspective on the Destiny module"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x3127_crop_center-center_82_line/tpr-june-2026-cover.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x3127_crop_center-center_82_line/tpr-june-2026-cover.jpg",
-        "alt": "Capa TPR de junho de 2026",
-        "alt_pt": "Capa TPR de junho de 2026",
-        "alt_en": "TPR June 2026 cover",
-        "caption": "Capa TPR de junho de 2026",
-        "caption_pt": "Capa TPR de junho de 2026",
-        "caption_en": "TPR June 2026 cover"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/orion-selfie.jpg",
-        "alt": "Selfie de Órion",
-        "alt_pt": "Selfie de Órion",
-        "alt_en": "Orion selfie",
-        "caption": "Selfie de Órion",
-        "caption_pt": "Selfie de Órion",
-        "caption_en": "Orion selfie"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/christina-koch-views-earth.jpg",
-        "alt": "Christina Koch vê a Terra",
-        "alt_pt": "Christina Koch vê a Terra",
-        "alt_en": "Christina koch views earth",
-        "caption": "Christina Koch vê a Terra",
-        "caption_pt": "Christina Koch vê a Terra",
-        "caption_en": "Christina koch views earth"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Estamos prontos para enviar humanos para Marte?",
-    "title_pt": "Estamos prontos para enviar humanos para Marte?",
-    "title_en": "Are we ready to send humans to Mars?",
-    "sub": "Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade política”.",
-    "sub_pt": "Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade política”.",
-    "sub_en": "Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered, “political will.",
-    "excerpt": "Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade política”.",
-    "excerpt_pt": "Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade política”.",
-    "excerpt_en": "Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered, “political will.",
-    "highlights": [
-      "Ponto central: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
-      "Dado-chave: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
-      "Dado-chave: Na época da Apollo 11, quando Wernher von Braun foi questionado sobre o que impedia o envio de humanos a Marte, ele teria respondido: “vontade.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered.",
-      "Key detail: Around the time of Apollo 11, when Wernher von Braun was asked about what stood in the way of sending humans to Mars, he reportedly answered.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "08 jun 2026",
-    "date_pt": "08 jun 2026",
-    "date_en": "08 Jun 2026",
-    "time": "13h22",
-    "time_pt": "13h22",
-    "time_en": "13: 22 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-08T13:22:00+00:00",
-    "lastModifiedIso": "2026-06-08T18:30:16+00:00",
-    "source": "The Planetary Society",
-    "sourceDomain": "www. planetary. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "The Planetary Society",
-      "Cosmos Week",
-      "Estamos prontos para enviar humanos para Marte?"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "The Planetary Society",
-      "Cosmos Week",
-      "Estamos prontos para enviar humanos para Marte?"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "The Planetary Society",
-      "Cosmos Week",
-      "Are we ready to send humans to Mars?"
-    ],
-    "srcUrl": "https://www.planetary.org/articles/are-we-ready-to-send-humans-to-mars",
-    "realUrl": "https://www.cosmosweek.com/?article=are-we-ready-to-send-humans-to-mars",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=are-we-ready-to-send-humans-to-mars",
-    "realUrl_en": "https://www.cosmosweek.com/?article=are-we-ready-to-send-humans-to-mars&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/are-we-ready-to-send-humans-to-mars/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/are-we-ready-to-send-humans-to-mars/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/are-we-ready-to-send-humans-to-mars/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/are-we-ready-to-send-humans-to-mars/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/are-we-ready-to-send-humans-to-mars/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/are-we-ready-to-send-humans-to-mars/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 90,
-    "scoreBreakdown": {
-      "source": 83,
-      "evidence": 54,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Estamos prontos para enviar humanos para Marte?",
-    "imageAlt_pt": "Estamos prontos para enviar humanos para Marte?",
-    "imageAlt_en": "Are we ready to send humans to Mars?",
     "coverageKind": "news",
     "coverageKindLabel": "Jornalismo científico",
     "coverageKindLabel_pt": "Jornalismo científico",
@@ -4732,137 +4652,6 @@
   },
   {
     "id": 32,
-    "slug": "sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/rice-researchers-find.jpg",
-    "inline_images": [
-      {
-        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "title_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "title_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
-    "sub": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
-    "sub_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
-    "sub_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is.",
-    "excerpt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
-    "excerpt_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
-    "excerpt_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is covered by an iron-poor and sulfur-rich crust.",
-    "highlights": [
-      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: Mercury is a small, rocky planet about which researchers know relatively little.",
-      "Key detail: Mercury is a small, rocky planet about which researchers know relatively little.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "19 abr 2026",
-    "date_pt": "19 abr 2026",
-    "date_en": "19 Apr 2026",
-    "time": "19h00",
-    "time_pt": "19h00",
-    "time_en": "19: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-04-19T19:00:01+00:00",
-    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
-    "source": "Phys. org Space",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Magmas de Mercúrio ricos em enxofre comportam",
-      "se de maneira diferente dos da Terra"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Magmas de Mercúrio ricos em enxofre comportam",
-      "se de maneira diferente dos da Terra"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Phys. org Space",
-      "Cosmos Week",
-      "Sulfur-rich Mercury magmas contain",
-      "if different from those on Earth"
-    ],
-    "srcUrl": "https://phys.org/news/2026-04-sulfur-rich-mercury-magmas-differently.html",
-    "realUrl": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
-    "realUrl_en": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 42,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "imageAlt_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
-    "imageAlt_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 33,
     "slug": "generalized-optical-meta-spanners-empower-arbitrary-light-paths-for-multitasking-optical-manipul",
     "cat": "Física",
     "catCls": "fisica",
@@ -5002,7 +4791,7 @@
     "imageAlt_en": "Generalized optical meta-spanners empower arbitrary light paths for multitasking optical manipulation"
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "warmer-streams-may-be-draining-river-food-webs-by-sending-more-carbon-into-the-air",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -5142,7 +4931,7 @@
     "imageAlt_en": "Warmer streams may be draining river food webs by sending more carbon into the air"
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "sun-news-huge-coronal-hole-now-faces-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -5291,7 +5080,7 @@
     "imageAlt_en": "Sun news: Huge coronal hole now faces Earth"
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "how-a-new-technique-will-help-us-mine-rare-earth-metals-with-plants",
     "cat": "Física",
     "catCls": "fisica",
@@ -5428,7 +5217,7 @@
     "storyKind": "science"
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "cloudy-with-a-chance-of-metals-indications-of-co-2-in-the-atmosphere-of-gj-1214-b-from-high-reso",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -5549,7 +5338,7 @@
     "imageAlt_en": "Cloudy with a chance of metals: Indications of CO$_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy"
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "jwst-sees-smoking-gun-for-black-hole-mergers-in-the-virgo-cluster",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -5729,6 +5518,134 @@
     "imageAlt": "JWST revela indícios de fusões de buracos negros em galáxias anãs no Aglomerado de Virgem",
     "imageAlt_pt": "JWST revela indícios de fusões de buracos negros em galáxias anãs no Aglomerado de Virgem",
     "imageAlt_en": "JWST Sees Smoking Gun for Black Hole Mergers in the Virgo Cluster"
+  },
+  {
+    "id": 38,
+    "slug": "torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx2.b-cdn.net/gfx/news/2026/researchers-adapt-tors.jpg",
+    "inline_images": [
+      {
+        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Os equilíbrios de torção estabelecem limites diretos mais fortes até agora na matéria escura ultraleve",
+    "title_pt": "Os equilíbrios de torção estabelecem limites diretos mais fortes até agora na matéria escura ultraleve",
+    "title_en": "Torsion balances set strongest direct limits yet on ultralight dark matter",
+    "sub": "Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida.",
+    "sub_pt": "Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida.",
+    "sub_en": "Dark matter is believed to make up a large fraction of the matter in the universe, yet its true nature remains unknown.",
+    "excerpt": "Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida.",
+    "excerpt_pt": "Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida.",
+    "excerpt_en": "Dark matter is believed to make up a large fraction of the matter in the universe, yet its true nature remains unknown. Most past experiments have focused on heavier dark matter candidates, while much lighter dark matter, with masses.",
+    "highlights": [
+      "Ponto central: Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida.",
+      "Dado-chave: Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_pt": [
+      "Ponto central: Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida.",
+      "Dado-chave: Acredita-se que a matéria escura constitui uma grande fração da matéria do universo, mas a sua verdadeira natureza permanece desconhecida",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_en": [
+      "Core point: Dark matter is believed to make up a large fraction of the matter in the universe, yet its true nature remains unknown.",
+      "Key detail: Dark matter is believed to make up a large fraction of the matter in the universe, yet its true nature remains unknown",
+      "Science reporting: verify primary technical documentation."
+    ],
+    "date": "14 abr 2026",
+    "date_pt": "14 abr 2026",
+    "date_en": "14 Apr 2026",
+    "time": "19h00",
+    "time_pt": "19h00",
+    "time_en": "19: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-14T19:00:04+00:00",
+    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
+    "source": "Phys. org Space",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Os equilíbrios de torção estabelecem limites diretos mais fortes até agora na matéria escura ultraleve"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Os equilíbrios de torção estabelecem limites diretos mais fortes até agora na matéria escura ultraleve"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Torsional equilibria set strongest direct limits yet on ultralight dark matter"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-torsion-strongest-limits-ultralight-dark.html",
+    "realUrl": "https://www.cosmosweek.com/?article=torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter",
+    "realUrl_en": "https://www.cosmosweek.com/?article=torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/torsion-balances-set-strongest-direct-limits-yet-on-ultralight-dark-matter/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 42,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science",
+    "imageAlt": "Os equilíbrios de torção estabelecem limites diretos mais fortes até agora na matéria escura ultraleve",
+    "imageAlt_pt": "Os equilíbrios de torção estabelecem limites diretos mais fortes até agora na matéria escura ultraleve",
+    "imageAlt_en": "Torsion balances set strongest direct limits yet on ultralight dark matter"
   },
   {
     "id": 39,
