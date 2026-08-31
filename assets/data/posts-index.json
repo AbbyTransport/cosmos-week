@@ -1,6 +1,320 @@
 [
   {
     "id": 1,
+    "slug": "nepal-flash-flood-imaged-by-satellites",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_captures_before_and_after_nepal_flash_flood/27442595-1-eng-GB/Sentinel-2_captures_before_and_after_Nepal_flash_flood_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_captures_before_and_after_nepal_flash_flood/27442595-1-eng-GB/Sentinel-2_captures_before_and_after_Nepal_flash_flood_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-2_images_area_of_nepal_prior_to_flash_flood/27442429-1-eng-GB/Sentinel-2_images_area_of_Nepal_prior_to_flash_flood_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/nepal_glacier_collapse_and_flood_before_and_after/27442263-1-eng-GB/Nepal_glacier_collapse_and_flood_before_and_after_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/nepal_glacier_collapse_and_flood_24_august_2026/27442216-1-eng-GB/Nepal_glacier_collapse_and_flood_24_August_2026_article.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Inundação repentina no Nepal fotografada por satélites",
+    "title_pt": "Inundação repentina no Nepal fotografada por satélites",
+    "title_en": "Nepal flash flood imaged by satellites",
+    "sub": "Com milhares de equipas de emergência a realizar operações de busca e salvamento após a inundação catastrófica que atingiu o norte do Nepal em 26 de agosto, as imagens de satélite.",
+    "sub_pt": "Com milhares de equipas de emergência a realizar operações de busca e salvamento após a inundação catastrófica que atingiu o norte do Nepal em 26 de agosto, as imagens de satélite.",
+    "sub_en": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is.",
+    "excerpt": "Com milhares de equipas de emergência a realizar operações de busca e salvamento após a inundação catastrófica que atingiu o norte do Nepal em 26 de agosto, as imagens de satélite estão a ajudar a revelar a escala da inundação e.",
+    "excerpt_pt": "Com milhares de equipas de emergência a realizar operações de busca e salvamento após a inundação catastrófica que atingiu o norte do Nepal em 26 de agosto, as imagens de satélite estão a ajudar a revelar a escala da inundação e.",
+    "excerpt_en": "With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on 26 August, satellite imagery is helping to reveal the scale of the inundation and.",
+    "highlights": [
+      "Em foco: Com milhares de equipas de emergência a realizar operações de busca e salvamento após a inundação catastrófica que atingiu o norte do Nepal em 26 de",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Com milhares de equipas de emergência a realizar operações de busca e salvamento após a inundação catastrófica que atingiu o norte do Nepal em 26 de",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: With thousands of emergency responders conducting search-and-rescue operations following the catastrophic flash flood that struck northern Nepal on",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "11h57",
+    "time_pt": "11h57",
+    "time_en": "11: 57 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-31T11:57:00+00:00",
+    "lastModifiedIso": "2026-08-31T21:08:24+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Inundação repentina no Nepal fotografada por satélites"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Inundação repentina no Nepal fotografada por satélites"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space News",
+      "Cosmos Week",
+      "Flash flood in Nepal photographed by satellites"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites",
+    "realUrl": "https://www.cosmosweek.com/?article=nepal-flash-flood-imaged-by-satellites",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nepal-flash-flood-imaged-by-satellites",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nepal-flash-flood-imaged-by-satellites&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nepal-flash-flood-imaged-by-satellites/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nepal-flash-flood-imaged-by-satellites/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nepal-flash-flood-imaged-by-satellites/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nepal-flash-flood-imaged-by-satellites/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nepal-flash-flood-imaged-by-satellites/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nepal-flash-flood-imaged-by-satellites/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Inundação repentina no Nepal fotografada por satélites",
+    "imageAlt_pt": "Inundação repentina no Nepal fotografada por satélites",
+    "imageAlt_en": "Nepal flash flood imaged by satellites",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/pasterze-hangs-on-as-austria’s-largest-glacier/pasterzeglacier_oli2_20260815_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pasterze-hangs-on-as-austria’s-largest-glacier/pasterzeglacier_tm5_19850822.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pasterze-hangs-on-as-austria’s-largest-glacier/pasterzeglacier_oli2_20260815.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/pasterze-hangs-on-as-austria’s-largest-glacier/pasterzeglacier_oli2_20260815_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/YRU_8SeMXok?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pasterze-hangs-on-as-austria’s-largest-glacier/pasterzeglacier_oli2_20260815_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Ferradura de Pasterze quebrada. Lapso de tempo de 2016 a 2024",
+      "title_pt": "Ferradura de Pasterze quebrada. Lapso de tempo de 2016 a 2024",
+      "title_en": "Pasterze Hufeisenbruch. Zeitraffer von 2016 bis 2024",
+      "caption": "Quando a ferradura entra em colapso, a conexão entre as partes inferior e superior da geleira Pasterze torna-se cada vez mais dissolvida. Fonte: GeoSphere Áustria",
+      "caption_pt": "Quando a ferradura entra em colapso, a conexão entre as partes inferior e superior da geleira Pasterze torna-se cada vez mais dissolvida. Fonte: GeoSphere Áustria",
+      "caption_en": "Beim Hufeisenbruch löst sich die Verbindung zwischen unterem und oberen Teil des Pasterze-Gletschers immer mehr auf. Quelle: GeoSphere Austria",
+      "sourcePage": "https://science.nasa.gov/earth/earth-observatory/pasterze-hangs-on-as-austrias-largest-glacier/"
+    },
+    "audio": null,
+    "title": "Pasterze continua sendo a maior geleira da Áustria",
+    "title_pt": "Pasterze continua sendo a maior geleira da Áustria",
+    "title_en": "Pasterze Hangs on as Austria’s Largest Glacier",
+    "sub": "Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo.",
+    "sub_pt": "Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo.",
+    "sub_en": "One narrowing icefall remains the linchpin for the Alpine glacier, and it may not be long for this world.",
+    "excerpt": "Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo. A postagem Pasterze persiste como a maior geleira da Áustria apareceu pela primeira vez na NASA Science.",
+    "excerpt_pt": "Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo. A postagem Pasterze persiste como a maior geleira da Áustria apareceu pela primeira vez na NASA Science.",
+    "excerpt_en": "One narrowing icefall remains the linchpin for the Alpine glacier, and it may not be long for this world. The post Pasterze Hangs on as Austria’s Largest Glacier appeared first on NASA Science.",
+    "highlights": [
+      "Em foco: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: One narrowing icefall remains the linchpin for the Alpine glacier, and it may not be long for this world",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-31T04:01:00+00:00",
+    "lastModifiedIso": "2026-08-31T21:08:24+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Pasterze continua sendo a maior geleira da Áustria"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Pasterze continua sendo a maior geleira da Áustria"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Pasterze remains Austria's largest glacier"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/pasterze-hangs-on-as-austrias-largest-glacier/",
+    "realUrl": "https://www.cosmosweek.com/?article=pasterze-hangs-on-as-austria-s-largest-glacier",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=pasterze-hangs-on-as-austria-s-largest-glacier",
+    "realUrl_en": "https://www.cosmosweek.com/?article=pasterze-hangs-on-as-austria-s-largest-glacier&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/pasterze-hangs-on-as-austria-s-largest-glacier/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/pasterze-hangs-on-as-austria-s-largest-glacier/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/pasterze-hangs-on-as-austria-s-largest-glacier/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/pasterze-hangs-on-as-austria-s-largest-glacier/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/pasterze-hangs-on-as-austria-s-largest-glacier/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/pasterze-hangs-on-as-austria-s-largest-glacier/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Pasterze continua sendo a maior geleira da Áustria",
+    "imageAlt_pt": "Pasterze continua sendo a maior geleira da Áustria",
+    "imageAlt_en": "Pasterze Hangs on as Austria’s Largest Glacier",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "nasa-s-dark-universe-seeking-nancy-grace-roman-space-telescope-launches",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -121,7 +435,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "the-nancy-grace-roman-space-telescope-has-launched",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -330,7 +644,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "president-trump-signs-executive-order-to-create-us-space-academy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -348,19 +662,19 @@
     "excerpt_pt": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.",
     "excerpt_en": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.",
     "highlights": [
-      "Em foco: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
+      "Dado-chave: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
+      "Dado-chave: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
+      "Key detail: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "28 ago 2026",
     "date_pt": "28 ago 2026",
@@ -448,7 +762,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 6,
     "slug": "what-could-the-artemis-iv-astronauts-discover-on-the-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -603,7 +917,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 7,
     "slug": "the-forested-floodplains-of-congaree-national-park",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -731,7 +1045,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 8,
     "slug": "mtg-i2-completes-europe-s-latest-weather-trio",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -877,7 +1191,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -895,18 +1209,19 @@
     "excerpt_pt": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
     "excerpt_en": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
     "highlights": [
-      "Em foco: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
+      "Dado-chave: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
+      "Dado-chave: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
+      "Key detail: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Result not yet peer reviewed."
     ],
     "date": "27 ago 2026",
     "date_pt": "27 ago 2026",
@@ -1003,7 +1318,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "rare-widespread-snow-in-the-atacama-desert",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1149,7 +1464,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "nsf-launches-three-new-science-and-technology-centers-with-90m-investment-in-transformative-rese",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1313,7 +1628,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "weak-gravitational-lensing-by-a-dark-matter-admixed-neutron-star-a-self-consistent-two-fluid-hal",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1437,7 +1752,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 13,
     "slug": "a-changing-world-for-emperor-penguins",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1492,19 +1807,19 @@
     "excerpt_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
     "excerpt_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
     "highlights": [
-      "Em foco: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações.",
+      "Dado-chave: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações.",
+      "Dado-chave: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the.",
+      "Key detail: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 ago 2026",
     "date_pt": "26 ago 2026",
@@ -1595,7 +1910,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "sentinel-1-captures-major-ice-loss-from-greenland-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1735,7 +2050,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1975,7 +2290,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 16,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2121,156 +2436,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
-    "slug": "nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nsf.gov/themes/custom/nsf_theme/plugins/uswds/dist/img/us_flag_small.png",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_LSST_240x160.jpg?itok=JQ6A64ns",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_Rubin_240x160.jpg?itok=uJMEvKhr",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
-        "alt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
-        "caption": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "title_pt": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "title_en": "NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technological leadership",
-    "sub": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo.",
-    "sub_pt": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo.",
-    "sub_en": "The U. S. National Science Foundation today released 12 new notices of funding opportunities providing over $1.",
-    "excerpt": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo investigação básica e inspirada no uso.",
-    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo investigação básica e inspirada no uso.",
-    "excerpt_en": "The U. S. National Science Foundation today released 12 new notices of funding opportunities providing over $1.5 billion for foundational research, including basic and use-inspired inquiry.",
-    "highlights": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The U. S. National Science Foundation today released 12 new notices of funding opportunities providing over $1.",
-      "Key detail: The U. S. National Science Foundation today released 12 new notices of funding opportunities providing over $1",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T15:00:07+00:00",
-    "lastModifiedIso": "2026-08-18T16:01:58+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www. nsf. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia US$ 1",
-      "5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia US$ 1",
-      "5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NSF News",
-      "Cosmos Week",
-      "NSF Announces $1",
-      "5 billion for fundamental research to drive scientific advances for American technological leadership"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/nsf-announces-15b-foundational-research-drive-scientific",
-    "realUrl": "https://www.cosmosweek.com/?article=nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 94,
-    "scoreBreakdown": {
-      "source": 91,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 42,
-      "novelty": 52
-    },
-    "imageAlt": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "imageAlt_pt": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "imageAlt_en": "NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technological leadership",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 16,
+    "id": 17,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2293,6 +2459,15 @@
         "alt": "Fusão da Via Láctea LKH (impressão artística)",
         "alt_pt": "Fusão da Via Láctea LKH (impressão artística)",
         "alt_en": "LKH Milky Way merger (artist’s impression)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/01/the_best_milky_way_animation_by_gaia/26531043-2-eng-GB/The_best_Milky_Way_animation_by_Gaia_pillars.png",
+        "caption": "Galáxia Via Láctea",
+        "caption_pt": "Galáxia Via Láctea",
+        "caption_en": "Milky Way galaxy",
+        "alt": "Galáxia Via Láctea",
+        "alt_pt": "Galáxia Via Láctea",
+        "alt_en": "Milky Way galaxy"
       }
     ],
     "video": null,
@@ -2407,7 +2582,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "science-release-hubble-solves-merger-mystery-from-milky-way-s-early-years",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2556,7 +2731,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2796,7 +2971,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "stops-along-the-path-of-totality",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2933,143 +3108,6 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
-    "slug": "dust-and-water-spotted-close-to-giant-black-hole",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_article.jpg",
-        "alt": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "alt_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "alt_en": "IRS 3 Field (NIRCam and MIRI image)",
-        "caption": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "caption_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
-        "caption_en": "IRS 3 Field (NIRCam and MIRI image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Poeira e água avistadas perto de buraco negro gigante",
-    "title_pt": "Poeira e água avistadas perto de buraco negro gigante",
-    "title_en": "Dust and water spotted close to giant black hole",
-    "sub": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto.",
-    "sub_pt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto.",
-    "sub_en": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the.",
-    "excerpt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea.",
-    "excerpt_pt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea.",
-    "excerpt_en": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy.",
-    "highlights": [
-      "Ponto central: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
-      "Dado-chave: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
-      "Dado-chave: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive.",
-      "Key detail: Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "11 ago 2026",
-    "date_pt": "11 ago 2026",
-    "date_en": "11 Aug 2026",
-    "time": "08h00",
-    "time_pt": "08h00",
-    "time_en": "08: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-11T08:00:00+00:00",
-    "lastModifiedIso": "2026-08-11T16:33:56+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astrofísica",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Poeira e água avistadas perto de buraco negro gigante"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Poeira e água avistadas perto de buraco negro gigante"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Dust and water spotted near giant black hole"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole",
-    "realUrl": "https://www.cosmosweek.com/?article=dust-and-water-spotted-close-to-giant-black-hole",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=dust-and-water-spotted-close-to-giant-black-hole",
-    "realUrl_en": "https://www.cosmosweek.com/?article=dust-and-water-spotted-close-to-giant-black-hole&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/dust-and-water-spotted-close-to-giant-black-hole/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/dust-and-water-spotted-close-to-giant-black-hole/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/dust-and-water-spotted-close-to-giant-black-hole/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/dust-and-water-spotted-close-to-giant-black-hole/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/dust-and-water-spotted-close-to-giant-black-hole/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/dust-and-water-spotted-close-to-giant-black-hole/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Poeira e água avistadas perto de buraco negro gigante",
-    "imageAlt_pt": "Poeira e água avistadas perto de buraco negro gigante",
-    "imageAlt_en": "Dust and water spotted close to giant black hole",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
     "id": 21,
     "slug": "the-quadratic-growth-of-krylov-spread-complexity-in-the-btz-black-hole",
     "cat": "Astrofísica",
@@ -3189,152 +3227,6 @@
   },
   {
     "id": 22,
-    "slug": "how-the-tide-turns-at-the-mouth-of-the-elbe",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/how-the-tide-turns-at-the-mouth-of-the-elbe/germanytide_oli2_20250815_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-the-tide-turns-at-the-mouth-of-the-elbe/germanytide_oli2_20250815.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/how-the-tide-turns-at-the-mouth-of-the-elbe/germanytide_oli2_20250511.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/how-the-tide-turns-at-the-mouth-of-the-elbe/germanytide_oli2_20250511_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Como a maré muda na foz do Elba",
-    "title_pt": "Como a maré muda na foz do Elba",
-    "title_en": "How the Tide Turns at the Mouth of the Elbe",
-    "sub": "Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-    "sub_pt": "Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-    "sub_en": "The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.",
-    "excerpt": "Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-    "excerpt_pt": "Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-    "excerpt_en": "The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany. The post How the Tide Turns at the Mouth of the Elbe appeared first on NASA Science.",
-    "highlights": [
-      "Ponto central: Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-      "Dado-chave: Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-      "Dado-chave: Os fluxos e refluxos do oceano revelam planícies de maré dinâmicas e uma rota marítima muito movimentada ao longo da costa da Alemanha.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.",
-      "Key detail: The ocean’s ebbs and flows reveal dynamic tidal flats and a well-traveled shipping route along the coast of Germany.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "06 ago 2026",
-    "date_pt": "06 ago 2026",
-    "date_en": "06 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-06T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-07T16:30:06+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Como a maré muda na foz do Elba"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Como a maré muda na foz do Elba"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "How the tide changes at the mouth of the Elbe"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-    "realUrl": "https://www.cosmosweek.com/?article=how-the-tide-turns-at-the-mouth-of-the-elbe",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=how-the-tide-turns-at-the-mouth-of-the-elbe",
-    "realUrl_en": "https://www.cosmosweek.com/?article=how-the-tide-turns-at-the-mouth-of-the-elbe&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/how-the-tide-turns-at-the-mouth-of-the-elbe/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Como a maré muda na foz do Elba",
-    "imageAlt_pt": "Como a maré muda na foz do Elba",
-    "imageAlt_en": "How the Tide Turns at the Mouth of the Elbe",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 23,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3511,7 +3403,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3687,7 +3579,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -3867,153 +3759,7 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
-    "slug": "surface-cubesat-contracted-for-ramses-asteroid-mission",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/don_quijote_cubesat_around_dimorphos_asteroid/27361714-1-eng-GB/Don_Quijote_CubeSat_around_Dimorphos_asteroid_pillars.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/emxys_cleanroom/27361855-1-eng-GB/EMXYS_cleanroom_article.jpg",
-        "alt": "Sala limpa EMXYS",
-        "alt_pt": "Sala limpa EMXYS",
-        "alt_en": "EMXYS cleanroom",
-        "caption": "Sala limpa EMXYS",
-        "caption_pt": "Sala limpa EMXYS",
-        "caption_en": "EMXYS cleanroom"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/04/asteroid_apophis/26021615-4-eng-GB/Asteroid_Apophis_article.jpg",
-        "alt": "Asteróide Apófis",
-        "alt_pt": "Asteróide Apófis",
-        "alt_en": "Asteroid Apophis",
-        "caption": "Asteróide Apófis",
-        "caption_pt": "Asteróide Apófis",
-        "caption_en": "Asteroid Apophis"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/03/esa_s_ramses_spacecraft/26600276-1-eng-GB/ESA_s_Ramses_spacecraft_article.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "CubeSat de Superfície Contratado para a Missão do Asteroide Ramsés",
-    "title_pt": "CubeSat de Superfície Contratado para a Missão do Asteroide Ramsés",
-    "title_en": "Surface CubeSat contracted for Ramses asteroid mission",
-    "sub": "A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um asteroide.",
-    "sub_pt": "A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um asteroide.",
-    "sub_en": "The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
-    "excerpt": "A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um asteroide.",
-    "excerpt_pt": "A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um asteroide.",
-    "excerpt_en": "The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
-    "highlights": [
-      "Ponto central: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um.",
-      "Dado-chave: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de um.",
-      "Dado-chave: A Agência Espacial Europeia (ESA) contratou a empresa espanhola EMXYS para desenvolver o primeiro CubeSat projetado para operar na superfície de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
-      "Key detail: The European Space Agency has contracted Spanish company EMXYS for the first CubeSat designed to operate on the surface of an asteroid.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 jul 2026",
-    "date_pt": "02 jul 2026",
-    "date_en": "02 Jul 2026",
-    "time": "10h16",
-    "time_pt": "10h16",
-    "time_en": "10: 16 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-07-02T10:16:00+00:00",
-    "lastModifiedIso": "2026-07-02T17:22:06+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Cosmologia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Surface CubeSat contratado para missão do asteroide Ramsés"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "ESA Space News",
-      "Cosmos Week",
-      "Surface CubeSat contratado para missão do asteroide Ramsés"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "ESA Space News",
-      "Cosmos Week",
-      "Surface CubeSat contracted for Ramses asteroid mission"
-    ],
-    "srcUrl": "https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission",
-    "realUrl": "https://www.cosmosweek.com/?article=surface-cubesat-contracted-for-ramses-asteroid-mission",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=surface-cubesat-contracted-for-ramses-asteroid-mission",
-    "realUrl_en": "https://www.cosmosweek.com/?article=surface-cubesat-contracted-for-ramses-asteroid-mission&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/surface-cubesat-contracted-for-ramses-asteroid-mission/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/surface-cubesat-contracted-for-ramses-asteroid-mission/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/surface-cubesat-contracted-for-ramses-asteroid-mission/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/surface-cubesat-contracted-for-ramses-asteroid-mission/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/surface-cubesat-contracted-for-ramses-asteroid-mission/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/surface-cubesat-contracted-for-ramses-asteroid-mission/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "CubeSat de Superfície Contratado para a Missão do Asteroide Ramsés",
-    "imageAlt_pt": "CubeSat de Superfície Contratado para a Missão do Asteroide Ramsés",
-    "imageAlt_en": "Surface CubeSat contracted for Ramses asteroid mission",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 27,
+    "id": 25,
     "slug": "action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4171,14 +3917,32 @@
     "storyKind": "science"
   },
   {
-    "id": 28,
-    "slug": "chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-find-most.jpg",
+    "id": 26,
+    "slug": "nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_NQVL_hero%202026.png?itok=zBBhkIw8",
     "inline_images": [
       {
-        "src": "https://scx2.b-cdn.net/gfx/news/2026/astronomers-find-most.jpg",
+        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/NSF_NQVL_hero%202026.png?itok=bCcXQX3p",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/noirlab2616a.jpg?itok=OzjsSWXp",
+        "alt": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
+        "alt_pt": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
+        "alt_en": "A dense field of colorful stars shining through a dust cloud",
+        "caption": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
+        "caption_pt": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
+        "caption_en": "A dense field of colorful stars shining through a dust cloud"
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_QuantumCryptography_240x160.jpg?itok=k3Ao5c00",
         "alt": "",
         "alt_pt": "",
         "alt_en": "",
@@ -4189,117 +3953,249 @@
     ],
     "video": null,
     "audio": null,
-    "title": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "title_pt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "title_en": "Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen",
-    "sub": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância.",
-    "sub_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância.",
-    "sub_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of.",
-    "excerpt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância de oxigênio recorde de apenas 1/240 da do Sol.",
-    "excerpt_pt": "Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia LAP1-B, revelando uma abundância de oxigênio recorde de apenas 1/240 da do Sol.",
-    "excerpt_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago.",
+    "title": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
+    "title_pt": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
+    "title_en": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition",
+    "sub": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar.",
+    "sub_pt": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar.",
+    "sub_en": "The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile quantum information across long.",
+    "excerpt": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar informações quânticas até sensores de alta precisão.",
+    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar informações quânticas até sensores de alta precisão.",
+    "excerpt_en": "The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile quantum information across long distances to sensors that can measure faint properties.",
     "highlights": [
-      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Cobertura jornalística: verificar documentação técnica primária."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Cobertura jornalística: verificar documentação técnica primária."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a.",
-      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve.",
-      "Science reporting: verify primary technical documentation."
+      "Core point: The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile.",
+      "Key detail: The U. S",
+      "Institutional origin: separate announcement from evidence."
     ],
-    "date": "26 jun 2026",
-    "date_pt": "26 jun 2026",
-    "date_en": "26 Jun 2026",
-    "time": "16h40",
-    "time_pt": "16h40",
-    "time_en": "16: 40 UTC",
+    "date": "24 jun 2026",
+    "date_pt": "24 jun 2026",
+    "date_en": "24 Jun 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14: 00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-06-26T16:40:05+00:00",
-    "lastModifiedIso": "2026-06-26T17:27:34+00:00",
-    "source": "Phys. org Space",
-    "sourceDomain": "phys. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
+    "publishedIso": "2026-06-24T14:00:08+00:00",
+    "lastModifiedIso": "2026-06-24T17:41:19+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www. nsf. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
     "keywords": [
-      "Química",
-      "Phys. org Space",
+      "Cosmologia",
+      "NSF News",
       "Cosmos Week",
-      "Galáxia quimicamente primitiva de 13 bilhões de anos atrás revela nível recorde de oxigênio"
+      "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Virtual Quantum"
     ],
     "keywords_pt": [
-      "Química",
-      "Phys. org Space",
+      "Cosmologia",
+      "NSF News",
       "Cosmos Week",
-      "Galáxia quimicamente primitiva de 13 bilhões de anos atrás revela nível recorde de oxigênio"
+      "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Virtual Quantum"
     ],
     "keywords_en": [
-      "Chemical",
-      "Phys. org Space",
+      "Cosmology",
+      "NSF News",
       "Cosmos Week",
-      "Chemically primitive galaxy from 13 billion years ago reveals record level of oxygen"
+      "NSF Selects Five Additional Teams in National Virtual Quantum Laboratory Design Competition"
     ],
-    "srcUrl": "https://phys.org/news/2026-05-chemically-primitive-galaxy-billion-years.html",
-    "realUrl": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen",
-    "realUrl_en": "https://www.cosmosweek.com/?article=chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/chemically-primitive-galaxy-from-13-billion-years-ago-reveals-record-low-oxygen/",
+    "srcUrl": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
+    "realUrl": "https://www.cosmosweek.com/?article=nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": false,
     "geminiModel": "gemini-2.5-flash",
     "reviewStatus": "success",
     "reviewProvider": "gemini",
-    "score": 77,
+    "score": 91,
     "scoreBreakdown": {
-      "source": 66,
-      "evidence": 54,
+      "source": 91,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 55
+    },
+    "imageAlt": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
+    "imageAlt_pt": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
+    "imageAlt_en": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 27,
+    "slug": "webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/interstellar_comet_3i_atlas_nirspec_ifu/27338945-1-eng-GB/Interstellar_Comet_3I_ATLAS_NIRSpec_IFU_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/interstellar_comet_3i_atlas_nirspec_ifu/27338945-1-eng-GB/Interstellar_Comet_3I_ATLAS_NIRSpec_IFU_article.jpg",
+        "alt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "alt_pt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "alt_en": "Interstellar Comet 3I/ATLAS (NIRSpec IFU)",
+        "caption": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "caption_pt": "Cometa Interestelar 3I/ATLAS (NIRSpec IFU)",
+        "caption_en": "Interstellar Comet 3I/ATLAS (NIRSpec IFU)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/06/3i_atlas_compared_to_solar_system_comets/27339111-1-eng-GB/3I_ATLAS_compared_to_Solar_System_comets_article.jpg",
+        "alt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "alt_pt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "alt_en": "3I/ATLAS compared to Solar System comets",
+        "caption": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "caption_pt": "3I/ATLAS comparado com cometas do Sistema Solar",
+        "caption_en": "3I/ATLAS compared to Solar System comets"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "title_pt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "title_en": "Webb finds clues to ancient origin of Comet 3I/ATLAS",
+    "sub": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as.",
+    "sub_pt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as.",
+    "sub_en": "The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions in our own Solar System may.",
+    "excerpt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as condições no nosso Sistema Solar.",
+    "excerpt_pt": "O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns ou incomuns podem ser as condições no nosso Sistema Solar.",
+    "excerpt_en": "The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions in our own Solar System may be.",
+    "highlights": [
+      "Ponto central: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns.",
+      "Dado-chave: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão comuns.",
+      "Dado-chave: O terceiro cometa interestelar identificado na história da humanidade tem uma composição química surpreendente, levantando questões sobre quão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual, conditions.",
+      "Key detail: The third identified interstellar comet in human history has a surprising chemical makeup, raising questions as to how common, or unusual.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 jun 2026",
+    "date_pt": "22 jun 2026",
+    "date_en": "22 Jun 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-22T15:00:00+00:00",
+    "lastModifiedIso": "2026-06-22T15:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Preferida para missões, observatórios, agências e laboratórios oficiais.",
+    "sourceNote_pt": "Fonte primária institucional. Preferida para missões, observatórios, agências e laboratórios oficiais.",
+    "sourceNote_en": "Primary institutional source. Preferred for missions, observatories, agencies and official laboratories.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Química",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS"
+    ],
+    "keywords_pt": [
+      "Química",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Webb finds clues to ancient origin of comet 3I/ATLAS"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_clues_to_ancient_origin_of_Comet_3I_ATLAS",
+    "realUrl": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas",
+    "realUrl_en": "https://www.cosmosweek.com/?article=webb-finds-clues-to-ancient-origin-of-comet-3i-atlas&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/webb-finds-clues-to-ancient-origin-of-comet-3i-atlas/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 95,
+      "evidence": 92,
       "relevance": 82,
       "accessibility": 60,
       "novelty": 55
     },
-    "imageAlt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "imageAlt_pt": "Galáxia Quimicamente Primitiva de 13 Bilhões de Anos Revela Nível Recorde de Oxigênio",
-    "imageAlt_en": "Chemically primitive galaxy from 13 billion years ago reveals record-low oxygen",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
+    "imageAlt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "imageAlt_pt": "Webb encontra pistas sobre a origem antiga do cometa 3I/ATLAS",
+    "imageAlt_en": "Webb finds clues to ancient origin of Comet 3I/ATLAS"
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "dynamical-modeling-of-the-broad-line-region-with-high-mass-active-galactic-nuclei-and-constraint",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4417,7 +4313,7 @@
     "storyKind": "science"
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "stellar-flares-may-expand-habitable-zones-around-small-stars",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -4548,7 +4444,7 @@
     "storyKind": "science"
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "automated-ct-scan-analysis-could-fast-track-clinical-assessments",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -4663,6 +4559,137 @@
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 31,
+    "slug": "sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2026/rice-researchers-find.jpg",
+    "inline_images": [
+      {
+        "src": "https://phys.b-cdn.net/tmpl/v6/img/medx308px.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "title_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "title_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
+    "sub": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
+    "sub_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira.",
+    "sub_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is.",
+    "excerpt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
+    "excerpt_pt": "Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus magmas se comportam de maneira diferente dos da Terra, permanecendo derretidos em temperaturas mais baixas.",
+    "excerpt_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is covered by an iron-poor and sulfur-rich crust.",
+    "highlights": [
+      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
+      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
+      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus",
+      "Cobertura jornalística: verificar documentação técnica primária."
+    ],
+    "highlights_en": [
+      "Core point: Mercury is a small, rocky planet about which researchers know relatively little.",
+      "Key detail: Mercury is a small, rocky planet about which researchers know relatively little",
+      "Science reporting: verify primary technical documentation."
+    ],
+    "date": "19 abr 2026",
+    "date_pt": "19 abr 2026",
+    "date_en": "19 Apr 2026",
+    "time": "19h00",
+    "time_pt": "19h00",
+    "time_en": "19: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-04-19T19:00:01+00:00",
+    "lastModifiedIso": "2026-04-23T23:29:07+00:00",
+    "source": "Phys. org Space",
+    "sourceDomain": "phys. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Magmas de Mercúrio ricos em enxofre comportam",
+      "se de maneira diferente dos da Terra"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Magmas de Mercúrio ricos em enxofre comportam",
+      "se de maneira diferente dos da Terra"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "Phys. org Space",
+      "Cosmos Week",
+      "Sulfur-rich Mercury magmas contain",
+      "if different from those on Earth"
+    ],
+    "srcUrl": "https://phys.org/news/2026-04-sulfur-rich-mercury-magmas-differently.html",
+    "realUrl": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do",
+    "realUrl_en": "https://www.cosmosweek.com/?article=sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/sulfur-rich-mercury-magmas-behave-differently-than-earth-s-do/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "gemini-2.5-flash",
+    "reviewStatus": "success",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 42,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "imageAlt_pt": "Magmas de Mercúrio Ricos em Enxofre Apresentam Comportamento Distinto em Comparação com os Terrestres",
+    "imageAlt_en": "Sulfur-rich Mercury magmas behave differently than Earth's do",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
     "storyKind": "science"
   },
   {
