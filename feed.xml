@@ -5,9 +5,19 @@
     <link>https://www.cosmosweek.com/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 31 Aug 2026 21:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:51:17 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
+              <title>Ice Island sobrevive ao encontro com Joe Island</title>
+              <link>https://www.cosmosweek.com/noticia/ice-island-survives-run-in-with-joe-island/</link>
+              <guid>https://www.cosmosweek.com/noticia/ice-island-survives-run-in-with-joe-island/</guid>
+              <pubDate>Tue, 01 Sep 2026 04:00:00 +0000</pubDate>
+              <author>contato@cosmosweek.com (Cosmos Week)</author>
+              <description>No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares, colidindo com uma ilha ao longo do caminho.</description>
+              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Ice Island sobrevive ao encontro com Joe Island</category>
+              <source url="https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/">NASA News Releases</source>
+              <content:encoded>No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares, colidindo com uma ilha ao longo do caminho. NASA Earth Observatory / Lauren Dauphin 24 DE AGOSTO 23 DE AGOSTO Curtain Toggle 2-Up Detalhes da imagem Um iceberg da geleira Petermann encontra a Ilha Joe no noroeste da Groenlândia, visível em imagens capturadas pelo OLI (Operational Land Imager) no Landsat 9 em 23 de agosto. O evento de parto do verão de 2026 foi detectado em 4 de agosto por Adam Garbo, estudante de doutorado em glaciologia na Universidade de Ottawa, em imagens da missão Sentinel-1 da Agência Espacial Europeia. 24 de agosto de 2026 Observatório da Terra da NASA / Glaciologista Lauren Dauphin Mauri Pelto, do Nichols College, também tem rastreado o iceberg, usando imagens dos satélites Landsat da NASA-USGS, enquanto ele descia pe</content:encoded>
+            </item><item>
               <title>Inundação repentina no Nepal fotografada por satélites</title>
               <link>https://www.cosmosweek.com/noticia/nepal-flash-flood-imaged-by-satellites/</link>
               <guid>https://www.cosmosweek.com/noticia/nepal-flash-flood-imaged-by-satellites/</guid>
@@ -97,16 +107,6 @@
               <category>Cosmologia</category><category>arXiv Cosmology</category><category>Cosmos Week</category><category>ELUCID</category>
               <source url="https://arxiv.org/abs/2608.26668v1">arXiv Cosmology</source>
               <content:encoded>We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity (MTV) fields over the redshift range $0 We evaluate the performance of our MTV reconstruction pipeline with mock redshift surveys that include a comprehensive set of observational selection effects. The galaxy groups used as tracers are identified with an extended halo-based group finder applied to the DESI mock galaxy catalogue with an apparent magnitude limit of $m_z Our tests show that the reconstructed velocities are accurate and unbiased, with a residual dispersion of $\sim 120\ \mathrm{km\, s^{-1}}$ across the redshift bins. The recovered velocity field allows us to shift galaxy groups to their real-space positions, thereby correcting for the Kaiser effect. By iteratively applying th</content:encoded>
-            </item><item>
-              <title>Neve rara e generalizada no deserto do Atacama</title>
-              <link>https://www.cosmosweek.com/noticia/rare-widespread-snow-in-the-atacama-desert/</link>
-              <guid>https://www.cosmosweek.com/noticia/rare-widespread-snow-in-the-atacama-desert/</guid>
-              <pubDate>Thu, 27 Aug 2026 04:00:00 +0000</pubDate>
-              <author>contato@cosmosweek.com (Cosmos Week)</author>
-              <description>Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Neve rara e generalizada no deserto do Atacama</category>
-              <source url="https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/">NASA News Releases</source>
-              <content:encoded>Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico. NASA Earth Observatory / Lauren Dauphin 6 de agosto de 2026 14 de agosto de 2026 Curtain Toggle 2-Up Image Details Parte do norte do Chile se transforma de nu em coberto de neve nessas imagens capturadas antes e depois das tempestades de inverno em agosto de 2026 pelos satélites. Um manto de neve cobre uma vasta área do norte do Chile, desde os Andes até perto da costa do Pacífico, capturada nesta imagem em 19 de agosto de 2026, pelo MODIS (Espectrorradiômetro de Imagem de Resolução Moderada) no satélite Terra da NASA. Esta imagem, capturada pelo MODIS (Espectrorradiômetro de Imagem de Resolução Moderada) no satélite Terra da NASA em 19 de agosto, mostra neve estendendo-se para oeste a partir dos Andes, através do núcleo hiperárido do deserto e perto da c</content:encoded>
             </item><item>
               <title>NSF lança três novos Centros de Ciência e Tecnologia com investimento de US$ 90 milhões em pesquisa transformadora</title>
               <link>https://www.cosmosweek.com/noticia/nsf-launches-three-new-science-and-technology-centers-with-90m-investment-in-transformative-rese/</link>

@@ -1,6 +1,152 @@
 [
   {
     "id": 1,
+    "slug": "ice-island-survives-run-in-with-joe-island",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260823.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Ice Island sobrevive ao encontro com Joe Island",
+    "title_pt": "Ice Island sobrevive ao encontro com Joe Island",
+    "title_en": "Ice Island Survives Run-In With Joe Island",
+    "sub": "No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares, colidindo com uma ilha ao.",
+    "sub_pt": "No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares, colidindo com uma ilha ao.",
+    "sub_en": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
+    "excerpt": "No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares, colidindo com uma ilha ao longo do caminho.",
+    "excerpt_pt": "No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares, colidindo com uma ilha ao longo do caminho.",
+    "excerpt_en": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
+    "highlights": [
+      "Em foco: No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: No verão de 2026, um iceberg substancial se soltou da geleira Petermann, no noroeste da Groenlândia, e rapidamente derivou para o Estreito de Nares",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "01 set 2026",
+    "date_pt": "01 set 2026",
+    "date_en": "01 Sep 2026",
+    "time": "04h00",
+    "time_pt": "04h00",
+    "time_en": "04: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-01T04:00:00+00:00",
+    "lastModifiedIso": "2026-09-01T18:50:29+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ice Island sobrevive ao encontro com Joe Island"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ice Island sobrevive ao encontro com Joe Island"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ice Island survives encounter with Joe Island"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+    "realUrl": "https://www.cosmosweek.com/?article=ice-island-survives-run-in-with-joe-island",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=ice-island-survives-run-in-with-joe-island",
+    "realUrl_en": "https://www.cosmosweek.com/?article=ice-island-survives-run-in-with-joe-island&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/ice-island-survives-run-in-with-joe-island/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/ice-island-survives-run-in-with-joe-island/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/ice-island-survives-run-in-with-joe-island/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/ice-island-survives-run-in-with-joe-island/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/ice-island-survives-run-in-with-joe-island/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/ice-island-survives-run-in-with-joe-island/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Ice Island sobrevive ao encontro com Joe Island",
+    "imageAlt_pt": "Ice Island sobrevive ao encontro com Joe Island",
+    "imageAlt_en": "Ice Island Survives Run-In With Joe Island",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nepal-flash-flood-imaged-by-satellites",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -155,7 +301,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -314,7 +460,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-s-dark-universe-seeking-nancy-grace-roman-space-telescope-launches",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -332,19 +478,19 @@
     "excerpt_pt": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets.",
     "excerpt_en": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets.",
     "highlights": [
-      "Em foco: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest.",
+      "Dado-chave: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest.",
+      "Dado-chave: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest.",
+      "Key detail: Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "30 ago 2026",
     "date_pt": "30 ago 2026",
@@ -435,7 +581,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "the-nancy-grace-roman-space-telescope-has-launched",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -644,7 +790,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "president-trump-signs-executive-order-to-create-us-space-academy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -663,17 +809,17 @@
     "excerpt_en": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.",
     "highlights": [
       "Ponto central: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
-      "Dado-chave: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Dado-chave: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
-      "Dado-chave: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Dado-chave: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
-      "Key detail: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J",
+      "Key detail: To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "28 ago 2026",
@@ -762,7 +908,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "what-could-the-artemis-iv-astronauts-discover-on-the-moon",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -917,7 +1063,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "the-forested-floodplains-of-congaree-national-park",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1045,7 +1191,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "mtg-i2-completes-europe-s-latest-weather-trio",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1091,19 +1237,19 @@
     "excerpt_pt": "O segundo satélite Meteosat Third Generation Imager foi lançado a bordo do Ariane 6, voo VA270, do Porto Espacial Europeu na Guiana Francesa.",
     "excerpt_en": "The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana.",
     "highlights": [
-      "Em foco: O segundo satélite Meteosat Third Generation Imager foi lançado a bordo do Ariane 6, voo VA270, do Porto Espacial Europeu na Guiana Francesa",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O segundo satélite Meteosat Third Generation Imager foi lançado a bordo do Ariane 6, voo VA270, do Porto Espacial Europeu na Guiana Francesa.",
+      "Dado-chave: O segundo satélite Meteosat Third Generation Imager foi lançado a bordo do Ariane 6, voo VA270, do Porto Espacial Europeu na Guiana Francesa",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O segundo satélite Meteosat Third Generation Imager foi lançado a bordo do Ariane 6, voo VA270, do Porto Espacial Europeu na Guiana Francesa",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O segundo satélite Meteosat Third Generation Imager foi lançado a bordo do Ariane 6, voo VA270, do Porto Espacial Europeu na Guiana Francesa.",
+      "Dado-chave: O segundo satélite Meteosat Third Generation Imager foi lançado a bordo do Ariane 6, voo VA270, do Porto Espacial Europeu na Guiana Francesa",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana.",
+      "Key detail: The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "27 ago 2026",
     "date_pt": "27 ago 2026",
@@ -1191,7 +1337,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "elucid-desi-ii-revealing-dark-matter-mass-tidal-and-velocity-mtv-fields-using-galaxy-group-phase",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1210,17 +1356,17 @@
     "excerpt_en": "We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase information of galaxy groups.",
     "highlights": [
       "Ponto central: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
-      "Dado-chave: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Dado-chave: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
-      "Dado-chave: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Dado-chave: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
-      "Key detail: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.6$ using the phase",
+      "Key detail: We introduce a novel method for reconstructing the cosmic mass, tidal, and velocity fields over the redshift range $0 < z < 0.",
       "Result not yet peer reviewed."
     ],
     "date": "27 ago 2026",
@@ -1315,152 +1461,6 @@
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
     "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 10,
-    "slug": "rare-widespread-snow-in-the-atacama-desert",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/rare,-widespread-snow-in-the-atacama-desert/atacamasnowzm_oli2_20260814_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/rare,-widespread-snow-in-the-atacama-desert/atacamasnowzm_oli_20260806.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/rare,-widespread-snow-in-the-atacama-desert/atacamasnowzm_oli2_20260814.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/rare,-widespread-snow-in-the-atacama-desert/atacamasnowwide_tmo_20260819_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Neve rara e generalizada no deserto do Atacama",
-    "title_pt": "Neve rara e generalizada no deserto do Atacama",
-    "title_en": "Rare, Widespread Snow in the Atacama Desert",
-    "sub": "Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico.",
-    "sub_pt": "Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico.",
-    "sub_en": "Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast.",
-    "excerpt": "Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico.",
-    "excerpt_pt": "Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico.",
-    "excerpt_en": "Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast.",
-    "highlights": [
-      "Em foco: Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Tempestades consecutivas de inverno em agosto de 2026 trouxeram neve ao norte do Chile, desde os Andes até perto da costa do Pacífico",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Back-to-back winter storms in August 2026 brought snowfall to northern Chile, from the Andes to near the Pacific coast",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "27 ago 2026",
-    "date_pt": "27 ago 2026",
-    "date_en": "27 Aug 2026",
-    "time": "04h00",
-    "time_pt": "04h00",
-    "time_en": "04: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-27T04:00:00+00:00",
-    "lastModifiedIso": "2026-08-28T00:36:47+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Neve rara e generalizada no deserto do Atacama"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Neve rara e generalizada no deserto do Atacama"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Rare and widespread snow in the Atacama Desert"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert/",
-    "realUrl": "https://www.cosmosweek.com/?article=rare-widespread-snow-in-the-atacama-desert",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=rare-widespread-snow-in-the-atacama-desert",
-    "realUrl_en": "https://www.cosmosweek.com/?article=rare-widespread-snow-in-the-atacama-desert&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/rare-widespread-snow-in-the-atacama-desert/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/rare-widespread-snow-in-the-atacama-desert/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/rare-widespread-snow-in-the-atacama-desert/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/rare-widespread-snow-in-the-atacama-desert/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/rare-widespread-snow-in-the-atacama-desert/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/rare-widespread-snow-in-the-atacama-desert/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Neve rara e generalizada no deserto do Atacama",
-    "imageAlt_pt": "Neve rara e generalizada no deserto do Atacama",
-    "imageAlt_en": "Rare, Widespread Snow in the Atacama Desert",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
@@ -1818,7 +1818,7 @@
     ],
     "highlights_en": [
       "Core point: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the.",
-      "Key detail: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the",
+      "Key detail: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 ago 2026",
@@ -3974,7 +3974,7 @@
     ],
     "highlights_en": [
       "Core point: The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile.",
-      "Key detail: The U. S",
+      "Key detail: The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 jun 2026",
@@ -4591,17 +4591,17 @@
     "excerpt_en": "Mercury is a small, rocky planet about which researchers know relatively little. Two missions, taking readings as they passed over the planet, have revealed that Mercury is covered by an iron-poor and sulfur-rich crust.",
     "highlights": [
       "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus",
+      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
       "Ponto central: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
-      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus",
+      "Dado-chave: Pesquisadores investigaram a composição única de Mercúrio, caracterizada por uma crosta pobre em ferro e rica em enxofre, e descobriram que seus.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
       "Core point: Mercury is a small, rocky planet about which researchers know relatively little.",
-      "Key detail: Mercury is a small, rocky planet about which researchers know relatively little",
+      "Key detail: Mercury is a small, rocky planet about which researchers know relatively little.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "19 abr 2026",
