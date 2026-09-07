@@ -1,6 +1,188 @@
 [
   {
     "id": 1,
+    "slug": "meet-the-next-generation-of-mars-exploration",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/phobos-over-olympus-mons.jpg?mtime=1753481675",
+    "inline_images": [
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x2147_crop_center-center_82_line/phobos_mro_globe_color_PSP_007769_9010_IRB_northup.jpg.webp",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x2147_crop_center-center_82_line/phobos_mro_globe_color_PSP_007769_9010_IRB_northup.jpg",
+        "alt": "Vista colorida de Fobos da Mars Reconnaissance Orbiter",
+        "alt_pt": "Vista colorida de Fobos da Mars Reconnaissance Orbiter",
+        "alt_en": "Color view of Phobos from Mars Reconnaissance Orbiter",
+        "caption": "Vista colorida de Fobos da Mars Reconnaissance Orbiter",
+        "caption_pt": "Vista colorida de Fobos da Mars Reconnaissance Orbiter",
+        "caption_en": "Color view of Phobos from Mars Reconnaissance Orbiter"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1563_crop_center-center_82_line/tpr-september-2026-cover.jpg.webp",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x1563_crop_center-center_82_line/tpr-september-2026-cover.jpg",
+        "alt": "Capa TPR de setembro de 2026",
+        "alt_pt": "Capa TPR de setembro de 2026",
+        "alt_en": "TPR September 2026 cover",
+        "caption": "Capa TPR de setembro de 2026",
+        "caption_pt": "Capa TPR de setembro de 2026",
+        "caption_en": "TPR September 2026 cover"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x433_crop_center-center_82_line/phobos-over-olympus-mons.jpg",
+        "alt": "Fobos sobre Marte",
+        "alt_pt": "Fobos sobre Marte",
+        "alt_en": "Phobos over Mars",
+        "caption": "Fobos sobre Marte",
+        "caption_pt": "Fobos sobre Marte",
+        "caption_en": "Phobos over Mars"
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/ngr-stage-2.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/artemis-astronaut-on-moon.jpg",
+        "alt": "Astronauta Artemis na lua",
+        "alt_pt": "Astronauta Artemis na lua",
+        "alt_en": "Artemis astronaut on moon",
+        "caption": "Astronauta Artemis na lua",
+        "caption_pt": "Astronauta Artemis na lua",
+        "caption_en": "Artemis astronaut on moon"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Conheça a próxima geração de exploração de Marte",
+    "title_pt": "Conheça a próxima geração de exploração de Marte",
+    "title_en": "Meet the next generation of Mars exploration",
+    "sub": "Países ao redor do mundo estão planejando missões a Marte, incluindo rovers e um retorno de amostra da lua Fobos.",
+    "sub_pt": "Países ao redor do mundo estão planejando missões a Marte, incluindo rovers e um retorno de amostra da lua Fobos.",
+    "sub_en": "Countries around the world are planning missions to Mars, including rovers and a sample return from the moon Phobos.",
+    "excerpt": "Países ao redor do mundo estão planejando missões a Marte, incluindo rovers e um retorno de amostra da lua Fobos.",
+    "excerpt_pt": "Países ao redor do mundo estão planejando missões a Marte, incluindo rovers e um retorno de amostra da lua Fobos.",
+    "excerpt_en": "Countries around the world are planning missions to Mars, including rovers and a sample return from the moon Phobos.",
+    "highlights": [
+      "Em foco: Países ao redor do mundo estão planejando missões a Marte, incluindo rovers e um retorno de amostra da lua Fobos",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_pt": [
+      "Em foco: Países ao redor do mundo estão planejando missões a Marte, incluindo rovers e um retorno de amostra da lua Fobos",
+      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
+      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+    ],
+    "highlights_en": [
+      "Focus: Countries around the world are planning missions to Mars, including rovers and a sample return from the moon Phobos",
+      "Detail: Science reporting: verify primary technical documentation",
+      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+    ],
+    "date": "07 set 2026",
+    "date_pt": "07 set 2026",
+    "date_en": "07 Sep 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-07T14:00:00+00:00",
+    "lastModifiedIso": "2026-09-07T19:26:18+00:00",
+    "source": "The Planetary Society",
+    "sourceDomain": "www. planetary. org",
+    "sourceType": "news",
+    "sourceTypeLabel": "Jornalismo científico",
+    "sourceTypeLabel_pt": "Jornalismo científico",
+    "sourceTypeLabel_en": "Science journalism",
+    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
+    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
+    "evidenceKey": "journalistic",
+    "evidenceLabel": "Cobertura jornalística",
+    "evidenceLabel_pt": "Cobertura jornalística",
+    "evidenceLabel_en": "Journalistic coverage",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "The Planetary Society",
+      "Cosmos Week",
+      "Conheça a próxima geração de exploração de Marte"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "The Planetary Society",
+      "Cosmos Week",
+      "Conheça a próxima geração de exploração de Marte"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "The Planetary Society",
+      "Cosmos Week",
+      "Discover the next generation of Mars exploration"
+    ],
+    "srcUrl": "https://www.planetary.org/articles/the-new-faces-of-mars",
+    "realUrl": "https://www.cosmosweek.com/?article=meet-the-next-generation-of-mars-exploration",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=meet-the-next-generation-of-mars-exploration",
+    "realUrl_en": "https://www.cosmosweek.com/?article=meet-the-next-generation-of-mars-exploration&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/meet-the-next-generation-of-mars-exploration/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/meet-the-next-generation-of-mars-exploration/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/meet-the-next-generation-of-mars-exploration/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/meet-the-next-generation-of-mars-exploration/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/meet-the-next-generation-of-mars-exploration/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/meet-the-next-generation-of-mars-exploration/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 90,
+    "scoreBreakdown": {
+      "source": 83,
+      "evidence": 54,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Conheça a próxima geração de exploração de Marte",
+    "imageAlt_pt": "Conheça a próxima geração de exploração de Marte",
+    "imageAlt_en": "Meet the next generation of Mars exploration",
+    "coverageKind": "news",
+    "coverageKindLabel": "Jornalismo científico",
+    "coverageKindLabel_pt": "Jornalismo científico",
+    "coverageKindLabel_en": "Science journalism",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -118,7 +300,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "who-knew-there-were-so-many-more-moons",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -155,19 +337,19 @@
     "excerpt_pt": "Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina.",
     "excerpt_en": "Roman is on its way to make discoveries, including more Solar System moons than you might expect.",
     "highlights": [
-      "Em foco: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina.",
+      "Dado-chave: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina.",
+      "Dado-chave: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: Roman is on its way to make discoveries, including more Solar System moons than you might expect",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: Roman is on its way to make discoveries, including more Solar System moons than you might expect.",
+      "Key detail: Roman is on its way to make discoveries, including more Solar System moons than you might expect",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "04 set 2026",
     "date_pt": "04 set 2026",
@@ -255,7 +437,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "how-sentinel-3-tracks-climate-change",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -395,7 +577,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "a-trio-of-tropical-cyclones-in-the-pacific",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -532,7 +714,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "sgr-a-as-a-galactic-pevatron-multimessenger-signatures-of-the-magnetic-penrose-process",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -550,18 +732,19 @@
     "excerpt_pt": "O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado, permitindo que partículas carregadas atinjam energias muito elevadas.",
     "excerpt_en": "The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole, enabling charged particles to reach very-high energies.",
     "highlights": [
-      "Em foco: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado.",
+      "Dado-chave: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado.",
+      "Dado-chave: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole, enabling",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole, enabling.",
+      "Key detail: The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole, enabling",
+      "Result not yet peer reviewed."
     ],
     "date": "03 set 2026",
     "date_pt": "03 set 2026",
@@ -652,7 +835,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -807,7 +990,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -965,7 +1148,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1102,7 +1285,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "flex-and-sentinel-3c-sealed-within-vega-c-fairing",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1128,12 +1311,12 @@
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_being_sealed_from_view/27447417-4-eng-GB/FLEX_and_Sentinel-3C_being_sealed_from_view.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       }
     ],
     "video": null,
@@ -1148,19 +1331,19 @@
     "excerpt_pt": "No Porto Espacial Europeu, na Guiana Francesa, os preparativos para um dos lançamentos de observação da Terra mais esperados do ano estão a entrar na sua fase final.",
     "excerpt_en": "At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final stages.",
     "highlights": [
-      "Em foco: No Porto Espacial Europeu, na Guiana Francesa, os preparativos para um dos lançamentos de observação da Terra mais esperados do ano estão a entrar na",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: No Porto Espacial Europeu, na Guiana Francesa, os preparativos para um dos lançamentos de observação da Terra mais esperados do ano estão a entrar na.",
+      "Dado-chave: No Porto Espacial Europeu, na Guiana Francesa, os preparativos para um dos lançamentos de observação da Terra mais esperados do ano estão a.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: No Porto Espacial Europeu, na Guiana Francesa, os preparativos para um dos lançamentos de observação da Terra mais esperados do ano estão a entrar na",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: No Porto Espacial Europeu, na Guiana Francesa, os preparativos para um dos lançamentos de observação da Terra mais esperados do ano estão a entrar na.",
+      "Dado-chave: No Porto Espacial Europeu, na Guiana Francesa, os preparativos para um dos lançamentos de observação da Terra mais esperados do ano estão a.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final.",
+      "Key detail: At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 set 2026",
     "date_pt": "02 set 2026",
@@ -1251,7 +1434,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1372,7 +1555,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "what-s-up-september-2026-skywatching-tips-from-nasa",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1506,7 +1689,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "higgsino-above-the-sea-of-fog",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1624,7 +1807,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "nepal-flash-flood-imaged-by-satellites",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1779,7 +1962,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1935,215 +2118,6 @@
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 15,
-    "slug": "the-nancy-grace-roman-space-telescope-has-launched",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/ngr-stage-2.jpg?mtime=1788090274",
-    "inline_images": [
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x512_crop_center-center_82_line/installing-romans-detector-cover.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x512_crop_center-center_82_line/installing-romans-detector-cover.jpg",
-        "alt": "Installing Roman's detector cover",
-        "alt_pt": "Installing Roman's detector cover",
-        "alt_en": "Installing Roman's detector cover",
-        "caption": "Installing Roman's detector cover",
-        "caption_pt": "Installing Roman's detector cover",
-        "caption_en": "Installing Roman's detector cover"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_82_line/simulated-roman-observation.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x768_crop_center-center_82_line/simulated-roman-observation.jpg",
-        "alt": "Simulated Roman observation",
-        "alt_pt": "Simulated Roman observation",
-        "alt_en": "Simulated Roman observation",
-        "caption": "Simulated Roman observation",
-        "caption_pt": "Simulated Roman observation",
-        "caption_en": "Simulated Roman observation"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x432_crop_center-center_82_line/roman-vs-hubble-views.jpg.webp",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x432_crop_center-center_82_line/roman-vs-hubble-views.jpg",
-        "alt": "Roman vs Hubble views",
-        "alt_pt": "Roman vs Hubble views",
-        "alt_en": "Roman vs Hubble views",
-        "caption": "Roman vs Hubble views",
-        "caption_pt": "Roman vs Hubble views",
-        "caption_en": "Roman vs Hubble views"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_2400x1553_crop_center-center_82_line/ngr-stage-2.jpg",
-        "alt": "Nancy Grace Roman after launch",
-        "alt_pt": "Nancy Grace Roman after launch",
-        "alt_en": "Nancy Grace Roman after launch",
-        "caption": "Nancy Grace Roman after launch",
-        "caption_pt": "Nancy Grace Roman after launch",
-        "caption_en": "Nancy Grace Roman after launch"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_768x949_crop_center-center_82_line/nancy-grace-roman.jpg",
-        "alt": "Nancy Grace Roman",
-        "alt_pt": "Nancy Grace Roman",
-        "alt_en": "Nancy Grace Roman",
-        "caption": "Nancy Grace Roman",
-        "caption_pt": "Nancy Grace Roman",
-        "caption_en": "Nancy Grace Roman"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/OPTIMISM-rover-drives-Into-the-Mars-yard-PIA23966.jpg",
-        "alt": "OPTIMISM rover drives Into the Mars yard PIA23966",
-        "alt_pt": "OPTIMISM rover drives Into the Mars yard PIA23966",
-        "alt_en": "OPTIMISM rover drives Into the Mars yard PIA23966",
-        "caption": "OPTIMISM rover drives Into the Mars yard PIA23966",
-        "caption_pt": "OPTIMISM rover drives Into the Mars yard PIA23966",
-        "caption_en": "OPTIMISM rover drives Into the Mars yard PIA23966"
-      },
-      {
-        "src": "https://planetary.s3.amazonaws.com/web/assets/pictures/_576x576_crop_center-center_82_line/nancy-grace-roman-clean-room.jpg",
-        "alt": "Nancy grace roman clean room",
-        "alt_pt": "Nancy grace roman clean room",
-        "alt_en": "Nancy grace roman clean room",
-        "caption": "Nancy grace roman clean room",
-        "caption_pt": "Nancy grace roman clean room",
-        "caption_en": "Nancy grace roman clean room"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "The Nancy Grace Roman Space Telescope has launched",
-    "title_pt": "The Nancy Grace Roman Space Telescope has launched",
-    "title_en": "The Nancy Grace Roman Space Telescope has launched",
-    "sub": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-    "sub_pt": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-    "sub_en": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-    "excerpt": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-    "excerpt_pt": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-    "excerpt_en": "NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-    "highlights": [
-      "Ponto central: NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-      "Dado-chave: NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_pt": [
-      "Ponto central: NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-      "Dado-chave: NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-      "Cobertura jornalística: verificar documentação técnica primária."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-      "Key detail: NASA’s next flagship orbital observatory will reshape what we know about planets throughout the galaxy.",
-      "Science reporting: verify primary technical documentation."
-    ],
-    "date": "30 ago 2026",
-    "date_pt": "30 ago 2026",
-    "date_en": "30 Aug 2026",
-    "time": "11h46",
-    "time_pt": "11h46",
-    "time_en": "11: 46 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-30T11:46:00+00:00",
-    "lastModifiedIso": "2026-08-30T18:48:43+00:00",
-    "source": "The Planetary Society",
-    "sourceDomain": "www. planetary. org",
-    "sourceType": "news",
-    "sourceTypeLabel": "Jornalismo científico",
-    "sourceTypeLabel_pt": "Jornalismo científico",
-    "sourceTypeLabel_en": "Science journalism",
-    "sourceNote": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_pt": "Cobertura jornalística de ciência. Sempre que possível, vale conferir o paper, o release técnico ou a fonte primária citada.",
-    "sourceNote_en": "Science journalism coverage. When possible, verify the cited paper, technical release or primary source.",
-    "evidenceKey": "journalistic",
-    "evidenceLabel": "Cobertura jornalística",
-    "evidenceLabel_pt": "Cobertura jornalística",
-    "evidenceLabel_en": "Journalistic coverage",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "The Planetary Society",
-      "Cosmos Week",
-      "The Nancy Grace Roman Space Telescope has launched"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "The Planetary Society",
-      "Cosmos Week",
-      "The Nancy Grace Roman Space Telescope has launched"
-    ],
-    "keywords_en": [
-      "Astronomia",
-      "The Planetary Society",
-      "Cosmos Week",
-      "The Nancy Grace Roman Space Telescope has launched"
-    ],
-    "srcUrl": "https://www.planetary.org/articles/the-nancy-grace-roman-space-telescope-launch",
-    "realUrl": "https://www.cosmosweek.com/?article=the-nancy-grace-roman-space-telescope-has-launched",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=the-nancy-grace-roman-space-telescope-has-launched",
-    "realUrl_en": "https://www.cosmosweek.com/?article=the-nancy-grace-roman-space-telescope-has-launched&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-has-launched/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-has-launched/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-nancy-grace-roman-space-telescope-has-launched/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-has-launched/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-nancy-grace-roman-space-telescope-has-launched/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-nancy-grace-roman-space-telescope-has-launched/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 90,
-    "scoreBreakdown": {
-      "source": 83,
-      "evidence": 54,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "The Nancy Grace Roman Space Telescope has launched",
-    "imageAlt_pt": "The Nancy Grace Roman Space Telescope has launched",
-    "imageAlt_en": "The Nancy Grace Roman Space Telescope has launched",
-    "coverageKind": "news",
-    "coverageKindLabel": "Jornalismo científico",
-    "coverageKindLabel_pt": "Jornalismo científico",
-    "coverageKindLabel_en": "Science journalism",
     "storyKind": "science"
   },
   {
@@ -2863,30 +2837,30 @@
     "inline_images": [
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_pillars.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_article.jpg",
-        "caption": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_en": "LKH Milky Way merger (artist’s impression)",
         "alt": "Fusão da Via Láctea LKH (impressão artística)",
         "alt_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_en": "LKH Milky Way merger (artist’s impression)"
+        "alt_en": "LKH Milky Way merger (artist’s impression)",
+        "caption": "Fusão da Via Láctea LKH (impressão artística)",
+        "caption_pt": "Fusão da Via Láctea LKH (impressão artística)",
+        "caption_en": "LKH Milky Way merger (artist’s impression)"
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/01/the_best_milky_way_animation_by_gaia/26531043-2-eng-GB/The_best_Milky_Way_animation_by_Gaia_pillars.png",
-        "caption": "Galáxia Via Láctea",
-        "caption_pt": "Galáxia Via Láctea",
-        "caption_en": "Milky Way galaxy",
         "alt": "Galáxia Via Láctea",
         "alt_pt": "Galáxia Via Láctea",
-        "alt_en": "Milky Way galaxy"
+        "alt_en": "Milky Way galaxy",
+        "caption": "Galáxia Via Láctea",
+        "caption_pt": "Galáxia Via Láctea",
+        "caption_en": "Milky Way galaxy"
       }
     ],
     "video": null,
@@ -2901,19 +2875,19 @@
     "excerpt_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
     "excerpt_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in.",
     "highlights": [
-      "Em foco: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
+      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 ago 2026",
     "date_pt": "17 ago 2026",
