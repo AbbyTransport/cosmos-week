@@ -3,6 +3,312 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/psd/solar/internal_resources/5223/Arrokoth-1.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/KDQYSUR0F1o?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Pequenos mundos descobertos pelo Hubble e Webb",
+      "title_pt": "Pequenos mundos descobertos pelo Hubble e Webb",
+      "title_en": "Tiny Worlds Discovered by Hubble and Webb",
+      "caption": "Além de Netuno, incontáveis ​​mundos congelados orbitam o Sol há bilhões de anos, preservando pistas desde os primeiros dias do nosso sistema solar.",
+      "caption_pt": "Além de Netuno, incontáveis ​​mundos congelados orbitam o Sol há bilhões de anos, preservando pistas desde os primeiros dias do nosso sistema solar.",
+      "caption_en": "Beyond Neptune, countless frozen worlds have orbited the Sun for billions of years, preserving clues from the earliest days of our solar system. By combining. ..",
+      "sourcePage": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
+    },
+    "audio": null,
+    "title": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
+    "title_pt": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
+    "title_en": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+    "sub": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema.",
+    "sub_pt": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema.",
+    "sub_en": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system.",
+    "excerpt": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos.",
+    "excerpt_pt": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos.",
+    "excerpt_en": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects.",
+    "body": "<p>Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos. Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos (TNOs).</p><p>Descobrindo objetos gelados no Cinturão de Kuiper As observações do Hubble na periferia do nosso sistema solar encontraram uma lua orbitando Makemake e várias novas luas ao redor de Plutão. Obra: NASA, ESA, Leah Hustak (STScI) Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos (TNOs).</p><p>Em dois artigos complementares publicados terça-feira no The Astronomical Journal, as equipes analisaram a cor, a composição e a distribuição de tamanho de 27 TNOs minúsculos e escuros recém-descobertos. Na pesquisa mais profunda do TNO até à data, equipas lideradas por candidatos a doutoramento da Universidade de Victoria, no Canadá, sob a orientação do Conselho Nacional de Investigação do Canadá, e da Universidade do Norte do Arizona, em Flagstaff, examinaram uma parte do céu.</p><p>Webb descobriu 27 novos TNOs notavelmente fracos, um deles tão fraco que equivale a estar na Terra e ver um pequeno enxame de vaga-lumes na Lua. O menor deles observado tem um diâmetro de cerca de 5 quilômetros, que é cerca de cinco vezes menor do que o que é possível detectar com os telescópios terrestres mais sensíveis.</p><p>Com a sensibilidade do Hubble na luz visível e a do Webb no infravermelho, os telescópios espaciais fornecem mais informações do que qualquer um deles poderia sozinho. O Goddard Space Flight Center da NASA em Greenbelt, Maryland, gerencia o telescópio e as operações da missão.</p><p>O Space Telescope Science Institute em Baltimore, que é operado pela Associação de Universidades para Pesquisa em Astronomia, conduz operações científicas do Hubble para a NASA.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos. Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos (TNOs).</p><p>Descobrindo objetos gelados no Cinturão de Kuiper As observações do Hubble na periferia do nosso sistema solar encontraram uma lua orbitando Makemake e várias novas luas ao redor de Plutão. Obra: NASA, ESA, Leah Hustak (STScI) Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos (TNOs).</p><p>Em dois artigos complementares publicados terça-feira no The Astronomical Journal, as equipes analisaram a cor, a composição e a distribuição de tamanho de 27 TNOs minúsculos e escuros recém-descobertos. Na pesquisa mais profunda do TNO até à data, equipas lideradas por candidatos a doutoramento da Universidade de Victoria, no Canadá, sob a orientação do Conselho Nacional de Investigação do Canadá, e da Universidade do Norte do Arizona, em Flagstaff, examinaram uma parte do céu.</p><p>Webb descobriu 27 novos TNOs notavelmente fracos, um deles tão fraco que equivale a estar na Terra e ver um pequeno enxame de vaga-lumes na Lua. O menor deles observado tem um diâmetro de cerca de 5 quilômetros, que é cerca de cinco vezes menor do que o que é possível detectar com os telescópios terrestres mais sensíveis.</p><p>Com a sensibilidade do Hubble na luz visível e a do Webb no infravermelho, os telescópios espaciais fornecem mais informações do que qualquer um deles poderia sozinho. O Goddard Space Flight Center da NASA em Greenbelt, Maryland, gerencia o telescópio e as operações da missão.</p><p>O Space Telescope Science Institute em Baltimore, que é operado pela Associação de Universidades para Pesquisa em Astronomia, conduz operações científicas do Hubble para a NASA.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Uncovering Icy Objects in the Kuiper Belt Hubble observations of the outskirts of our solar system found a moon orbiting Makemake and several new moons around Pluto. NASA, ESA, Leah Hustak (STScI) For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in.</p><p>In two complementary papers published Tuesday in The Astronomical Journal, teams analyzed the color, composition, and size distribution of 27 newly discovered tiny, dim TNOs. In the deepest TNO survey to date, teams led by PhD candidates from the University of Victoria in Canada, under the guidance of the National Research Council of Canada, and.</p><p>Webb discovered 27 new, remarkably dim TNOs, one so faint it is equivalent to standing on Earth and seeing a small swarm of fireflies on the Moon. The smallest one they observed has a diameter of about 3 miles (5 kilometers), which is about five times smaller than what is possible to detect with the most sensitive.</p><p>With Hubble’s sensitivity in visible light and Webb’s in infrared, the space telescopes provide more insights than either can on its own. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency).</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "08 set 2026",
+    "date_pt": "08 set 2026",
+    "date_en": "08 Sep 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-08T14:00:28+00:00",
+    "lastModifiedIso": "2026-09-08T19:00:18+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Hubble and Webb find distant solar system objects 'remember' the past"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
+    "imageAlt_pt": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
+    "imageAlt_en": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "the-otherworldly-geology-of-vasquez-rocks",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrocks_oli_20260728_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrockswide_oli_20260728.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-otherworldly-geology-of-vasquez-rocks/vasquezrockswide_432_oli_20260728.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://media.startrek.com/2021/03/04/1400597059552/cbs_startrek_019_clip1_660844_5192.mp4",
+      "poster": "https://images.prismic.io/star-trek-untold/ZDQzZWYwZjktMjU1Zi00NGRlLTg0YWEtYjA0NDQ4Yjk5MTlh_kirkgorn.jpg?auto=compress,format&rect=0,0,2000,1080&w=2000&h=1080",
+      "title": "Capitão Kirk vs.",
+      "title_pt": "Capitão Kirk vs.",
+      "title_en": "Captain Kirk vs. Gorn",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.startrek.com/videos/watch-captain-kirk-vs-gorn"
+    },
+    "audio": null,
+    "title": "A geologia do outro mundo das rochas de Vasquez",
+    "title_pt": "A geologia do outro mundo das rochas de Vasquez",
+    "title_en": "The Otherworldly Geology of Vasquez Rocks",
+    "sub": "Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema, incluindo a equipe por trás de Star.",
+    "sub_pt": "Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema, incluindo a equipe por trás de Star.",
+    "sub_en": "Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek.",
+    "excerpt": "Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema, incluindo a equipe por trás de Star Trek.",
+    "excerpt_pt": "Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema, incluindo a equipe por trás de Star Trek.",
+    "excerpt_en": "Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek.",
+    "body": "<p>Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema, incluindo a equipe por trás de Star Trek. A visualização em cores falsas (bandas 6-5-4) incorpora observações de ondas curtas no infravermelho e no infravermelho próximo que acentuam as diferenças na vegetação da paisagem em comparação com a imagem em cores naturais à direita.</p><p>Downloads 28 de julho de 2026: Cor falsa (bandas 6-5-4) JPEG (22, 57 MB) 28 de julho de 2026: JPEG de cor natural (19, 33 MB) Referências e recursos Departamento de Parques e Recreação do condado de Los Angeles, Vasquez Rocks Natural Area. Space. com (2026, 4 de setembro) Trekkies homenageiam o 60º aniversário de &#x27;Star Trek&#x27; com eventos de fãs, exibições especiais e uma saudação vulcana recorde mundial.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>A imagem em cores falsas (bandas 6-5-4) à esquerda incorpora observações de ondas curtas no infravermelho e no infravermelho próximo que acentuam as diferenças na vegetação e na umidade do solo em comparação com a imagem em cores naturais à direita. Os geólogos estimam que a inclinação dos estratos rochosos sedimentares encontrados na área é em média de 50 graus, suficientemente íngreme para que muitas das formações sobrenaturais pareçam apontar para as estrelas.</p><p>Quando se formavam, há 25 milhões de anos, os sedimentos espalharam-se por leques aluviais, depósitos em forma de cone que se desenvolvem à medida que riachos rápidos desaguam em planícies relativamente planas. Imagens do Observatório da Terra da NASA por Michala Garrison, usando dados Landsat dos EUA.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema, incluindo a equipe por trás de Star Trek. A visualização em cores falsas (bandas 6-5-4) incorpora observações de ondas curtas no infravermelho e no infravermelho próximo que acentuam as diferenças na vegetação da paisagem em comparação com a imagem em cores naturais à direita.</p><p>Downloads 28 de julho de 2026: Cor falsa (bandas 6-5-4) JPEG (22, 57 MB) 28 de julho de 2026: JPEG de cor natural (19, 33 MB) Referências e recursos Departamento de Parques e Recreação do condado de Los Angeles, Vasquez Rocks Natural Area. Space. com (2026, 4 de setembro) Trekkies homenageiam o 60º aniversário de &#x27;Star Trek&#x27; com eventos de fãs, exibições especiais e uma saudação vulcana recorde mundial.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Imagem do dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes.</p><p>A imagem em cores falsas (bandas 6-5-4) à esquerda incorpora observações de ondas curtas no infravermelho e no infravermelho próximo que acentuam as diferenças na vegetação e na umidade do solo em comparação com a imagem em cores naturais à direita. Os geólogos estimam que a inclinação dos estratos rochosos sedimentares encontrados na área é em média de 50 graus, suficientemente íngreme para que muitas das formações sobrenaturais pareçam apontar para as estrelas.</p><p>Quando se formavam, há 25 milhões de anos, os sedimentos espalharam-se por leques aluviais, depósitos em forma de cone que se desenvolvem à medida que riachos rápidos desaguam em planícies relativamente planas. Imagens do Observatório da Terra da NASA por Michala Garrison, usando dados Landsat dos EUA.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The false-color view (bands 6-5-4) incorporates shortwave-infrared and near-infrared observations that accentuate differences in the landscape’s vegetation in comparison to the. False color (bands 6-5-4) JPEG (22.57 MB) July 28, 2026: Natural color JPEG (19.33 MB) References &amp; Resources County of Los Angeles Department of Parks and Recreation, Vasquez.</p><p>Space. com (2026, September 4) Trekkies honor ‘Star Trek’s’ 60th birthday with fan events, special screenings, and a world record Vulcan salute. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery. The false-color image (bands 6-5-4) on the left incorporates shortwave-infrared and near-infrared observations that accentuate differences in vegetation and soil moisture in.</p><p>Geologists estimate that the tilt of sedimentary rock strata found in the area averages 50 degrees, steep enough that many of the otherworldly formations appear to point toward. Viewed from space, the Vasquez Rocks are considerably less dramatic, but they show up clearly as bands of gray nestled between mountain ranges in these false-color (left) and.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The false-color view (bands 6-5-4) incorporates shortwave-infrared and near-infrared observations that accentuate differences in the landscape&#x27;s vegetation in comparison to the. When they were forming 25 million years ago, sediment was spread across alluvial fans —cone-shaped deposits that develop as fast-moving streams empty onto relatively flat plains.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Camadas de rocha sedimentar que se projetam da Bacia de Soledad em ângulos surpreendentes há muito fascinam produtores de televisão e cinema",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "08 set 2026",
+    "date_pt": "08 set 2026",
+    "date_en": "08 Sep 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-08T04:01:00+00:00",
+    "lastModifiedIso": "2026-09-08T19:00:18+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A geologia do outro mundo das rochas de Vasquez"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A geologia do outro mundo das rochas de Vasquez"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The Otherworldly Geology of Vasquez Rocks"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/",
+    "realUrl": "https://www.cosmosweek.com/?article=the-otherworldly-geology-of-vasquez-rocks",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=the-otherworldly-geology-of-vasquez-rocks",
+    "realUrl_en": "https://www.cosmosweek.com/?article=the-otherworldly-geology-of-vasquez-rocks&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/the-otherworldly-geology-of-vasquez-rocks/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/the-otherworldly-geology-of-vasquez-rocks/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/the-otherworldly-geology-of-vasquez-rocks/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/the-otherworldly-geology-of-vasquez-rocks/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/the-otherworldly-geology-of-vasquez-rocks/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/the-otherworldly-geology-of-vasquez-rocks/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "A geologia do outro mundo das rochas de Vasquez",
+    "imageAlt_pt": "A geologia do outro mundo das rochas de Vasquez",
+    "imageAlt_en": "The Otherworldly Geology of Vasquez Rocks",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "meet-the-next-generation-of-mars-exploration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -187,7 +493,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -208,19 +514,19 @@ window.postsData = [
     "body_pt": "<p>EDT na sexta-feira, 2 de outubro, intitulado “O motor RS-25 e o futuro das missões Artemis: um webinar acessível para a comunidade de cegos e deficientes visuais. Dois técnicos da Michoud Assembly Facility da NASA em Nova Orleans ficam ao redor de um dos quatro motores RS-25 no estágio central do foguete SLS (Sistema de Lançamento Espacial) da agência em 25 de setembro.</p><p>O teste do motor RS-25 parece um bocal em forma de sino preso a uma rede de tubos. Robert Shelton, engenheiro-chefe de simulação, Johnson Space Center da NASA em Houston Christine Malec, redatora e consultora freelance Os interessados ​​em participar do webinar devem confirmar presença usando este formulário até sexta-feira, 1º de setembro.</p><p>Para obter informações adicionais sobre as missões Artemis, visite: https: //www. nasa. gov/artemis Detalhes de compartilhamento Última atualização em 04 de setembro de 2026 Localização Sede da NASA Termos relacionados Eventos gerais. A NASA realizará um webinar virtual às 14h.</p><p>2, intitulado “O motor RS-25 e o futuro das missões Artemis: um artigo de webinar acessível Dois técnicos da Michoud Assembly Facility da NASA em Nova Orleans ficam ao redor de um dos quatro motores RS-25 do foguete SLS (Sistema de Lançamento Espacial) da agência em setembro. O motor RS-25 parece um bocal em forma de sino conectado a uma rede de tubos.</p><p>2, intitulado “O motor RS-25 e o futuro das missões Artemis: um webinar acessível para a comunidade de cegos e deficientes visuais”. Este webinar é aberto ao público, porém é adaptado especificamente para um público cego e com baixa visão.</p><p>O webinar durará cerca de duas horas e incluirá um vídeo com audiodescrição de um teste do motor RS-25, uma sessão de perguntas e respostas com um engenheiro da Artemis e um painel sobre acessibilidade no espaço e na ciência.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>NASA will host a virtual webinar at 2 p. m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Two technicians at NASA’s Michoud Assembly Facility in New Orleans stand around one of the four RS-25 engines on the core stage of the agency’s SLS (Space Launch System) rocket on. The RS-25 engine test looks like a bell-shaped nozzle attached to a network of pipes.</p><p>Robert Shelton, lead simulation engineer, NASA’s Johnson Space Center in Houston Christine Malec, freelance writer and consultant Those interested in attending the webinar must. For additional information on the Artemis missions, visit: https: //www. nasa. gov/artemis Share Details Last Updated Sep 04, 2026 Location NASA Headquarters Related Terms General.</p><p>2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar Article Two technicians at NASA’s Michoud Assembly Facility in New Orleans stand around one. The RS-25 engine looks like a bell-shaped nozzle attached to a network of pipes.</p><p>2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community. The webinar will last about two hours and include an audio-described video of an RS-25 engine test, a Q&amp;A session with an Artemis engineer, and a panel about accessibility in.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>NASA’s Artemis program will send astronauts on increasingly difficult missions to explore the Moon and establish a Moon Base on the lunar surface. Kimberly Arcand, visualization scientist, NASA’s Chandra X-ray Observatory Josh Greiner, test director, NASA’s Stennis Space Center in Bay St.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: A NASA realizará um webinar virtual às 14h. m",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA realizará um webinar virtual às 14h. m. EDT na sexta-feira, 2 de outubro, intitulado “O motor RS-25 e o futuro das missões Artemis: um webinar.",
+      "Dado-chave: A NASA realizará um webinar virtual às 14h. m",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A NASA realizará um webinar virtual às 14h. m",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA realizará um webinar virtual às 14h. m. EDT na sexta-feira, 2 de outubro, intitulado “O motor RS-25 e o futuro das missões Artemis: um webinar.",
+      "Dado-chave: A NASA realizará um webinar virtual às 14h. m",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA will host a virtual webinar at 2 p. m. EDT on Friday, Oct",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA will host a virtual webinar at 2 p. m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar.",
+      "Key detail: NASA will host a virtual webinar at 2 p. m. EDT on Friday, Oct",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "04 set 2026",
     "date_pt": "04 set 2026",
@@ -308,7 +614,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "who-knew-there-were-so-many-more-moons",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -349,17 +655,17 @@ window.postsData = [
     "body_en": "<p>Roman is on its way to make discoveries, including more Solar System moons than you might expect. The science-journalism coverage adds useful context, while the strongest evidential footing still comes from the underlying data, papers or institutional documentation.</p><p>This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Roman is expected to discover approximately 1, 000 previously unknown moons of Jupiter, 200 moons of Saturn, 100 moons of Uranus, and 5 moons of Neptune. NASA’s New Horizons mission may shut down science instruments due to a lack of funding.</p><p>New Horizons, which brought us the first close-up images of Pluto, is currently 66 times farther from the Sun than Earth and in good health, but a lack of funding may force the. NASA’s Pandora mission has begun science operations.</p><p>ESA’s Juice mission will study a tiny Jovian moon up close. The mission to study Jupiter’s icy moons will include a flyby of Kallichore, a small, dark, irregular moon with a retrograde orbit around the giant planet.</p><p>Planning for the 2031 flyby has involved observations using several space- and ground-based telescopes, including Hubble. This network will provide reliable, high-bandwidth communications and navigation services essential to current and future Mars missions.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Blue Origin won a $700-million-dollar contract to deliver an orbiter to NASA by the end of 2028. Building on their earlier STEP Grant-funded research into hypersaline lakes that mirror past conditions on Mars, they&#x27;re now developing techniques to better study these.</p><p>Because this item comes through The Planetary Society as science journalism, it should be treated as contextual reporting rather than primary evidence. Good science reporting can identify why a result matters, connect it to the wider literature and make technical work readable, but the decisive evidence remains in the original paper, dataset, mission release or technical record. That distinction is especially important when a story is later repeated by aggregators, because repetition increases visibility, not evidential strength.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.planetary.org/the-downlink/who-knew-there-were-so-many-more-moons\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina.",
-      "Dado-chave: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina",
+      "Dado-chave: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
       "Ponto central: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina.",
-      "Dado-chave: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina",
+      "Dado-chave: Roman está a caminho de fazer descobertas, incluindo mais luas do Sistema Solar do que você imagina.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
       "Core point: Roman is on its way to make discoveries, including more Solar System moons than you might expect.",
-      "Key detail: Roman is on its way to make discoveries, including more Solar System moons than you might expect",
+      "Key detail: Roman is on its way to make discoveries, including more Solar System moons than you might expect.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "04 set 2026",
@@ -448,7 +754,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 6,
     "slug": "how-sentinel-3-tracks-climate-change",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -591,7 +897,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 7,
     "slug": "a-trio-of-tropical-cyclones-in-the-pacific",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -731,7 +1037,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 8,
     "slug": "sgr-a-as-a-galactic-pevatron-multimessenger-signatures-of-the-magnetic-penrose-process",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -753,17 +1059,17 @@ window.postsData = [
     "body_en": "<p>The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole, enabling charged particles to reach very-high energies. The new analysis still awaits peer review, but it already lays out the central claim clearly.</p><p>This matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The magnetic Penrose process (MPP) is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole (BH), enabling charged particles to. We investigate this process in Sagittarius A* (Sgr A*), the supermassive BH at the Galactic center (GC), focusing on its ultra-high-efficiency regime, in which neutrons undergo.</p><p>As a key novelty, we compute the neutron production spectrum in the accretion flow directly from the nuclear reaction kinematics and follow neutron trajectories in the Kerr. From this population, we derive the spectrum of accelerated protons and show that Sgr A* can accelerate them up to PeV energies, strengthening its interpretation as a candidate.</p><p>We further compute the gamma-ray and neutrino emission produced through hadronic interactions of the escaping protons in the Central Molecular Zone. The predicted gamma-ray fluxes exhibit distinctive spectral features that could provide an observational signature of the MPP and may constitute a non-negligible contribution to.</p><p>The associated neutrino fluxes remain below the diffuse Galactic component inferred by IceCube, but may still contribute to the high-energy emission from the GC. Remarkably, the predicted signals lie within the projected sensitivity of SWGO for all scenarios considered here and, for some models, only a factor of a few below the nominal.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Our results establish the MPP as an observable mechanism for extracting BH rotational energy, providing a direct connection between horizon-scale physics and multimessenger. Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy.</p><p>Because this is still a preprint, the result should be read with genuine interest and proportionate caution. Peer review is not a guarantee of correctness, but it is a process that forces authors to respond to technical criticism from specialists who have no stake in a particular outcome. Preprints that survive that process, often with substantive revisions, emerge with a stronger evidential base than the version that first appeared. Until that stage is complete, the responsible reading keeps uncertainty explicitly visible rather than treating the claims as established findings.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind. Until peer review and independent follow-up address those open questions, skepticism is not a failure of appreciation for the work; it is part of how science decides what to keep.</p><p class=\"art-source\"><a href=\"https://arxiv.org/abs/2609.04051v1\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado.",
-      "Dado-chave: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado",
+      "Dado-chave: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado.",
-      "Dado-chave: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado",
+      "Dado-chave: O processo magnético de Penrose é um dos mecanismos mais eficientes para extrair energia rotacional de um buraco negro de Kerr magnetizado.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole, enabling.",
-      "Key detail: The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole, enabling",
+      "Key detail: The magnetic Penrose process is one of the most efficient mechanisms for extracting rotational energy from a magnetized Kerr black hole.",
       "Result not yet peer reviewed."
     ],
     "date": "03 set 2026",
@@ -855,165 +1161,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 7,
-    "slug": "nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png/jcr:content/renditions/Full-Res-For-Print.tif",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png/jcr:content/renditions/2494x1247.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png/jcr:content/renditions/2000x1000.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
-    "title_pt": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
-    "title_en": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-    "sub": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "sub_pt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "sub_en": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-    "excerpt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "excerpt_pt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "excerpt_en": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-    "body": "<p>O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. Processamento de imagem: Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.</p><p>Esta característica é diferente, parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante. Os dados do Hubble confirmaram a presença do recurso até 2023.” Um único filtro do Telescópio Espacial Hubble da NASA mostra claramente uma onda de 10 lados circundando o pólo sul de Saturno, denominada “decágono”.</p><p>A questão é: por que isso se formou de repente agora, quando nunca vimos um antes?” Os autores dizem que são necessários mais estudos do Hubble e do Telescópio Espacial James Webb da NASA, bem como análises de modelos de computador, para entender como o decágono se formou. Continue explorando Descubra mais tópicos do Hubble Telescópio Espacial Hubble Desde seu lançamento em 1990, o Telescópio Espacial Hubble mudou nossa compreensão fundamental do universo.</p><p>Equipe Romana Equipe Hubble Aspirações de carreira Astronautas do Hubble Imagens multimídia Vídeos Atividades on-line e-books Sonificações Podcasts Modelos 3D do Hubble Litografias Fichas técnicas Pôsteres Hubble no aplicativo da NASA Glossário Notícias Notícias do Hubble Mídia. Esta característica é diferente - parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante.</p><p>A visão espacial do Hubble oferece nitidez de imagem e resolução espacial incomparáveis ​​em rotações completas de Saturno, sem ser manchada pela atmosfera da Terra. Dada a simetria de Saturno no seu sistema de corrente de jato norte-sul, temos procurado uma contraparte do hexágono norte de Saturno no pólo sul em imagens do Hubble desde 1990”, disse Sánchez-Lavega.</p><p>Imagens da sonda Cassini da NASA, que orbitou Saturno entre 2004 e 2017, também não mostraram qualquer indício de uma formação de longa duração.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. Processamento de imagem: Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.</p><p>Esta característica é diferente, parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante. Os dados do Hubble confirmaram a presença do recurso até 2023.” Um único filtro do Telescópio Espacial Hubble da NASA mostra claramente uma onda de 10 lados circundando o pólo sul de Saturno, denominada “decágono”.</p><p>A questão é: por que isso se formou de repente agora, quando nunca vimos um antes?” Os autores dizem que são necessários mais estudos do Hubble e do Telescópio Espacial James Webb da NASA, bem como análises de modelos de computador, para entender como o decágono se formou. Continue explorando Descubra mais tópicos do Hubble Telescópio Espacial Hubble Desde seu lançamento em 1990, o Telescópio Espacial Hubble mudou nossa compreensão fundamental do universo.</p><p>Equipe Romana Equipe Hubble Aspirações de carreira Astronautas do Hubble Imagens multimídia Vídeos Atividades on-line e-books Sonificações Podcasts Modelos 3D do Hubble Litografias Fichas técnicas Pôsteres Hubble no aplicativo da NASA Glossário Notícias Notícias do Hubble Mídia. Esta característica é diferente - parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante.</p><p>A visão espacial do Hubble oferece nitidez de imagem e resolução espacial incomparáveis ​​em rotações completas de Saturno, sem ser manchada pela atmosfera da Terra. Dada a simetria de Saturno no seu sistema de corrente de jato norte-sul, temos procurado uma contraparte do hexágono norte de Saturno no pólo sul em imagens do Hubble desde 1990”, disse Sánchez-Lavega.</p><p>Imagens da sonda Cassini da NASA, que orbitou Saturno entre 2004 e 2017, também não mostraram qualquer indício de uma formação de longa duração.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Alyssa Pagan Recent observations with NASA’s Hubble Space Telescope have revealed a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole. This feature is different, it appears to be strengthening, giving us the rare opportunity to watch a giant atmospheric pattern develop.</p><p>The Hubble data confirmed the feature’s presence back to 2023.” A single filter from NASA’s Hubble Space Telescope distinctly shows a 10-sided wave encircling Saturn’s south pole. The question is, why did it suddenly form now when we haven’t seen one before?” The authors say further study is needed from Hubble and NASA’s James Webb Space Telescope, as well.</p><p>Keep Exploring Discover More Topics From Hubble Hubble Space Telescope Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe. Roman Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets.</p><p>Hubble’s view from space offers unmatched image sharpness and spatial resolution over full rotations of Saturn, without smearing by Earth’s atmosphere. Given Saturn’s symmetry in its north-south jet stream system, we have been searching for a counterpart to Saturn’s northern hexagon on the south pole in Hubble images since 1990,”.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Images from NASA’s Cassini spacecraft, which orbited Saturn between 2004 and 2017, showed no inkling of a long-lived formation, either. The Hubble data confirmed the feature’s presence back to 2023.” “The most intriguing part to me is that this seems to have just formed recently,” said Simon.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-      "Dado-chave: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-      "Dado-chave: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-      "Key detail: NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "18h00",
-    "time_pt": "18h00",
-    "time_en": "18: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-02T18:00:37+00:00",
-    "lastModifiedIso": "2026-09-03T18:53:45+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Hubble tracks new decagon circling Saturn's south pole"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
-    "imageAlt_pt": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
-    "imageAlt_en": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
+    "id": 9,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1174,7 +1322,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1314,7 +1462,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "flex-and-sentinel-3c-sealed-within-vega-c-fairing",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1374,7 +1522,7 @@ window.postsData = [
     ],
     "highlights_en": [
       "Core point: At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final.",
-      "Key detail: At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final",
+      "Key detail: At Europe’s Spaceport in French Guiana, preparations for one of the year’s most anticipated Earth-observation launches are entering their final.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 set 2026",
@@ -1466,7 +1614,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1587,143 +1735,6 @@ window.postsData = [
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
     "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 12,
-    "slug": "what-s-up-september-2026-skywatching-tips-from-nasa",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/s_5V4X6SiWI?rel=0&modestbranding=1",
-      "fileUrl": "",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg?w=1870&h=1241&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "JPL 20260901 WHATSUf 0001 E aí, setembro de 2026",
-      "title_pt": "JPL 20260901 WHATSUf 0001 E aí, setembro de 2026",
-      "title_en": "JPL 20260901 WHATSUf 0001 Whats Up September 2026",
-      "caption": "Curta os vídeos e as músicas que você adora, carregue conteúdo original e compartilhe tudo com amigos, familiares e o mundo todo no YouTube.",
-      "caption_pt": "Curta os vídeos e as músicas que você adora, carregue conteúdo original e compartilhe tudo com amigos, familiares e o mundo todo no YouTube.",
-      "caption_en": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "sourcePage": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/"
-    },
-    "audio": null,
-    "title": "E aí: dicas de observação do céu de setembro de 2026 da NASA",
-    "title_pt": "E aí: dicas de observação do céu de setembro de 2026 da NASA",
-    "title_en": "What’s Up: September 2026 Skywatching Tips from NASA",
-    "sub": "Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia perto de Saturno e Netuno.",
-    "sub_pt": "Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia perto de Saturno e Netuno.",
-    "sub_en": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune.",
-    "excerpt": "Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia perto de Saturno e Netuno.",
-    "excerpt_pt": "Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia perto de Saturno e Netuno.",
-    "excerpt_en": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune.",
-    "body": "<p>Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia perto de Saturno e Netuno. Transcrição dos destaques do Skywatching A Lua se junta a uma festa do chá.</p><p>26: Lua Cheia nasce perto de Saturno e Netuno Pássaros voam sobre um celeiro enquanto a Lua Cheia nasce. Transcrição de Mike Linnihan A Lua se junta a uma festa do chá.</p><p>NASA/JPL-Caltech De 14 a 20 de setembro, deixe a Lua guiá-lo até alguns marcos celestes. NASA / JPL-Caltech Olhe para o oeste em 18 de setembro, quando Vênus atinge o brilho máximo, brilhando em sua aparência mais brilhante desta noite.</p><p>NASA/JPL-Caltech E em 26 de setembro, a Harvest Moon assume o centro das atenções, surgindo no leste logo após o pôr do sol. As fases da Lua para setembro de 2026.</p><p>De 14 a 20 de setembro, deixe a Lua guiá-lo até alguns marcos celestes. No dia 19 de setembro, comemore a Noite Internacional de Observação da Lua! .</p><p>Pessoas de todo o mundo são convidadas a olhar para cima e a conectar-se com o nosso vizinho celestial mais próximo enquanto aprendem mais sobre a ciência lunar, a exploração e as muitas formas como a Lua moldou as culturas em todo o mundo.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia perto de Saturno e Netuno. Transcrição dos destaques do Skywatching A Lua se junta a uma festa do chá.</p><p>26: Lua Cheia nasce perto de Saturno e Netuno Pássaros voam sobre um celeiro enquanto a Lua Cheia nasce. Transcrição de Mike Linnihan A Lua se junta a uma festa do chá.</p><p>NASA/JPL-Caltech De 14 a 20 de setembro, deixe a Lua guiá-lo até alguns marcos celestes. NASA / JPL-Caltech Olhe para o oeste em 18 de setembro, quando Vênus atinge o brilho máximo, brilhando em sua aparência mais brilhante desta noite.</p><p>NASA/JPL-Caltech E em 26 de setembro, a Harvest Moon assume o centro das atenções, surgindo no leste logo após o pôr do sol. As fases da Lua para setembro de 2026.</p><p>De 14 a 20 de setembro, deixe a Lua guiá-lo até alguns marcos celestes. No dia 19 de setembro, comemore a Noite Internacional de Observação da Lua! .</p><p>Pessoas de todo o mundo são convidadas a olhar para cima e a conectar-se com o nosso vizinho celestial mais próximo enquanto aprendem mais sobre a ciência lunar, a exploração e as muitas formas como a Lua moldou as culturas em todo o mundo.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Skywatching Highlights Transcript The Moon joins a tea party. Venus cranks up the brightness. the seasons officially change. and the Harvest Moon meets up with. 26: Harvest Moon rises near Saturn and Neptune Birds fly over a barn as a harvest Moon rises.</p><p>Mike Linnihan Transcript The Moon joins a tea party. Venus cranks up the brightness. the seasons officially change. and the Harvest Moon meets up with some planetary neighbors. NASA/JPL-Caltech From September 14 through 20, let the Moon guide you to a few celestial landmarks.</p><p>NASA/JPL-Caltech Look west on September 18 as Venus hits peak brilliance, shining at its brightest of this evening appearance. NASA/JPL-Caltech And on September 26, the Harvest Moon takes center stage, rising in the east shortly after sunset.</p><p>The phases of the Moon for September 2026. Share Details Last Updated Sep 01, 2026 Related Terms Skywatching Earth’s Moon Neptune Saturn Skywatching Tips The Solar System Venus Keep Exploring Discover More Topics From NASA.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>From September 14 through 20, let the Moon guide you to a few celestial landmarks. On September 19, celebrate International Observe the Moon Night.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia.",
-      "Dado-chave: Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua cheia.",
-      "Dado-chave: Vênus brilhante e uma lua cheia Use a Lua para encontrar Antares e o bule, aviste Vênus brilhante, dê as boas-vindas ao equinócio e veja a lua.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon.",
-      "Key detail: Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 set 2026",
-    "date_pt": "01 set 2026",
-    "date_en": "01 Sep 2026",
-    "time": "19h15",
-    "time_pt": "19h15",
-    "time_en": "19: 15 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-01T19:15:25+00:00",
-    "lastModifiedIso": "2026-09-02T18:57:43+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "E aí",
-      "dicas de observação do céu de setembro de 2026 da NASA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "E aí",
-      "dicas de observação do céu de setembro de 2026 da NASA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "And there",
-      "NASA's September 2026 skywatching tips"
-    ],
-    "srcUrl": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
-    "realUrl": "https://www.cosmosweek.com/?article=what-s-up-september-2026-skywatching-tips-from-nasa",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=what-s-up-september-2026-skywatching-tips-from-nasa",
-    "realUrl_en": "https://www.cosmosweek.com/?article=what-s-up-september-2026-skywatching-tips-from-nasa&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/what-s-up-september-2026-skywatching-tips-from-nasa/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/what-s-up-september-2026-skywatching-tips-from-nasa/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/what-s-up-september-2026-skywatching-tips-from-nasa/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/what-s-up-september-2026-skywatching-tips-from-nasa/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/what-s-up-september-2026-skywatching-tips-from-nasa/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/what-s-up-september-2026-skywatching-tips-from-nasa/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "E aí: dicas de observação do céu de setembro de 2026 da NASA",
-    "imageAlt_pt": "E aí: dicas de observação do céu de setembro de 2026 da NASA",
-    "imageAlt_en": "What’s Up: September 2026 Skywatching Tips from NASA",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
@@ -2068,19 +2079,19 @@ window.postsData = [
     "body_pt": "<p>Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo. A postagem Pasterze persiste como a maior geleira da Áustria apareceu pela primeira vez na NASA Science.</p><p>Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Pasterze permanece como a maior geleira da Áustria apareceu pela primeira vez em NASA Science. As imagens Landsat da NASA/USGS acima capturam a mudança da geleira de 22 de agosto de 1985 a 15 de agosto de 2026.</p><p>Em recuo desde meados de 1800, o Pasterze perdeu massa quase continuamente e em taxas crescentes desde 1980, de acordo com cientistas da Universidade de Graz, do GeoSphere Austria e do Clube Alpino Austríaco. A partir da década de 2010, o volume de gelo fornecido por altitudes mais elevadas tem sido pequeno o suficiente para deixar o gelo do vale quase estagnado.</p><p>Entre 1998 e 2025, cientistas da Universidade de Graz monitorizaram a largura da cascata de gelo, encontrando uma diminuição de quase 900 metros (3.000 pés) para apenas 120 metros (390 pés). Fotos tiradas em meados de agosto de 2026 confirmaram que a cascata de gelo ainda estava intacta, disse Andreas Kellerer-Pirklbauer, cientista do departamento de geografia da Universidade de Graz e codiretor do serviço de medição de geleiras do Clube Alpino Austríaco.</p><p>Os observadores esperam que a ligação dure pelo menos até 2027, disse ele, com base na sua condição atual e assumindo temperaturas relativamente normais no próximo outono e inverno. Kellerer-Pirklbauer e colegas acompanharam o crescimento do lago de 1998 a 2019 e descobriram que a sua área aumentou exponencialmente ao longo desse período.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/pasterze-hangs-on-as-austrias-largest-glacier/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>One narrowing icefall remains the linchpin for the Alpine glacier, and it may not be long for this world. The post Pasterze Hangs on as Austria’s Largest Glacier appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Pasterze Hangs on as Austria’s Largest Glacier appeared first on NASA Science. Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Pasterze Hangs on as Austria’s Largest Glacier appeared first on NASA Science.</p><p>The NASA/USGS Landsat images above capture the glacier’s change from August 22, 1985, to August 15, 2026. In retreat since the mid-1800s, the Pasterze has lost mass almost continuously and at increasing rates since 1980, according to scientists from the University of Graz, GeoSphere.</p><p>Starting in the 2010s, the volume of ice supplied from higher elevations has been small enough to leave the ice in the valley almost stagnant. Between 1998 and 2025, scientists from the University of Graz monitored the width of the icefall, finding a decrease from nearly 900 meters (3, 000 feet) to just 120 meters (390.</p><p>Photos taken in mid-August 2026 confirmed the icefall was still intact, said Andreas Kellerer-Pirklbauer, a scientist in the geography department at the University of Graz and. Observers expect the connection to last until at least 2027, he said, based on its current condition and assuming relatively normal temperatures in the upcoming autumn and winter.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Kellerer-Pirklbauer and colleagues tracked the lake’s growth from 1998 to 2019 and found that its area increased exponentially over that time. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/pasterze-hangs-on-as-austrias-largest-glacier/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo.",
+      "Dado-chave: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo.",
+      "Dado-chave: Uma cascata de gelo cada vez mais estreita continua sendo o eixo da geleira alpina, e pode não demorar muito neste mundo",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: One narrowing icefall remains the linchpin for the Alpine glacier, and it may not be long for this world",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: One narrowing icefall remains the linchpin for the Alpine glacier, and it may not be long for this world.",
+      "Key detail: One narrowing icefall remains the linchpin for the Alpine glacier, and it may not be long for this world",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "31 ago 2026",
     "date_pt": "31 ago 2026",
@@ -2938,17 +2949,17 @@ window.postsData = [
     "body_en": "<p>Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
-      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies",
+      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 ago 2026",
