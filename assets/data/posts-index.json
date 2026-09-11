@@ -1,6 +1,241 @@
 [
   {
     "id": 1,
+    "slug": "nsf-leadership-in-a-new-golden-age-of-science",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg/1280px-Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Liderança da NSF em uma nova era de ouro da ciência",
+    "title_pt": "Liderança da NSF em uma nova era de ouro da ciência",
+    "title_en": "NSF leadership in a new golden age of science",
+    "sub": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+    "sub_pt": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+    "sub_en": "The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
+    "excerpt": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira. Essa missão não mudou. O ecossistema de ciência e tecnologia ao seu redor sim.",
+    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira. Essa missão não mudou. O ecossistema de ciência e tecnologia ao seu redor sim.",
+    "excerpt_en": "This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals.",
+    "highlights": [
+      "Em foco: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "10 set 2026",
+    "date_pt": "10 set 2026",
+    "date_en": "10 Sep 2026",
+    "time": "18h59",
+    "time_pt": "18h59",
+    "time_en": "18: 59 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-10T18:59:14+00:00",
+    "lastModifiedIso": "2026-09-11T18:47:10+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www. nsf. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Liderança da NSF em uma nova era de ouro da ciência"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Liderança da NSF em uma nova era de ouro da ciência"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NSF News",
+      "Cosmos Week",
+      "NSF Leadership in a New Golden Age of Science"
+    ],
+    "srcUrl": "https://www.nsf.gov/news/nsf-leadership-new-golden-age-science",
+    "realUrl": "https://www.cosmosweek.com/?article=nsf-leadership-in-a-new-golden-age-of-science",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-leadership-in-a-new-golden-age-of-science",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-leadership-in-a-new-golden-age-of-science&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-leadership-in-a-new-golden-age-of-science/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-leadership-in-a-new-golden-age-of-science/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 96,
+    "scoreBreakdown": {
+      "source": 91,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 52
+    },
+    "imageAlt": "Liderança da NSF em uma nova era de ouro da ciência",
+    "imageAlt_pt": "Liderança da NSF em uma nova era de ouro da ciência",
+    "imageAlt_en": "NSF leadership in a new golden age of science",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Milky_Way%2C_above_Mauna_Kea_-_by_Luc_Viatour.jpg/1280px-Milky_Way%2C_above_Mauna_Kea_-_by_Luc_Viatour.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Sondando os detalhes dos elétrons relativísticos com observações multifrequenciais do buraco negro M87",
+    "title_pt": "Sondando os detalhes dos elétrons relativísticos com observações multifrequenciais do buraco negro M87",
+    "title_en": "Probing the details of relativistic electrons with multifrequency observations of M87 black hole",
+    "sub": "Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência de imagens resolvidas no.",
+    "sub_pt": "Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência de imagens resolvidas no.",
+    "sub_en": "Beginning in March 2026, the Event Horizon Telescope conducted a two-month observing campaign aimed at obtaining the first time-resolved sequence of images of the black hole M87*.",
+    "excerpt": "Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência de imagens resolvidas no tempo do buraco negro M87* no centro da galáxia Virgo A.",
+    "excerpt_pt": "Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência de imagens resolvidas no tempo do buraco negro M87* no centro da galáxia Virgo A.",
+    "excerpt_en": "Beginning in March 2026, the Event Horizon Telescope conducted a two-month observing campaign aimed at obtaining the first time-resolved sequence of images of the black hole M87* at the center of the Virgo A galaxy.",
+    "highlights": [
+      "Em foco: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Beginning in March 2026, the Event Horizon Telescope conducted a two-month observing campaign aimed at obtaining the first time-resolved sequence of",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "10 set 2026",
+    "date_pt": "10 set 2026",
+    "date_en": "10 Sep 2026",
+    "time": "14h28",
+    "time_pt": "14h28",
+    "time_en": "14: 28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-10T14:28:36+00:00",
+    "lastModifiedIso": "2026-09-11T18:47:10+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Sondando os detalhes dos elétrons relativísticos com observações multifrequenciais do buraco negro M87"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Sondando os detalhes dos elétrons relativísticos com observações multifrequenciais do buraco negro M87"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Probing the Details of Relativistic Electrons with Multifrequency Observations of the M87 Black Hole"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2609.11609v1",
+    "realUrl": "https://www.cosmosweek.com/?article=probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
+    "realUrl_en": "https://www.cosmosweek.com/?article=probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 63,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Sondando os detalhes dos elétrons relativísticos com observações multifrequenciais do buraco negro M87",
+    "imageAlt_pt": "Sondando os detalhes dos elétrons relativísticos com observações multifrequenciais do buraco negro M87",
+    "imageAlt_en": "Probing the details of relativistic electrons with multifrequency observations of M87 black hole",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "name-our-dino-esa-s-hera-asteroid-mission-mascot",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -164,7 +399,127 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
+    "slug": "initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Agrupamento inicial de buracos negros primordiais: uma formulação geral para não gaussianidade local arbitrária",
+    "title_pt": "Agrupamento inicial de buracos negros primordiais: uma formulação geral para não gaussianidade local arbitrária",
+    "title_en": "Initial clustering of primordial black holes: A general formulation for arbitrary local non-Gaussianity",
+    "sub": "O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as restrições cosmológicas na abundância.",
+    "sub_pt": "O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as restrições cosmológicas na abundância.",
+    "sub_en": "Initial spatial clustering of primordial black holes induced by local-type non-Gaussianity can substantially modify cosmological constraints on PBH abundance.",
+    "excerpt": "O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as restrições cosmológicas na abundância de PBH.",
+    "excerpt_pt": "O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as restrições cosmológicas na abundância de PBH.",
+    "excerpt_en": "Initial spatial clustering of primordial black holes induced by local-type non-Gaussianity can substantially modify cosmological constraints on PBH abundance.",
+    "highlights": [
+      "Em foco: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Initial spatial clustering of primordial black holes induced by local-type non-Gaussianity can substantially modify cosmological constraints on PBH",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "10 set 2026",
+    "date_pt": "10 set 2026",
+    "date_en": "10 Sep 2026",
+    "time": "09h34",
+    "time_pt": "09h34",
+    "time_en": "09: 34 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-10T09:34:40+00:00",
+    "lastModifiedIso": "2026-09-11T18:47:10+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Agrupamento inicial de buracos negros primordiais",
+      "uma formulação geral para não gaussianidade local arbitrária"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Agrupamento inicial de buracos negros primordiais",
+      "uma formulação geral para não gaussianidade local arbitrária"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Initial cluster of primordial black holes",
+      "a general formulation for arbitrary local non-Gaussianity"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2609.11306v1",
+    "realUrl": "https://www.cosmosweek.com/?article=initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss",
+    "realUrl_en": "https://www.cosmosweek.com/?article=initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Agrupamento inicial de buracos negros primordiais: uma formulação geral para não gaussianidade local arbitrária",
+    "imageAlt_pt": "Agrupamento inicial de buracos negros primordiais: uma formulação geral para não gaussianidade local arbitrária",
+    "imageAlt_en": "Initial clustering of primordial black holes: A general formulation for arbitrary local non-Gaussianity",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 5,
     "slug": "nasa-s-chandra-unveils-mysterious-x-ray-objects",
     "cat": "Física",
     "catCls": "fisica",
@@ -182,19 +537,19 @@
     "excerpt_pt": "Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de qualquer outra que tenham visto antes.",
     "excerpt_en": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
     "highlights": [
-      "Em foco: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de.",
+      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de.",
+      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
+      "Key detail: Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 set 2026",
     "date_pt": "09 set 2026",
@@ -282,7 +637,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 6,
     "slug": "inelastic-dark-matter-and-high-energy-recoil-signatures-in-lz",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -300,18 +655,19 @@
     "excerpt_pt": "Estudamos a matéria escura inelástica que consiste em partículas de matéria escura de dois componentes $$ e serve como uma extensão mínima além dos modelos DM de um componente comumente usados.",
     "excerpt_en": "We study the inelastic dark matter that consists of two-component dark matter particles $$ and serves as a minimal extension beyond the commonly used one-component DM models.",
     "highlights": [
-      "Em foco: Estudamos a matéria escura inelástica que consiste em partículas de matéria escura de dois componentes $$ e serve como uma extensão mínima além dos",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Estudamos a matéria escura inelástica que consiste em partículas de matéria escura de dois componentes $$ e serve como uma extensão mínima além dos.",
+      "Dado-chave: Estudamos a matéria escura inelástica que consiste em partículas de matéria escura de dois componentes $$ e serve como uma extensão mínima além.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Estudamos a matéria escura inelástica que consiste em partículas de matéria escura de dois componentes $$ e serve como uma extensão mínima além dos",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Estudamos a matéria escura inelástica que consiste em partículas de matéria escura de dois componentes $$ e serve como uma extensão mínima além dos.",
+      "Dado-chave: Estudamos a matéria escura inelástica que consiste em partículas de matéria escura de dois componentes $$ e serve como uma extensão mínima além.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We study the inelastic dark matter that consists of two-component dark matter particles $$ and serves as a minimal extension beyond the commonly used",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We study the inelastic dark matter that consists of two-component dark matter particles $$ and serves as a minimal extension beyond the commonly used.",
+      "Key detail: We study the inelastic dark matter that consists of two-component dark matter particles $$ and serves as a minimal extension beyond the commonly.",
+      "Result not yet peer reviewed."
     ],
     "date": "09 set 2026",
     "date_pt": "09 set 2026",
@@ -399,7 +755,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 7,
     "slug": "curiosity-blog-sols-4995-5001-5-000-martian-days-on-mars",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -440,19 +796,19 @@
     "excerpt_pt": "Escrito por William Farrand, Cientista Pesquisador Sênior, Instituto de Ciências Espaciais Data de planejamento da Terra: sexta-feira, 28 de agosto de 2026 A extensão de sóis abrangida por esta postagem do blog é digna de nota de várias maneiras.",
     "excerpt_en": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways.",
     "highlights": [
-      "Em foco: Escrito por William Farrand, Cientista Pesquisador Sênior, Instituto de Ciências Espaciais Data de planejamento da Terra: sexta-feira, 28 de agosto",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Escrito por William Farrand, Cientista Pesquisador Sênior, Instituto de Ciências Espaciais Data de planejamento da Terra: sexta-feira, 28 de agosto.",
+      "Dado-chave: Escrito por William Farrand, Cientista Pesquisador Sênior, Instituto de Ciências Espaciais Data de planejamento da Terra: sexta-feira, 28 de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Escrito por William Farrand, Cientista Pesquisador Sênior, Instituto de Ciências Espaciais Data de planejamento da Terra: sexta-feira, 28 de agosto",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Escrito por William Farrand, Cientista Pesquisador Sênior, Instituto de Ciências Espaciais Data de planejamento da Terra: sexta-feira, 28 de agosto.",
+      "Dado-chave: Escrito por William Farrand, Cientista Pesquisador Sênior, Instituto de Ciências Espaciais Data de planejamento da Terra: sexta-feira, 28 de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug.",
+      "Key detail: Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 set 2026",
     "date_pt": "09 set 2026",
@@ -549,7 +905,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 8,
     "slug": "mtg-i2-reaches-its-final-orbit",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -695,7 +1051,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 9,
     "slug": "from-the-corps-to-the-cosmos-featuring-jaden-caradine",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -714,17 +1070,17 @@
     "excerpt_en": "That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals.",
     "highlights": [
       "Ponto central: Jaden Caradine sabia que queria ser engenheiro aos oito anos. Ele apenas pegou uma estrada sinuosa para chegar lá.",
-      "Dado-chave: Jaden Caradine sabia que queria ser engenheiro aos oito anos. Ele apenas pegou uma estrada sinuosa para chegar lá",
+      "Dado-chave: Jaden Caradine sabia que queria ser engenheiro aos oito anos. Ele apenas pegou uma estrada sinuosa para chegar lá.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Jaden Caradine sabia que queria ser engenheiro aos oito anos. Ele apenas pegou uma estrada sinuosa para chegar lá.",
-      "Dado-chave: Jaden Caradine sabia que queria ser engenheiro aos oito anos. Ele apenas pegou uma estrada sinuosa para chegar lá",
+      "Dado-chave: Jaden Caradine sabia que queria ser engenheiro aos oito anos. Ele apenas pegou uma estrada sinuosa para chegar lá.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there.",
-      "Key detail: Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there",
+      "Key detail: Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "08 set 2026",
@@ -816,131 +1172,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
-    "slug": "wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Estrelas Wolf-Rayet e buracos negros: distribuições de massa e conexão evolutiva",
-    "title_pt": "Estrelas Wolf-Rayet e buracos negros: distribuições de massa e conexão evolutiva",
-    "title_en": "Wolf-Rayet stars and black holes: mass distributions and evolutionary connection",
-    "sub": "A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para estimar a função de distribuição a.",
-    "sub_pt": "A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para estimar a função de distribuição a.",
-    "sub_en": "The form and relationship between the mass distributions of Wolf-Rayet stars and black holes are analyzed using a direct method for estimating the distribution function from a.",
-    "excerpt": "A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para estimar a função de distribuição a partir de uma amostra de valores de massa com distribuições individuais obtidas.",
-    "excerpt_pt": "A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para estimar a função de distribuição a partir de uma amostra de valores de massa com distribuições individuais obtidas.",
-    "excerpt_en": "The form and relationship between the mass distributions of Wolf-Rayet stars and black holes are analyzed using a direct method for estimating the distribution function from a sample of mass values with individual distributions obtained.",
-    "highlights": [
-      "Ponto central: A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para estimar.",
-      "Dado-chave: A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para estimar.",
-      "Dado-chave: A forma e a relação entre as distribuições de massa das estrelas Wolf-Rayet e dos buracos negros são analisadas usando um método direto para.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: The form and relationship between the mass distributions of Wolf-Rayet stars and black holes are analyzed using a direct method for estimating the.",
-      "Key detail: The form and relationship between the mass distributions of Wolf-Rayet stars and black holes are analyzed using a direct method for estimating.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "08 set 2026",
-    "date_pt": "08 set 2026",
-    "date_en": "08 Sep 2026",
-    "time": "16h59",
-    "time_pt": "16h59",
-    "time_en": "16: 59 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-08T16:59:50+00:00",
-    "lastModifiedIso": "2026-09-09T18:53:04+00:00",
-    "source": "arXiv High Energy Astrophysics",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Estrelas Wolf",
-      "Rayet e buracos negros",
-      "distribuições de massa e conexão evolutiva"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Estrelas Wolf",
-      "Rayet e buracos negros",
-      "distribuições de massa e conexão evolutiva"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Wolf Stars",
-      "Rayet and black holes",
-      "mass distributions and evolutionary connection"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2609.09032v1",
-    "realUrl": "https://www.cosmosweek.com/?article=wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection",
-    "realUrl_en": "https://www.cosmosweek.com/?article=wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/wolf-rayet-stars-and-black-holes-mass-distributions-and-evolutionary-connection/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 63,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Estrelas Wolf-Rayet e buracos negros: distribuições de massa e conexão evolutiva",
-    "imageAlt_pt": "Estrelas Wolf-Rayet e buracos negros: distribuições de massa e conexão evolutiva",
-    "imageAlt_en": "Wolf-Rayet stars and black holes: mass distributions and evolutionary connection",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
+    "id": 10,
     "slug": "nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1081,7 +1313,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "meet-the-next-generation-of-mars-exploration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1263,7 +1495,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "who-knew-there-were-so-many-more-moons",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1400,7 +1632,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 13,
     "slug": "how-sentinel-3-tracks-climate-change",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1540,7 +1772,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1698,7 +1930,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1835,128 +2067,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
-    "slug": "bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1280px-The_Earth_seen_from_Apollo_17.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "BICEP/Keck XXII: Análise da atmosfera do Pólo Sul para observações CMB",
-    "title_pt": "BICEP/Keck XXII: Análise da atmosfera do Pólo Sul para observações CMB",
-    "title_en": "BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations",
-    "sub": "O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para observações astronómicas de ondas.",
-    "sub_pt": "O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para observações astronómicas de ondas.",
-    "sub_en": "The South Pole is among the driest sites on Earth, and the resulting high atmospheric transparency makes it an excellent site for millimeter-wave astronomical observations.",
-    "excerpt": "O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para observações astronómicas de ondas milimétricas.",
-    "excerpt_pt": "O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para observações astronómicas de ondas milimétricas.",
-    "excerpt_en": "The South Pole is among the driest sites on Earth, and the resulting high atmospheric transparency makes it an excellent site for millimeter-wave astronomical observations.",
-    "highlights": [
-      "Ponto central: O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para observações.",
-      "Dado-chave: O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para observações.",
-      "Dado-chave: O Pólo Sul está entre os locais mais secos da Terra, e a elevada transparência atmosférica resultante torna-o um excelente local para.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: The South Pole is among the driest sites on Earth, and the resulting high atmospheric transparency makes it an excellent site for millimeter-wave.",
-      "Key detail: The South Pole is among the driest sites on Earth, and the resulting high atmospheric transparency makes it an excellent site for.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "04h29",
-    "time_pt": "04h29",
-    "time_en": "04: 29 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-02T04:29:03+00:00",
-    "lastModifiedIso": "2026-09-03T18:53:45+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "BICEP/Keck XXII",
-      "Análise da atmosfera do Pólo Sul para observações CMB"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "BICEP/Keck XXII",
-      "Análise da atmosfera do Pólo Sul para observações CMB"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "BICEP/Keck XXII",
-      "Analysis of the South Pole atmosphere for CMB observations"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2609.02090v1",
-    "realUrl": "https://www.cosmosweek.com/?article=bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations",
-    "realUrl_en": "https://www.cosmosweek.com/?article=bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/bicep-keck-xxii-analysis-of-the-south-pole-atmosphere-for-cmb-observations/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "BICEP/Keck XXII: Análise da atmosfera do Pólo Sul para observações CMB",
-    "imageAlt_pt": "BICEP/Keck XXII: Análise da atmosfera do Pólo Sul para observações CMB",
-    "imageAlt_en": "BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 15,
+    "id": 16,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2115,7 +2226,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "nsf-launches-three-new-science-and-technology-centers-with-90m-investment-in-transformative-rese",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2190,7 +2301,7 @@
     ],
     "highlights_en": [
       "Core point: The U. S. National Science Foundation is investing $90 million over five years to support three new NSF Science and Technology Centers.",
-      "Key detail: The U. S. National Science Foundation is investing $90 million over five years to support three new NSF Science and Technology Centers",
+      "Key detail: The U. S. National Science Foundation is investing $90 million over five years to support three new NSF Science and Technology Centers.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 ago 2026",
@@ -2279,7 +2390,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "a-changing-world-for-emperor-penguins",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2437,7 +2548,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2677,7 +2788,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2820,155 +2931,6 @@
     "coverageKindLabel": "Jornalismo científico",
     "coverageKindLabel_pt": "Jornalismo científico",
     "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 20,
-    "slug": "nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nsf.gov/themes/custom/nsf_theme/plugins/uswds/dist/img/us_flag_small.png",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_LSST_240x160.jpg?itok=JQ6A64ns",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_Rubin_240x160.jpg?itok=uJMEvKhr",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
-        "alt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
-        "caption": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_pt": "Centros de infraestrutura de IA estaduais e regionais da NSF - Sans Text",
-        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "title_pt": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "title_en": "NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technological leadership",
-    "sub": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo.",
-    "sub_pt": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo.",
-    "sub_en": "The U. S. National Science Foundation today released 12 new notices of funding opportunities providing over $1.",
-    "excerpt": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo investigação básica e inspirada no uso.",
-    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para pesquisas fundamentais, incluindo investigação básica e inspirada no uso.",
-    "excerpt_en": "The U. S. National Science Foundation today released 12 new notices of funding opportunities providing over $1.5 billion for foundational research, including basic and use-inspired inquiry.",
-    "highlights": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para",
-      "Detalhe: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA divulgou hoje 12 novos avisos de oportunidades de financiamento que fornecem mais de US$ 1, 5 bilhão para",
-      "Detalhe: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: The U. S. National Science Foundation today released 12 new notices of funding opportunities providing over $1",
-      "Detail: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T15:00:07+00:00",
-    "lastModifiedIso": "2026-08-18T16:01:58+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www. nsf. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia US$ 1",
-      "5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF anuncia US$ 1",
-      "5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NSF News",
-      "Cosmos Week",
-      "NSF Announces $1",
-      "5 billion for fundamental research to drive scientific advances for American technological leadership"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/nsf-announces-15b-foundational-research-drive-scientific",
-    "realUrl": "https://www.cosmosweek.com/?article=nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-announces-1-5b-for-foundational-research-to-drive-scientific-breakthroughs-for-american-tech/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 94,
-    "scoreBreakdown": {
-      "source": 91,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 42,
-      "novelty": 52
-    },
-    "imageAlt": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "imageAlt_pt": "NSF anuncia US$ 1, 5 bilhão para pesquisas fundamentais para impulsionar avanços científicos para a liderança tecnológica americana",
-    "imageAlt_en": "NSF announces $1.5B for foundational research to drive scientific breakthroughs for American technological leadership",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
@@ -3408,17 +3370,17 @@
     "excerpt_en": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer.",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
-      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas",
+      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
-      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas",
+      "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades.",
-      "Key detail: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades",
+      "Key detail: On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "14 ago 2026",
@@ -4985,7 +4947,7 @@
     ],
     "highlights_en": [
       "Core point: A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
-      "Key detail: A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions",
+      "Key detail: A new Concordia-led study suggests that iron-rich slag, one of mining's biggest waste products, could help store carbon dioxide emissions.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "17 abr 2026",
