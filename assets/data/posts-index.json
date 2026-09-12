@@ -1,6 +1,124 @@
 [
   {
     "id": 1,
+    "slug": "help-refine-data-from-space-telescopes-with-artifact-inspector",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Ajude a refinar dados de telescópios espaciais com Artifact InSPECtor",
+    "title_pt": "Ajude a refinar dados de telescópios espaciais com Artifact InSPECtor",
+    "title_en": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+    "sub": "Como é que os cientistas que estudam o espaço com dados de um telescópio a centenas de milhares de quilómetros de distância sabem que o que estão a ver é real? .",
+    "sub_pt": "Como é que os cientistas que estudam o espaço com dados de um telescópio a centenas de milhares de quilómetros de distância sabem que o que estão a ver é real? .",
+    "sub_en": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? .",
+    "excerpt": "Como é que os cientistas que estudam o espaço com dados de um telescópio a centenas de milhares de quilómetros de distância sabem que o que estão a ver é real? .",
+    "excerpt_pt": "Como é que os cientistas que estudam o espaço com dados de um telescópio a centenas de milhares de quilómetros de distância sabem que o que estão a ver é real? .",
+    "excerpt_en": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? .",
+    "highlights": [
+      "Em foco: Como é que os cientistas que estudam o espaço com dados de um telescópio a centenas de milhares de quilómetros de distância sabem que o que estão a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Como é que os cientistas que estudam o espaço com dados de um telescópio a centenas de milhares de quilómetros de distância sabem que o que estão a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "11 set 2026",
+    "date_pt": "11 set 2026",
+    "date_en": "11 Sep 2026",
+    "time": "19h48",
+    "time_pt": "19h48",
+    "time_en": "19: 48 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-11T19:48:09+00:00",
+    "lastModifiedIso": "2026-09-12T18:03:18+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ajude a refinar dados de telescópios espaciais com Artifact InSPECtor"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ajude a refinar dados de telescópios espaciais com Artifact InSPECtor"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Help refine space telescope data with Artifact InSPECtor"
+    ],
+    "srcUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "realUrl": "https://www.cosmosweek.com/?article=help-refine-data-from-space-telescopes-with-artifact-inspector",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=help-refine-data-from-space-telescopes-with-artifact-inspector",
+    "realUrl_en": "https://www.cosmosweek.com/?article=help-refine-data-from-space-telescopes-with-artifact-inspector&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Ajude a refinar dados de telescópios espaciais com Artifact InSPECtor",
+    "imageAlt_pt": "Ajude a refinar dados de telescópios espaciais com Artifact InSPECtor",
+    "imageAlt_en": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -118,7 +236,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -136,18 +254,19 @@
     "excerpt_pt": "Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência de imagens resolvidas no tempo do buraco negro M87* no centro da galáxia Virgo A.",
     "excerpt_en": "Beginning in March 2026, the Event Horizon Telescope conducted a two-month observing campaign aimed at obtaining the first time-resolved sequence of images of the black hole M87* at the center of the Virgo A galaxy.",
     "highlights": [
-      "Em foco: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência.",
+      "Dado-chave: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira sequência.",
+      "Dado-chave: Com início em março de 2026, o Event Horizon Telescope conduziu uma campanha de observação de dois meses com o objetivo de obter a primeira.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Beginning in March 2026, the Event Horizon Telescope conducted a two-month observing campaign aimed at obtaining the first time-resolved sequence of",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Beginning in March 2026, the Event Horizon Telescope conducted a two-month observing campaign aimed at obtaining the first time-resolved sequence of.",
+      "Key detail: Beginning in March 2026, the Event Horizon Telescope conducted a two-month observing campaign aimed at obtaining the first time-resolved.",
+      "Result not yet peer reviewed."
     ],
     "date": "10 set 2026",
     "date_pt": "10 set 2026",
@@ -235,7 +354,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "name-our-dino-esa-s-hera-asteroid-mission-mascot",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -399,7 +518,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "initial-clustering-of-primordial-black-holes-a-general-formulation-for-arbitrary-local-non-gauss",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -417,18 +536,19 @@
     "excerpt_pt": "O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as restrições cosmológicas na abundância de PBH.",
     "excerpt_en": "Initial spatial clustering of primordial black holes induced by local-type non-Gaussianity can substantially modify cosmological constraints on PBH abundance.",
     "highlights": [
-      "Em foco: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as.",
+      "Dado-chave: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as.",
+      "Dado-chave: O agrupamento espacial inicial de buracos negros primordiais induzido pela não-gaussianidade do tipo local pode modificar substancialmente as",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Initial spatial clustering of primordial black holes induced by local-type non-Gaussianity can substantially modify cosmological constraints on PBH",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Initial spatial clustering of primordial black holes induced by local-type non-Gaussianity can substantially modify cosmological constraints on PBH.",
+      "Key detail: Initial spatial clustering of primordial black holes induced by local-type non-Gaussianity can substantially modify cosmological constraints on.",
+      "Result not yet peer reviewed."
     ],
     "date": "10 set 2026",
     "date_pt": "10 set 2026",
@@ -519,7 +639,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "nasa-s-chandra-unveils-mysterious-x-ray-objects",
     "cat": "Física",
     "catCls": "fisica",
@@ -538,17 +658,17 @@
     "excerpt_en": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
     "highlights": [
       "Ponto central: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de.",
-      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de",
+      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de.",
-      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de",
+      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os cientistas descobriram uma nova classe de objetos que se comportam de forma diferente de.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
-      "Key detail: Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before",
+      "Key detail: Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 set 2026",
@@ -637,7 +757,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "inelastic-dark-matter-and-high-energy-recoil-signatures-in-lz",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -755,7 +875,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "curiosity-blog-sols-4995-5001-5-000-martian-days-on-mars",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -807,7 +927,7 @@
     ],
     "highlights_en": [
       "Core point: Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug.",
-      "Key detail: Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug",
+      "Key detail: Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 set 2026",
@@ -905,7 +1025,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "mtg-i2-reaches-its-final-orbit",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1051,7 +1171,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "from-the-corps-to-the-cosmos-featuring-jaden-caradine",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1165,147 +1285,6 @@
     "imageAlt": "Do Corpo ao Cosmos, com Jaden Caradine",
     "imageAlt_pt": "Do Corpo ao Cosmos, com Jaden Caradine",
     "imageAlt_en": "From the Corps to the Cosmos, featuring Jaden Caradine",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 10,
-    "slug": "nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/psd/solar/internal_resources/5223/Arrokoth-1.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/KDQYSUR0F1o?rel=0&modestbranding=1",
-      "fileUrl": "",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01KZC81GGE6DAJKS1C8KAXHZ2M.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Pequenos mundos descobertos pelo Hubble e Webb",
-      "title_pt": "Pequenos mundos descobertos pelo Hubble e Webb",
-      "title_en": "Tiny Worlds Discovered by Hubble and Webb",
-      "caption": "Além de Netuno, incontáveis ​​mundos congelados orbitam o Sol há bilhões de anos, preservando pistas desde os primeiros dias do nosso sistema solar.",
-      "caption_pt": "Além de Netuno, incontáveis ​​mundos congelados orbitam o Sol há bilhões de anos, preservando pistas desde os primeiros dias do nosso sistema solar.",
-      "caption_en": "Beyond Neptune, countless frozen worlds have orbited the Sun for billions of years, preserving clues from the earliest days of our solar system. By combining. ..",
-      "sourcePage": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/"
-    },
-    "audio": null,
-    "title": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
-    "title_pt": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
-    "title_en": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
-    "sub": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema.",
-    "sub_pt": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema.",
-    "sub_en": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system.",
-    "excerpt": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos.",
-    "excerpt_pt": "Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais distantes do nosso sistema solar, os Objetos Transnetunianos.",
-    "excerpt_en": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects.",
-    "highlights": [
-      "Ponto central: Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais.",
-      "Dado-chave: Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos mais.",
-      "Dado-chave: Pela primeira vez, os cientistas usaram o poder conjunto dos Telescópios Espaciais Hubble e James Webb da NASA para estudar alguns dos corpos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in.",
-      "Key detail: For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 set 2026",
-    "date_pt": "08 set 2026",
-    "date_en": "08 Sep 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-08T14:00:28+00:00",
-    "lastModifiedIso": "2026-09-08T19:00:18+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Hubble and Webb find distant solar system objects 'remember' the past"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-webb-find-far-out-solar-system-objects-remember-past/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
-    "imageAlt_pt": "Hubble e Webb da NASA encontram objetos distantes do sistema solar ‘lembram’ do passado",
-    "imageAlt_en": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
