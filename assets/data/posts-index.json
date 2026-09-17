@@ -1,6 +1,156 @@
 [
   {
     "id": 1,
+    "slug": "summer-goes-out-with-a-heat-dome",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/usheatdome_geos5_20260915_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/heatdome_geos5_20260915_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/wcKZEtqy5M8?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/"
+    },
+    "audio": null,
+    "title": "O verão sai com uma cúpula de calor",
+    "title_pt": "O verão sai com uma cúpula de calor",
+    "title_en": "Summer Goes Out With a Heat Dome",
+    "sub": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
+    "sub_pt": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
+    "sub_en": "Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
+    "excerpt": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
+    "excerpt_pt": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
+    "excerpt_en": "Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
+    "highlights": [
+      "Em foco: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Temperature records toppled across the central and southern U. S. as the autumnal equinox approached",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "17 set 2026",
+    "date_pt": "17 set 2026",
+    "date_en": "17 Sep 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-17T04:01:00+00:00",
+    "lastModifiedIso": "2026-09-17T19:18:30+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O verão sai com uma cúpula de calor"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O verão sai com uma cúpula de calor"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Summer comes out with a heat dome"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+    "realUrl": "https://www.cosmosweek.com/?article=summer-goes-out-with-a-heat-dome",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=summer-goes-out-with-a-heat-dome",
+    "realUrl_en": "https://www.cosmosweek.com/?article=summer-goes-out-with-a-heat-dome&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/summer-goes-out-with-a-heat-dome/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/summer-goes-out-with-a-heat-dome/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "O verão sai com uma cúpula de calor",
+    "imageAlt_pt": "O verão sai com uma cúpula de calor",
+    "imageAlt_en": "Summer Goes Out With a Heat Dome",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -164,7 +314,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "nasa-watches-earth-s-weight-finds-center-of-mass",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -323,7 +473,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "newfound-baby-planet-smashes-record-for-youngest-known-world",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -354,19 +504,19 @@
     "excerpt_pt": "Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela NASA.",
     "excerpt_en": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
     "highlights": [
-      "Em foco: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela.",
+      "Dado-chave: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela.",
+      "Dado-chave: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
+      "Key detail: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
     "date_pt": "16 set 2026",
@@ -457,7 +607,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -596,124 +746,6 @@
     "imageAlt": "Geleiras de fluxo mais rápido alimentam décadas de perda de gelo polar",
     "imageAlt_pt": "Geleiras de fluxo mais rápido alimentam décadas de perda de gelo polar",
     "imageAlt_en": "Faster-flowing glaciers fuel decades of polar ice loss",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
-    "slug": "celebrate-international-observe-the-moon-night-with-nasa",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/09/55314049769-13385da00b-k.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Comemore a Noite Internacional de Observação da Lua com a NASA",
-    "title_pt": "Comemore a Noite Internacional de Observação da Lua com a NASA",
-    "title_en": "Celebrate International Observe the Moon Night with NASA",
-    "sub": "Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA.",
-    "sub_pt": "Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA.",
-    "sub_en": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission.",
-    "excerpt": "Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA. No sábado, setembro.",
-    "excerpt_pt": "Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA. No sábado, setembro.",
-    "excerpt_en": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission. On Saturday, Sept.",
-    "highlights": [
-      "Ponto central: Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA.",
-      "Dado-chave: Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA.",
-      "Dado-chave: Em abril, o mundo assistiu a quatro humanos orbitarem a Lua pela primeira vez em mais de 50 anos com a missão Artemis II da NASA",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission.",
-      "Key detail: In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA’s Artemis II mission",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 set 2026",
-    "date_pt": "15 set 2026",
-    "date_en": "15 Sep 2026",
-    "time": "16h15",
-    "time_pt": "16h15",
-    "time_en": "16: 15 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-15T16:15:12+00:00",
-    "lastModifiedIso": "2026-09-15T19:13:58+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Comemore a Noite Internacional de Observação da Lua com a NASA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Comemore a Noite Internacional de Observação da Lua com a NASA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Celebrate International Moon Sighting Night with NASA"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
-    "realUrl": "https://www.cosmosweek.com/?article=celebrate-international-observe-the-moon-night-with-nasa",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=celebrate-international-observe-the-moon-night-with-nasa",
-    "realUrl_en": "https://www.cosmosweek.com/?article=celebrate-international-observe-the-moon-night-with-nasa&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/celebrate-international-observe-the-moon-night-with-nasa/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/celebrate-international-observe-the-moon-night-with-nasa/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/celebrate-international-observe-the-moon-night-with-nasa/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/celebrate-international-observe-the-moon-night-with-nasa/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/celebrate-international-observe-the-moon-night-with-nasa/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/celebrate-international-observe-the-moon-night-with-nasa/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Comemore a Noite Internacional de Observação da Lua com a NASA",
-    "imageAlt_pt": "Comemore a Noite Internacional de Observação da Lua com a NASA",
-    "imageAlt_en": "Celebrate International Observe the Moon Night with NASA",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -917,7 +949,7 @@
     ],
     "highlights_en": [
       "Core point: We present the first application of neural-network-based baryon acoustic oscillation reconstruction to real galaxy survey data, restoring the.",
-      "Key detail: We present the first application of neural-network-based baryon acoustic oscillation reconstruction to real galaxy survey data, restoring the",
+      "Key detail: We present the first application of neural-network-based baryon acoustic oscillation reconstruction to real galaxy survey data, restoring the.",
       "Result not yet peer reviewed."
     ],
     "date": "14 set 2026",
@@ -1202,17 +1234,17 @@
     "excerpt_en": "Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication platform, designed to make the European Space Agency’s first planetary defence mission.",
     "highlights": [
       "Ponto central: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication.",
-      "Dado-chave: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication",
+      "Dado-chave: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication.",
-      "Dado-chave: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication",
+      "Dado-chave: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication.",
-      "Key detail: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication",
+      "Key detail: Meet a key member of our Hera asteroid mission team: the Hera Space Companion, not just an AI chatbot but a dynamic mission-linked communication.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "14 set 2026",
@@ -5128,12 +5160,12 @@
     "excerpt_en": "Researchers have developed a technique for detecting and measuring the concentration of many rare-earth elements in plants, without destroying the plant.",
     "highlights": [
       "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a",
+      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
       "Ponto central: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
-      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a",
+      "Dado-chave: Os pesquisadores desenvolveram uma técnica para detectar e medir a concentração de muitos elementos de terras raras nas plantas, sem destruir a.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
