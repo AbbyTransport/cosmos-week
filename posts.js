@@ -3,6 +3,155 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "lake-powell-drops-to-record-low-levels",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20170901.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lago Powell cai para níveis recordes",
+    "title_pt": "Lago Powell cai para níveis recordes",
+    "title_en": "Lake Powell Drops to Record-Low Levels",
+    "sub": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "sub_pt": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "sub_en": "Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U.",
+    "excerpt": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "excerpt_pt": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "excerpt_en": "Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U. S. West.",
+    "body": "<p>A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA. A postagem Lago Powell cai para níveis recordes baixos apareceu pela primeira vez na NASA Science.</p><p>NASA Earth Observatory / Lauren Dauphin 1 de setembro de 2017 10 de setembro de 2026 A água azul escura no Lago Powell preenche várias baías e desfiladeiros ramificados em meio a uma paisagem desértica laranja claro. NASA Earth Observatory / Lauren Dauphin 1 de setembro de 2017 10 de setembro de 2026 Curtain Toggle 2-Up Image Details O Lago Powell atingiu um de seus níveis mais altos da última década em 1 de setembro de 2017 (à esquerda), e em um nível recorde em 10 de setembro de 2026.</p><p>O sudoeste no século 21 se reflete no nível da água do Lago Powell, medido pelos EUA. Downloads 1º de setembro de 2017 JPEG (9, 55 MB) 10 de setembro de 2026 JPEG (10, 77 MB) Referências e recursos NASA Earth Observatory (2026, 27 de abril) A neve é ​​escassa na Bacia do Alto Colorado.</p><p>Estas imagens mostram uma parte do Lago Powell logo acima da represa Glen Canyon, conforme observado pelo OLI (Operational Land Imager) no satélite NASA-USGS Landsat 8 em 1 de setembro de 2017 (esquerda) e 10 de setembro de 2026 (direita). Referências e recursos NASA Earth Observatory (2026, 27 de abril) A neve é ​​escassa na Bacia do Alto Colorado.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada. Acesso aberto ao arquivo de dados de ciências da Terra da NASA Observatório da Terra da NASA (2026, 27 de abril) Snow Is Scarce in the Upper Colorado Basin.</p><p>NASA Earth Observatory (2021) Mundo de Mudança: Nível da Água no Lago Powell.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA. A postagem Lago Powell cai para níveis recordes baixos apareceu pela primeira vez na NASA Science.</p><p>NASA Earth Observatory / Lauren Dauphin 1 de setembro de 2017 10 de setembro de 2026 A água azul escura no Lago Powell preenche várias baías e desfiladeiros ramificados em meio a uma paisagem desértica laranja claro. NASA Earth Observatory / Lauren Dauphin 1 de setembro de 2017 10 de setembro de 2026 Curtain Toggle 2-Up Image Details O Lago Powell atingiu um de seus níveis mais altos da última década em 1 de setembro de 2017 (à esquerda), e em um nível recorde em 10 de setembro de 2026.</p><p>O sudoeste no século 21 se reflete no nível da água do Lago Powell, medido pelos EUA. Downloads 1º de setembro de 2017 JPEG (9, 55 MB) 10 de setembro de 2026 JPEG (10, 77 MB) Referências e recursos NASA Earth Observatory (2026, 27 de abril) A neve é ​​escassa na Bacia do Alto Colorado.</p><p>Estas imagens mostram uma parte do Lago Powell logo acima da represa Glen Canyon, conforme observado pelo OLI (Operational Land Imager) no satélite NASA-USGS Landsat 8 em 1 de setembro de 2017 (esquerda) e 10 de setembro de 2026 (direita). Referências e recursos NASA Earth Observatory (2026, 27 de abril) A neve é ​​escassa na Bacia do Alto Colorado.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada. Acesso aberto ao arquivo de dados de ciências da Terra da NASA Observatório da Terra da NASA (2026, 27 de abril) Snow Is Scarce in the Upper Colorado Basin.</p><p>NASA Earth Observatory (2021) Mundo de Mudança: Nível da Água no Lago Powell.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U. S. West. The post Lake Powell Drops to Record-Low Levels appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA Earth Observatory / Lauren Dauphin September 1, 2017 September 10, 2026 Dark blue water in Lake Powell fills several bays and branching canyons amid a light orange desert. NASA Earth Observatory / Lauren Dauphin September 1, 2017 September 10, 2026 Curtain Toggle 2-Up Image Details Lake Powell stood at one of its highest levels in the past decade on.</p><p>NASA Earth Observatory/Lauren Dauphin The USBR took steps in April 2026 to stabilize Lake Powell and keep it from falling below the level needed for hydropower production, an. Downloads September 1, 2017 JPEG (9.55 MB) September 10, 2026 JPEG (10.77 MB) References &amp; Resources NASA Earth Observatory (2026, April 27) Snow Is Scarce in the Upper Colorado.</p><p>These images show a portion of Lake Powell just above Glen Canyon Dam as observed by the OLI (Operational Land Imager) on the NASA-USGS Landsat 8 satellite on September 1, 2017. References &amp; Resources NASA Earth Observatory (2026, April 27) Snow Is Scarce in the Upper Colorado Basin.</p><p>Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your. Open access to NASA’s archive of Earth science data NASA Earth Observatory (2026, April 27) Snow Is Scarce in the Upper Colorado Basin.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>NASA Earth Observatory (2021) World of Change: Water Level in Lake Powell. NASA Earthdata (2026, August 24) Low Water Levels in Lake Powell and Lake Mead in August 2026.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "18 set 2026",
+    "date_pt": "18 set 2026",
+    "date_en": "18 Sep 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-18T04:01:00+00:00",
+    "lastModifiedIso": "2026-09-18T18:42:05+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Lago Powell cai para níveis recordes"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Lago Powell cai para níveis recordes"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Lake Powell Falls to Record Levels"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
+    "realUrl": "https://www.cosmosweek.com/?article=lake-powell-drops-to-record-low-levels",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=lake-powell-drops-to-record-low-levels",
+    "realUrl_en": "https://www.cosmosweek.com/?article=lake-powell-drops-to-record-low-levels&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/lake-powell-drops-to-record-low-levels/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/lake-powell-drops-to-record-low-levels/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Lago Powell cai para níveis recordes",
+    "imageAlt_pt": "Lago Powell cai para níveis recordes",
+    "imageAlt_en": "Lake Powell Drops to Record-Low Levels",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "summer-goes-out-with-a-heat-dome",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -155,7 +304,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -222,19 +371,19 @@ window.postsData = [
     "body_pt": "<p>Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por um halo escuro chamou a sua atenção.</p><p>6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar Reconnaissance Orbiter Camera da NASA. O painel à esquerda é feito a partir de imagens capturadas pela câmera grande angular Lunar Reconnaissance Orbiter da NASA no verão de 2025.</p><p>A Lua sofre alguns impactos Há mais de 17 anos que a LRO circula a Lua e utiliza os seus sete instrumentos para mapear a topografia, a composição da superfície, a temperatura e o ambiente de radiação. Este conjunto de imagens animadas mostra uma área no extremo leste da Lua antes e depois da formação da cratera McGetchin em algum momento entre 11 de abril e 22 de maio de 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Caminho para a descoberta O sistema LROC coleta imagens de cerca de 60 milhas acima da Lua enquanto o LRO faz um loop de pólo a pólo. 5 de janeiro de 2025, pela câmera de ângulo estreito (NAC) do Lunar Reconnaissance Orbiter (LRO) da NASA.</p><p>NASA Goddard/Intuitive Machines Esta vista lateral (55° de distância para baixo) em direção ao leste, cobre uma área da Lua com cerca de 2, 4 quilômetros de largura. Foi tirada pela câmera de ângulo estreito do Lunar Reconnaissance Orbiter da NASA em 3 de março de 2026.</p><p>Há mais de 17 anos que a LRO circula a Lua e utiliza os seus sete instrumentos para mapear a topografia, a composição da superfície, a temperatura e o ambiente de radiação.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 6 Min Read NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater A zoomed-in view of the Moon made from images from NASA’s Lunar Reconnaissance Orbiter Camera. The panel on the left is made from images captured by NASA’s Lunar Reconnaissance Orbiter Wide-Angle Camera in summer 2025.</p><p>Moon takes some hits For more than 17 years, LRO has been circling the Moon and using its seven instruments to map the topography, surface composition, temperature, and radiation. This animated image set shows an area on the eastern limb of the Moon before and after McGetchin crater formed there sometime between April 11 and May 22, 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Road to discovery The LROC system collects images from about 60 miles above the Moon as LRO loops from pole to pole. 5, 2025, by NASA’s Lunar Reconnaissance Orbiter (LRO) Narrow-Angle Camera (NAC).</p><p>NASA Goddard/Intuitive Machines This view from the side (55° away from straight down) towards the east, covers an area of the Moon that’s about 1.5 miles wide. It was taken by NASA’s Lunar Reconnaissance Orbiter Narrow-Angle Camera on March 3, 2026.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>For more than 17 years, LRO has been circling the Moon and using its seven instruments to map the topography, surface composition, temperature, and radiation environment there. The spacecraft’s team has identified at least 1, 000 new impact craters throughout the mission and flagged 100, 000 more surface changes from an object smashing into the Moon or.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Tudo começou como uma verificação rotineira da qualidade dos dados",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
+      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Tudo começou como uma verificação rotineira da qualidade dos dados",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
+      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: It started as a routine data-quality check",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on.",
+      "Key detail: It started as a routine data-quality check",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
     "date_pt": "16 set 2026",
@@ -322,7 +471,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-watches-earth-s-weight-finds-center-of-mass",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -384,19 +533,19 @@ window.postsData = [
     "body_pt": "<p>As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de polegada em relação ao seu centro geométrico. 5 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) O movimento da água entre a terra e os oceanos desloca o centro de massa da Terra em relação ao seu centro geométrico.</p><p>Para visualizar este vídeo, ative o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5. O Projeto de Geodésia Espacial da NASA atualmente usa uma variedade de técnicas espaciais e terrestres para rastrear o centro de massa da Terra (também chamado de geocentro) movendo-se para cima e para baixo e de um lado para o outro.</p><p>Missão: GRACE-FO Quando o GRACE-FO foi lançado? . 305 milhas (490 km) acima da Terra O que o GRACE-FO faz.</p><p>Cientistas da NASA desenvolveram uma nova técnica usando rastreamento ultrapreciso por satélite para estimar o deslocamento em frações de centímetros. Para reduzir a incerteza, o geocientista do JPL, Donald Argus, liderou o desenvolvimento de uma nova técnica baseada no rastreamento ultrapreciso de satélites.</p><p>Usar satélites para localizar o centro de massa da Terra não é uma ideia nova. A nova técnica melhora a precisão de duas maneiras: Ela adiciona rastreamento GPS à mistura, juntamente com dados orbitais de vários satélites em órbita baixa da Terra, para fornecer uma gama diversificada de alvos.</p><p>Eles descobriram que a acumulação de neve na América do Norte e na Eurásia atinge o máximo em março e desloca o centro de massa da Terra cerca de 3 milímetros em direção ao Pólo Norte.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 5 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Water sloshing between the land and oceans shifts Earth’s center of mass relative to its geometric. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video NASA’s Space Geodesy Project currently uses a variety of space- and.</p><p>NASA develops and supports. Mission: GRACE-FO When did GRACE-FO launch. 305 miles (490 km) above Earth What does GRACE-FO do. GRACE-C GRACE-C will provide month-to-month changes of Earth’s gravity field to track water movement and surface mass changes.</p><p>NASA scientists have developed a new technique using ultraprecise satellite tracking to estimate the displacement to within fractions of inches. To reduce uncertainty, JPL geoscientist Donald Argus led the development of a new technique based on ultraprecise satellite tracking.</p><p>Using satellites to locate Earth’s center of mass is not a new idea. The new technique improves accuracy in two ways: It adds GPS tracking into the mix along with orbital data from several satellites in low Earth orbit to provide a diverse array of.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>They found that snow accumulation in North America and Eurasia reaches a maximum in March and shifts Earth’s center of mass about 3 millimeters toward the North Pole. A month later, in April, rainwater in the Amazon River basin peaks at 2, 400 gigatons, swinging Earth’s center of mass 2.2 millimeters toward South America.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de.",
+      "Dado-chave: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de.",
+      "Dado-chave: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its.",
+      "Key detail: Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
     "date_pt": "16 set 2026",
@@ -484,7 +633,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "newfound-baby-planet-smashes-record-for-youngest-known-world",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -529,7 +678,7 @@ window.postsData = [
     ],
     "highlights_en": [
       "Core point: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
-      "Key detail: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives",
+      "Key detail: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
@@ -621,7 +770,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -770,7 +919,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "swap-pepssi-and-the-secrets-of-the-solar-system",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -940,7 +1089,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nerv-neural-network-enhanced-reconstruction-of-the-universe-with-application-to-baryon-acoustic-",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1064,7 +1213,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nsf-launches-20m-pilot-to-accelerate-commercialization-of-promising-deep-technologies-from-small",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1213,7 +1362,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "questions-ask-our-hera-space-companion",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1362,7 +1511,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "flex-and-sentinel-3c-ready-for-liftoff-on-vega-c",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1595,7 +1744,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1735,7 +1884,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1856,7 +2005,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "inelastic-dark-matter-and-high-energy-recoil-signatures-in-lz",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1977,7 +2126,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "meet-the-next-generation-of-mars-exploration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2162,7 +2311,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2323,7 +2472,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2463,7 +2612,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2625,7 +2774,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "a-changing-world-for-emperor-penguins",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2786,7 +2935,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3029,7 +3178,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3178,7 +3327,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3327,7 +3476,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "science-release-hubble-solves-merger-mystery-from-milky-way-s-early-years",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3472,146 +3621,6 @@ window.postsData = [
     "imageAlt": "Lançamento científico: Hubble resolve o mistério da fusão desde os primeiros anos da Via Láctea",
     "imageAlt_pt": "Lançamento científico: Hubble resolve o mistério da fusão desde os primeiros anos da Via Láctea",
     "imageAlt_en": "Science Release: Hubble solves merger mystery from Milky Way’s early years",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 23,
-    "slug": "stops-along-the-path-of-totality",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/eclipsepath_modis_20260812_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/spain_oli_20260721_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Para ao longo do caminho da totalidade",
-    "title_pt": "Para ao longo do caminho da totalidade",
-    "title_en": "Stops Along the Path of Totality",
-    "sub": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "sub_pt": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "sub_en": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-    "excerpt": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "excerpt_pt": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "excerpt_en": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-    "body": "<p>A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026. O post Paradas ao Longo do Caminho da Totalidade apareceu pela primeira vez na NASA Science.</p><p>Observatório da Terra da NASA/Michala Garrison O vulcão Snæfellsjökull, no extremo oeste da península, está coberto de gelo e entrou em erupção pela última vez há cerca de 1.800 anos. NASA Earth Observatory/Michala Garrison O alto Ebro emerge de um terreno acidentado no Parque Natural de Montes Obarenes-San Zadornil, onde esculpe desfiladeiros e desfiladeiros no sopé oriental das montanhas Cantábricas.</p><p>Downloads 25 de julho de 2026 JPEG (14, 69 MB) 12 de agosto de 2026 JPEG (1, 92 MB) 21 de julho de 2026 JPEG (34, 46 MB) Referências e recursos NASA (2026) 12 de agosto de 2026, Eclipse solar total. Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Paradas ao longo do caminho da totalidade apareceu pela primeira vez em NASA Science.</p><p>Observatório da Terra da NASA / Michala Garrison O Sol, a Lua e a Terra se alinham em 12 de agosto de 2026, para produzir um eclipse solar total. Em 12 de agosto, a sombra da Lua cruzará primeiro o Círculo Polar Ártico vindo do norte da Rússia e depois seguirá ao longo do lado oriental da Groenlândia.</p><p>Referências e recursos NASA (2026) 12 de agosto de 2026, Eclipse Solar Total. Artigo Earthset do outro lado lunar 2 min de leitura A tripulação da missão Artemis II da NASA capturou imagens extraordinárias de nosso planeta natal durante sua jornada ao redor do distante.</p><p>Acesso aberto ao arquivo de dados científicos da Terra da NASA NASA (2026) 12 de agosto de 2026, Eclipse Solar Total.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026. O post Paradas ao Longo do Caminho da Totalidade apareceu pela primeira vez na NASA Science.</p><p>Observatório da Terra da NASA/Michala Garrison O vulcão Snæfellsjökull, no extremo oeste da península, está coberto de gelo e entrou em erupção pela última vez há cerca de 1.800 anos. NASA Earth Observatory/Michala Garrison O alto Ebro emerge de um terreno acidentado no Parque Natural de Montes Obarenes-San Zadornil, onde esculpe desfiladeiros e desfiladeiros no sopé oriental das montanhas Cantábricas.</p><p>Downloads 25 de julho de 2026 JPEG (14, 69 MB) 12 de agosto de 2026 JPEG (1, 92 MB) 21 de julho de 2026 JPEG (34, 46 MB) Referências e recursos NASA (2026) 12 de agosto de 2026, Eclipse solar total. Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Paradas ao longo do caminho da totalidade apareceu pela primeira vez em NASA Science.</p><p>Observatório da Terra da NASA / Michala Garrison O Sol, a Lua e a Terra se alinham em 12 de agosto de 2026, para produzir um eclipse solar total. Em 12 de agosto, a sombra da Lua cruzará primeiro o Círculo Polar Ártico vindo do norte da Rússia e depois seguirá ao longo do lado oriental da Groenlândia.</p><p>Referências e recursos NASA (2026) 12 de agosto de 2026, Eclipse Solar Total. Artigo Earthset do outro lado lunar 2 min de leitura A tripulação da missão Artemis II da NASA capturou imagens extraordinárias de nosso planeta natal durante sua jornada ao redor do distante.</p><p>Acesso aberto ao arquivo de dados científicos da Terra da NASA NASA (2026) 12 de agosto de 2026, Eclipse Solar Total.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026. The post Stops Along the Path of Totality appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Stops Along the Path of Totality appeared first on NASA Science. NASA Earth Observatory/Michala Garrison The Snæfellsjökull volcano on the western end of the peninsula is covered in ice and last erupted about 1, 800 years ago.</p><p>NASA Earth Observatory/Michala Garrison The upper Ebro emerges from rugged terrain in Parque Natural de Montes Obarenes-San Zadornil, where it carves canyons and gorges through. Downloads July 25, 2026 JPEG (14.69 MB) August 12, 2026 JPEG (1.92 MB) July 21, 2026 JPEG (34.46 MB) References &amp; Resources NASA (2026) August 12, 2026, Total Solar Eclipse.</p><p>Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Stops Along the Path of Totality appeared first on NASA Science. Article View more Images of the Day: Aug 11, 2026 Instruments: Landsat 8, OLI Landsat 9, OLI Collections: International Parks and UNESCO Sites Topics: Sun-Earth Interactions The.</p><p>NASA Earth Observatory/Michala Garrison The Sun, Moon, and Earth align on August 12, 2026, to produce a total solar eclipse. On August 12, the Moon’s shadow will first cross over the Arctic Circle from northern Russia and then track along the eastern side of Greenland.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>References &amp; Resources NASA (2026) August 12, 2026, Total Solar Eclipse. Article Earthset From the Lunar Far Side 2 min read The crew of NASA’s Artemis II mission captured extraordinary images of our home planet during their journey around the far.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto.",
-      "Dado-chave: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto.",
-      "Dado-chave: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-      "Key detail: Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "12 ago 2026",
-    "date_pt": "12 ago 2026",
-    "date_en": "12 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-12T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-12T16:39:15+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Para ao longo do caminho da totalidade"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Para ao longo do caminho da totalidade"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "For along the path of totality"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
-    "realUrl": "https://www.cosmosweek.com/?article=stops-along-the-path-of-totality",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=stops-along-the-path-of-totality",
-    "realUrl_en": "https://www.cosmosweek.com/?article=stops-along-the-path-of-totality&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/stops-along-the-path-of-totality/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/stops-along-the-path-of-totality/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Para ao longo do caminho da totalidade",
-    "imageAlt_pt": "Para ao longo do caminho da totalidade",
-    "imageAlt_en": "Stops Along the Path of Totality",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",

@@ -1,6 +1,152 @@
 [
   {
     "id": 1,
+    "slug": "lake-powell-drops-to-record-low-levels",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20170901.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lago Powell cai para níveis recordes",
+    "title_pt": "Lago Powell cai para níveis recordes",
+    "title_en": "Lake Powell Drops to Record-Low Levels",
+    "sub": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "sub_pt": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "sub_en": "Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U.",
+    "excerpt": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "excerpt_pt": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
+    "excerpt_en": "Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U. S. West.",
+    "highlights": [
+      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "18 set 2026",
+    "date_pt": "18 set 2026",
+    "date_en": "18 Sep 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-18T04:01:00+00:00",
+    "lastModifiedIso": "2026-09-18T18:42:05+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Lago Powell cai para níveis recordes"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Lago Powell cai para níveis recordes"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Lake Powell Falls to Record Levels"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
+    "realUrl": "https://www.cosmosweek.com/?article=lake-powell-drops-to-record-low-levels",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=lake-powell-drops-to-record-low-levels",
+    "realUrl_en": "https://www.cosmosweek.com/?article=lake-powell-drops-to-record-low-levels&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/lake-powell-drops-to-record-low-levels/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/lake-powell-drops-to-record-low-levels/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/lake-powell-drops-to-record-low-levels/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Lago Powell cai para níveis recordes",
+    "imageAlt_pt": "Lago Powell cai para níveis recordes",
+    "imageAlt_en": "Lake Powell Drops to Record-Low Levels",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "summer-goes-out-with-a-heat-dome",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -150,7 +296,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -214,19 +360,19 @@
     "excerpt_pt": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por.",
     "excerpt_en": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye.",
     "highlights": [
-      "Em foco: Tudo começou como uma verificação rotineira da qualidade dos dados",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
+      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Tudo começou como uma verificação rotineira da qualidade dos dados",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
+      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: It started as a routine data-quality check",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on.",
+      "Key detail: It started as a routine data-quality check",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
     "date_pt": "16 set 2026",
@@ -314,7 +460,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-watches-earth-s-weight-finds-center-of-mass",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -373,19 +519,19 @@
     "excerpt_pt": "As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de polegada em relação ao seu centro geométrico.",
     "excerpt_en": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center.",
     "highlights": [
-      "Em foco: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de.",
+      "Dado-chave: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em frações de.",
+      "Dado-chave: As mudanças sazonais redistribuem água suficiente em torno da Terra para deslocar o centro de massa do planeta para frente e para trás em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its.",
+      "Key detail: Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
     "date_pt": "16 set 2026",
@@ -473,7 +619,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "newfound-baby-planet-smashes-record-for-youngest-known-world",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -515,7 +661,7 @@
     ],
     "highlights_en": [
       "Core point: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
-      "Key detail: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives",
+      "Key detail: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
@@ -607,7 +753,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -753,7 +899,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "swap-pepssi-and-the-secrets-of-the-solar-system",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -920,7 +1066,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nerv-neural-network-enhanced-reconstruction-of-the-universe-with-application-to-baryon-acoustic-",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1041,7 +1187,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nsf-launches-20m-pilot-to-accelerate-commercialization-of-promising-deep-technologies-from-small",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1187,7 +1333,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "questions-ask-our-hera-space-companion",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1333,7 +1479,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "flex-and-sentinel-3c-ready-for-liftoff-on-vega-c",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1563,7 +1709,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1700,7 +1846,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1818,7 +1964,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "inelastic-dark-matter-and-high-energy-recoil-signatures-in-lz",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1936,7 +2082,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "meet-the-next-generation-of-mars-exploration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2118,7 +2264,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2276,7 +2422,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2413,7 +2559,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2572,7 +2718,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "a-changing-world-for-emperor-penguins",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2730,7 +2876,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2970,7 +3116,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3116,7 +3262,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3262,7 +3408,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "science-release-hubble-solves-merger-mystery-from-milky-way-s-early-years",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3404,143 +3550,6 @@
     "imageAlt": "Lançamento científico: Hubble resolve o mistério da fusão desde os primeiros anos da Via Láctea",
     "imageAlt_pt": "Lançamento científico: Hubble resolve o mistério da fusão desde os primeiros anos da Via Láctea",
     "imageAlt_en": "Science Release: Hubble solves merger mystery from Milky Way’s early years",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 23,
-    "slug": "stops-along-the-path-of-totality",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/eclipsepath_modis_20260812_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/stops-along-the-path-of-totality/spain_oli_20260721_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Para ao longo do caminho da totalidade",
-    "title_pt": "Para ao longo do caminho da totalidade",
-    "title_en": "Stops Along the Path of Totality",
-    "sub": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "sub_pt": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "sub_en": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-    "excerpt": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "excerpt_pt": "A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto de 2026.",
-    "excerpt_en": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-    "highlights": [
-      "Ponto central: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto.",
-      "Dado-chave: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de agosto.",
-      "Dado-chave: A Islândia Ocidental e o norte da Espanha estão entre os poucos locais do Hemisfério Norte que experimentaram um eclipse solar total em 12 de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-      "Key detail: Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "12 ago 2026",
-    "date_pt": "12 ago 2026",
-    "date_en": "12 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-12T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-12T16:39:15+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Para ao longo do caminho da totalidade"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Para ao longo do caminho da totalidade"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "For along the path of totality"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
-    "realUrl": "https://www.cosmosweek.com/?article=stops-along-the-path-of-totality",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=stops-along-the-path-of-totality",
-    "realUrl_en": "https://www.cosmosweek.com/?article=stops-along-the-path-of-totality&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/stops-along-the-path-of-totality/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/stops-along-the-path-of-totality/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/stops-along-the-path-of-totality/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Para ao longo do caminho da totalidade",
-    "imageAlt_pt": "Para ao longo do caminho da totalidade",
-    "imageAlt_en": "Stops Along the Path of Totality",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
