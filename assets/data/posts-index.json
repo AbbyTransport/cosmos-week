@@ -1,6 +1,249 @@
 [
   {
     "id": 1,
+    "slug": "nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a020000/a020300/a020374/XRISM_S1_4k_30fps_ProRes-00001_print.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_large_ac_print.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/Still2.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/GX_301-2_spectrum_sml.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/GX_301-2_spectrum_med.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/GX_301-2_spectrum_large.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_med.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_sml.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_large.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_large.png",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_large_ac.jpg",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_large_ac_searchweb.png",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      },
+      {
+        "src": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/BP_Crucis_concept_wide_large_ac_thm.png",
+        "alt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "alt_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio",
+        "caption": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_pt": "Baixe vídeos e imagens de alta resolução do Scientific Visualization Studio da NASA",
+        "caption_en": "Download high-resolution video and images from NASA's Scientific Visualization Studio"
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/_1mpHBAXh1c?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a020000/a020300/a020374/XRISM_S1_4k_30fps_ProRes-00001_print.jpg?w=1024&h=576&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Espectroscopia, explicada",
+      "title_pt": "Espectroscopia, explicada",
+      "title_en": "Spectroscopy, Explained",
+      "caption": "A produtora de vídeo Sophia Roberts explica os princípios básicos por trás da espectroscopia, a ciência da leitura da luz para determinar o tamanho, distância, rotação e química. ..",
+      "caption_pt": "A produtora de vídeo Sophia Roberts explica os princípios básicos por trás da espectroscopia, a ciência da leitura da luz para determinar o tamanho, distância, rotação e química. ..",
+      "caption_en": "Video producer Sophia Roberts explains the basic principles behind spectroscopy, the science of reading light to determine the size, distance, spin and chemi. ..",
+      "sourcePage": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
+    },
+    "audio": null,
+    "title": "Missão NASA-JAXA XRISM vê o ‘Vento’ do Pulsar Gathering Companion",
+    "title_pt": "Missão NASA-JAXA XRISM vê o ‘Vento’ do Pulsar Gathering Companion",
+    "title_en": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+    "sub": "Usando dados do observatório XRISM liderado pelo Japão, os astrónomos observaram diretamente o fluxo de uma estrela gigante, chamado vento estelar, sendo capturado pela sua.",
+    "sub_pt": "Usando dados do observatório XRISM liderado pelo Japão, os astrónomos observaram diretamente o fluxo de uma estrela gigante, chamado vento estelar, sendo capturado pela sua.",
+    "sub_en": "Using data from the Japan-led XRISM observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and.",
+    "excerpt": "Usando dados do observatório XRISM liderado pelo Japão, os astrónomos observaram diretamente o fluxo de uma estrela gigante, chamado vento estelar, sendo capturado pela sua companheira compacta e fornecendo a fonte de energia para fortes explosões de raios-X.",
+    "excerpt_pt": "Usando dados do observatório XRISM liderado pelo Japão, os astrónomos observaram diretamente o fluxo de uma estrela gigante, chamado vento estelar, sendo capturado pela sua companheira compacta e fornecendo a fonte de energia para fortes explosões de raios-X.",
+    "excerpt_en": "Using data from the Japan-led XRISM observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares.",
+    "highlights": [
+      "Em foco: Usando dados do observatório XRISM liderado pelo Japão, os astrónomos observaram diretamente o fluxo de uma estrela gigante, chamado vento estelar",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Usando dados do observatório XRISM liderado pelo Japão, os astrónomos observaram diretamente o fluxo de uma estrela gigante, chamado vento estelar",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Using data from the Japan-led XRISM observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "18 set 2026",
+    "date_pt": "18 set 2026",
+    "date_en": "18 Sep 2026",
+    "time": "18h02",
+    "time_pt": "18h02",
+    "time_en": "18: 02 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-18T18:02:53+00:00",
+    "lastModifiedIso": "2026-09-19T18:14:53+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Missão NASA",
+      "JAXA XRISM vê o ‘Vento’ do Pulsar Gathering Companion"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Missão NASA",
+      "JAXA XRISM vê o ‘Vento’ do Pulsar Gathering Companion"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA mission",
+      "JAXA XRISM sees the ‘Wind’ of Pulsar Gathering Companion"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Missão NASA-JAXA XRISM vê o ‘Vento’ do Pulsar Gathering Companion",
+    "imageAlt_pt": "Missão NASA-JAXA XRISM vê o ‘Vento’ do Pulsar Gathering Companion",
+    "imageAlt_en": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "lake-powell-drops-to-record-low-levels",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -146,7 +389,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "summer-goes-out-with-a-heat-dome",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -196,19 +439,19 @@
     "excerpt_pt": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
     "excerpt_en": "Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
     "highlights": [
-      "Em foco: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
+      "Dado-chave: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
+      "Dado-chave: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Temperature records toppled across the central and southern U. S. as the autumnal equinox approached",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
+      "Key detail: Temperature records toppled across the central and southern U. S. as the autumnal equinox approached",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 set 2026",
     "date_pt": "17 set 2026",
@@ -296,7 +539,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -361,17 +604,17 @@
     "excerpt_en": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye.",
     "highlights": [
       "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
-      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados",
+      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
-      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados",
+      "Dado-chave: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on.",
-      "Key detail: It started as a routine data-quality check",
+      "Key detail: It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
@@ -460,7 +703,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-watches-earth-s-weight-finds-center-of-mass",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -619,140 +862,6 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "newfound-baby-planet-smashes-record-for-youngest-known-world",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://science.nasa.gov/wp-content/uploads/2026/09/elias-1-372.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://science.nasa.gov/wp-content/uploads/2026/09/elias.mp4",
-      "poster": "https://science.nasa.gov/wp-content/uploads/2026/09/elias-1-372.jpg",
-      "title": "Recém-descoberto planeta ‘Baby’ quebra recorde de mundo mais jovem conhecido - NASA Science",
-      "title_pt": "Recém-descoberto planeta ‘Baby’ quebra recorde de mundo mais jovem conhecido - NASA Science",
-      "title_en": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World - NASA Science",
-      "caption": "Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela NASA. Chamado Elias 2-24",
-      "caption_pt": "Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela NASA. Chamado Elias 2-24",
-      "caption_en": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives. Called Elias 2-24",
-      "sourcePage": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/"
-    },
-    "audio": null,
-    "title": "Planeta ‘Baby’ recém-descoberto quebra recorde de mundo mais jovem conhecido",
-    "title_pt": "Planeta ‘Baby’ recém-descoberto quebra recorde de mundo mais jovem conhecido",
-    "title_en": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
-    "sub": "Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela NASA.",
-    "sub_pt": "Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela NASA.",
-    "sub_en": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
-    "excerpt": "Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela NASA.",
-    "excerpt_pt": "Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela NASA.",
-    "excerpt_en": "Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
-    "highlights": [
-      "Ponto central: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela.",
-      "Dado-chave: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados pela.",
-      "Dado-chave: Os astrónomos confirmaram que um mundo com menos de um milhão de anos é o planeta mais jovem conhecido, utilizando dados de arquivos financiados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
-      "Key detail: Astronomers have confirmed a world that’s less than a million years old as the youngest known planet, using data from NASA-funded archives.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "16 set 2026",
-    "date_pt": "16 set 2026",
-    "date_en": "16 Sep 2026",
-    "time": "14h34",
-    "time_pt": "14h34",
-    "time_en": "14: 34 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-16T14:34:47+00:00",
-    "lastModifiedIso": "2026-09-16T19:07:11+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Planeta ‘Baby’ recém",
-      "descoberto quebra recorde de mundo mais jovem conhecido"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Planeta ‘Baby’ recém",
-      "descoberto quebra recorde de mundo mais jovem conhecido"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Planet ‘Baby’ newly",
-      "Discovered breaks record for youngest known world"
-    ],
-    "srcUrl": "https://science.nasa.gov/universe/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "realUrl": "https://www.cosmosweek.com/?article=newfound-baby-planet-smashes-record-for-youngest-known-world",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=newfound-baby-planet-smashes-record-for-youngest-known-world",
-    "realUrl_en": "https://www.cosmosweek.com/?article=newfound-baby-planet-smashes-record-for-youngest-known-world&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/newfound-baby-planet-smashes-record-for-youngest-known-world/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Planeta ‘Baby’ recém-descoberto quebra recorde de mundo mais jovem conhecido",
-    "imageAlt_pt": "Planeta ‘Baby’ recém-descoberto quebra recorde de mundo mais jovem conhecido",
-    "imageAlt_en": "Newfound ‘Baby’ Planet Smashes Record for Youngest Known World",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
     "id": 6,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
@@ -799,19 +908,19 @@
     "excerpt_pt": "O mais longo registo de dados de satélite sobre alterações na camada de gelo alguma vez reunido revelou que a Gronelândia e a Antártida perderam impressionantes 11 biliões de toneladas de gelo desde a década de 1970, elevando o nível global do mar em mais de.",
     "excerpt_en": "The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion tonnes of ice since the 1970s, driving global sea level up by more than three centimetres.",
     "highlights": [
-      "Em foco: O mais longo registo de dados de satélite sobre alterações na camada de gelo alguma vez reunido revelou que a Gronelândia e a Antártida perderam",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O mais longo registo de dados de satélite sobre alterações na camada de gelo alguma vez reunido revelou que a Gronelândia e a Antártida perderam.",
+      "Dado-chave: O mais longo registo de dados de satélite sobre alterações na camada de gelo alguma vez reunido revelou que a Gronelândia e a Antártida perderam",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O mais longo registo de dados de satélite sobre alterações na camada de gelo alguma vez reunido revelou que a Gronelândia e a Antártida perderam",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O mais longo registo de dados de satélite sobre alterações na camada de gelo alguma vez reunido revelou que a Gronelândia e a Antártida perderam.",
+      "Dado-chave: O mais longo registo de dados de satélite sobre alterações na camada de gelo alguma vez reunido revelou que a Gronelândia e a Antártida perderam",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11 trillion.",
+      "Key detail: The longest satellite data record of ice-sheet change ever assembled has revealed that Greenland and Antarctica have lost a staggering 11.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 set 2026",
     "date_pt": "16 set 2026",
