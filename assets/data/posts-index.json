@@ -1,6 +1,137 @@
 [
   {
     "id": 1,
+    "slug": "nasa-funded-research-finds-complex-life-defying-record-heat",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/research-images/icas_SEM.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+    "inline_images": [],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/research-images/MovieS12_60C_normalmotility_switching%201080p_Crop.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/icas_SEM.png?w=1228&h=1390&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida - NASA Science",
+      "title_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida - NASA Science",
+      "title_en": "NASA-Funded Research Finds Complex Life Defying Record Heat - NASA Science",
+      "caption": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. Altas temperaturas podem",
+      "caption_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. Altas temperaturas podem",
+      "caption_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can",
+      "sourcePage": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/"
+    },
+    "audio": null,
+    "title": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
+    "title_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
+    "title_en": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+    "sub": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
+    "sub_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
+    "sub_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
+    "excerpt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
+    "excerpt_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
+    "excerpt_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
+    "highlights": [
+      "Em foco: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "22 set 2026",
+    "date_pt": "22 set 2026",
+    "date_en": "22 Sep 2026",
+    "time": "17h33",
+    "time_pt": "17h33",
+    "time_en": "17: 33 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-22T17:33:10+00:00",
+    "lastModifiedIso": "2026-09-22T19:09:10+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Biologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida"
+    ],
+    "keywords_en": [
+      "Biology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA-Funded Research Discovers Complex, Life-Defying Record Heat"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
+    "imageAlt_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
+    "imageAlt_en": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-discovery-reveals-complex-water-systems-on-early-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -164,12 +295,58 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "juice-to-fly-past-earth-for-third-gravity-assist",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_pillars.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_by_earth_the_complete_path/27532497-1-eng-GB/Juice_flies_by_Earth_the_complete_path_article.jpg",
+        "caption": "Juice voa pela Terra – o caminho completo",
+        "caption_pt": "Juice voa pela Terra – o caminho completo",
+        "caption_en": "Juice flies by Earth – the complete path",
+        "alt": "Juice voa pela Terra – o caminho completo",
+        "alt_pt": "Juice voa pela Terra – o caminho completo",
+        "alt_en": "Juice flies by Earth – the complete path"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/12/juice_s_journey_to_jupiter/24641025-9-eng-GB/Juice_s_journey_to_Jupiter_article.jpg",
+        "caption": "A jornada de Juice para Júpiter",
+        "caption_pt": "A jornada de Juice para Júpiter",
+        "caption_en": "Juice’s journey to Jupiter",
+        "alt": "A jornada de Juice para Júpiter",
+        "alt_pt": "A jornada de Juice para Júpiter",
+        "alt_en": "Juice’s journey to Jupiter"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/juice_flies_past_earth_in_september_2026_2d_view/27534254-1-eng-GB/Juice_flies_past_Earth_in_September_2026_2D_view_pillars.png",
+        "caption": "$video.data_map.short_description.content",
+        "caption_pt": "$video.data_map.short_description.content",
+        "caption_en": "$video.data_map.short_description.content",
+        "alt": "$video.data_map.short_description.content",
+        "alt_pt": "$video.data_map.short_description.content",
+        "alt_en": "$video.data_map.short_description.content"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/juice_flies_past_earth_in_september_2026_context_view/27534361-1-eng-GB/Juice_flies_past_Earth_in_September_2026_context_view_pillars.png",
+        "caption": "$video.data_map.short_description.content",
+        "caption_pt": "$video.data_map.short_description.content",
+        "caption_en": "$video.data_map.short_description.content",
+        "alt": "$video.data_map.short_description.content",
+        "alt_pt": "$video.data_map.short_description.content",
+        "alt_en": "$video.data_map.short_description.content"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Juice to fly past Earth for third gravity assist",
@@ -282,7 +459,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "announcing-our-new-step-grant-winners-a-solar-system-shadow-tracker-a-new-telescope-tool-and-an-",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -449,7 +626,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "ameaca-de-um-super-el-nino-desafia-cidades-brasileiras-a-se-preparar-para-eventos-extremos",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -463,6 +640,15 @@
         "caption": "",
         "caption_pt": "",
         "caption_en": ""
+      },
+      {
+        "src": "https://revistapesquisa.fapesp.br/wp-content/thumbs/652bfbb214633821e2d2bf8740b11e87cd4477e8_1200-630.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
       }
     ],
     "video": {
@@ -590,7 +776,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "arctic-melt-season-length-levels-off",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -736,7 +922,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "nasa-jaxa-xrism-mission-sees-pulsar-gathering-companion-s-wind",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -979,7 +1165,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "lake-powell-drops-to-record-low-levels",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1118,156 +1304,6 @@
     "imageAlt": "Lago Powell cai para níveis recordes",
     "imageAlt_pt": "Lago Powell cai para níveis recordes",
     "imageAlt_en": "Lake Powell Drops to Record-Low Levels",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 8,
-    "slug": "summer-goes-out-with-a-heat-dome",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/usheatdome_geos5_20260915_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/summer-goes-out-with-a-heat-dome/heatdome_geos5_20260915_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/wcKZEtqy5M8?rel=0&modestbranding=1",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/"
-    },
-    "audio": null,
-    "title": "O verão sai com uma cúpula de calor",
-    "title_pt": "O verão sai com uma cúpula de calor",
-    "title_en": "Summer Goes Out With a Heat Dome",
-    "sub": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-    "sub_pt": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-    "sub_en": "Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
-    "excerpt": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-    "excerpt_pt": "Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-    "excerpt_en": "Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
-    "highlights": [
-      "Ponto central: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-      "Dado-chave: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-      "Dado-chave: Os registros de temperatura caíram no centro e no sul dos EUA à medida que o equinócio de outono se aproximava.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
-      "Key detail: Temperature records toppled across the central and southern U. S. as the autumnal equinox approached.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 set 2026",
-    "date_pt": "17 set 2026",
-    "date_en": "17 Sep 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-17T04:01:00+00:00",
-    "lastModifiedIso": "2026-09-17T19:18:30+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O verão sai com uma cúpula de calor"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O verão sai com uma cúpula de calor"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Summer comes out with a heat dome"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
-    "realUrl": "https://www.cosmosweek.com/?article=summer-goes-out-with-a-heat-dome",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=summer-goes-out-with-a-heat-dome",
-    "realUrl_en": "https://www.cosmosweek.com/?article=summer-goes-out-with-a-heat-dome&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/summer-goes-out-with-a-heat-dome/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/summer-goes-out-with-a-heat-dome/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/summer-goes-out-with-a-heat-dome/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "O verão sai com uma cúpula de calor",
-    "imageAlt_pt": "O verão sai com uma cúpula de calor",
-    "imageAlt_en": "Summer Goes Out With a Heat Dome",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -4323,17 +4359,17 @@
     "excerpt_en": "An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a definitive characterization of LAP1-B, an ultra-faint galaxy from 13 billion years ago.",
     "highlights": [
       "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
       "Ponto central: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
-      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia",
+      "Dado-chave: Uma equipe internacional de astrônomos utilizou o Telescópio Espacial James Webb e o fenômeno de lente gravitacional para caracterizar a galáxia.",
       "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
       "Core point: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a.",
-      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve a",
+      "Key detail: An international team of astronomers has used the James Webb Space Telescope and a natural phenomenon known as gravitational lensing to achieve.",
       "Science reporting: verify primary technical documentation."
     ],
     "date": "26 jun 2026",
