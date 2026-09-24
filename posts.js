@@ -3,6 +3,277 @@
 window.postsData = [
   {
     "id": 1,
+    "slug": "nasa-s-machines-for-mars-make-beer-bubbly",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/09/earthly-labs-3.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "title_pt": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "title_en": "NASA’s Machines for Mars Make Beer Bubbly",
+    "sub": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o.",
+    "sub_pt": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o.",
+    "sub_en": "3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer.",
+    "excerpt": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação.",
+    "excerpt_pt": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação.",
+    "excerpt_en": "3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer brewing process for use in carbonation.",
+    "body": "<p>3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação.</p><p>3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação. Leia mais detalhes do compartilhamento Última atualização em 24 de setembro.</p><p>Marte é um destino rico para descobertas científicas e um impulsionador de tecnologias que permitirão aos humanos. Em 2021, o fornecedor de dióxido de carbono da Maine Beer Company ficou sem dióxido de carbono.</p><p>Não seríamos capazes de usar CO 2 em nenhuma de nossas operações de engarrafamento, barris ou centrífuga. ” A solução que a empresa escolheu teve origem em Marte, ou mais especificamente, nos planos da NASA para colher recursos do Planeta Vermelho. A partir da década de 1990, a empresa Pioneer Astronautics ganhou vários contratos de Small Business Innovation Research (SBIR) do Johnson Space Center em Houston para construir sistemas que pudessem gerar recursos em Marte.</p><p>A tecnologia poderia, por exemplo, capturar dióxido de carbono da atmosfera marciana e combiná-lo com hidrogénio para produzir água para suporte de vida e metano para combustível de foguetes. Mais tarde, o fundador da Pioneer Astronautics, Robert Zubrin, criou a Pioneer Energy para reorganizar esses subsistemas em tecnologia para a indústria de petróleo e gás (Spinoff 2015, 2020).</p><p>Ele logo percebeu que a tecnologia de captura e purificação de dióxido de carbono em Marte poderia fazer o mesmo em uma cervejaria, capturando CO 2 do processo de fabricação de cerveja para uso na carbonatação.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação.</p><p>3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação. Leia mais detalhes do compartilhamento Última atualização em 24 de setembro.</p><p>Marte é um destino rico para descobertas científicas e um impulsionador de tecnologias que permitirão aos humanos. Em 2021, o fornecedor de dióxido de carbono da Maine Beer Company ficou sem dióxido de carbono.</p><p>Não seríamos capazes de usar CO 2 em nenhuma de nossas operações de engarrafamento, barris ou centrífuga. ” A solução que a empresa escolheu teve origem em Marte, ou mais especificamente, nos planos da NASA para colher recursos do Planeta Vermelho. A partir da década de 1990, a empresa Pioneer Astronautics ganhou vários contratos de Small Business Innovation Research (SBIR) do Johnson Space Center em Houston para construir sistemas que pudessem gerar recursos em Marte.</p><p>A tecnologia poderia, por exemplo, capturar dióxido de carbono da atmosfera marciana e combiná-lo com hidrogénio para produzir água para suporte de vida e metano para combustível de foguetes. Mais tarde, o fundador da Pioneer Astronautics, Robert Zubrin, criou a Pioneer Energy para reorganizar esses subsistemas em tecnologia para a indústria de petróleo e gás (Spinoff 2015, 2020).</p><p>Ele logo percebeu que a tecnologia de captura e purificação de dióxido de carbono em Marte poderia fazer o mesmo em uma cervejaria, capturando CO 2 do processo de fabricação de cerveja para uso na carbonatação.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer brewing process for use in carbonation. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide. Read More Share Details Last Updated Sep 24.</p><p>Mars is a rich destination for scientific discovery and a driver of technologies that will enable humans. Johnson Space Center Technology Transfer &amp; Spinoffs Solar System. In 2021, Maine Beer Company’s carbon dioxide supplier ran short on carbon dioxide.</p><p>We wouldn’t be able to use CO 2 for any of our bottling, kegging, or centrifuge operations. ” The solution the company settled on originated on Mars, or more specifically, in. Beginning in the 1990s, the company Pioneer Astronautics won multiple Small Business Innovation Research (SBIR) contracts from Johnson Space Center in Houston to build systems.</p><p>The technology could, for example, capture carbon dioxide from the Martian atmosphere and combine it with hydrogen to produce water for life support and methane for rocket fuel. He soon realized technology for capturing and purifying carbon dioxide on Mars could do the same in a brewery, capturing CO 2 from the brewing process for use in carbonation.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Amy George founded Earthly Labs of Austin, Texas, in 2016 to develop small-scale carbon capture. In 2021, Earthly Labs was acquired by Chart Industries Inc, which specializes in cryogenic equipment engineering and has helped scale up the technology for applications like power.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: 3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "24 set 2026",
+    "date_pt": "24 set 2026",
+    "date_en": "24 Sep 2026",
+    "time": "16h41",
+    "time_pt": "16h41",
+    "time_en": "16: 41 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-24T16:41:01+00:00",
+    "lastModifiedIso": "2026-09-24T19:32:56+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Máquinas da NASA para Marte fazem cerveja borbulhante"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Máquinas da NASA para Marte fazem cerveja borbulhante"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Mars Machines Make Bubbly Beer"
+    ],
+    "srcUrl": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-machines-for-mars-make-beer-bubbly",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-machines-for-mars-make-beer-bubbly",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-machines-for-mars-make-beer-bubbly&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "imageAlt_pt": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "imageAlt_en": "NASA’s Machines for Mars Make Beer Bubbly",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "cloudy-cloak-over-the-northwest",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Manto Nublado Sobre o Noroeste",
+    "title_pt": "Manto Nublado Sobre o Noroeste",
+    "title_en": "Cloudy Cloak Over the Northwest",
+    "sub": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "sub_pt": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "sub_en": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
+    "excerpt": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "excerpt_pt": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "excerpt_en": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
+    "body": "<p>Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha. O post Cloudy Cloak Over the Northwest apareceu pela primeira vez na NASA Science.</p><p>2026 Observatório da Terra da NASA / Michala Garrison O ar fresco e marinho que sai do Oceano Pacífico levou a uma pitoresca camada de nuvens matinais sobre o oeste de Washington e Oregon em meados de setembro de 2026. Naquele mesmo dia, quando o satélite Aqua da NASA passou sobre a área por volta das 16h15.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Cloudy Cloak Over the Northwest apareceu pela primeira vez em NASA Science.</p><p>O MODIS (espectrorradiômetro de imagem de resolução moderada) no satélite Terra da NASA mostra a extensão do manto nublado do noroeste do Pacífico em 19 de setembro de 2026, por volta das 10h45. Imagem do NASA Earth Observatory por Michala Garrison, usando dados MODIS da NASA EOSDIS LANCE e GIBS/Worldview.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Artigo El Niño altera a vida marinha no Pacífico 5 min de leitura Medições de clorofila por satélite na superfície do mar sinalizam mudanças nas reservas de nutrientes do oceano em meados de 2026.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha. O post Cloudy Cloak Over the Northwest apareceu pela primeira vez na NASA Science.</p><p>2026 Observatório da Terra da NASA / Michala Garrison O ar fresco e marinho que sai do Oceano Pacífico levou a uma pitoresca camada de nuvens matinais sobre o oeste de Washington e Oregon em meados de setembro de 2026. Naquele mesmo dia, quando o satélite Aqua da NASA passou sobre a área por volta das 16h15.</p><p>Imagem do Dia do Observatório da Terra O Observatório da Terra da NASA traz para você a Terra, todos os dias, com histórias detalhadas e imagens impressionantes. Explore dados de ciências da terra da Terra Acesso aberto ao arquivo de dados de ciências da Terra da NASA O post Cloudy Cloak Over the Northwest apareceu pela primeira vez em NASA Science.</p><p>O MODIS (espectrorradiômetro de imagem de resolução moderada) no satélite Terra da NASA mostra a extensão do manto nublado do noroeste do Pacífico em 19 de setembro de 2026, por volta das 10h45. Imagem do NASA Earth Observatory por Michala Garrison, usando dados MODIS da NASA EOSDIS LANCE e GIBS/Worldview.</p><p>Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal. Artigo El Niño altera a vida marinha no Pacífico 5 min de leitura Medições de clorofila por satélite na superfície do mar sinalizam mudanças nas reservas de nutrientes do oceano em meados de 2026.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall. The post Cloudy Cloak Over the Northwest appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post Cloudy Cloak Over the Northwest appeared first on NASA Science. 2026 NASA Earth Observatory/Michala Garrison Cool, marine air rolling off the Pacific Ocean led to a picturesque layer of morning clouds over western Washington and Oregon in.</p><p>Earth Observatory Image of the Day NASA&#x27;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery. Explore Earth Science Earth Science Data Open access to NASA’s archive of Earth science data The post Cloudy Cloak Over the Northwest appeared first on NASA Science.</p><p>Article View more Images of the Day: Sep 23, 2026 Instruments: Terra, MODIS Topics: Clouds September 19, 2026 NASA Earth Observatory/Michala Garrison Cool, marine air rolling off. The MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite shows the extent of the Pacific Northwest’s cloudy cloak on September 19, 2026, at about 10: 45.</p><p>NASA Earth Observatory image by Michala Garrison, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Article El Niño Alters Marine Life in the Pacific 5 min read Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026. Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Em foco: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "24 set 2026",
+    "date_pt": "24 set 2026",
+    "date_en": "24 Sep 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-24T04:01:00+00:00",
+    "lastModifiedIso": "2026-09-24T19:32:56+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Manto Nublado Sobre o Noroeste"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Manto Nublado Sobre o Noroeste"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Cloudy Cloak Over the Northwest"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+    "realUrl": "https://www.cosmosweek.com/?article=cloudy-cloak-over-the-northwest",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=cloudy-cloak-over-the-northwest",
+    "realUrl_en": "https://www.cosmosweek.com/?article=cloudy-cloak-over-the-northwest&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/cloudy-cloak-over-the-northwest/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/cloudy-cloak-over-the-northwest/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Manto Nublado Sobre o Noroeste",
+    "imageAlt_pt": "Manto Nublado Sobre o Noroeste",
+    "imageAlt_en": "Cloudy Cloak Over the Northwest",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "nasa-aircraft-to-make-low-altitude-research-flights-over-colorado",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -23,19 +294,19 @@ window.postsData = [
     "body_pt": "<p>As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra. A missão FarmFlux implantará mais de uma dúzia de sensores para medir ozônio, metano, amônia, partículas e outros poluentes.</p><p>Uma foto da aeronave Dynamic Aviation A200, que realizará voos de pesquisa de baixa altitude sobre terras agrícolas perto de Greeley, Colorado, para medir as emissões em outubro de 2026. Para obter mais informações sobre a missão FarmFlux, visite: https: //espo. nasa. gov/farmflux Por Sharon Teitelbaum Centro de Pesquisa Ames da NASA no Vale do Silício, na Califórnia.</p><p>A missão FarmFlux Artigo Uma foto da aeronave Dynamic Aviation A200, que realizará voos de pesquisa de baixa altitude sobre terras agrícolas perto de Greeley, Colorado, para medir as emissões em outubro de 2026. Aviação Dinâmica As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.</p><p>A missão FarmFlux irá implantar mais de uma dúzia de sensores para medir ozônio, metano, amônia, partículas e outros poluentes provenientes de terras agrícolas e fazendas de criação de animais e a interação com a atmosfera da Terra. A missão é liderada conjuntamente pelo Goddard Space Flight Center da NASA em Greenbelt, Maryland.</p><p>A implantação no Colorado é a primeira série de voos da missão FarmFlux. Voos adicionais de pesquisa em baixa altitude estão programados sobre terras agrícolas em Amarillo, Texas, do final de outubro ao início de novembro.</p><p>Para a temporada de cultivo de março a julho de 2027, estão programados voos de pesquisa com uma aeronave P-3 Orion da NASA no Centro-Oeste e no Vale Central da Califórnia, com foco em terras agrícolas.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A photo of the Dynamic Aviation A200 aircraft, which will conduct low-flying research flights over farmland near Greeley, Colorado, to measure emissions in October 2026. For more information about the FarmFlux mission, visit: https: //espo. nasa. gov/farmflux By Sharon Teitelbaum NASA’s Ames Research Center in California’s Silicon Valley.</p><p>The FarmFlux mission Article A photo of the Dynamic Aviation A200 aircraft, which will conduct low-flying research flights over farmland near Greeley, Colorado, to measure. Dynamic Aviation Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems.</p><p>The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms. The mission is jointly led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland.</p><p>The Colorado deployment is the first series of flights for the FarmFlux mission. Additional low-altitude research flights are scheduled over farmland in Amarillo, Texas, from late October to early November.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>For the March to July 2027 growing season, research flights with a NASA P-3 Orion aircraft are scheduled in the Midwest and California’s Central Valley with a focus on croplands. For more information about the FarmFlux mission, visit: NASA’s Ames Research Center in California’s Silicon Valley.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
+      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
+      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems.",
+      "Key detail: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 set 2026",
     "date_pt": "23 set 2026",
@@ -123,7 +394,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "arctic-sea-ice-reaches-2026-annual-minimum-extent",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -185,19 +456,19 @@ window.postsData = [
     "body_pt": "<p>O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da Universidade do Colorado em Boulder. Imagens diárias da cobertura de gelo no Oceano Ártico mostram o derretimento do gelo marinho ao redor do pólo, de 15 de março de 2026 a 20 de setembro de 2026.</p><p>Contato com a mídia: Elizabeth Vlock Sede da NASA Explorar mais 1 min de leitura FFA 2026 Hyperwall Schedule FFA 2026 Hyperwall Schedule Artigo 3 horas atrás 3 min de leitura Ano de expansão para flores no deserto Tapetes de flores silvestres explodiram em terras áridas e de cor. Artigo 14 horas atrás 6 minutos de leitura Pesquisa financiada pela NASA descobre que a vida complexa desafia o recorde de calor Artigo 1 dia atrás.</p><p>Em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo (NSIDC) da Universidade de Article Imagens diárias da cobertura de gelo no Oceano Ártico mostram o derretimento do gelo marinho ao redor do pólo, de 15 de março de 2026 a 12 de setembro de 2026. 12, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo (NSIDC) da Universidade do Colorado em Boulder.</p><p>O gelo cobriu cerca de 1, 78 milhões de milhas quadradas (4, 6 milhões de quilômetros quadrados), empatando 2008, 2010 e 2025 como o décimo mínimo mais baixo no registro de satélite. O mínimo de 2026 é consistente com os padrões observados no registo do satélite.</p><p>Os últimos 20 anos, de 2007 a 2026, produziram as 20 extensões mínimas anuais mais baixas do gelo marinho do Ártico observadas desde que as medições contínuas por satélite começaram no final de 1978. Durante a última década, por exemplo, o aumento da cobertura de nuvens impediu que a radiação solar acelerasse ainda mais o derretimento do gelo marinho, de acordo com Linette Boisvert, cientista do gelo marinho do Goddard Space Flight Center da NASA em Greenbelt, Maryland.</p><p>Durante esse período, a NASA e a Administração Nacional Oceânica e Atmosférica (NOAA) utilizaram uma série de instrumentos de satélite para manter um registo contínuo do gelo marinho, começando com o satélite Nimbus-7 da NASA, que iniciou as observações em Outubro de 1978.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Daily images of ice cover in the Arctic Ocean show sea ice melting around the pole from March 15, 2026 to Sept. Elizabeth Vlock NASA Headquarters Explore More 1 min read FFA 2026 Hyperwall Schedule FFA 2026 Hyperwall Schedule Article 3 hours ago 3 min read Boom Year for Desert Blooms.</p><p>Article 14 hours ago 6 min read NASA-Funded Research Finds Complex Life Defying Record Heat Article 1 day ago. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Article Daily images of ice cover in the Arctic Ocean show sea ice melting around the.</p><p>12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record.</p><p>The 2026 minimum is consistent with patterns observed in the satellite record. The past 20 years, from 2007 through 2026, have produced the 20 lowest annual Arctic sea ice minimum extents observed since continuous satellite measurements began in late 1978.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Over the last decade, for example, increased cloud cover has prevented solar radiation from further accelerating the melt of sea ice, according to Linette Boisvert, a sea ice. During that time, NASA and the National Oceanic and Atmospheric Administration (NOAA) used a series of satellite instruments to maintain a continuous sea ice record, beginning.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da.",
+      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da.",
+      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Arctic sea ice reached its annual minimum extent on Sept",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center at the University of.",
+      "Key detail: Arctic sea ice reached its annual minimum extent on Sept",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 set 2026",
     "date_pt": "23 set 2026",
@@ -285,7 +556,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "boom-year-for-desert-blooms",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -434,141 +705,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-funded-research-finds-complex-life-defying-record-heat",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/research-images/icas_SEM.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-    "inline_images": [],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/research-images/MovieS12_60C_normalmotility_switching%201080p_Crop.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/icas_SEM.png?w=1228&h=1390&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida - NASA Science",
-      "title_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida - NASA Science",
-      "title_en": "NASA-Funded Research Finds Complex Life Defying Record Heat - NASA Science",
-      "caption": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. Altas temperaturas podem",
-      "caption_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. Altas temperaturas podem",
-      "caption_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can",
-      "sourcePage": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/"
-    },
-    "audio": null,
-    "title": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "title_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "title_en": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-    "sub": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "sub_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "sub_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
-    "excerpt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "excerpt_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "excerpt_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
-    "body": "<p>Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. 6 min de leitura Pesquisa financiada pela NASA descobre calor recorde que desafia a vida complexa Este vídeo mostra a motilidade da Incendiamoeba cascadensis a 60ºC.</p><p>Cascadensis pode permanecer parcialmente ativo a 150, 8 graus Fahrenheit (66 graus Celsius) e pode se recuperar da exposição a impressionantes 158 graus Fahrenheit (70 graus Celsius) por cinco minutos. No entanto, 80 graus Fahrenheit (176 graus Celsius) provou ser demais para a ameba voltar.</p><p>Kristen Skruber Busca por vida além da Terra A Terra é o único planeta que conhecemos que é habitado por vida. Incendiamoeba cascadensis, também apelidada de ameba do fogo, para de se reproduzir acima de 145 graus Fahrenheit, mas ainda está ativa, movendo-se em busca de alimento a até 147 graus Fahrenheit (64 Celsius).</p><p>Os astrobiólogos há muito estudam os limites da sobrevivência da vida na Terra para determinar como os organismos podem viver noutros mundos como Marte, onde as condições são menos hospitaleiras do que o nosso planeta natal. Devido à sua relativa simplicidade, os cientistas também acreditam que os procariontes foram as primeiras formas de vida a aparecer na Terra, há milhares de milhões de anos, quando o ambiente do nosso planeta era muito mais inóspito do que é hoje.</p><p>Neste conjunto de dados, eles encontraram pedaços semelhantes de DNA de amostras geotérmicas em lugares como a Nova Zelândia e o Parque Nacional de Yellowstone. A Terra é o único planeta que conhecemos que é habitado por vida.</p><p>Estudar os extremófilos ajuda-nos a compreender melhor as limitações bioquímicas e fisiológicas da vida tal como a conhecemos na Terra”, diz Alison Olcott, cientista do programa de Exobiologia na sede da NASA em Washington.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. 6 min de leitura Pesquisa financiada pela NASA descobre calor recorde que desafia a vida complexa Este vídeo mostra a motilidade da Incendiamoeba cascadensis a 60ºC.</p><p>Cascadensis pode permanecer parcialmente ativo a 150, 8 graus Fahrenheit (66 graus Celsius) e pode se recuperar da exposição a impressionantes 158 graus Fahrenheit (70 graus Celsius) por cinco minutos. No entanto, 80 graus Fahrenheit (176 graus Celsius) provou ser demais para a ameba voltar.</p><p>Kristen Skruber Busca por vida além da Terra A Terra é o único planeta que conhecemos que é habitado por vida. Incendiamoeba cascadensis, também apelidada de ameba do fogo, para de se reproduzir acima de 145 graus Fahrenheit, mas ainda está ativa, movendo-se em busca de alimento a até 147 graus Fahrenheit (64 Celsius).</p><p>Os astrobiólogos há muito estudam os limites da sobrevivência da vida na Terra para determinar como os organismos podem viver noutros mundos como Marte, onde as condições são menos hospitaleiras do que o nosso planeta natal. Devido à sua relativa simplicidade, os cientistas também acreditam que os procariontes foram as primeiras formas de vida a aparecer na Terra, há milhares de milhões de anos, quando o ambiente do nosso planeta era muito mais inóspito do que é hoje.</p><p>Neste conjunto de dados, eles encontraram pedaços semelhantes de DNA de amostras geotérmicas em lugares como a Nova Zelândia e o Parque Nacional de Yellowstone. A Terra é o único planeta que conhecemos que é habitado por vida.</p><p>Estudar os extremófilos ajuda-nos a compreender melhor as limitações bioquímicas e fisiológicas da vida tal como a conhecemos na Terra”, diz Alison Olcott, cientista do programa de Exobiologia na sede da NASA em Washington.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>This matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. 6 min read NASA-Funded Research Finds Complex Life Defying Record Heat This video shows Incendiamoeba cascadensis motility at 60ºC. Cascadensis can remain partially active at 150.8 degrees Fahrenheit (66 degrees Celsius) and can recover from exposure to a staggering 158 degrees Fahrenheit (70 degrees Celsius).</p><p>However, 80 degrees Fahrenheit (176 degrees Celsius) proved to be too much for the amoeba to come back from. Kristen Skruber Search for life beyond Earth Earth is the only planet we know of that is inhabited with life.</p><p>It needs other life to be supported as well. ” For more information on astrobiology at NASA, visit: https: //science. nasa. gov/astrobiology Share Details Last Updated Sep 22. In the heated waters of California’s Lassen Volcanic National Park, a team of scientists observed an amoeba that can reproduce by division at an astonishing 145 degrees Fahrenheit.</p><p>Incendiamoeba cascadensis, also dubbed the fire amoeba, stops reproducing above 145 degrees Fahrenheit but is still active, moving around to search for food at up to 147 degrees. Astrobiologists have long studied the boundaries of life’s survival on Earth to determine how organisms might live on other worlds like Mars where conditions are less hospitable.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because of their relative simplicity, scientists also believe that prokaryotes were the first forms of life to appear on Earth, billions of years ago when the environment of our. In this trove of data, they found similar pieces of DNA from geothermal samples in places like New Zealand and Yellowstone National Park.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-      "Dado-chave: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-      "Dado-chave: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
-      "Key detail: NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 set 2026",
-    "date_pt": "22 set 2026",
-    "date_en": "22 Sep 2026",
-    "time": "17h33",
-    "time_pt": "17h33",
-    "time_en": "17: 33 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-22T17:33:10+00:00",
-    "lastModifiedIso": "2026-09-22T19:09:10+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA-Funded Research Discovers Complex, Life-Defying Record Heat"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "imageAlt_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "imageAlt_en": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
+    "id": 6,
     "slug": "juice-to-fly-past-earth-for-third-gravity-assist",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -735,7 +872,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "announcing-our-new-step-grant-winners-a-solar-system-shadow-tracker-a-new-telescope-tool-and-an-",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -905,7 +1042,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "ameaca-de-um-super-el-nino-desafia-cidades-brasileiras-a-se-preparar-para-eventos-extremos",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1058,7 +1195,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "lake-powell-drops-to-record-low-levels",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1107,19 +1244,19 @@ window.postsData = [
     "body_pt": "<p>A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA. A postagem Lago Powell cai para níveis recordes baixos apareceu pela primeira vez na NASA Science.</p><p>NASA Earth Observatory / Lauren Dauphin 1 de setembro de 2017 10 de setembro de 2026 A água azul escura no Lago Powell preenche várias baías e desfiladeiros ramificados em meio a uma paisagem desértica laranja claro. NASA Earth Observatory / Lauren Dauphin 1 de setembro de 2017 10 de setembro de 2026 Curtain Toggle 2-Up Image Details O Lago Powell atingiu um de seus níveis mais altos da última década em 1 de setembro de 2017 (à esquerda), e em um nível recorde em 10 de setembro de 2026.</p><p>O sudoeste no século 21 se reflete no nível da água do Lago Powell, medido pelos EUA. Downloads 1º de setembro de 2017 JPEG (9, 55 MB) 10 de setembro de 2026 JPEG (10, 77 MB) Referências e recursos NASA Earth Observatory (2026, 27 de abril) A neve é ​​escassa na Bacia do Alto Colorado.</p><p>Estas imagens mostram uma parte do Lago Powell logo acima da represa Glen Canyon, conforme observado pelo OLI (Operational Land Imager) no satélite NASA-USGS Landsat 8 em 1 de setembro de 2017 (esquerda) e 10 de setembro de 2026 (direita). Referências e recursos NASA Earth Observatory (2026, 27 de abril) A neve é ​​escassa na Bacia do Alto Colorado.</p><p>Artigo 1 2 3 4 Próximo Continue explorando Descubra mais da NASA Earth Science Assine os boletins informativos do Observatório da Terra Assine o Observatório da Terra e receba a Terra em sua caixa de entrada. Acesso aberto ao arquivo de dados de ciências da Terra da NASA Observatório da Terra da NASA (2026, 27 de abril) Snow Is Scarce in the Upper Colorado Basin.</p><p>NASA Earth Observatory (2021) Mundo de Mudança: Nível da Água no Lago Powell.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U. S. West. The post Lake Powell Drops to Record-Low Levels appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA Earth Observatory / Lauren Dauphin September 1, 2017 September 10, 2026 Dark blue water in Lake Powell fills several bays and branching canyons amid a light orange desert. NASA Earth Observatory / Lauren Dauphin September 1, 2017 September 10, 2026 Curtain Toggle 2-Up Image Details Lake Powell stood at one of its highest levels in the past decade on.</p><p>NASA Earth Observatory/Lauren Dauphin The USBR took steps in April 2026 to stabilize Lake Powell and keep it from falling below the level needed for hydropower production, an. Downloads September 1, 2017 JPEG (9.55 MB) September 10, 2026 JPEG (10.77 MB) References &amp; Resources NASA Earth Observatory (2026, April 27) Snow Is Scarce in the Upper Colorado.</p><p>These images show a portion of Lake Powell just above Glen Canyon Dam as observed by the OLI (Operational Land Imager) on the NASA-USGS Landsat 8 satellite on September 1, 2017. References &amp; Resources NASA Earth Observatory (2026, April 27) Snow Is Scarce in the Upper Colorado Basin.</p><p>Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your. Open access to NASA’s archive of Earth science data NASA Earth Observatory (2026, April 27) Snow Is Scarce in the Upper Colorado Basin.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>NASA Earth Observatory (2021) World of Change: Water Level in Lake Powell. NASA Earthdata (2026, August 24) Low Water Levels in Lake Powell and Lake Mead in August 2026.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no.",
+      "Dado-chave: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no.",
+      "Dado-chave: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U.",
+      "Key detail: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "18 set 2026",
     "date_pt": "18 set 2026",
@@ -1207,7 +1344,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1356,7 +1493,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "swap-pepssi-and-the-secrets-of-the-solar-system",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1526,7 +1663,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "nerv-neural-network-enhanced-reconstruction-of-the-universe-with-application-to-baryon-acoustic-",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1650,7 +1787,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "nsf-launches-20m-pilot-to-accelerate-commercialization-of-promising-deep-technologies-from-small",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1799,7 +1936,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "questions-ask-our-hera-space-companion",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1948,7 +2085,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "flex-and-sentinel-3c-ready-for-liftoff-on-vega-c",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2181,7 +2318,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2321,7 +2458,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2442,7 +2579,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2603,7 +2740,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2611,21 +2748,21 @@ window.postsData = [
     "inline_images": [
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_pillars.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2003/05/hubble_in_free_orbit/9767064-3-eng-GB/Hubble_in_free_orbit_article.jpg",
-        "caption": "Hubble em órbita livre",
-        "caption_pt": "Hubble em órbita livre",
-        "caption_en": "Hubble in free orbit",
         "alt": "Hubble em órbita livre",
         "alt_pt": "Hubble em órbita livre",
-        "alt_en": "Hubble in free orbit"
+        "alt_en": "Hubble in free orbit",
+        "caption": "Hubble em órbita livre",
+        "caption_pt": "Hubble em órbita livre",
+        "caption_en": "Hubble in free orbit"
       }
     ],
     "video": null,
@@ -2643,19 +2780,19 @@ window.postsData = [
     "body_pt": "<p>Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi observado no hemisfério sul do planeta.</p><p>A estrutura parece notavelmente semelhante ao famoso hexágono de Saturno no seu pólo norte, mas também é distintamente diferente, sugerindo que os cientistas podem estar a testemunhar um novo fenómeno atmosférico a desenvolver-se no icónico gigante gasoso.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>It is relevant because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Em foco: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole.",
+      "Key detail: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 set 2026",
     "date_pt": "02 set 2026",
@@ -2743,7 +2880,7 @@ window.postsData = [
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2898,167 +3035,6 @@ window.postsData = [
     "imageAlt": "Pasterze continua sendo a maior geleira da Áustria",
     "imageAlt_pt": "Pasterze continua sendo a maior geleira da Áustria",
     "imageAlt_en": "Pasterze Hangs on as Austria’s Largest Glacier",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 20,
-    "slug": "a-changing-world-for-emperor-penguins",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_tm4_19891224.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_oli_20251210.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsidc.org/sites/default/files/images/Data/sea_ice_index_antmin_2025_plot.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Um mundo em mudança para os pinguins-imperadores",
-    "title_pt": "Um mundo em mudança para os pinguins-imperadores",
-    "title_en": "A Changing World for Emperor Penguins",
-    "sub": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "sub_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "sub_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
-    "excerpt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "excerpt_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "excerpt_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
-    "body": "<p>Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado. A postagem Um mundo em mudança para os pinguins-imperadores apareceu pela primeira vez na NASA Science.</p><p>Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antarctic Survey relataram falhas reprodutivas “catastróficas” entre as colônias do Mar de Bellingshausen. Michael Van Woert, NOAA NESDIS, ORA “Há pouca informação básica sobre o que é ‘normal’ para a maioria destas colónias”, disse Michelle LaRue, ecologista da vida selvagem na Universidade de Canterbury.</p><p>É quando começamos a ver falhas reprodutivas frequentes, ano após ano, que as aves não conseguem acompanhar, e isso começa a ser um problema para uma colônia. Estas colónias são tão remotas e de difícil acesso que os satélites, especialmente os satélites governamentais com dados facilmente acessíveis, serão absolutamente inestimáveis ​​para compreender o que o futuro lhes trará.</p><p>O Fish &amp; Wildlife Service listou os pinguins-imperadores como ameaçados em 2022, e a União Internacional para a Conservação da Natureza os classificou como ameaçados em 2026. Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antártica relataram falhas reprodutivas &quot;catastróficas&quot; entre as colônias do Mar de Bellingshausen.</p><p>Dois novos estudos publicados em 2026 usaram décadas de observações do Landsat para começar a preencher lacunas na compreensão. Usando esta técnica, investigadores da Universidade de Friburgo descobriram que 18 colónias antecedem a sua identificação inicial em 17 anos, em média.</p><p>A imagem acima à direita mostra a colônia em dezembro de 2025, o mês mais recente que o Landsat observou a colônia.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado. A postagem Um mundo em mudança para os pinguins-imperadores apareceu pela primeira vez na NASA Science.</p><p>Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antarctic Survey relataram falhas reprodutivas “catastróficas” entre as colônias do Mar de Bellingshausen. Michael Van Woert, NOAA NESDIS, ORA “Há pouca informação básica sobre o que é ‘normal’ para a maioria destas colónias”, disse Michelle LaRue, ecologista da vida selvagem na Universidade de Canterbury.</p><p>É quando começamos a ver falhas reprodutivas frequentes, ano após ano, que as aves não conseguem acompanhar, e isso começa a ser um problema para uma colônia. Estas colónias são tão remotas e de difícil acesso que os satélites, especialmente os satélites governamentais com dados facilmente acessíveis, serão absolutamente inestimáveis ​​para compreender o que o futuro lhes trará.</p><p>O Fish &amp; Wildlife Service listou os pinguins-imperadores como ameaçados em 2022, e a União Internacional para a Conservação da Natureza os classificou como ameaçados em 2026. Depois que a cobertura de gelo marinho da Antártica atingiu um nível recorde em 2022, os pesquisadores da British Antártica relataram falhas reprodutivas &quot;catastróficas&quot; entre as colônias do Mar de Bellingshausen.</p><p>Dois novos estudos publicados em 2026 usaram décadas de observações do Landsat para começar a preencher lacunas na compreensão. Usando esta técnica, investigadores da Universidade de Friburgo descobriram que 18 colónias antecedem a sua identificação inicial em 17 anos, em média.</p><p>A imagem acima à direita mostra a colônia em dezembro de 2025, o mês mais recente que o Landsat observou a colônia.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past. The post A Changing World for Emperor Penguins appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The significance lies in Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The post A Changing World for Emperor Penguins appeared first on NASA Science. After Antarctic sea ice cover hit a record low in 2022, British Antarctic Survey researchers reported “catastrophic” breeding failures among Bellingshausen Sea colonies.</p><p>Michael Van Woert, NOAA NESDIS, ORA “There’s little baseline information for what’s ‘normal’ for most of these colonies,” said Michelle LaRue, a wildlife ecologist at the. It’s when we start to see frequent breeding failures year after year that the birds won’t be able to keep up, and it starts to be a problem for a colony.</p><p>These colonies are so remote and difficult to access that satellites, especially government satellites with easily accessible data, are going to be absolutely invaluable to. Fish &amp; Wildlife Service listed emperor penguins as threatened in 2022, and the International Union for Conservation of Nature classified them as endangered in 2026.</p><p>After Antarctic sea ice cover hit a record low in 2022, British Antarctic Survey researchers reported &quot;catastrophic&quot; breeding failures among Bellingshausen Sea colonies. However, new research, based on decades of observations from NASA-USGS Landsat satellites, offers some hope, underscoring that many colonies have persisted for decades and that.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Two new studies published in 2026 used decades of Landsat observations to start filling gaps in understanding. Using this technique, researchers at the University of Freiburg found that 18 colonies predate their initial identification by an average of 17 years.</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações.",
-      "Dado-chave: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações.",
-      "Dado-chave: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the.",
-      "Key detail: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 ago 2026",
-    "date_pt": "26 ago 2026",
-    "date_en": "26 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-26T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Um mundo em mudança para os pinguins",
-      "imperadores"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Um mundo em mudança para os pinguins",
-      "imperadores"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "A changing world for penguins",
-      "emperors"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
-    "realUrl": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Um mundo em mudança para os pinguins-imperadores",
-    "imageAlt_pt": "Um mundo em mudança para os pinguins-imperadores",
-    "imageAlt_en": "A Changing World for Emperor Penguins",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",

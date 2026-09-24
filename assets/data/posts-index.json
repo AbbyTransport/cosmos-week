@@ -1,6 +1,271 @@
 [
   {
     "id": 1,
+    "slug": "nasa-s-machines-for-mars-make-beer-bubbly",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/09/earthly-labs-3.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "title_pt": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "title_en": "NASA’s Machines for Mars Make Beer Bubbly",
+    "sub": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o.",
+    "sub_pt": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o.",
+    "sub_en": "3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer.",
+    "excerpt": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação.",
+    "excerpt_pt": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação.",
+    "excerpt_en": "3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer brewing process for use in carbonation.",
+    "highlights": [
+      "Em foco: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: 3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "24 set 2026",
+    "date_pt": "24 set 2026",
+    "date_en": "24 Sep 2026",
+    "time": "16h41",
+    "time_pt": "16h41",
+    "time_en": "16: 41 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-24T16:41:01+00:00",
+    "lastModifiedIso": "2026-09-24T19:32:56+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Máquinas da NASA para Marte fazem cerveja borbulhante"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Máquinas da NASA para Marte fazem cerveja borbulhante"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Mars Machines Make Bubbly Beer"
+    ],
+    "srcUrl": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-machines-for-mars-make-beer-bubbly",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-machines-for-mars-make-beer-bubbly",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-machines-for-mars-make-beer-bubbly&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-machines-for-mars-make-beer-bubbly/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "imageAlt_pt": "Máquinas da NASA para Marte fazem cerveja borbulhante",
+    "imageAlt_en": "NASA’s Machines for Mars Make Beer Bubbly",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "cloudy-cloak-over-the-northwest",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Manto Nublado Sobre o Noroeste",
+    "title_pt": "Manto Nublado Sobre o Noroeste",
+    "title_en": "Cloudy Cloak Over the Northwest",
+    "sub": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "sub_pt": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "sub_en": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
+    "excerpt": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "excerpt_pt": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
+    "excerpt_en": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
+    "highlights": [
+      "Em foco: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "24 set 2026",
+    "date_pt": "24 set 2026",
+    "date_en": "24 Sep 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-24T04:01:00+00:00",
+    "lastModifiedIso": "2026-09-24T19:32:56+00:00",
+    "source": "NASA Earth Observatory",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Manto Nublado Sobre o Noroeste"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Manto Nublado Sobre o Noroeste"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA Earth Observatory",
+      "Cosmos Week",
+      "Cloudy Cloak Over the Northwest"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
+    "realUrl": "https://www.cosmosweek.com/?article=cloudy-cloak-over-the-northwest",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=cloudy-cloak-over-the-northwest",
+    "realUrl_en": "https://www.cosmosweek.com/?article=cloudy-cloak-over-the-northwest&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/cloudy-cloak-over-the-northwest/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/cloudy-cloak-over-the-northwest/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/cloudy-cloak-over-the-northwest/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 92,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Manto Nublado Sobre o Noroeste",
+    "imageAlt_pt": "Manto Nublado Sobre o Noroeste",
+    "imageAlt_en": "Cloudy Cloak Over the Northwest",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "nasa-aircraft-to-make-low-altitude-research-flights-over-colorado",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -18,19 +283,19 @@
     "excerpt_pt": "As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra. A missão FarmFlux implantará mais de uma dúzia de sensores para medir ozônio, metano, amônia, partículas e outros poluentes.",
     "excerpt_en": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants.",
     "highlights": [
-      "Em foco: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
+      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
+      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems.",
+      "Key detail: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 set 2026",
     "date_pt": "23 set 2026",
@@ -118,7 +383,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "arctic-sea-ice-reaches-2026-annual-minimum-extent",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -177,19 +442,19 @@
     "excerpt_pt": "O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da Universidade do Colorado em Boulder.",
     "excerpt_en": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center at the University of Colorado Boulder.",
     "highlights": [
-      "Em foco: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da.",
+      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da.",
+      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Arctic sea ice reached its annual minimum extent on Sept",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center at the University of.",
+      "Key detail: Arctic sea ice reached its annual minimum extent on Sept",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 set 2026",
     "date_pt": "23 set 2026",
@@ -277,7 +542,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "boom-year-for-desert-blooms",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -423,138 +688,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-funded-research-finds-complex-life-defying-record-heat",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/research-images/icas_SEM.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-    "inline_images": [],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/research-images/MovieS12_60C_normalmotility_switching%201080p_Crop.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/icas_SEM.png?w=1228&h=1390&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida - NASA Science",
-      "title_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida - NASA Science",
-      "title_en": "NASA-Funded Research Finds Complex Life Defying Record Heat - NASA Science",
-      "caption": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. Altas temperaturas podem",
-      "caption_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa. Altas temperaturas podem",
-      "caption_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can",
-      "sourcePage": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/"
-    },
-    "audio": null,
-    "title": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "title_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "title_en": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-    "sub": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "sub_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "sub_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
-    "excerpt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "excerpt_pt": "Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-    "excerpt_en": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
-    "highlights": [
-      "Ponto central: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-      "Dado-chave: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida complexa.",
-      "Dado-chave: Cientistas apoiados pela NASA descobriram um organismo que vive em temperaturas extremas que antes eram consideradas impossíveis para vida.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life.",
-      "Key detail: NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 set 2026",
-    "date_pt": "22 set 2026",
-    "date_en": "22 Sep 2026",
-    "time": "17h33",
-    "time_pt": "17h33",
-    "time_en": "17: 33 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-22T17:33:10+00:00",
-    "lastModifiedIso": "2026-09-22T19:09:10+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida"
-    ],
-    "keywords_en": [
-      "Biology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA-Funded Research Discovers Complex, Life-Defying Record Heat"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-funded-research-finds-complex-life-defying-record-heat&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-funded-research-finds-complex-life-defying-record-heat/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "imageAlt_pt": "Pesquisa financiada pela NASA descobre calor recorde complexo que desafia a vida",
-    "imageAlt_en": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
+    "id": 6,
     "slug": "juice-to-fly-past-earth-for-third-gravity-assist",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -718,7 +852,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "announcing-our-new-step-grant-winners-a-solar-system-shadow-tracker-a-new-telescope-tool-and-an-",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -885,7 +1019,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "ameaca-de-um-super-el-nino-desafia-cidades-brasileiras-a-se-preparar-para-eventos-extremos",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1035,7 +1169,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "lake-powell-drops-to-record-low-levels",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1081,19 +1215,19 @@
     "excerpt_pt": "A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no oeste dos EUA.",
     "excerpt_en": "Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U. S. West.",
     "highlights": [
-      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no.",
+      "Dado-chave: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos reservatórios no.",
+      "Dado-chave: A seca de neve e as temperaturas excepcionalmente altas na Bacia do Colorado em 2026 ajudaram a reduzir o armazenamento de água dos.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U.",
+      "Key detail: Snow drought and unusually warm temperatures in the Colorado Basin in 2026 helped drive down reservoir water storage in the U",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "18 set 2026",
     "date_pt": "18 set 2026",
@@ -1181,7 +1315,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1327,7 +1461,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "swap-pepssi-and-the-secrets-of-the-solar-system",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1494,7 +1628,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "nerv-neural-network-enhanced-reconstruction-of-the-universe-with-application-to-baryon-acoustic-",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1615,7 +1749,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "nsf-launches-20m-pilot-to-accelerate-commercialization-of-promising-deep-technologies-from-small",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1761,7 +1895,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "questions-ask-our-hera-space-companion",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1907,7 +2041,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "flex-and-sentinel-3c-ready-for-liftoff-on-vega-c",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2137,7 +2271,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2274,7 +2408,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2392,7 +2526,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2550,7 +2684,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2558,21 +2692,21 @@
     "inline_images": [
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_pillars.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2003/05/hubble_in_free_orbit/9767064-3-eng-GB/Hubble_in_free_orbit_article.jpg",
-        "caption": "Hubble em órbita livre",
-        "caption_pt": "Hubble em órbita livre",
-        "caption_en": "Hubble in free orbit",
         "alt": "Hubble em órbita livre",
         "alt_pt": "Hubble em órbita livre",
-        "alt_en": "Hubble in free orbit"
+        "alt_en": "Hubble in free orbit",
+        "caption": "Hubble em órbita livre",
+        "caption_pt": "Hubble em órbita livre",
+        "caption_en": "Hubble in free orbit"
       }
     ],
     "video": null,
@@ -2587,19 +2721,19 @@
     "excerpt_pt": "Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno.",
     "excerpt_en": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole.",
     "highlights": [
-      "Em foco: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole.",
+      "Key detail: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 set 2026",
     "date_pt": "02 set 2026",
@@ -2687,7 +2821,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2839,164 +2973,6 @@
     "imageAlt": "Pasterze continua sendo a maior geleira da Áustria",
     "imageAlt_pt": "Pasterze continua sendo a maior geleira da Áustria",
     "imageAlt_en": "Pasterze Hangs on as Austria’s Largest Glacier",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 20,
-    "slug": "a-changing-world-for-emperor-penguins",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_tm4_19891224.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/antarcticapenguins_oli_20251210.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsidc.org/sites/default/files/images/Data/sea_ice_index_antmin_2025_plot.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-changing-world-for-emperor-penguins/sanaepenguin_oli2_20230104_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Um mundo em mudança para os pinguins-imperadores",
-    "title_pt": "Um mundo em mudança para os pinguins-imperadores",
-    "title_en": "A Changing World for Emperor Penguins",
-    "sub": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "sub_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "sub_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
-    "excerpt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "excerpt_pt": "Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações do gelo marinho no passado.",
-    "excerpt_en": "Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the past.",
-    "highlights": [
-      "Ponto central: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações.",
-      "Dado-chave: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às perturbações.",
-      "Dado-chave: Os especialistas estão analisando décadas de imagens dos satélites Landsat em busca de pistas sobre como as aves icônicas responderam às.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in the.",
-      "Key detail: Experts are analyzing decades of images from Landsat satellites for clues about how the iconic birds have responded to sea ice disruptions in.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 ago 2026",
-    "date_pt": "26 ago 2026",
-    "date_en": "26 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-26T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-26T16:40:38+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Um mundo em mudança para os pinguins",
-      "imperadores"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Um mundo em mudança para os pinguins",
-      "imperadores"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "A changing world for penguins",
-      "emperors"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
-    "realUrl": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-changing-world-for-emperor-penguins&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-changing-world-for-emperor-penguins/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-changing-world-for-emperor-penguins/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 92,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Um mundo em mudança para os pinguins-imperadores",
-    "imageAlt_pt": "Um mundo em mudança para os pinguins-imperadores",
-    "imageAlt_en": "A Changing World for Emperor Penguins",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
