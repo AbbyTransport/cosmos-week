@@ -1,6 +1,152 @@
 [
   {
     "id": 1,
+    "slug": "explosive-intensification-for-hurricane-polo",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_mur_20260923.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Intensificação Explosiva para o Furacão Polo",
+    "title_pt": "Intensificação Explosiva para o Furacão Polo",
+    "title_en": "Explosive Intensification for Hurricane Polo",
+    "sub": "Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu.",
+    "sub_pt": "Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu.",
+    "sub_en": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
+    "excerpt": "Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu.",
+    "excerpt_pt": "Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu.",
+    "excerpt_en": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
+    "highlights": [
+      "Em foco: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "25 set 2026",
+    "date_pt": "25 set 2026",
+    "date_en": "25 Sep 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-25T04:01:00+00:00",
+    "lastModifiedIso": "2026-09-25T19:34:56+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Intensificação Explosiva para o Furacão Polo"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Intensificação Explosiva para o Furacão Polo"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Explosive Intensification for Hurricane Polo"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
+    "realUrl": "https://www.cosmosweek.com/?article=explosive-intensification-for-hurricane-polo",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=explosive-intensification-for-hurricane-polo",
+    "realUrl_en": "https://www.cosmosweek.com/?article=explosive-intensification-for-hurricane-polo&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/explosive-intensification-for-hurricane-polo/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/explosive-intensification-for-hurricane-polo/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/explosive-intensification-for-hurricane-polo/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/explosive-intensification-for-hurricane-polo/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/explosive-intensification-for-hurricane-polo/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/explosive-intensification-for-hurricane-polo/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Intensificação Explosiva para o Furacão Polo",
+    "imageAlt_pt": "Intensificação Explosiva para o Furacão Polo",
+    "imageAlt_en": "Explosive Intensification for Hurricane Polo",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-s-machines-for-mars-make-beer-bubbly",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -28,19 +174,19 @@
     "excerpt_pt": "3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do Earthly Labs, que purifica o dióxido de carbono do processo de fabricação de cerveja para uso na carbonatação.",
     "excerpt_en": "3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies carbon dioxide from the beer brewing process for use in carbonation.",
     "highlights": [
-      "Em foco: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do.",
+      "Dado-chave: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do.",
+      "Dado-chave: 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento Um cervejeiro faz ajustes na unidade de captura de carbono do",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: 3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: 3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies.",
+      "Key detail: 3 min read Preparations for Next Moonwalk Simulations Underway A brewer makes adjustments to the Earthly Labs carbon-capture unit, which purifies",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 set 2026",
     "date_pt": "24 set 2026",
@@ -128,7 +274,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "cloudy-cloak-over-the-northwest",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -265,7 +411,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-aircraft-to-make-low-altitude-research-flights-over-colorado",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -284,17 +430,17 @@
     "excerpt_en": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants.",
     "highlights": [
       "Ponto central: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
-      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
+      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
-      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra",
+      "Dado-chave: As emissões agrícolas representam uma parte importante e pouco estudada dos sistemas terrestres e atmosféricos da Terra.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems.",
-      "Key detail: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems",
+      "Key detail: Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 set 2026",
@@ -383,7 +529,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "arctic-sea-ice-reaches-2026-annual-minimum-extent",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -443,17 +589,17 @@
     "excerpt_en": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center at the University of Colorado Boulder.",
     "highlights": [
       "Ponto central: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da.",
-      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
+      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da.",
-      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo da",
+      "Dado-chave: O gelo marinho do Ártico atingiu sua extensão mínima anual em 12 de setembro, de acordo com a NASA e o Centro Nacional de Dados de Neve e Gelo.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center at the University of.",
-      "Key detail: Arctic sea ice reached its annual minimum extent on Sept",
+      "Key detail: Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center at the University of.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 set 2026",
@@ -535,152 +681,6 @@
     "imageAlt": "Gelo marinho do Ártico atinge extensão mínima anual em 2026",
     "imageAlt_pt": "Gelo marinho do Ártico atinge extensão mínima anual em 2026",
     "imageAlt_en": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
-    "slug": "boom-year-for-desert-blooms",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20250819.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/boom-year-for-desert-blooms/australiawildflowes_oli_20260830_lrg.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Ano de expansão para flores no deserto",
-    "title_pt": "Ano de expansão para flores no deserto",
-    "title_en": "Boom Year for Desert Blooms",
-    "sub": "Tapetes de flores silvestres surgiram em terras áridas e de cor ocre na Austrália Ocidental após as chuvas de inverno.",
-    "sub_pt": "Tapetes de flores silvestres surgiram em terras áridas e de cor ocre na Austrália Ocidental após as chuvas de inverno.",
-    "sub_en": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
-    "excerpt": "Tapetes de flores silvestres surgiram em terras áridas e de cor ocre na Austrália Ocidental após as chuvas de inverno.",
-    "excerpt_pt": "Tapetes de flores silvestres surgiram em terras áridas e de cor ocre na Austrália Ocidental após as chuvas de inverno.",
-    "excerpt_en": "Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.",
-    "highlights": [
-      "Em foco: Tapetes de flores silvestres surgiram em terras áridas e de cor ocre na Austrália Ocidental após as chuvas de inverno",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Tapetes de flores silvestres surgiram em terras áridas e de cor ocre na Austrália Ocidental após as chuvas de inverno",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "23 set 2026",
-    "date_pt": "23 set 2026",
-    "date_en": "23 Sep 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04: 01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-23T04:01:00+00:00",
-    "lastModifiedIso": "2026-09-23T19:16:09+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Ano de expansão para flores no deserto"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Ano de expansão para flores no deserto"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Boom year for desert flowers"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/",
-    "realUrl": "https://www.cosmosweek.com/?article=boom-year-for-desert-blooms",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=boom-year-for-desert-blooms",
-    "realUrl_en": "https://www.cosmosweek.com/?article=boom-year-for-desert-blooms&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/boom-year-for-desert-blooms/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/boom-year-for-desert-blooms/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/boom-year-for-desert-blooms/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/boom-year-for-desert-blooms/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/boom-year-for-desert-blooms/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/boom-year-for-desert-blooms/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Ano de expansão para flores no deserto",
-    "imageAlt_pt": "Ano de expansão para flores no deserto",
-    "imageAlt_en": "Boom Year for Desert Blooms",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -2722,12 +2722,12 @@
     "excerpt_en": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole.",
     "highlights": [
       "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
-      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
-      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
