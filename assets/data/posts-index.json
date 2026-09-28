@@ -1,6 +1,319 @@
 [
   {
     "id": 1,
+    "slug": "successful-earth-flyby-improves-juice-s-course-to-jupiter",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_images_earth_during_earth_flyby/27543775-1-eng-GB/Juice_images_Earth_during_Earth_flyby_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_navcam_image_of_africa_during_earth_flyby/27543920-1-eng-GB/Juice_NavCam_image_of_Africa_during_Earth_flyby_pillars.png",
+        "alt": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
+        "alt_pt": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
+        "alt_en": "Juice NavCam image of Africa during Earth flyby",
+        "caption": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
+        "caption_pt": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
+        "caption_en": "Juice NavCam image of Africa during Earth flyby"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_navcam_image_of_the_moon_during_earth_flyby/27543967-1-eng-GB/Juice_NavCam_image_of_the_Moon_during_Earth_flyby_pillars.png",
+        "alt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
+        "alt_pt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
+        "alt_en": "Juice NavCam image of the Moon during Earth flyby",
+        "caption": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
+        "caption_pt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
+        "caption_en": "Juice NavCam image of the Moon during Earth flyby"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/12/juice_s_journey_to_jupiter/24641025-9-eng-GB/Juice_s_journey_to_Jupiter_article.jpg",
+        "alt": "A jornada de Juice para Júpiter",
+        "alt_pt": "A jornada de Juice para Júpiter",
+        "alt_en": "Juice’s journey to Jupiter",
+        "caption": "A jornada de Juice para Júpiter",
+        "caption_pt": "A jornada de Juice para Júpiter",
+        "caption_en": "Juice’s journey to Jupiter"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
+    "title_pt": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
+    "title_en": "Successful Earth flyby improves Juice’s course to Jupiter",
+    "sub": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para.",
+    "sub_pt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para.",
+    "sub_en": "The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route.",
+    "excerpt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível.",
+    "excerpt_pt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível.",
+    "excerpt_en": "The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
+    "highlights": [
+      "Em foco: O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "28 set 2026",
+    "date_pt": "28 set 2026",
+    "date_en": "28 Sep 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-28T15:00:00+00:00",
+    "lastModifiedIso": "2026-09-28T21:26:57+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Sobrevôo bem",
+      "sucedido da Terra melhora o curso de Juice para Júpiter"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Sobrevôo bem",
+      "sucedido da Terra melhora o curso de Juice para Júpiter"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Fine flyby",
+      "Earth's success improves Juice's course for Jupiter"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
+    "realUrl": "https://www.cosmosweek.com/?article=successful-earth-flyby-improves-juice-s-course-to-jupiter",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=successful-earth-flyby-improves-juice-s-course-to-jupiter",
+    "realUrl_en": "https://www.cosmosweek.com/?article=successful-earth-flyby-improves-juice-s-course-to-jupiter&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 95,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
+    "imageAlt_pt": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
+    "imageAlt_en": "Successful Earth flyby improves Juice’s course to Jupiter",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "one-geology-step-closer-to-the-moon",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/astronauts_explore_ancient_volcano_in_lanzarote/27542460-1-eng-GB/Astronauts_explore_ancient_volcano_in_Lanzarote_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/astronauts_meet_meteorites/27543190-1-eng-GB/Astronauts_meet_meteorites_pillars.jpg",
+        "alt": "Astronautas encontram meteoritos",
+        "alt_pt": "Astronautas encontram meteoritos",
+        "alt_en": "Astronauts meet meteorites",
+        "caption": "Astronautas encontram meteoritos",
+        "caption_pt": "Astronautas encontram meteoritos",
+        "caption_en": "Astronauts meet meteorites"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/rock_under_the_spotlight/27542836-1-eng-GB/Rock_under_the_spotlight_pillars.jpg",
+        "alt": "Rock sob os holofotes",
+        "alt_pt": "Rock sob os holofotes",
+        "alt_en": "Rock under the spotlight",
+        "caption": "Rock sob os holofotes",
+        "caption_pt": "Rock sob os holofotes",
+        "caption_en": "Rock under the spotlight"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/pablo_alvarez_mapping_lunar_craters/27543096-1-eng-GB/Pablo_Alvarez_mapping_lunar_craters_pillars.jpg",
+        "alt": "Pablo Álvarez mapeando crateras lunares",
+        "alt_pt": "Pablo Álvarez mapeando crateras lunares",
+        "alt_en": "Pablo Álvarez mapping lunar craters",
+        "caption": "Pablo Álvarez mapeando crateras lunares",
+        "caption_pt": "Pablo Álvarez mapeando crateras lunares",
+        "caption_en": "Pablo Álvarez mapping lunar craters"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/crash_geology_course/27543049-1-eng-GB/Crash_geology_course_pillars.jpg",
+        "alt": "Curso intensivo de geologia",
+        "alt_pt": "Curso intensivo de geologia",
+        "alt_en": "Crash geology course",
+        "caption": "Curso intensivo de geologia",
+        "caption_pt": "Curso intensivo de geologia",
+        "caption_en": "Crash geology course"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/exploring_ancient_river_in_the_bletterbach_canyon/27543002-1-eng-GB/Exploring_ancient_river_in_the_Bletterbach_canyon_pillars.jpg",
+        "alt": "Explorando o antigo rio no desfiladeiro de Bletterbach",
+        "alt_pt": "Explorando o antigo rio no desfiladeiro de Bletterbach",
+        "alt_en": "Exploring ancient river in the Bletterbach canyon",
+        "caption": "Explorando o antigo rio no desfiladeiro de Bletterbach",
+        "caption_pt": "Explorando o antigo rio no desfiladeiro de Bletterbach",
+        "caption_en": "Exploring ancient river in the Bletterbach canyon"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Um passo geológico mais perto da Lua",
+    "title_pt": "Um passo geológico mais perto da Lua",
+    "title_en": "One geology step closer to the Moon",
+    "sub": "Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º aniversário, transformando lugares.",
+    "sub_pt": "Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º aniversário, transformando lugares.",
+    "sub_en": "As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary places on Earth into classrooms.",
+    "excerpt": "Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º aniversário, transformando lugares extraordinários na Terra em salas de aula para a exploração espacial.",
+    "excerpt_pt": "Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º aniversário, transformando lugares extraordinários na Terra em salas de aula para a exploração espacial.",
+    "excerpt_en": "As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary places on Earth into classrooms for space exploration.",
+    "highlights": [
+      "Em foco: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "28 set 2026",
+    "date_pt": "28 set 2026",
+    "date_en": "28 Sep 2026",
+    "time": "12h03",
+    "time_pt": "12h03",
+    "time_en": "12: 03 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-28T12:03:00+00:00",
+    "lastModifiedIso": "2026-09-28T21:26:57+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Um passo geológico mais perto da Lua"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Um passo geológico mais perto da Lua"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space News",
+      "Cosmos Week",
+      "One geological step closer to the Moon"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
+    "realUrl": "https://www.cosmosweek.com/?article=one-geology-step-closer-to-the-moon",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=one-geology-step-closer-to-the-moon",
+    "realUrl_en": "https://www.cosmosweek.com/?article=one-geology-step-closer-to-the-moon&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/one-geology-step-closer-to-the-moon/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/one-geology-step-closer-to-the-moon/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/one-geology-step-closer-to-the-moon/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/one-geology-step-closer-to-the-moon/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/one-geology-step-closer-to-the-moon/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/one-geology-step-closer-to-the-moon/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Um passo geológico mais perto da Lua",
+    "imageAlt_pt": "Um passo geológico mais perto da Lua",
+    "imageAlt_en": "One geology step closer to the Moon",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "explosive-intensification-for-hurricane-polo",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -46,19 +359,19 @@
     "excerpt_pt": "Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu.",
     "excerpt_en": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
     "highlights": [
-      "Em foco: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu.",
+      "Dado-chave: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu.",
+      "Dado-chave: Vários ingredientes se juntaram na costa do Pacífico do México para gerar uma das tempestades mais fortes que a bacia oriental do Pacífico já viu",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
+      "Key detail: Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "25 set 2026",
     "date_pt": "25 set 2026",
@@ -146,7 +459,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "nasa-s-machines-for-mars-make-beer-bubbly",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -274,7 +587,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "cloudy-cloak-over-the-northwest",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -311,19 +624,19 @@
     "excerpt_pt": "Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram acima da mortalha.",
     "excerpt_en": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
     "highlights": [
-      "Em foco: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram.",
+      "Dado-chave: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa permaneceram.",
+      "Dado-chave: Uma camada baixa de nuvens trouxe a atmosfera de outono ao oeste de Washington e Oregon, enquanto as áreas montanhosas perto da costa.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
+      "Key detail: A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 set 2026",
     "date_pt": "24 set 2026",
@@ -411,7 +724,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 6,
     "slug": "nasa-aircraft-to-make-low-altitude-research-flights-over-colorado",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -529,7 +842,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 7,
     "slug": "arctic-sea-ice-reaches-2026-annual-minimum-extent",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -688,7 +1001,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 8,
     "slug": "juice-to-fly-past-earth-for-third-gravity-assist",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -852,7 +1165,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "announcing-our-new-step-grant-winners-a-solar-system-shadow-tracker-a-new-telescope-tool-and-an-",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1019,7 +1332,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "ameaca-de-um-super-el-nino-desafia-cidades-brasileiras-a-se-preparar-para-eventos-extremos",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1169,7 +1482,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 11,
     "slug": "lake-powell-drops-to-record-low-levels",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1315,7 +1628,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 12,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1461,7 +1774,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 13,
     "slug": "swap-pepssi-and-the-secrets-of-the-solar-system",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1525,19 +1838,19 @@
     "excerpt_pt": "A sonda New Horizons da NASA está preparada para fazer descobertas sobre os confins do nosso Sistema Solar, mas dois dos seus principais instrumentos correm o risco de serem encerrados prematuramente.",
     "excerpt_en": "NASA's New Horizons is poised to make discoveries about the farthest reaches of our Solar System, but two of its key instruments are in danger of being shut down prematurely.",
     "highlights": [
-      "Em foco: A sonda New Horizons da NASA está preparada para fazer descobertas sobre os confins do nosso Sistema Solar, mas dois dos seus principais instrumentos",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: A sonda New Horizons da NASA está preparada para fazer descobertas sobre os confins do nosso Sistema Solar, mas dois dos seus principais instrumentos.",
+      "Dado-chave: A sonda New Horizons da NASA está preparada para fazer descobertas sobre os confins do nosso Sistema Solar, mas dois dos seus principais.",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: A sonda New Horizons da NASA está preparada para fazer descobertas sobre os confins do nosso Sistema Solar, mas dois dos seus principais instrumentos",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: A sonda New Horizons da NASA está preparada para fazer descobertas sobre os confins do nosso Sistema Solar, mas dois dos seus principais instrumentos.",
+      "Dado-chave: A sonda New Horizons da NASA está preparada para fazer descobertas sobre os confins do nosso Sistema Solar, mas dois dos seus principais.",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: NASA's New Horizons is poised to make discoveries about the farthest reaches of our Solar System, but two of its key instruments are in danger of",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: NASA's New Horizons is poised to make discoveries about the farthest reaches of our Solar System, but two of its key instruments are in danger of.",
+      "Key detail: NASA's New Horizons is poised to make discoveries about the farthest reaches of our Solar System, but two of its key instruments are in danger of",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "15 set 2026",
     "date_pt": "15 set 2026",
@@ -1628,7 +1941,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 14,
     "slug": "nerv-neural-network-enhanced-reconstruction-of-the-universe-with-application-to-baryon-acoustic-",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1749,7 +2062,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 15,
     "slug": "nsf-launches-20m-pilot-to-accelerate-commercialization-of-promising-deep-technologies-from-small",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1895,7 +2208,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 16,
     "slug": "questions-ask-our-hera-space-companion",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -2041,237 +2354,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
-    "slug": "flex-and-sentinel-3c-ready-for-liftoff-on-vega-c",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/flex_on_display/27207838-1-eng-GB/FLEX_on_display_pillars.jpg",
-        "alt": "FLEX on display",
-        "alt_pt": "FLEX on display",
-        "alt_en": "FLEX on display",
-        "caption": "FLEX on display",
-        "caption_pt": "FLEX on display",
-        "caption_en": "FLEX on display"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/sentinel-3c_displayed_at_cleanroom_in_cannes/27206683-3-eng-GB/Sentinel-3C_displayed_at_cleanroom_in_Cannes_pillars.jpg",
-        "alt": "Sentinel-3C is part of the Copernicus Earth observation programme",
-        "alt_pt": "Sentinel-3C is part of the Copernicus Earth observation programme",
-        "alt_en": "Sentinel-3C is part of the Copernicus Earth observation programme",
-        "caption": "Sentinel-3C is part of the Copernicus Earth observation programme",
-        "caption_pt": "Sentinel-3C is part of the Copernicus Earth observation programme",
-        "caption_en": "Sentinel-3C is part of the Copernicus Earth observation programme"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3_arrive_in_kourou/27379567-1-eng-GB/FLEX_and_Sentinel-3_arrive_in_Kourou_pillars.jpg",
-        "alt": "FLEX and Sentinel-3 arrive in Kourou",
-        "alt_pt": "FLEX and Sentinel-3 arrive in Kourou",
-        "alt_en": "FLEX and Sentinel-3 arrive in Kourou",
-        "caption": "FLEX and Sentinel-3 arrive in Kourou",
-        "caption_pt": "FLEX and Sentinel-3 arrive in Kourou",
-        "caption_en": "FLEX and Sentinel-3 arrive in Kourou"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/flex_and_sentinel-3_head_to_launch_site/27379827-1-eng-GB/FLEX_and_Sentinel-3_head_to_launch_site_pillars.jpg",
-        "alt": "FLEX and Sentinel-3 head to launch site",
-        "alt_pt": "FLEX and Sentinel-3 head to launch site",
-        "alt_en": "FLEX and Sentinel-3 head to launch site",
-        "caption": "FLEX and Sentinel-3 head to launch site",
-        "caption_pt": "FLEX and Sentinel-3 head to launch site",
-        "caption_en": "FLEX and Sentinel-3 head to launch site"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/sentinel-3c_unpacked/27383691-1-eng-GB/Sentinel-3C_unpacked_pillars.jpg",
-        "alt": "The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana.",
-        "alt_pt": "The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana.",
-        "alt_en": "The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana.",
-        "caption": "The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana.",
-        "caption_pt": "The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana.",
-        "caption_en": "The next satellite in the EU’s Copernicus Earth observation satellite system, Sentinel-3C, has been unpacked from its container at Europe’s Spaceport in French Guiana."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/fuelling_sentinel-3c_a_hazardous_operation/27443801-1-eng-GB/Fuelling_Sentinel-3C_a_hazardous_operation_pillars.jpg",
-        "alt": "Fuelling Sentinel-3C: a hazardous operation",
-        "alt_pt": "Fuelling Sentinel-3C: a hazardous operation",
-        "alt_en": "Fuelling Sentinel-3C: a hazardous operation",
-        "caption": "Fuelling Sentinel-3C: a hazardous operation",
-        "caption_pt": "Fuelling Sentinel-3C: a hazardous operation",
-        "caption_en": "Fuelling Sentinel-3C: a hazardous operation"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/fuelling_flex/27423711-1-eng-GB/Fuelling_FLEX_pillars.jpg",
-        "alt": "Fuelling FLEX",
-        "alt_pt": "Fuelling FLEX",
-        "alt_en": "Fuelling FLEX",
-        "caption": "Fuelling FLEX",
-        "caption_pt": "Fuelling FLEX",
-        "caption_en": "Fuelling FLEX"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/flex_joins_its_launch_adapter/27428431-1-eng-GB/FLEX_joins_its_launch_adapter_pillars.jpg",
-        "alt": "FLEX joins its launch adapter",
-        "alt_pt": "FLEX joins its launch adapter",
-        "alt_en": "FLEX joins its launch adapter",
-        "caption": "FLEX joins its launch adapter",
-        "caption_pt": "FLEX joins its launch adapter",
-        "caption_en": "FLEX joins its launch adapter"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/closing_the_vespa_adapter_around_flex_with_sentinel-3_attached_to_the_top/27451771-1-eng-GB/Closing_the_Vespa_adapter_around_FLEX_with_Sentinel-3_attached_to_the_top_pillars.jpg",
-        "alt": "Closing the Vespa adapter around FLEX with Sentinel-3 attached to the top",
-        "alt_pt": "Closing the Vespa adapter around FLEX with Sentinel-3 attached to the top",
-        "alt_en": "Closing the Vespa adapter around FLEX with Sentinel-3 attached to the top",
-        "caption": "Closing the Vespa adapter around FLEX with Sentinel-3 attached to the top",
-        "caption_pt": "Closing the Vespa adapter around FLEX with Sentinel-3 attached to the top",
-        "caption_en": "Closing the Vespa adapter around FLEX with Sentinel-3 attached to the top"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/flex_and_sentinel-3c_on_a_roll/27456496-1-eng-GB/FLEX_and_Sentinel-3C_on_a_roll_pillars.jpg",
-        "alt": "FLEX and Sentinel-3C on a roll",
-        "alt_pt": "FLEX and Sentinel-3C on a roll",
-        "alt_en": "FLEX and Sentinel-3C on a roll",
-        "caption": "FLEX and Sentinel-3C on a roll",
-        "caption_pt": "FLEX and Sentinel-3C on a roll",
-        "caption_en": "FLEX and Sentinel-3C on a roll"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_head_for_launch_pad/27457727-1-eng-GB/FLEX_and_Sentinel-3C_head_for_launch_pad_pillars.jpg",
-        "alt": "FLEX and Sentinel-3C head for launch pad",
-        "alt_pt": "FLEX and Sentinel-3C head for launch pad",
-        "alt_en": "FLEX and Sentinel-3C head for launch pad",
-        "caption": "FLEX and Sentinel-3C head for launch pad",
-        "caption_pt": "FLEX and Sentinel-3C head for launch pad",
-        "caption_en": "FLEX and Sentinel-3C head for launch pad"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/flex_and_sentinel-3c_arrive_at_the_launch_tower/27456543-1-eng-GB/FLEX_and_Sentinel-3C_arrive_at_the_launch_tower_pillars.jpg",
-        "alt": "FLEX and Sentinel-3C arrive at the launch tower",
-        "alt_pt": "FLEX and Sentinel-3C arrive at the launch tower",
-        "alt_en": "FLEX and Sentinel-3C arrive at the launch tower",
-        "caption": "FLEX and Sentinel-3C arrive at the launch tower",
-        "caption_pt": "FLEX and Sentinel-3C arrive at the launch tower",
-        "caption_en": "FLEX and Sentinel-3C arrive at the launch tower"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-    "title_pt": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-    "title_en": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-    "sub": "Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are encapsulated inside the nose cone of a.",
-    "sub_pt": "Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are encapsulated inside the nose cone of a.",
-    "sub_en": "Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are encapsulated inside the nose cone of a.",
-    "excerpt": "Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s.",
-    "excerpt_pt": "Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s.",
-    "excerpt_en": "Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are encapsulated inside the nose cone of a Vega-C launcher and are awaiting liftoff at Europe’s.",
-    "highlights": [
-      "Ponto central: Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are.",
-      "Dado-chave: Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are.",
-      "Dado-chave: Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are.",
-      "Key detail: Two Earth observation satellites, ESA’s Fluorescence Explorer satellite, and the third satellite for the Copernicus Sentinel-3 mission, are.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "14 set 2026",
-    "date_pt": "14 set 2026",
-    "date_en": "14 Sep 2026",
-    "time": "07h20",
-    "time_pt": "07h20",
-    "time_en": "07: 20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-14T07:20:00+00:00",
-    "lastModifiedIso": "2026-09-14T19:57:56+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "FLEX and Sentinel",
-      "3C ready for liftoff on Vega"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "FLEX and Sentinel",
-      "3C ready for liftoff on Vega"
-    ],
-    "keywords_en": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "FLEX and Sentinel",
-      "3C ready for liftoff on Vega"
-    ],
-    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
-    "realUrl": "https://www.cosmosweek.com/?article=flex-and-sentinel-3c-ready-for-liftoff-on-vega-c",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=flex-and-sentinel-3c-ready-for-liftoff-on-vega-c",
-    "realUrl_en": "https://www.cosmosweek.com/?article=flex-and-sentinel-3c-ready-for-liftoff-on-vega-c&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/flex-and-sentinel-3c-ready-for-liftoff-on-vega-c/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/flex-and-sentinel-3c-ready-for-liftoff-on-vega-c/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/flex-and-sentinel-3c-ready-for-liftoff-on-vega-c/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/flex-and-sentinel-3c-ready-for-liftoff-on-vega-c/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/flex-and-sentinel-3c-ready-for-liftoff-on-vega-c/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/flex-and-sentinel-3c-ready-for-liftoff-on-vega-c/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 86,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-    "imageAlt_pt": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-    "imageAlt_en": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 16,
+    "id": 17,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2408,7 +2491,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "probing-the-details-of-relativistic-electrons-with-multifrequency-observations-of-m87-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2526,7 +2609,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2684,7 +2767,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2821,7 +2904,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2980,7 +3063,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3220,7 +3303,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3363,152 +3446,6 @@
     "coverageKindLabel": "Jornalismo científico",
     "coverageKindLabel_pt": "Jornalismo científico",
     "coverageKindLabel_en": "Science journalism",
-    "storyKind": "science"
-  },
-  {
-    "id": 23,
-    "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_pillars.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_article.jpg",
-        "alt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_en": "LKH Milky Way merger (artist’s impression)",
-        "caption": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_en": "LKH Milky Way merger (artist’s impression)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/01/the_best_milky_way_animation_by_gaia/26531043-2-eng-GB/The_best_Milky_Way_animation_by_Gaia_pillars.png",
-        "alt": "Galáxia Via Láctea",
-        "alt_pt": "Galáxia Via Láctea",
-        "alt_en": "Milky Way galaxy",
-        "caption": "Galáxia Via Láctea",
-        "caption_pt": "Galáxia Via Láctea",
-        "caption_en": "Milky Way galaxy"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
-    "title_pt": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
-    "title_en": "Hubble & Gaia solve our galaxy's merger mystery",
-    "sub": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-    "sub_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-    "sub_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
-    "excerpt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
-    "excerpt_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
-    "excerpt_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in.",
-    "highlights": [
-      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
-      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T15:00:00+00:00",
-    "lastModifiedIso": "2026-08-17T15:55:33+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Biologia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia"
-    ],
-    "keywords_en": [
-      "Biology",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Hubble and Gaia solve the mystery of our galaxy's merger"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery",
-    "realUrl": "https://www.cosmosweek.com/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery",
-    "realUrl_en": "https://www.cosmosweek.com/?article=hubble-gaia-solve-our-galaxy-s-merger-mystery&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/hubble-gaia-solve-our-galaxy-s-merger-mystery/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/hubble-gaia-solve-our-galaxy-s-merger-mystery/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/hubble-gaia-solve-our-galaxy-s-merger-mystery/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/hubble-gaia-solve-our-galaxy-s-merger-mystery/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/hubble-gaia-solve-our-galaxy-s-merger-mystery/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/hubble-gaia-solve-our-galaxy-s-merger-mystery/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
-    "imageAlt_pt": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
-    "imageAlt_en": "Hubble & Gaia solve our galaxy's merger mystery",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
