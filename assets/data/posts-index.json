@@ -1,6 +1,152 @@
 [
   {
     "id": 1,
+    "slug": "rains-swamp-the-gandak-river",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_tmo_20260920.jpg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_amo_20260929_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_amo_20260929.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/torrential-rains-swamp-the-gandaki-river/floodingindianepal_amo_20260929_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "As chuvas inundam o rio Gandak",
+    "title_pt": "As chuvas inundam o rio Gandak",
+    "title_en": "Rains Swamp the Gandak River",
+    "sub": "Após dias de chuvas torrenciais, o rio atingiu níveis recordes em partes do Nepal e da Índia.",
+    "sub_pt": "Após dias de chuvas torrenciais, o rio atingiu níveis recordes em partes do Nepal e da Índia.",
+    "sub_en": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
+    "excerpt": "Após dias de chuvas torrenciais, o rio atingiu níveis recordes em partes do Nepal e da Índia.",
+    "excerpt_pt": "Após dias de chuvas torrenciais, o rio atingiu níveis recordes em partes do Nepal e da Índia.",
+    "excerpt_en": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
+    "highlights": [
+      "Em foco: Após dias de chuvas torrenciais, o rio atingiu níveis recordes em partes do Nepal e da Índia",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Após dias de chuvas torrenciais, o rio atingiu níveis recordes em partes do Nepal e da Índia",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "02 out 2026",
+    "date_pt": "02 out 2026",
+    "date_en": "02 Oct 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-02T04:01:00+00:00",
+    "lastModifiedIso": "2026-10-02T20:10:27+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "As chuvas inundam o rio Gandak"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "As chuvas inundam o rio Gandak"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Rains flood the Gandak River"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/",
+    "realUrl": "https://www.cosmosweek.com/?article=rains-swamp-the-gandak-river",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=rains-swamp-the-gandak-river",
+    "realUrl_en": "https://www.cosmosweek.com/?article=rains-swamp-the-gandak-river&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/rains-swamp-the-gandak-river/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/rains-swamp-the-gandak-river/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/rains-swamp-the-gandak-river/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/rains-swamp-the-gandak-river/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/rains-swamp-the-gandak-river/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/rains-swamp-the-gandak-river/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "As chuvas inundam o rio Gandak",
+    "imageAlt_pt": "As chuvas inundam o rio Gandak",
+    "imageAlt_en": "Rains Swamp the Gandak River",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "what-s-up-october-2026-skywatching-tips-from-nasa",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -41,19 +187,19 @@
     "excerpt_pt": "Uma chuva de meteoros e a Lua perto das Plêiades Veja Saturno em oposição, veja a chuva de meteoros Orionidas e observe a Lua passar perto das Plêiades, também conhecidas como as Sete Irmãs.",
     "excerpt_en": "A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters.",
     "highlights": [
-      "Em foco: Uma chuva de meteoros e a Lua perto das Plêiades Veja Saturno em oposição, veja a chuva de meteoros Orionidas e observe a Lua passar perto das",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma chuva de meteoros e a Lua perto das Plêiades Veja Saturno em oposição, veja a chuva de meteoros Orionidas e observe a Lua passar perto das.",
+      "Dado-chave: Uma chuva de meteoros e a Lua perto das Plêiades Veja Saturno em oposição, veja a chuva de meteoros Orionidas e observe a Lua passar perto das",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Uma chuva de meteoros e a Lua perto das Plêiades Veja Saturno em oposição, veja a chuva de meteoros Orionidas e observe a Lua passar perto das",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Uma chuva de meteoros e a Lua perto das Plêiades Veja Saturno em oposição, veja a chuva de meteoros Orionidas e observe a Lua passar perto das.",
+      "Dado-chave: Uma chuva de meteoros e a Lua perto das Plêiades Veja Saturno em oposição, veja a chuva de meteoros Orionidas e observe a Lua passar perto das",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the.",
+      "Key detail: A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "01 out 2026",
     "date_pt": "01 out 2026",
@@ -144,7 +290,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -172,19 +318,19 @@
     "excerpt_pt": "Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 18 de setembro de 2026 A curiosidade nos surpreendeu no início da semana com uma mudança na textura da rocha, em vez de em camadas.",
     "excerpt_en": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture, instead of the finely layered.",
     "highlights": [
-      "Em foco: Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 18 de setembro de 2026",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 18 de setembro de 2026.",
+      "Dado-chave: Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 18 de setembro de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 18 de setembro de 2026",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 18 de setembro de 2026.",
+      "Dado-chave: Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 18 de setembro de.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept.",
+      "Key detail: Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "30 set 2026",
     "date_pt": "30 set 2026",
@@ -278,7 +424,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "help-overlap-zoo-reveal-cosmic-dust",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -296,19 +442,19 @@
     "excerpt_pt": "Galáxias, vastas coleções de bilhões de estrelas, gás e poeira mantidas juntas pela gravidade, estão espalhadas pela imensidão do espaço.",
     "excerpt_en": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space.",
     "highlights": [
-      "Em foco: Galáxias, vastas coleções de bilhões de estrelas, gás e poeira mantidas juntas pela gravidade, estão espalhadas pela imensidão do espaço",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Galáxias, vastas coleções de bilhões de estrelas, gás e poeira mantidas juntas pela gravidade, estão espalhadas pela imensidão do espaço.",
+      "Dado-chave: Galáxias, vastas coleções de bilhões de estrelas, gás e poeira mantidas juntas pela gravidade, estão espalhadas pela imensidão do espaço",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Galáxias, vastas coleções de bilhões de estrelas, gás e poeira mantidas juntas pela gravidade, estão espalhadas pela imensidão do espaço",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Galáxias, vastas coleções de bilhões de estrelas, gás e poeira mantidas juntas pela gravidade, estão espalhadas pela imensidão do espaço.",
+      "Dado-chave: Galáxias, vastas coleções de bilhões de estrelas, gás e poeira mantidas juntas pela gravidade, estão espalhadas pela imensidão do espaço",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space.",
+      "Key detail: Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "30 set 2026",
     "date_pt": "30 set 2026",
@@ -396,124 +542,6 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
-    "slug": "nasa-adds-new-science-investigations-for-moon-base",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png?w=2048",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA adiciona novas investigações científicas para base lunar",
-    "title_pt": "NASA adiciona novas investigações científicas para base lunar",
-    "title_en": "NASA Adds New Science Investigations for Moon Base",
-    "sub": "Esta versão foi atualizada em 30 de setembro de 2026 para corrigir o nome da carga DISCO. A NASA selecionou três novas investigações científicas e seus conjuntos de carga útil.",
-    "sub_pt": "Esta versão foi atualizada em 30 de setembro de 2026 para corrigir o nome da carga DISCO. A NASA selecionou três novas investigações científicas e seus conjuntos de carga útil.",
-    "sub_en": "This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our.",
-    "excerpt": "Esta versão foi atualizada em 30 de setembro de 2026 para corrigir o nome da carga DISCO. A NASA selecionou três novas investigações científicas e seus conjuntos de carga útil para avançar nosso conhecimento da Lua e ajudar a preparar o caminho para a.",
-    "excerpt_pt": "Esta versão foi atualizada em 30 de setembro de 2026 para corrigir o nome da carga DISCO. A NASA selecionou três novas investigações científicas e seus conjuntos de carga útil para avançar nosso conhecimento da Lua e ajudar a preparar o caminho para a.",
-    "excerpt_en": "This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building.",
-    "highlights": [
-      "Em foco: Esta versão foi atualizada em 30 de setembro de 2026 para corrigir o nome da carga DISCO",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Esta versão foi atualizada em 30 de setembro de 2026 para corrigir o nome da carga DISCO",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "30 set 2026",
-    "date_pt": "30 set 2026",
-    "date_en": "30 Sep 2026",
-    "time": "21h11",
-    "time_pt": "21h11",
-    "time_en": "21: 11 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-30T21:11:23+00:00",
-    "lastModifiedIso": "2026-10-01T20:31:53+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA adiciona novas investigações científicas para base lunar"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA adiciona novas investigações científicas para base lunar"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA adds new scientific investigations to lunar base"
-    ],
-    "srcUrl": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-adds-new-science-investigations-for-moon-base",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-adds-new-science-investigations-for-moon-base",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-adds-new-science-investigations-for-moon-base&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-adds-new-science-investigations-for-moon-base/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-adds-new-science-investigations-for-moon-base/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-adds-new-science-investigations-for-moon-base/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-adds-new-science-investigations-for-moon-base/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-adds-new-science-investigations-for-moon-base/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-adds-new-science-investigations-for-moon-base/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "NASA adiciona novas investigações científicas para base lunar",
-    "imageAlt_pt": "NASA adiciona novas investigações científicas para base lunar",
-    "imageAlt_en": "NASA Adds New Science Investigations for Moon Base",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
     "id": 5,
     "slug": "enhancing-constraints-on-ultralight-axion-dark-matter-from-gravitational-capture",
     "cat": "Cosmologia",
@@ -532,18 +560,19 @@
     "excerpt_pt": "Os áxions ultraleves podem ser capturados gravitacionalmente por corpos massivos como o Sol, produzindo estados de átomos gravitacionais ligados ao Sol que amplificam a densidade local da matéria escura por meio da captura aprimorada por Bose.",
     "excerpt_en": "Ultralight axions can be gravitationally captured by massive bodies such as the Sun, producing solar-bound gravitational atom states that amplify the local dark matter density through Bose-enhanced capture.",
     "highlights": [
-      "Em foco: Os áxions ultraleves podem ser capturados gravitacionalmente por corpos massivos como o Sol, produzindo estados de átomos gravitacionais ligados ao",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Os áxions ultraleves podem ser capturados gravitacionalmente por corpos massivos como o Sol, produzindo estados de átomos gravitacionais ligados ao.",
+      "Dado-chave: Os áxions ultraleves podem ser capturados gravitacionalmente por corpos massivos como o Sol, produzindo estados de átomos gravitacionais ligados.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Os áxions ultraleves podem ser capturados gravitacionalmente por corpos massivos como o Sol, produzindo estados de átomos gravitacionais ligados ao",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Os áxions ultraleves podem ser capturados gravitacionalmente por corpos massivos como o Sol, produzindo estados de átomos gravitacionais ligados ao.",
+      "Dado-chave: Os áxions ultraleves podem ser capturados gravitacionalmente por corpos massivos como o Sol, produzindo estados de átomos gravitacionais ligados.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Ultralight axions can be gravitationally captured by massive bodies such as the Sun, producing solar-bound gravitational atom states that amplify the",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Ultralight axions can be gravitationally captured by massive bodies such as the Sun, producing solar-bound gravitational atom states that amplify the.",
+      "Key detail: Ultralight axions can be gravitationally captured by massive bodies such as the Sun, producing solar-bound gravitational atom states that.",
+      "Result not yet peer reviewed."
     ],
     "date": "30 set 2026",
     "date_pt": "30 set 2026",
@@ -786,18 +815,19 @@
     "excerpt_pt": "Observações recentes de comprimento de onda milimétrico a 230 GHz pelo Telescópio Event Horizon resolveram a estrutura mais interna do Centro Galáctico, Sgr A*, revelando uma estrutura semelhante a um anel consistente com a emissão síncrotron de a.",
     "excerpt_en": "Recent millimeter wavelength observations at 230 GHz by the Event Horizon Telescope have resolved the innermost structure of the Galactic Center, Sgr A*, revealing a ring-like structure consistent with synchrotron emission from a.",
     "highlights": [
-      "Em foco: Observações recentes de comprimento de onda milimétrico a 230 GHz pelo Telescópio Event Horizon resolveram a estrutura mais interna do Centro",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Observações recentes de comprimento de onda milimétrico a 230 GHz pelo Telescópio Event Horizon resolveram a estrutura mais interna do Centro.",
+      "Dado-chave: Observações recentes de comprimento de onda milimétrico a 230 GHz pelo Telescópio Event Horizon resolveram a estrutura mais interna do Centro",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Observações recentes de comprimento de onda milimétrico a 230 GHz pelo Telescópio Event Horizon resolveram a estrutura mais interna do Centro",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Observações recentes de comprimento de onda milimétrico a 230 GHz pelo Telescópio Event Horizon resolveram a estrutura mais interna do Centro.",
+      "Dado-chave: Observações recentes de comprimento de onda milimétrico a 230 GHz pelo Telescópio Event Horizon resolveram a estrutura mais interna do Centro",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: Recent millimeter wavelength observations at 230 GHz by the Event Horizon Telescope have resolved the innermost structure of the Galactic Center, Sgr",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: Recent millimeter wavelength observations at 230 GHz by the Event Horizon Telescope have resolved the innermost structure of the Galactic Center, Sgr.",
+      "Key detail: Recent millimeter wavelength observations at 230 GHz by the Event Horizon Telescope have resolved the innermost structure of the Galactic.",
+      "Result not yet peer reviewed."
     ],
     "date": "29 set 2026",
     "date_pt": "29 set 2026",
@@ -1098,19 +1128,19 @@
     "excerpt_pt": "Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º aniversário, transformando lugares extraordinários na Terra em salas de aula para a exploração espacial.",
     "excerpt_en": "As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary places on Earth into classrooms for space exploration.",
     "highlights": [
-      "Em foco: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º.",
+      "Dado-chave: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º.",
+      "Dado-chave: Enquanto nos preparamos para regressar à Lua, o principal programa de formação em geologia da Europa para astronautas, PANGEA, celebra o seu 10º",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning extraordinary.",
+      "Key detail: As we prepare to return to the Moon, Europe’s leading geology training for astronauts PANGAEA celebrates its 10th anniversary turning.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "28 set 2026",
     "date_pt": "28 set 2026",
@@ -1343,48 +1373,48 @@
     "inline_images": [
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_pillars.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_by_earth_the_complete_path/27532497-1-eng-GB/Juice_flies_by_Earth_the_complete_path_article.jpg",
-        "caption": "Juice voa pela Terra – o caminho completo",
-        "caption_pt": "Juice voa pela Terra – o caminho completo",
-        "caption_en": "Juice flies by Earth – the complete path",
         "alt": "Juice voa pela Terra – o caminho completo",
         "alt_pt": "Juice voa pela Terra – o caminho completo",
-        "alt_en": "Juice flies by Earth – the complete path"
+        "alt_en": "Juice flies by Earth – the complete path",
+        "caption": "Juice voa pela Terra – o caminho completo",
+        "caption_pt": "Juice voa pela Terra – o caminho completo",
+        "caption_en": "Juice flies by Earth – the complete path"
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/12/juice_s_journey_to_jupiter/24641025-9-eng-GB/Juice_s_journey_to_Jupiter_article.jpg",
-        "caption": "A jornada de Juice para Júpiter",
-        "caption_pt": "A jornada de Juice para Júpiter",
-        "caption_en": "Juice’s journey to Jupiter",
         "alt": "A jornada de Juice para Júpiter",
         "alt_pt": "A jornada de Juice para Júpiter",
-        "alt_en": "Juice’s journey to Jupiter"
+        "alt_en": "Juice’s journey to Jupiter",
+        "caption": "A jornada de Juice para Júpiter",
+        "caption_pt": "A jornada de Juice para Júpiter",
+        "caption_en": "Juice’s journey to Jupiter"
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/juice_flies_past_earth_in_september_2026_2d_view/27534254-1-eng-GB/Juice_flies_past_Earth_in_September_2026_2D_view_pillars.png",
-        "caption": "$video.data_map.short_description.content",
-        "caption_pt": "$video.data_map.short_description.content",
-        "caption_en": "$video.data_map.short_description.content",
-        "alt": "$video.data_map.short_description.content",
-        "alt_pt": "$video.data_map.short_description.content",
-        "alt_en": "$video.data_map.short_description.content"
+        "alt": "$video. data_map. short_description. content",
+        "alt_pt": "$video. data_map. short_description. content",
+        "alt_en": "$video. data_map. short_description. content",
+        "caption": "$video. data_map. short_description. content",
+        "caption_pt": "$video. data_map. short_description. content",
+        "caption_en": "$video. data_map. short_description. content"
       },
       {
         "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/juice_flies_past_earth_in_september_2026_context_view/27534361-1-eng-GB/Juice_flies_past_Earth_in_September_2026_context_view_pillars.png",
-        "caption": "$video.data_map.short_description.content",
-        "caption_pt": "$video.data_map.short_description.content",
-        "caption_en": "$video.data_map.short_description.content",
-        "alt": "$video.data_map.short_description.content",
-        "alt_pt": "$video.data_map.short_description.content",
-        "alt_en": "$video.data_map.short_description.content"
+        "alt": "$video. data_map. short_description. content",
+        "alt_pt": "$video. data_map. short_description. content",
+        "alt_en": "$video. data_map. short_description. content",
+        "caption": "$video. data_map. short_description. content",
+        "caption_pt": "$video. data_map. short_description. content",
+        "caption_en": "$video. data_map. short_description. content"
       }
     ],
     "video": null,
@@ -1399,19 +1429,19 @@
     "excerpt_pt": "The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
     "excerpt_en": "The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
     "highlights": [
-      "Em foco: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to.",
+      "Dado-chave: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to.",
+      "Dado-chave: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to.",
+      "Key detail: The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "21 set 2026",
     "date_pt": "21 set 2026",
@@ -3454,17 +3484,17 @@
     "excerpt_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in.",
     "highlights": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
-      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
-      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies",
+      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 ago 2026",
