@@ -1,6 +1,124 @@
 [
   {
     "id": 1,
+    "slug": "nasa-demonstrates-next-generation-heat-shield-technologies",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NASA demonstra tecnologias de proteção térmica de última geração",
+    "title_pt": "NASA demonstra tecnologias de proteção térmica de última geração",
+    "title_en": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+    "sub": "A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum: retirando o lixo.",
+    "sub_pt": "A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum: retirando o lixo.",
+    "sub_en": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
+    "excerpt": "A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum: retirando o lixo.",
+    "excerpt_pt": "A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum: retirando o lixo.",
+    "excerpt_en": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
+    "highlights": [
+      "Em foco: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "09 out 2026",
+    "date_pt": "09 out 2026",
+    "date_en": "09 Oct 2026",
+    "time": "16h59",
+    "time_pt": "16h59",
+    "time_en": "16: 59 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-09T16:59:24+00:00",
+    "lastModifiedIso": "2026-10-09T20:22:01+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA demonstra tecnologias de proteção térmica de última geração"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA demonstra tecnologias de proteção térmica de última geração"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Demonstrates Next-Generation Thermal Protection Technologies"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-demonstrates-next-generation-heat-shield-technologies",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-demonstrates-next-generation-heat-shield-technologies",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-demonstrates-next-generation-heat-shield-technologies&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-demonstrates-next-generation-heat-shield-technologies/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-demonstrates-next-generation-heat-shield-technologies/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-demonstrates-next-generation-heat-shield-technologies/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-demonstrates-next-generation-heat-shield-technologies/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-demonstrates-next-generation-heat-shield-technologies/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-demonstrates-next-generation-heat-shield-technologies/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "NASA demonstra tecnologias de proteção térmica de última geração",
+    "imageAlt_pt": "NASA demonstra tecnologias de proteção térmica de última geração",
+    "imageAlt_en": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-s-spherex-telescope-sees-menagerie-of-brown-dwarfs",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -128,7 +246,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -146,19 +264,19 @@
     "excerpt_pt": "Descobertas pela primeira vez em 2007, as explosões rápidas de rádio são enigmáticas, flashes de emissão de rádio com duração de milissegundos do universo distante.",
     "excerpt_en": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again.",
     "highlights": [
-      "Em foco: Descobertas pela primeira vez em 2007, as explosões rápidas de rádio são enigmáticas, flashes de emissão de rádio com duração de milissegundos do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Descobertas pela primeira vez em 2007, as explosões rápidas de rádio são enigmáticas, flashes de emissão de rádio com duração de milissegundos do.",
+      "Dado-chave: Descobertas pela primeira vez em 2007, as explosões rápidas de rádio são enigmáticas, flashes de emissão de rádio com duração de milissegundos do",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Descobertas pela primeira vez em 2007, as explosões rápidas de rádio são enigmáticas, flashes de emissão de rádio com duração de milissegundos do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Descobertas pela primeira vez em 2007, as explosões rápidas de rádio são enigmáticas, flashes de emissão de rádio com duração de milissegundos do.",
+      "Dado-chave: Descobertas pela primeira vez em 2007, as explosões rápidas de rádio são enigmáticas, flashes de emissão de rádio com duração de milissegundos do",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe.",
+      "Key detail: First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "08 out 2026",
     "date_pt": "08 out 2026",
@@ -249,7 +367,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "splashdown-confirmed-for-sophie-adenot",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -386,7 +504,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-energy-department-advance-new-era-of-nuclear-powered-exploration",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -404,19 +522,19 @@
     "excerpt_pt": "À medida que começa a Era de Ouro da exploração do espaço profundo, a NASA e o Departamento de Energia dos EUA estão a avançar no desenvolvimento de tecnologias nucleares seguras, fiáveis ​​e de próxima geração para o espaço.",
     "excerpt_en": "As the Golden Age of deep-space exploration begins, NASA and the U. S. Department of Energy are advancing the development of safe, reliable, next-generation nuclear technologies for space.",
     "highlights": [
-      "Em foco: À medida que começa a Era de Ouro da exploração do espaço profundo, a NASA e o Departamento de Energia dos EUA estão a avançar no desenvolvimento de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: À medida que começa a Era de Ouro da exploração do espaço profundo, a NASA e o Departamento de Energia dos EUA estão a avançar no desenvolvimento de.",
+      "Dado-chave: À medida que começa a Era de Ouro da exploração do espaço profundo, a NASA e o Departamento de Energia dos EUA estão a avançar no.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: À medida que começa a Era de Ouro da exploração do espaço profundo, a NASA e o Departamento de Energia dos EUA estão a avançar no desenvolvimento de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: À medida que começa a Era de Ouro da exploração do espaço profundo, a NASA e o Departamento de Energia dos EUA estão a avançar no desenvolvimento de.",
+      "Dado-chave: À medida que começa a Era de Ouro da exploração do espaço profundo, a NASA e o Departamento de Energia dos EUA estão a avançar no.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: As the Golden Age of deep-space exploration begins, NASA and the U. S",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: As the Golden Age of deep-space exploration begins, NASA and the U. S. Department of Energy are advancing the development of safe, reliable.",
+      "Key detail: As the Golden Age of deep-space exploration begins, NASA and the U. S",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "08 out 2026",
     "date_pt": "08 out 2026",
@@ -504,131 +622,93 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "nasa-advances-lisa-mission-contributions-with-new-test-telescope",
+    "id": 6,
+    "slug": "too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
-    "img": "https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg",
-    "inline_images": [
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "inline_images": [],
     "video": null,
     "audio": null,
-    "title": "NASA avança contribuições para a missão LISA com novo telescópio de teste",
-    "title_pt": "NASA avança contribuições para a missão LISA com novo telescópio de teste",
-    "title_en": "NASA Advances LISA Mission Contributions With New Test Telescope",
-    "sub": "A NASA deu o próximo passo no processo de desenvolvimento de um novo telescópio todo em vidro para a missão LISA, um observatório espacial projetado para detectar ondulações no.",
-    "sub_pt": "A NASA deu o próximo passo no processo de desenvolvimento de um novo telescópio todo em vidro para a missão LISA, um observatório espacial projetado para detectar ondulações no.",
-    "sub_en": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA mission, a space observatory designed to detect ripples in space-time called.",
-    "excerpt": "A NASA deu o próximo passo no processo de desenvolvimento de um novo telescópio todo em vidro para a missão LISA, um observatório espacial projetado para detectar ondulações no espaço-tempo chamadas ondas gravitacionais.",
-    "excerpt_pt": "A NASA deu o próximo passo no processo de desenvolvimento de um novo telescópio todo em vidro para a missão LISA, um observatório espacial projetado para detectar ondulações no espaço-tempo chamadas ondas gravitacionais.",
-    "excerpt_en": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA mission, a space observatory designed to detect ripples in space-time called gravitational waves.",
+    "title": "Muitos ou muito brilhantes? Situação e perspectivas no estudo da Função Luminosidade UV em z>10",
+    "title_pt": "Muitos ou muito brilhantes? Situação e perspectivas no estudo da Função Luminosidade UV em z>10",
+    "title_en": "Too many or too bright? Status and perspectives in the study of the UV Luminosity Function at z>10",
+    "sub": "A descoberta de que as galáxias nos primeiros 500 milhões de anos eram muito mais numerosas e/ou mais brilhantes do que o esperado é frequentemente citada como uma das principais.",
+    "sub_pt": "A descoberta de que as galáxias nos primeiros 500 milhões de anos eram muito mais numerosas e/ou mais brilhantes do que o esperado é frequentemente citada como uma das principais.",
+    "sub_en": "The finding that galaxies in the first 500Myr were much more numerous and/or brighter than expected is often cited as one of the main discoveries of the James Webb Space Telescope.",
+    "excerpt": "A descoberta de que as galáxias nos primeiros 500 milhões de anos eram muito mais numerosas e/ou mais brilhantes do que o esperado é frequentemente citada como uma das principais descobertas do Telescópio Espacial James Webb nos seus primeiros quatro anos de.",
+    "excerpt_pt": "A descoberta de que as galáxias nos primeiros 500 milhões de anos eram muito mais numerosas e/ou mais brilhantes do que o esperado é frequentemente citada como uma das principais descobertas do Telescópio Espacial James Webb nos seus primeiros quatro anos de.",
+    "excerpt_en": "The finding that galaxies in the first 500Myr were much more numerous and/or brighter than expected is often cited as one of the main discoveries of the James Webb Space Telescope in its first four years of operation.",
     "highlights": [
-      "Em foco: A NASA deu o próximo passo no processo de desenvolvimento de um novo telescópio todo em vidro para a missão LISA, um observatório espacial projetado",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Em foco: A descoberta de que as galáxias nos primeiros 500 milhões de anos eram muito mais numerosas e/ou mais brilhantes do que o esperado é frequentemente",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
     ],
     "highlights_pt": [
-      "Em foco: A NASA deu o próximo passo no processo de desenvolvimento de um novo telescópio todo em vidro para a missão LISA, um observatório espacial projetado",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Em foco: A descoberta de que as galáxias nos primeiros 500 milhões de anos eram muito mais numerosas e/ou mais brilhantes do que o esperado é frequentemente",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
     ],
     "highlights_en": [
-      "Focus: NASA has taken the next step in the process of developing a new all-glass telescope for the LISA mission, a space observatory designed to detect",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Focus: The finding that galaxies in the first 500Myr were much more numerous and/or brighter than expected is often cited as one of the main discoveries of",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
     ],
     "date": "08 out 2026",
     "date_pt": "08 out 2026",
     "date_en": "08 Oct 2026",
-    "time": "15h31",
-    "time_pt": "15h31",
-    "time_en": "15: 31 UTC",
+    "time": "15h16",
+    "time_pt": "15h16",
+    "time_en": "15: 16 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-08T15:31:24+00:00",
-    "lastModifiedIso": "2026-10-08T20:53:26+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
+    "publishedIso": "2026-10-08T15:16:32+00:00",
+    "lastModifiedIso": "2026-10-09T20:22:01+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
     "keywords": [
       "Cosmologia",
-      "NASA News Releases",
+      "arXiv Cosmology",
       "Cosmos Week",
-      "NASA avança contribuições para a missão LISA com novo telescópio de teste"
+      "Muitos ou muito brilhantes? Situação e perspectivas no estudo da Função Luminosidade UV em z>10"
     ],
     "keywords_pt": [
       "Cosmologia",
-      "NASA News Releases",
+      "arXiv Cosmology",
       "Cosmos Week",
-      "NASA avança contribuições para a missão LISA com novo telescópio de teste"
+      "Muitos ou muito brilhantes? Situação e perspectivas no estudo da Função Luminosidade UV em z>10"
     ],
     "keywords_en": [
       "Cosmology",
-      "NASA News Releases",
+      "arXiv Cosmology",
       "Cosmos Week",
-      "NASA advances contributions to LISA mission with new test telescope"
+      "Too many or too bright? Situation and perspectives in the study of the UV Luminosity Function at z>10"
     ],
-    "srcUrl": "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-advances-lisa-mission-contributions-with-new-test-telescope",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-advances-lisa-mission-contributions-with-new-test-telescope",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-advances-lisa-mission-contributions-with-new-test-telescope&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-advances-lisa-mission-contributions-with-new-test-telescope/",
+    "srcUrl": "https://arxiv.org/abs/2610.12121v1",
+    "realUrl": "https://www.cosmosweek.com/?article=too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1",
+    "realUrl_en": "https://www.cosmosweek.com/?article=too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1/",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -636,30 +716,30 @@
     ],
     "featured": false,
     "trending": false,
-    "isPreprint": false,
+    "isPreprint": true,
     "geminiReviewed": false,
     "geminiModel": "",
     "reviewStatus": "fallback",
     "reviewProvider": "gemini",
-    "score": 100,
+    "score": 80,
     "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     },
-    "imageAlt": "NASA avança contribuições para a missão LISA com novo telescópio de teste",
-    "imageAlt_pt": "NASA avança contribuições para a missão LISA com novo telescópio de teste",
-    "imageAlt_en": "NASA Advances LISA Mission Contributions With New Test Telescope",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
+    "imageAlt": "Muitos ou muito brilhantes? Situação e perspectivas no estudo da Função Luminosidade UV em z>10",
+    "imageAlt_pt": "Muitos ou muito brilhantes? Situação e perspectivas no estudo da Função Luminosidade UV em z>10",
+    "imageAlt_en": "Too many or too bright? Status and perspectives in the study of the UV Luminosity Function at z>10",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "sentinel-3c-returns-its-first-views-of-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -817,7 +897,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -855,12 +935,12 @@
     "excerpt_en": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
     "highlights": [
       "Ponto central: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
-      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta",
+      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
-      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta",
+      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -954,7 +1034,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "brake-time-for-esa-s-hera-asteroid-mission-to-go-slow",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1028,17 +1108,17 @@
     "excerpt_en": "Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since.",
     "highlights": [
       "Ponto central: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-      "Dado-chave: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então",
+      "Dado-chave: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-      "Dado-chave: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então",
+      "Dado-chave: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since.",
-      "Key detail: Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since",
+      "Key detail: Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "07 out 2026",
@@ -1127,7 +1207,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "gamma-rays-from-black-hole-coronae-disentangling-the-leptonic-and-hadronic-contributions",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1145,18 +1225,19 @@
     "excerpt_pt": "As detecções IceCube de neutrinos TeV de galáxias Seyfert próximas implicam, se confirmadas, que os raios gama que os acompanham são substancialmente reprocessados ​​até a faixa MeV por cascatas eletromagnéticas, o que coloca multi-mensageiros.",
     "excerpt_en": "IceCube detections of TeV neutrinos from nearby Seyfert galaxies imply, if confirmed, that the accompanying gamma rays are substantially reprocessed down to the MeV range by electromagnetic cascades, which places multi-messenger.",
     "highlights": [
-      "Em foco: As detecções IceCube de neutrinos TeV de galáxias Seyfert próximas implicam, se confirmadas, que os raios gama que os acompanham são substancialmente",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: As detecções IceCube de neutrinos TeV de galáxias Seyfert próximas implicam, se confirmadas, que os raios gama que os acompanham são substancialmente.",
+      "Dado-chave: As detecções IceCube de neutrinos TeV de galáxias Seyfert próximas implicam, se confirmadas, que os raios gama que os acompanham são.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: As detecções IceCube de neutrinos TeV de galáxias Seyfert próximas implicam, se confirmadas, que os raios gama que os acompanham são substancialmente",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: As detecções IceCube de neutrinos TeV de galáxias Seyfert próximas implicam, se confirmadas, que os raios gama que os acompanham são substancialmente.",
+      "Dado-chave: As detecções IceCube de neutrinos TeV de galáxias Seyfert próximas implicam, se confirmadas, que os raios gama que os acompanham são.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: IceCube detections of TeV neutrinos from nearby Seyfert galaxies imply, if confirmed, that the accompanying gamma rays are substantially reprocessed",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: IceCube detections of TeV neutrinos from nearby Seyfert galaxies imply, if confirmed, that the accompanying gamma rays are substantially reprocessed.",
+      "Key detail: IceCube detections of TeV neutrinos from nearby Seyfert galaxies imply, if confirmed, that the accompanying gamma rays are substantially.",
+      "Result not yet peer reviewed."
     ],
     "date": "07 out 2026",
     "date_pt": "07 out 2026",
@@ -1240,124 +1321,6 @@
     "imageAlt": "Raios gama do buraco negro coronae: desembaraçando as contribuições leptônicas e hadrônicas",
     "imageAlt_pt": "Raios gama do buraco negro coronae: desembaraçando as contribuições leptônicas e hadrônicas",
     "imageAlt_en": "Gamma-rays from black hole coronae: disentangling the leptonic and hadronic contributions",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 10,
-    "slug": "optimizing-color-selection-for-cluster-member-identification-with-superbit",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Otimizando a seleção de cores para identificação de membros de cluster com SuperBIT",
-    "title_pt": "Otimizando a seleção de cores para identificação de membros de cluster com SuperBIT",
-    "title_en": "Optimizing Color Selection for Cluster-Member Identification with SuperBIT",
-    "sub": "Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os membros do aglomerado a partir de dados.",
-    "sub_pt": "Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os membros do aglomerado a partir de dados.",
-    "sub_en": "Galaxy richness maps provide a useful tracer of the stellar mass distribution in galaxy clusters, but identifying cluster members from multiband photometric data can be.",
-    "excerpt": "Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os membros do aglomerado a partir de dados fotométricos multibanda pode ser um desafio.",
-    "excerpt_pt": "Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os membros do aglomerado a partir de dados fotométricos multibanda pode ser um desafio.",
-    "excerpt_en": "Galaxy richness maps provide a useful tracer of the stellar mass distribution in galaxy clusters, but identifying cluster members from multiband photometric data can be challenging.",
-    "highlights": [
-      "Ponto central: Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os membros.",
-      "Dado-chave: Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os membros.",
-      "Dado-chave: Os mapas de riqueza de galáxias fornecem um rastreador útil da distribuição de massa estelar em aglomerados de galáxias, mas identificar os.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: Galaxy richness maps provide a useful tracer of the stellar mass distribution in galaxy clusters, but identifying cluster members from multiband.",
-      "Key detail: Galaxy richness maps provide a useful tracer of the stellar mass distribution in galaxy clusters, but identifying cluster members from multiband.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "05 out 2026",
-    "date_pt": "05 out 2026",
-    "date_en": "05 Oct 2026",
-    "time": "16h25",
-    "time_pt": "16h25",
-    "time_en": "16: 25 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-05T16:25:26+00:00",
-    "lastModifiedIso": "2026-10-06T20:34:20+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Otimizando a seleção de cores para identificação de membros de cluster com SuperBIT"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Otimizando a seleção de cores para identificação de membros de cluster com SuperBIT"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Optimizing color selection for cluster member identification with SuperBIT"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2610.06635v1",
-    "realUrl": "https://www.cosmosweek.com/?article=optimizing-color-selection-for-cluster-member-identification-with-superbit",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=optimizing-color-selection-for-cluster-member-identification-with-superbit",
-    "realUrl_en": "https://www.cosmosweek.com/?article=optimizing-color-selection-for-cluster-member-identification-with-superbit&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/optimizing-color-selection-for-cluster-member-identification-with-superbit/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/optimizing-color-selection-for-cluster-member-identification-with-superbit/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/optimizing-color-selection-for-cluster-member-identification-with-superbit/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/optimizing-color-selection-for-cluster-member-identification-with-superbit/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/optimizing-color-selection-for-cluster-member-identification-with-superbit/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/optimizing-color-selection-for-cluster-member-identification-with-superbit/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Otimizando a seleção de cores para identificação de membros de cluster com SuperBIT",
-    "imageAlt_pt": "Otimizando a seleção de cores para identificação de membros de cluster com SuperBIT",
-    "imageAlt_en": "Optimizing Color Selection for Cluster-Member Identification with SuperBIT",
     "coverageKind": "preprint",
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
