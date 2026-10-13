@@ -1,6 +1,152 @@
 [
   {
     "id": 1,
+    "slug": "mars-moon-lander-set-to-launch-on-19-october",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_pillars.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_at_mars_and_phobos/27573775-1-eng-GB/MMX_at_Mars_and_Phobos_article.png",
+        "alt": "MMX em Marte e Fobos",
+        "alt_pt": "MMX em Marte e Fobos",
+        "alt_en": "MMX at Mars and Phobos",
+        "caption": "MMX em Marte e Fobos",
+        "caption_pt": "MMX em Marte e Fobos",
+        "caption_en": "MMX at Mars and Phobos"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_martian_moons_exploration_mmx_mission/27573443-1-eng-GB/The_Martian_Moons_eXploration_MMX_mission_article.png",
+        "alt": "A missão Martian Moons eXploration (MMX)",
+        "alt_pt": "A missão Martian Moons eXploration (MMX)",
+        "alt_en": "The Martian Moons eXploration (MMX) mission",
+        "caption": "A missão Martian Moons eXploration (MMX)",
+        "caption_pt": "A missão Martian Moons eXploration (MMX)",
+        "caption_en": "The Martian Moons eXploration (MMX) mission"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Módulo lunar de Marte será lançado em 19 de outubro",
+    "title_pt": "Módulo lunar de Marte será lançado em 19 de outubro",
+    "title_en": "Mars moon lander set to launch on 19 October",
+    "sub": "A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026.",
+    "sub_pt": "A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026.",
+    "sub_en": "The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026.",
+    "excerpt": "A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026.",
+    "excerpt_pt": "A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026.",
+    "excerpt_en": "The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026.",
+    "highlights": [
+      "Em foco: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "13 out 2026",
+    "date_pt": "13 out 2026",
+    "date_en": "13 Oct 2026",
+    "time": "12h00",
+    "time_pt": "12h00",
+    "time_en": "12: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-13T12:00:00+00:00",
+    "lastModifiedIso": "2026-10-13T20:51:34+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Módulo lunar de Marte será lançado em 19 de outubro"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Módulo lunar de Marte será lançado em 19 de outubro"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Mars lunar module will be launched on October 19"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+    "realUrl": "https://www.cosmosweek.com/?article=mars-moon-lander-set-to-launch-on-19-october",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=mars-moon-lander-set-to-launch-on-19-october",
+    "realUrl_en": "https://www.cosmosweek.com/?article=mars-moon-lander-set-to-launch-on-19-october&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/mars-moon-lander-set-to-launch-on-19-october/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/mars-moon-lander-set-to-launch-on-19-october/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/mars-moon-lander-set-to-launch-on-19-october/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/mars-moon-lander-set-to-launch-on-19-october/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/mars-moon-lander-set-to-launch-on-19-october/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/mars-moon-lander-set-to-launch-on-19-october/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 95,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Módulo lunar de Marte será lançado em 19 de outubro",
+    "imageAlt_pt": "Módulo lunar de Marte será lançado em 19 de outubro",
+    "imageAlt_en": "Mars moon lander set to launch on 19 October",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-s-spacex-crs-35-mission-to-launch-health-research",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -18,19 +164,19 @@
     "excerpt_pt": "Experimentos da NASA focados na saúde humana e vegetal e em organismos resistentes a medicamentos viajarão para a Estação Espacial Internacional a bordo da 35ª missão de Serviços de Reabastecimento Comercial da SpaceX para a agência a partir da Estação da.",
     "excerpt_en": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station.",
     "highlights": [
-      "Em foco: Experimentos da NASA focados na saúde humana e vegetal e em organismos resistentes a medicamentos viajarão para a Estação Espacial Internacional a",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Experimentos da NASA focados na saúde humana e vegetal e em organismos resistentes a medicamentos viajarão para a Estação Espacial Internacional a.",
+      "Dado-chave: Experimentos da NASA focados na saúde humana e vegetal e em organismos resistentes a medicamentos viajarão para a Estação Espacial Internacional.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Experimentos da NASA focados na saúde humana e vegetal e em organismos resistentes a medicamentos viajarão para a Estação Espacial Internacional a",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Experimentos da NASA focados na saúde humana e vegetal e em organismos resistentes a medicamentos viajarão para a Estação Espacial Internacional a.",
+      "Dado-chave: Experimentos da NASA focados na saúde humana e vegetal e em organismos resistentes a medicamentos viajarão para a Estação Espacial Internacional.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th.",
+      "Key detail: NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "12 out 2026",
     "date_pt": "12 out 2026",
@@ -121,7 +267,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "antarctic-sea-ice-grows-to-its-2026-maximum",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -158,19 +304,19 @@
     "excerpt_pt": "Vendo através das nuvens Para determinar a extensão do gelo marinho, os cientistas contam com satélites com sensores passivos de micro-ondas que medem a energia de micro-ondas que a Terra emite naturalmente.",
     "excerpt_en": "Seeing Through the Clouds To determine sea ice extent, scientists rely on satellites with passive microwave sensors that measure the microwave energy Earth naturally emits.",
     "highlights": [
-      "Em foco: Vendo através das nuvens Para determinar a extensão do gelo marinho, os cientistas contam com satélites com sensores passivos de micro-ondas que",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Vendo através das nuvens Para determinar a extensão do gelo marinho, os cientistas contam com satélites com sensores passivos de micro-ondas que.",
+      "Dado-chave: Vendo através das nuvens Para determinar a extensão do gelo marinho, os cientistas contam com satélites com sensores passivos de micro-ondas que",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Vendo através das nuvens Para determinar a extensão do gelo marinho, os cientistas contam com satélites com sensores passivos de micro-ondas que",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Vendo através das nuvens Para determinar a extensão do gelo marinho, os cientistas contam com satélites com sensores passivos de micro-ondas que.",
+      "Dado-chave: Vendo através das nuvens Para determinar a extensão do gelo marinho, os cientistas contam com satélites com sensores passivos de micro-ondas que",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Seeing Through the Clouds To determine sea ice extent, scientists rely on satellites with passive microwave sensors that measure the microwave energy",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Seeing Through the Clouds To determine sea ice extent, scientists rely on satellites with passive microwave sensors that measure the microwave energy.",
+      "Key detail: Seeing Through the Clouds To determine sea ice extent, scientists rely on satellites with passive microwave sensors that measure the microwave.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "12 out 2026",
     "date_pt": "12 out 2026",
@@ -258,7 +404,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-demonstrates-next-generation-heat-shield-technologies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -276,19 +422,19 @@
     "excerpt_pt": "A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum: retirando o lixo.",
     "excerpt_en": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash.",
     "highlights": [
-      "Em foco: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum.",
+      "Dado-chave: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma incomum.",
+      "Dado-chave: A NASA está testando escudos térmicos que podem manter os astronautas seguros quando eles retornam de missões à Lua e a Marte de uma forma.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the.",
+      "Key detail: NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 out 2026",
     "date_pt": "09 out 2026",
@@ -376,7 +522,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-s-spherex-telescope-sees-menagerie-of-brown-dwarfs",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -504,7 +650,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "splashdown-confirmed-for-sophie-adenot",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -641,7 +787,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "too-many-or-too-bright-status-and-perspectives-in-the-study-of-the-uv-luminosity-function-at-z-1",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -759,7 +905,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "sentinel-3c-returns-its-first-views-of-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -917,7 +1063,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -1054,7 +1200,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "brake-time-for-esa-s-hera-asteroid-mission-to-go-slow",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1227,7 +1373,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "gamma-rays-from-black-hole-coronae-disentangling-the-leptonic-and-hadronic-contributions",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1348,7 +1494,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "science-release-suspected-second-generation-planet-solves-hubble-cold-case",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1533,7 +1679,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "happy-new-year-on-mars",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1672,155 +1818,6 @@
     "imageAlt": "Feliz Ano Novo em Marte",
     "imageAlt_pt": "Feliz Ano Novo em Marte",
     "imageAlt_en": "Happy New Year on Mars",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 13,
-    "slug": "successful-earth-flyby-improves-juice-s-course-to-jupiter",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_images_earth_during_earth_flyby/27543775-1-eng-GB/Juice_images_Earth_during_Earth_flyby_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_navcam_image_of_africa_during_earth_flyby/27543920-1-eng-GB/Juice_NavCam_image_of_Africa_during_Earth_flyby_pillars.png",
-        "alt": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
-        "alt_pt": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
-        "alt_en": "Juice NavCam image of Africa during Earth flyby",
-        "caption": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
-        "caption_pt": "Imagem Juice NavCam da África durante sobrevoo pela Terra",
-        "caption_en": "Juice NavCam image of Africa during Earth flyby"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_navcam_image_of_the_moon_during_earth_flyby/27543967-1-eng-GB/Juice_NavCam_image_of_the_Moon_during_Earth_flyby_pillars.png",
-        "alt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "alt_pt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "alt_en": "Juice NavCam image of the Moon during Earth flyby",
-        "caption": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "caption_pt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "caption_en": "Juice NavCam image of the Moon during Earth flyby"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/12/juice_s_journey_to_jupiter/24641025-9-eng-GB/Juice_s_journey_to_Jupiter_article.jpg",
-        "alt": "A jornada de Juice para Júpiter",
-        "alt_pt": "A jornada de Juice para Júpiter",
-        "alt_en": "Juice’s journey to Jupiter",
-        "caption": "A jornada de Juice para Júpiter",
-        "caption_pt": "A jornada de Juice para Júpiter",
-        "caption_en": "Juice’s journey to Jupiter"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
-    "title_pt": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
-    "title_en": "Successful Earth flyby improves Juice’s course to Jupiter",
-    "sub": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para.",
-    "sub_pt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para.",
-    "sub_en": "The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route.",
-    "excerpt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível.",
-    "excerpt_pt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível.",
-    "excerpt_en": "The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
-    "highlights": [
-      "Ponto central: O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade.",
-      "Dado-chave: O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade.",
-      "Dado-chave: O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our.",
-      "Key detail: The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "28 set 2026",
-    "date_pt": "28 set 2026",
-    "date_en": "28 Sep 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-28T15:00:00+00:00",
-    "lastModifiedIso": "2026-09-28T21:26:57+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Sobrevôo bem",
-      "sucedido da Terra melhora o curso de Juice para Júpiter"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Sobrevôo bem",
-      "sucedido da Terra melhora o curso de Juice para Júpiter"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Fine flyby",
-      "Earth's success improves Juice's course for Jupiter"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
-    "realUrl": "https://www.cosmosweek.com/?article=successful-earth-flyby-improves-juice-s-course-to-jupiter",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=successful-earth-flyby-improves-juice-s-course-to-jupiter",
-    "realUrl_en": "https://www.cosmosweek.com/?article=successful-earth-flyby-improves-juice-s-course-to-jupiter&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/successful-earth-flyby-improves-juice-s-course-to-jupiter/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
-    "imageAlt_pt": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
-    "imageAlt_en": "Successful Earth flyby improves Juice’s course to Jupiter",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
