@@ -505,19 +505,19 @@
     "excerpt_pt": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
     "excerpt_en": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
     "highlights": [
-      "Em foco: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
+      "Dado-chave: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
+      "Dado-chave: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
+      "Key detail: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 out 2026",
     "date_pt": "15 out 2026",
@@ -800,17 +800,17 @@
     "excerpt_en": "Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy and tests of the Kerr hypothesis.",
     "highlights": [
       "Ponto central: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy and.",
-      "Dado-chave: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy and",
+      "Dado-chave: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy and.",
-      "Dado-chave: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy and",
+      "Dado-chave: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy and.",
-      "Key detail: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy and",
+      "Key detail: Gravitational-wave ringdown signals provide a powerful probe of the strong-field regime of general relativity through black hole spectroscopy.",
       "Result not yet peer reviewed."
     ],
     "date": "14 out 2026",
@@ -2137,12 +2137,12 @@
       },
       {
         "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/cloudy-cloak-over-the-northwest/westcoastfog_tmo_20260919_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       }
     ],
     "video": null,
