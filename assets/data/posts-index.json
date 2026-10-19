@@ -1,6 +1,392 @@
 [
   {
     "id": 1,
+    "slug": "nasa-improves-shock-vibration-analysis",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NASA melhora análise de choque e vibração",
+    "title_pt": "NASA melhora análise de choque e vibração",
+    "title_en": "NASA Improves Shock, Vibration Analysis",
+    "sub": "Os foguetes vibram, agitam-se e flexionam-se intensamente à medida que sobem para o espaço, e as naves espaciais repletas de delicados instrumentos científicos devem sobreviver a.",
+    "sub_pt": "Os foguetes vibram, agitam-se e flexionam-se intensamente à medida que sobem para o espaço, e as naves espaciais repletas de delicados instrumentos científicos devem sobreviver a.",
+    "sub_en": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces.",
+    "excerpt": "Os foguetes vibram, agitam-se e flexionam-se intensamente à medida que sobem para o espaço, e as naves espaciais repletas de delicados instrumentos científicos devem sobreviver a essas forças.",
+    "excerpt_pt": "Os foguetes vibram, agitam-se e flexionam-se intensamente à medida que sobem para o espaço, e as naves espaciais repletas de delicados instrumentos científicos devem sobreviver a essas forças.",
+    "excerpt_en": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces.",
+    "highlights": [
+      "Em foco: Os foguetes vibram, agitam-se e flexionam-se intensamente à medida que sobem para o espaço, e as naves espaciais repletas de delicados instrumentos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os foguetes vibram, agitam-se e flexionam-se intensamente à medida que sobem para o espaço, e as naves espaciais repletas de delicados instrumentos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "19 out 2026",
+    "date_pt": "19 out 2026",
+    "date_en": "19 Oct 2026",
+    "time": "19h28",
+    "time_pt": "19h28",
+    "time_en": "19: 28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-19T19:28:32+00:00",
+    "lastModifiedIso": "2026-10-19T20:46:09+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA melhora análise de choque e vibração"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA melhora análise de choque e vibração"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA improves shock and vibration analysis"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-improves-shock-vibration-analysis",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-improves-shock-vibration-analysis",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-improves-shock-vibration-analysis&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-improves-shock-vibration-analysis/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-improves-shock-vibration-analysis/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-improves-shock-vibration-analysis/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-improves-shock-vibration-analysis/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-improves-shock-vibration-analysis/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-improves-shock-vibration-analysis/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "NASA melhora análise de choque e vibração",
+    "imageAlt_pt": "NASA melhora análise de choque e vibração",
+    "imageAlt_en": "NASA Improves Shock, Vibration Analysis",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-s-simulated-mars-crew-marks-one-year-inside-habitat",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/chapea-one-year.jpeg",
+    "inline_images": [],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/2MONMgAmXNU?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "https://www.nasa.gov/wp-content/uploads/2026/10/chapea-one-year.jpeg",
+      "title": "Cerimônia de Saída da Missão 2 Analógica de Exploração de Saúde e Desempenho da Tripulação (CHAPEA) | 31 de outubro de 2026",
+      "title_pt": "Cerimônia de Saída da Missão 2 Analógica de Exploração de Saúde e Desempenho da Tripulação (CHAPEA) | 31 de outubro de 2026",
+      "title_en": "Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 Egress Ceremony | Oct. 31, 2026",
+      "caption": "Curta os vídeos e as músicas que você adora, carregue conteúdo original e compartilhe tudo com amigos, familiares e o mundo todo no YouTube.",
+      "caption_pt": "Curta os vídeos e as músicas que você adora, carregue conteúdo original e compartilhe tudo com amigos, familiares e o mundo todo no YouTube.",
+      "caption_en": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "sourcePage": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/"
+    },
+    "audio": null,
+    "title": "Tripulação simulada de Marte da NASA marca um ano dentro do habitat",
+    "title_pt": "Tripulação simulada de Marte da NASA marca um ano dentro do habitat",
+    "title_en": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+    "sub": "Os quatro membros da tripulação da missão simulada da NASA a Marte passaram o ano passado vivendo e trabalhando isolados em um habitat confinado no Centro Espacial Johnson da.",
+    "sub_pt": "Os quatro membros da tripulação da missão simulada da NASA a Marte passaram o ano passado vivendo e trabalhando isolados em um habitat confinado no Centro Espacial Johnson da.",
+    "sub_en": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+    "excerpt": "Os quatro membros da tripulação da missão simulada da NASA a Marte passaram o ano passado vivendo e trabalhando isolados em um habitat confinado no Centro Espacial Johnson da NASA, em Houston.",
+    "excerpt_pt": "Os quatro membros da tripulação da missão simulada da NASA a Marte passaram o ano passado vivendo e trabalhando isolados em um habitat confinado no Centro Espacial Johnson da NASA, em Houston.",
+    "excerpt_en": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+    "highlights": [
+      "Em foco: Os quatro membros da tripulação da missão simulada da NASA a Marte passaram o ano passado vivendo e trabalhando isolados em um habitat confinado no",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Os quatro membros da tripulação da missão simulada da NASA a Marte passaram o ano passado vivendo e trabalhando isolados em um habitat confinado no",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "19 out 2026",
+    "date_pt": "19 out 2026",
+    "date_en": "19 Oct 2026",
+    "time": "18h01",
+    "time_pt": "18h01",
+    "time_en": "18: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-19T18:01:51+00:00",
+    "lastModifiedIso": "2026-10-19T20:46:09+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Tripulação simulada de Marte da NASA marca um ano dentro do habitat"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Tripulação simulada de Marte da NASA marca um ano dentro do habitat"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Mars Simulation Crew Marks One Year Inside Habitat"
+    ],
+    "srcUrl": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-simulated-mars-crew-marks-one-year-inside-habitat",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-simulated-mars-crew-marks-one-year-inside-habitat",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-simulated-mars-crew-marks-one-year-inside-habitat&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Tripulação simulada de Marte da NASA marca um ano dentro do habitat",
+    "imageAlt_pt": "Tripulação simulada de Marte da NASA marca um ano dentro do habitat",
+    "imageAlt_en": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "euclid-discovers-new-comet",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg/1280px-Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_observations_in_context/27582370-1-eng-GB/Comet_C_2026_S1_Euclid_observations_in_context_article.png",
+        "alt": "Observações do cometa C/2026 S1 (Euclides) no contexto",
+        "alt_pt": "Observações do cometa C/2026 S1 (Euclides) no contexto",
+        "alt_en": "Comet C/2026 S1 (Euclid) observations in context",
+        "caption": "Observações do cometa C/2026 S1 (Euclides) no contexto",
+        "caption_pt": "Observações do cometa C/2026 S1 (Euclides) no contexto",
+        "caption_en": "Comet C/2026 S1 (Euclid) observations in context"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/a_composite_of_eight_euclid_vis_exposures_of_comet_c_2026_s1_euclid/27582417-1-eng-GB/A_composite_of_eight_Euclid_VIS_exposures_of_Comet_C_2026_S1_Euclid_article.png",
+        "alt": "Uma composição de oito exposições Euclid VIS do cometa C/2026 S1 (Euclid).",
+        "alt_pt": "Uma composição de oito exposições Euclid VIS do cometa C/2026 S1 (Euclid).",
+        "alt_en": "A composite of eight Euclid VIS exposures of Comet C/2026 S1 (Euclid).",
+        "caption": "Uma composição de oito exposições Euclid VIS do cometa C/2026 S1 (Euclid).",
+        "caption_pt": "Uma composição de oito exposições Euclid VIS do cometa C/2026 S1 (Euclid).",
+        "caption_en": "A composite of eight Euclid VIS exposures of Comet C/2026 S1 (Euclid)."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Euclides descobre novo cometa",
+    "title_pt": "Euclides descobre novo cometa",
+    "title_en": "Euclid discovers new comet",
+    "sub": "O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026.",
+    "sub_pt": "O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026.",
+    "sub_en": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+    "excerpt": "O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026.",
+    "excerpt_pt": "O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026.",
+    "excerpt_en": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+    "highlights": [
+      "Em foco: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "19 out 2026",
+    "date_pt": "19 out 2026",
+    "date_en": "19 Oct 2026",
+    "time": "12h00",
+    "time_pt": "12h00",
+    "time_en": "12: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-19T12:00:00+00:00",
+    "lastModifiedIso": "2026-10-19T20:46:09+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Euclides descobre novo cometa"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Euclides descobre novo cometa"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Space Science",
+      "Cosmos Week",
+      "Euclid discovers new comet"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+    "realUrl": "https://www.cosmosweek.com/?article=euclid-discovers-new-comet",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=euclid-discovers-new-comet",
+    "realUrl_en": "https://www.cosmosweek.com/?article=euclid-discovers-new-comet&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/euclid-discovers-new-comet/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/euclid-discovers-new-comet/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/euclid-discovers-new-comet/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/euclid-discovers-new-comet/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/euclid-discovers-new-comet/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/euclid-discovers-new-comet/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 95,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Euclides descobre novo cometa",
+    "imageAlt_pt": "Euclides descobre novo cometa",
+    "imageAlt_en": "Euclid discovers new comet",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "isaias-dims-the-gulf-coast",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -82,19 +468,19 @@
     "excerpt_pt": "Imagens de alta definição de luzes noturnas mostram onde o furacão cortou a energia ao longo do Panhandle da Flórida e com que rapidez as luzes voltaram.",
     "excerpt_en": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
     "highlights": [
-      "Em foco: Imagens de alta definição de luzes noturnas mostram onde o furacão cortou a energia ao longo do Panhandle da Flórida e com que rapidez as luzes",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Imagens de alta definição de luzes noturnas mostram onde o furacão cortou a energia ao longo do Panhandle da Flórida e com que rapidez as luzes.",
+      "Dado-chave: Imagens de alta definição de luzes noturnas mostram onde o furacão cortou a energia ao longo do Panhandle da Flórida e com que rapidez as luzes",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Imagens de alta definição de luzes noturnas mostram onde o furacão cortou a energia ao longo do Panhandle da Flórida e com que rapidez as luzes",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Imagens de alta definição de luzes noturnas mostram onde o furacão cortou a energia ao longo do Panhandle da Flórida e com que rapidez as luzes.",
+      "Dado-chave: Imagens de alta definição de luzes noturnas mostram onde o furacão cortou a energia ao longo do Panhandle da Flórida e com que rapidez as luzes",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came.",
+      "Key detail: High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 out 2026",
     "date_pt": "16 out 2026",
@@ -182,7 +568,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -219,19 +605,19 @@
     "excerpt_pt": "A NASA está desempenhando um papel importante na missão MMX da JAXA, para avançar a nossa compreensão das luas de Marte e desenvolver a longa história da agência de exploração do Planeta Vermelho.",
     "excerpt_en": "NASA is playing an important role in JAXA’s MMX mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet.",
     "highlights": [
-      "Em foco: A NASA está desempenhando um papel importante na missão MMX da JAXA, para avançar a nossa compreensão das luas de Marte e desenvolver a longa",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA está desempenhando um papel importante na missão MMX da JAXA, para avançar a nossa compreensão das luas de Marte e desenvolver a longa.",
+      "Dado-chave: A NASA está desempenhando um papel importante na missão MMX da JAXA, para avançar a nossa compreensão das luas de Marte e desenvolver a longa",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A NASA está desempenhando um papel importante na missão MMX da JAXA, para avançar a nossa compreensão das luas de Marte e desenvolver a longa",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA está desempenhando um papel importante na missão MMX da JAXA, para avançar a nossa compreensão das luas de Marte e desenvolver a longa.",
+      "Dado-chave: A NASA está desempenhando um papel importante na missão MMX da JAXA, para avançar a nossa compreensão das luas de Marte e desenvolver a longa",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA is playing an important role in JAXA’s MMX mission, to advance our understanding of Mars’ moons and build on the agency’s long history of",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA is playing an important role in JAXA’s MMX mission, to advance our understanding of Mars’ moons and build on the agency’s long history of.",
+      "Key detail: NASA is playing an important role in JAXA’s MMX mission, to advance our understanding of Mars’ moons and build on the agency’s long history of",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "15 out 2026",
     "date_pt": "15 out 2026",
@@ -319,296 +705,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
-    "slug": "nasa-satellites-observe-historic-2026-el-nino",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/elnino_2026_ssta_avw_ssha_1010.02200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/elnino_2026_ssta_avw_ssha_1010_2160p60.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/elnino_2026_ssta_avw_ssha_1010.02200.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "NASA Satellites Observe Historic 2026 El Niño - NASA Science",
-      "title_pt": "NASA Satellites Observe Historic 2026 El Niño - NASA Science",
-      "title_en": "NASA Satellites Observe Historic 2026 El Niño - NASA Science",
-      "caption": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-      "caption_pt": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-      "caption_en": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-      "sourcePage": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/"
-    },
-    "audio": null,
-    "title": "NASA Satellites Observe Historic 2026 El Niño",
-    "title_pt": "NASA Satellites Observe Historic 2026 El Niño",
-    "title_en": "NASA Satellites Observe Historic 2026 El Niño",
-    "sub": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-    "sub_pt": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-    "sub_en": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-    "excerpt": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-    "excerpt_pt": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-    "excerpt_en": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-    "highlights": [
-      "Ponto central: A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-      "Dado-chave: A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-      "Dado-chave: A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely.",
-      "Key detail: A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 out 2026",
-    "date_pt": "15 out 2026",
-    "date_en": "15 Oct 2026",
-    "time": "17h59",
-    "time_pt": "17h59",
-    "time_en": "17: 59 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-15T17:59:22+00:00",
-    "lastModifiedIso": "2026-10-15T19:24:08+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Satellites Observe Historic 2026 El Niño"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Satellites Observe Historic 2026 El Niño"
-    ],
-    "keywords_en": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Satellites Observe Historic 2026 El Niño"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-satellites-observe-historic-2026-el-nino",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-satellites-observe-historic-2026-el-nino",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-satellites-observe-historic-2026-el-nino&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-satellites-observe-historic-2026-el-nino/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-satellites-observe-historic-2026-el-nino/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-satellites-observe-historic-2026-el-nino/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-satellites-observe-historic-2026-el-nino/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-satellites-observe-historic-2026-el-nino/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-satellites-observe-historic-2026-el-nino/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "NASA Satellites Observe Historic 2026 El Niño",
-    "imageAlt_pt": "NASA Satellites Observe Historic 2026 El Niño",
-    "imageAlt_en": "NASA Satellites Observe Historic 2026 El Niño",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 4,
-    "slug": "nasa-to-conduct-low-altitude-flights-over-texas-farmland",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "title_pt": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "title_en": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "sub": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-    "sub_pt": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-    "sub_en": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-    "excerpt": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-    "excerpt_pt": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-    "excerpt_en": "A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-    "highlights": [
-      "Ponto central: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-      "Dado-chave: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-      "Dado-chave: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-      "Key detail: A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "15 out 2026",
-    "date_pt": "15 out 2026",
-    "date_en": "15 Oct 2026",
-    "time": "16h42",
-    "time_pt": "16h42",
-    "time_en": "16: 42 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-15T16:42:10+00:00",
-    "lastModifiedIso": "2026-10-15T19:24:08+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA to Conduct Low",
-      "Altitude Flights Over Texas Farmland"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA to Conduct Low",
-      "Altitude Flights Over Texas Farmland"
-    ],
-    "keywords_en": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA to Conduct Low",
-      "Altitude Flights Over Texas Farmland"
-    ],
-    "srcUrl": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-to-conduct-low-altitude-flights-over-texas-farmland",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-to-conduct-low-altitude-flights-over-texas-farmland",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-to-conduct-low-altitude-flights-over-texas-farmland&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "imageAlt_pt": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "imageAlt_en": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
+    "id": 6,
     "slug": "mars-moon-mission-set-to-launch-with-tech-funded-by-planetary-society-on-board",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -781,7 +878,7 @@
     "storyKind": "science"
   },
   {
-    "id": 6,
+    "id": 7,
     "slug": "biases-in-ringdown-tests-of-general-relativity-from-gravitational-wave-microlensing",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -902,7 +999,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "enabling-polyspectra-via-stochastic-realizations-of-inverse-decay-curvature-perturbations-in-axi",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1020,7 +1117,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "mars-moon-lander-set-to-launch-on-19-october",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1166,7 +1263,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "splashdown-confirmed-for-sophie-adenot",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1312,7 +1409,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "sentinel-3c-returns-its-first-views-of-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1367,19 +1464,19 @@
     "excerpt_pt": "Apenas duas semanas após o seu lançamento, o satélite Copernicus Sentinel-3C enviou as primeiras imagens e medições de dois dos seus principais instrumentos, um marco importante que confirma que o satélite está a funcionar bem e no caminho certo.",
     "excerpt_en": "Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key instruments, a major milestone that confirms the satellite is working well and on the road to.",
     "highlights": [
-      "Em foco: Apenas duas semanas após o seu lançamento, o satélite Copernicus Sentinel-3C enviou as primeiras imagens e medições de dois dos seus principais",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Apenas duas semanas após o seu lançamento, o satélite Copernicus Sentinel-3C enviou as primeiras imagens e medições de dois dos seus principais.",
+      "Dado-chave: Apenas duas semanas após o seu lançamento, o satélite Copernicus Sentinel-3C enviou as primeiras imagens e medições de dois dos seus principais",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Apenas duas semanas após o seu lançamento, o satélite Copernicus Sentinel-3C enviou as primeiras imagens e medições de dois dos seus principais",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Apenas duas semanas após o seu lançamento, o satélite Copernicus Sentinel-3C enviou as primeiras imagens e medições de dois dos seus principais.",
+      "Dado-chave: Apenas duas semanas após o seu lançamento, o satélite Copernicus Sentinel-3C enviou as primeiras imagens e medições de dois dos seus principais",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key.",
+      "Key detail: Just two weeks after it was launched, the Copernicus Sentinel-3C satellite returned its first images and measurements from two of its key",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "08 out 2026",
     "date_pt": "08 out 2026",
@@ -1470,7 +1567,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -1616,7 +1713,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "brake-time-for-esa-s-hera-asteroid-mission-to-go-slow",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1789,7 +1886,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "science-release-suspected-second-generation-planet-solves-hubble-cold-case",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1967,152 +2064,6 @@
     "imageAlt": "Lançamento científico: Suspeito de planeta de segunda geração resolve caso arquivado do Hubble",
     "imageAlt_pt": "Lançamento científico: Suspeito de planeta de segunda geração resolve caso arquivado do Hubble",
     "imageAlt_en": "Science Release: Suspected second-generation planet solves Hubble cold case",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 14,
-    "slug": "happy-new-year-on-mars",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/global_mars_in_colour/24894462-7-eng-GB/Global_Mars_in_colour_pillars.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/02/a_new_year_on_mars/23129710-8-eng-GB/A_New_Year_on_Mars_article.png",
-        "alt": "Um Ano Novo em Marte",
-        "alt_pt": "Um Ano Novo em Marte",
-        "alt_en": "A New Year on Mars",
-        "caption": "Um Ano Novo em Marte",
-        "caption_pt": "Um Ano Novo em Marte",
-        "caption_en": "A New Year on Mars"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/05/meet_mars/19408907-7-eng-GB/Meet_Mars_article.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/05/meet_mars/19408907-8-eng-GB/Meet_Mars_article.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Feliz Ano Novo em Marte",
-    "title_pt": "Feliz Ano Novo em Marte",
-    "title_en": "Happy New Year on Mars",
-    "sub": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
-    "sub_pt": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
-    "sub_en": "30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-    "excerpt": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
-    "excerpt_pt": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
-    "excerpt_en": "30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-    "highlights": [
-      "Em foco: 30 de setembro de 2026 marca o início de um novo ano em Marte",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: 30 de setembro de 2026 marca o início de um novo ano em Marte",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: 30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "30 set 2026",
-    "date_pt": "30 set 2026",
-    "date_en": "30 Sep 2026",
-    "time": "06h00",
-    "time_pt": "06h00",
-    "time_en": "06: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-30T06:00:00+00:00",
-    "lastModifiedIso": "2026-09-29T20:15:54+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Feliz Ano Novo em Marte"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Feliz Ano Novo em Marte"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Happy New Year on Mars"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
-    "realUrl": "https://www.cosmosweek.com/?article=happy-new-year-on-mars",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=happy-new-year-on-mars",
-    "realUrl_en": "https://www.cosmosweek.com/?article=happy-new-year-on-mars&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/happy-new-year-on-mars/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/happy-new-year-on-mars/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/happy-new-year-on-mars/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/happy-new-year-on-mars/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/happy-new-year-on-mars/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/happy-new-year-on-mars/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": true,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 95,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Feliz Ano Novo em Marte",
-    "imageAlt_pt": "Feliz Ano Novo em Marte",
-    "imageAlt_en": "Happy New Year on Mars",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -2931,12 +2882,12 @@
     "excerpt_en": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole.",
     "highlights": [
       "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
-      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
-      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
