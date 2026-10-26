@@ -1,6 +1,444 @@
 [
   {
     "id": 1,
+    "slug": "nasa-usda-sign-agreement-advancing-earth-science-agriculture",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=1829",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "https: //science. nasa. gov/earth",
+        "alt_pt": "https: //science. nasa. gov/earth",
+        "alt_en": "https: //science. nasa. gov/earth",
+        "caption": "https: //science. nasa. gov/earth",
+        "caption_pt": "https: //science. nasa. gov/earth",
+        "caption_en": "https: //science. nasa. gov/earth"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "NASA e USDA assinam acordo para avançar nas ciências da terra e na agricultura",
+    "title_pt": "NASA e USDA assinam acordo para avançar nas ciências da terra e na agricultura",
+    "title_en": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+    "sub": "A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise geoespacial e tecnologias avançadas.",
+    "sub_pt": "A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise geoespacial e tecnologias avançadas.",
+    "sub_en": "NASA and the U. S. Department of Agriculture have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data.",
+    "excerpt": "A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise geoespacial e tecnologias avançadas de dados, apoiando o plano de modernização de dados do USDA para os Estados.",
+    "excerpt_pt": "A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise geoespacial e tecnologias avançadas de dados, apoiando o plano de modernização de dados do USDA para os Estados.",
+    "excerpt_en": "NASA and the U. S. Department of Agriculture have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United.",
+    "highlights": [
+      "Em foco: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA and the U. S",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "26 out 2026",
+    "date_pt": "26 out 2026",
+    "date_en": "26 Oct 2026",
+    "time": "13h54",
+    "time_pt": "13h54",
+    "time_en": "13: 54 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-26T13:54:25+00:00",
+    "lastModifiedIso": "2026-10-26T20:47:26+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA e USDA assinam acordo para avançar nas ciências da terra e na agricultura"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA e USDA assinam acordo para avançar nas ciências da terra e na agricultura"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA and USDA sign agreement to advance earth sciences and agriculture"
+    ],
+    "srcUrl": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-usda-sign-agreement-advancing-earth-science-agriculture",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-usda-sign-agreement-advancing-earth-science-agriculture",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-usda-sign-agreement-advancing-earth-science-agriculture&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "NASA e USDA assinam acordo para avançar nas ciências da terra e na agricultura",
+    "imageAlt_pt": "NASA e USDA assinam acordo para avançar nas ciências da terra e na agricultura",
+    "imageAlt_en": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "ice-mission-cristal-opens-its-wings",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_pillars.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_on_its_launch_adapter/27590546-1-eng-GB/Testing_CRISTAL_on_its_launch_adapter_article.jpg",
+        "alt": "Testando CRISTAL em seu adaptador de lançamento",
+        "alt_pt": "Testando CRISTAL em seu adaptador de lançamento",
+        "alt_en": "Testing CRISTAL on its launch adapter",
+        "caption": "Testando CRISTAL em seu adaptador de lançamento",
+        "caption_pt": "Testando CRISTAL em seu adaptador de lançamento",
+        "caption_en": "Testing CRISTAL on its launch adapter"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_article.jpg",
+        "alt": "Testando a implantação do painel solar da CRISTAL",
+        "alt_pt": "Testando a implantação do painel solar da CRISTAL",
+        "alt_en": "Testing CRISTAL’s solar panel deployment",
+        "caption": "Testando a implantação do painel solar da CRISTAL",
+        "caption_pt": "Testando a implantação do painel solar da CRISTAL",
+        "caption_en": "Testing CRISTAL’s solar panel deployment"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Missão de gelo CRISTAL abre suas asas",
+    "title_pt": "Missão de gelo CRISTAL abre suas asas",
+    "title_en": "Ice mission CRISTAL opens its wings",
+    "sub": "Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de.",
+    "sub_pt": "Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de.",
+    "sub_en": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase.",
+    "excerpt": "Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os.",
+    "excerpt_pt": "Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os.",
+    "excerpt_en": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of.",
+    "highlights": [
+      "Em foco: Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "26 out 2026",
+    "date_pt": "26 out 2026",
+    "date_en": "26 Oct 2026",
+    "time": "10h00",
+    "time_pt": "10h00",
+    "time_en": "10: 00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-26T10:00:00+00:00",
+    "lastModifiedIso": "2026-10-26T20:47:26+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www. esa. int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Biologia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Missão de gelo CRISTAL abre suas asas"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "ESA Space News",
+      "Cosmos Week",
+      "Missão de gelo CRISTAL abre suas asas"
+    ],
+    "keywords_en": [
+      "Biology",
+      "ESA Space News",
+      "Cosmos Week",
+      "CRYSTAL ice mission spreads its wings"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
+    "realUrl": "https://www.cosmosweek.com/?article=ice-mission-cristal-opens-its-wings",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=ice-mission-cristal-opens-its-wings",
+    "realUrl_en": "https://www.cosmosweek.com/?article=ice-mission-cristal-opens-its-wings&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/ice-mission-cristal-opens-its-wings/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/ice-mission-cristal-opens-its-wings/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/ice-mission-cristal-opens-its-wings/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/ice-mission-cristal-opens-its-wings/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/ice-mission-cristal-opens-its-wings/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/ice-mission-cristal-opens-its-wings/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Missão de gelo CRISTAL abre suas asas",
+    "imageAlt_pt": "Missão de gelo CRISTAL abre suas asas",
+    "imageAlt_en": "Ice mission CRISTAL opens its wings",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
+    "slug": "hunting-red-leaves-with-satellites",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/red-leaf-hunting-/vermontfallcolor_oli2_20261003_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/red-leaf-hunting-/vermontfallcolor_oli2_20261003_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261011.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261004_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/red-leaf-hunting-/fallfoliagephenology_pace_20261011_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/red-leaf-hunting-/vermontfallcolor_oli2_20261003_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Caçando folhas vermelhas com satélites",
+    "title_pt": "Caçando folhas vermelhas com satélites",
+    "title_en": "Hunting Red Leaves with Satellites",
+    "sub": "Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova.",
+    "sub_pt": "Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova.",
+    "sub_en": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+    "excerpt": "Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova.",
+    "excerpt_pt": "Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova.",
+    "excerpt_en": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+    "highlights": [
+      "Em foco: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "26 out 2026",
+    "date_pt": "26 out 2026",
+    "date_en": "26 Oct 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-26T04:01:00+00:00",
+    "lastModifiedIso": "2026-10-26T20:47:26+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Caçando folhas vermelhas com satélites"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Caçando folhas vermelhas com satélites"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Hunting red leaves with satellites"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+    "realUrl": "https://www.cosmosweek.com/?article=hunting-red-leaves-with-satellites",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=hunting-red-leaves-with-satellites",
+    "realUrl_en": "https://www.cosmosweek.com/?article=hunting-red-leaves-with-satellites&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/hunting-red-leaves-with-satellites/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/hunting-red-leaves-with-satellites/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/hunting-red-leaves-with-satellites/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/hunting-red-leaves-with-satellites/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/hunting-red-leaves-with-satellites/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/hunting-red-leaves-with-satellites/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Caçando folhas vermelhas com satélites",
+    "imageAlt_pt": "Caçando folhas vermelhas com satélites",
+    "imageAlt_en": "Hunting Red Leaves with Satellites",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "nasa-partners-accelerate-lander-development-for-2028-moon-missions",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -118,7 +556,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 5,
     "slug": "nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -236,174 +674,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
-    "slug": "nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-3.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://science.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-4.jpg",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A missão Swift da NASA termina, deixando para trás a bonança científica",
-    "title_pt": "A missão Swift da NASA termina, deixando para trás a bonança científica",
-    "title_en": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-    "sub": "O Observatório Neil Gehrels Swift da NASA encerrou a sua missão científica agora que a nave espacial está orbitando a menos de 171 milhas acima da superfície da Terra.",
-    "sub_pt": "O Observatório Neil Gehrels Swift da NASA encerrou a sua missão científica agora que a nave espacial está orbitando a menos de 171 milhas acima da superfície da Terra.",
-    "sub_en": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles above Earth’s surface.",
-    "excerpt": "O Observatório Neil Gehrels Swift da NASA encerrou a sua missão científica agora que a nave espacial está orbitando a menos de 171 milhas acima da superfície da Terra.",
-    "excerpt_pt": "O Observatório Neil Gehrels Swift da NASA encerrou a sua missão científica agora que a nave espacial está orbitando a menos de 171 milhas acima da superfície da Terra.",
-    "excerpt_en": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles above Earth’s surface.",
-    "highlights": [
-      "Em foco: O Observatório Neil Gehrels Swift da NASA encerrou a sua missão científica agora que a nave espacial está orbitando a menos de 171 milhas acima da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: O Observatório Neil Gehrels Swift da NASA encerrou a sua missão científica agora que a nave espacial está orbitando a menos de 171 milhas acima da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles above Earth’s surface",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "23 out 2026",
-    "date_pt": "23 out 2026",
-    "date_en": "23 Oct 2026",
-    "time": "21h51",
-    "time_pt": "21h51",
-    "time_en": "21: 51 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-23T21:51:19+00:00",
-    "lastModifiedIso": "2026-10-24T18:22:07+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A missão Swift da NASA termina",
-      "deixando para trás a bonança científica"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A missão Swift da NASA termina",
-      "deixando para trás a bonança científica"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Swift mission ends",
-      "leaving behind the scientific bonanza"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-swift-mission-ends-leaves-behind-scientific-bonanza/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "A missão Swift da NASA termina, deixando para trás a bonança científica",
-    "imageAlt_pt": "A missão Swift da NASA termina, deixando para trás a bonança científica",
-    "imageAlt_en": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 4,
+    "id": 6,
     "slug": "an-extra-year-of-secondary-school-lowered-dementia-diagnoses-later-in-life",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -531,125 +802,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "nasa-virginia-launch-power-partnership-for-energy-security",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA e Virgínia lançam parceria energética para segurança energética",
-    "title_pt": "NASA e Virgínia lançam parceria energética para segurança energética",
-    "title_en": "NASA, Virginia Launch Power Partnership for Energy Security",
-    "sub": "A NASA está ajudando a promover a segurança energética de longo prazo na Virgínia. O Centro de Pesquisa Langley da NASA em Hampton, Virgínia, está fazendo parceria com o.",
-    "sub_pt": "A NASA está ajudando a promover a segurança energética de longo prazo na Virgínia. O Centro de Pesquisa Langley da NASA em Hampton, Virgínia, está fazendo parceria com o.",
-    "sub_en": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to.",
-    "excerpt": "A NASA está ajudando a promover a segurança energética de longo prazo na Virgínia. O Centro de Pesquisa Langley da NASA em Hampton, Virgínia, está fazendo parceria com o Departamento de Energia da Virgínia para apoiar decisões informadas para a geração eficaz.",
-    "excerpt_pt": "A NASA está ajudando a promover a segurança energética de longo prazo na Virgínia. O Centro de Pesquisa Langley da NASA em Hampton, Virgínia, está fazendo parceria com o Departamento de Energia da Virgínia para apoiar decisões informadas para a geração eficaz.",
-    "excerpt_en": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation.",
-    "highlights": [
-      "Em foco: A NASA está ajudando a promover a segurança energética de longo prazo na Virgínia",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: A NASA está ajudando a promover a segurança energética de longo prazo na Virgínia",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: NASA is helping to foster long-term energy security in Virginia",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "23 out 2026",
-    "date_pt": "23 out 2026",
-    "date_en": "23 Oct 2026",
-    "time": "17h50",
-    "time_pt": "17h50",
-    "time_en": "17: 50 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-23T17:50:21+00:00",
-    "lastModifiedIso": "2026-10-23T19:35:16+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA e Virgínia lançam parceria energética para segurança energética"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA e Virgínia lançam parceria energética para segurança energética"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA and Virginia Launch Energy Partnership for Energy Security"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-virginia-launch-power-partnership-for-energy-security",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-virginia-launch-power-partnership-for-energy-security",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-virginia-launch-power-partnership-for-energy-security&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-virginia-launch-power-partnership-for-energy-security/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-virginia-launch-power-partnership-for-energy-security/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-virginia-launch-power-partnership-for-energy-security/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-virginia-launch-power-partnership-for-energy-security/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-virginia-launch-power-partnership-for-energy-security/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-virginia-launch-power-partnership-for-energy-security/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": true,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "NASA e Virgínia lançam parceria energética para segurança energética",
-    "imageAlt_pt": "NASA e Virgínia lançam parceria energética para segurança energética",
-    "imageAlt_en": "NASA, Virginia Launch Power Partnership for Energy Security",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
+    "id": 7,
     "slug": "sudden-changes-and-slow-burns",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -767,7 +920,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -888,7 +1041,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "constraining-dynamical-dark-energy-with-tomographic-galaxy-and-cmb-weak-lensing-through-higher-o",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1006,7 +1159,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "euclid-discovers-new-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1143,7 +1296,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "mars-moon-mission-set-to-launch-with-tech-funded-by-planetary-society-on-board",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1316,7 +1469,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "mars-moon-lander-set-to-launch-on-19-october",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1462,7 +1615,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "splashdown-confirmed-for-sophie-adenot",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1608,7 +1761,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "sentinel-3c-returns-its-first-views-of-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1766,7 +1919,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -1905,179 +2058,6 @@
     "imageAlt": "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos",
     "imageAlt_pt": "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos",
     "imageAlt_en": "Mars’s oddest cloud may be even odder than we thought",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 15,
-    "slug": "brake-time-for-esa-s-hera-asteroid-mission-to-go-slow",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Global_Surface_Temperature_Anomalies_1880-2013.jpg/1280px-Global_Surface_Temperature_Anomalies_1880-2013.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/10/hera_asteroid_mission_launches_to_the_sky_on_7_october_20247/26348607-2-eng-GB/Hera_asteroid_mission_launches_to_the_sky_on_7_October_2024_article.jpg",
-        "alt": "Decolagem de Hera",
-        "alt_pt": "Decolagem de Hera",
-        "alt_en": "Hera liftoff",
-        "caption": "Decolagem de Hera",
-        "caption_pt": "Decolagem de Hera",
-        "caption_en": "Hera liftoff"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/08/hera_glides_past_didymos_to_dimorphos/19660129-7-eng-GB/Hera_glides_past_Didymos_to_Dimorphos_article.png",
-        "alt": "Hera passa por Didymos até Dimorphos",
-        "alt_pt": "Hera passa por Didymos até Dimorphos",
-        "alt_en": "Hera glides past Didymos to Dimorphos",
-        "caption": "Hera passa por Didymos até Dimorphos",
-        "caption_pt": "Hera passa por Didymos até Dimorphos",
-        "caption_en": "Hera glides past Didymos to Dimorphos"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/06/how_dart_impacted_dimorphos/24958203-1-eng-GB/How_DART_impacted_Dimorphos_article.jpg",
-        "alt": "Como o DART impactou o Dimorphos",
-        "alt_pt": "Como o DART impactou o Dimorphos",
-        "alt_en": "How DART impacted Dimorphos",
-        "caption": "Como o DART impactou o Dimorphos",
-        "caption_pt": "Como o DART impactou o Dimorphos",
-        "caption_en": "How DART impacted Dimorphos"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/01/hera_mission_timeline/19200130-11-eng-GB/Hera_mission_timeline_article.png",
-        "alt": "Cronograma da missão Hera",
-        "alt_pt": "Cronograma da missão Hera",
-        "alt_en": "Hera mission timeline",
-        "caption": "Cronograma da missão Hera",
-        "caption_pt": "Cronograma da missão Hera",
-        "caption_en": "Hera mission timeline"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/hera_spacecraft/27414148-1-eng-GB/Hera_spacecraft_article.jpg",
-        "alt": "Nave espacial Hera",
-        "alt_pt": "Nave espacial Hera",
-        "alt_en": "Hera spacecraft",
-        "caption": "Nave espacial Hera",
-        "caption_pt": "Nave espacial Hera",
-        "caption_en": "Hera spacecraft"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/esa_s_deep_space_antenna_1_dsa_1_and_deep_space_antenna_4_dsa_4_at_new_norcia_ground_station_site_in_australia/27174566-1-eng-GB/ESA_s_Deep_Space_Antenna_1_DSA_1_and_Deep_Space_Antenna_4_DSA_4_at_New_Norcia_ground_station_site_in_Australia_article.jpg",
-        "alt": "Novas antenas Norcia",
-        "alt_pt": "Novas antenas Norcia",
-        "alt_en": "New Norcia antennas",
-        "caption": "Novas antenas Norcia",
-        "caption_pt": "Novas antenas Norcia",
-        "caption_en": "New Norcia antennas"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Freio! É hora da missão do asteroide Hera da ESA ir devagar",
-    "title_pt": "Freio! É hora da missão do asteroide Hera da ESA ir devagar",
-    "title_en": "Brake! Time for ESA’s Hera asteroid mission to go slow",
-    "sub": "Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-    "sub_pt": "Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-    "sub_en": "Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since.",
-    "excerpt": "Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-    "excerpt_pt": "Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-    "excerpt_en": "Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since.",
-    "highlights": [
-      "Ponto central: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-      "Dado-chave: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-      "Dado-chave: Lançada há dois anos, a missão Hera da Agência Espacial Europeia para a defesa planetária tem-se afastado da Terra desde então.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since.",
-      "Key detail: Launched two years ago today, the European Space Agency’s Hera mission for planetary defence has been hurtling away from Earth ever since.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 out 2026",
-    "date_pt": "07 out 2026",
-    "date_en": "07 Oct 2026",
-    "time": "12h33",
-    "time_pt": "12h33",
-    "time_en": "12: 33 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-07T12:33:00+00:00",
-    "lastModifiedIso": "2026-10-07T20:48:19+00:00",
-    "source": "ESA Space News",
-    "sourceDomain": "www. esa. int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Freio! É hora da missão do asteroide Hera da ESA ir devagar"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "ESA Space News",
-      "Cosmos Week",
-      "Freio! É hora da missão do asteroide Hera da ESA ir devagar"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "ESA Space News",
-      "Cosmos Week",
-      "Brake! It's time for ESA's Hera asteroid mission to slow down"
-    ],
-    "srcUrl": "https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow",
-    "realUrl": "https://www.cosmosweek.com/?article=brake-time-for-esa-s-hera-asteroid-mission-to-go-slow",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=brake-time-for-esa-s-hera-asteroid-mission-to-go-slow",
-    "realUrl_en": "https://www.cosmosweek.com/?article=brake-time-for-esa-s-hera-asteroid-mission-to-go-slow&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/brake-time-for-esa-s-hera-asteroid-mission-to-go-slow/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/brake-time-for-esa-s-hera-asteroid-mission-to-go-slow/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/brake-time-for-esa-s-hera-asteroid-mission-to-go-slow/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/brake-time-for-esa-s-hera-asteroid-mission-to-go-slow/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/brake-time-for-esa-s-hera-asteroid-mission-to-go-slow/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/brake-time-for-esa-s-hera-asteroid-mission-to-go-slow/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 86,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Freio! É hora da missão do asteroide Hera da ESA ir devagar",
-    "imageAlt_pt": "Freio! É hora da missão do asteroide Hera da ESA ir devagar",
-    "imageAlt_en": "Brake! Time for ESA’s Hera asteroid mission to go slow",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -2720,30 +2700,30 @@
     "inline_images": [
       {
         "src": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Generic_Thumbnails_C.jpg?itok=2imqbyjS",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/Generic_Thumbnails_C.jpg?itok=jbaxCe8x",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       },
       {
         "src": "https://www.nsf.gov/s3/files/styles/featured_news/s3/media_hub/Generic_Thumbnails_C.jpg?itok=jbaxCe8x",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       }
     ],
     "video": null,
@@ -2758,19 +2738,19 @@
     "excerpt_pt": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira. Essa missão não mudou. O ecossistema de ciência e tecnologia ao seu redor sim.",
     "excerpt_en": "This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals.",
     "highlights": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
+      "Key detail: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "10 set 2026",
     "date_pt": "10 set 2026",
