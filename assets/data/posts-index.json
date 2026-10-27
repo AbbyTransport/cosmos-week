@@ -1,6 +1,302 @@
 [
   {
     "id": 1,
+    "slug": "new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/noirlab2626a.jpg?itok=FGH-HWPN",
+    "inline_images": [
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/noirlab2626a.jpg?itok=udvnI5uJ",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/GScw6xLHPp4?rel=0&modestbranding=1",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin"
+    },
+    "audio": null,
+    "title": "Novo candidato a planeta anão descoberto pelo NSF – DOE Rubin Observatory",
+    "title_pt": "Novo candidato a planeta anão descoberto pelo NSF – DOE Rubin Observatory",
+    "title_en": "New dwarf planet candidate discovered by NSF–DOE Rubin Observatory",
+    "sub": "NSF, DOE Observatório Vera C. Rubin encontrou um grande objeto que os cientistas identificaram como um possível planeta anão.",
+    "sub_pt": "NSF, DOE Observatório Vera C. Rubin encontrou um grande objeto que os cientistas identificaram como um possível planeta anão.",
+    "sub_en": "NSF, DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet.",
+    "excerpt": "NSF, DOE Observatório Vera C. Rubin encontrou um grande objeto que os cientistas identificaram como um possível planeta anão. Uma análise preliminar de dados mostra que o objeto está orbitando nos confins do sistema solar, além de Plutão e.",
+    "excerpt_pt": "NSF, DOE Observatório Vera C. Rubin encontrou um grande objeto que os cientistas identificaram como um possível planeta anão. Uma análise preliminar de dados mostra que o objeto está orbitando nos confins do sistema solar, além de Plutão e.",
+    "excerpt_en": "NSF, DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet. A preliminary data analysis shows that the object is orbiting in the outer reaches of the solar system beyond Pluto and.",
+    "highlights": [
+      "Em foco: NSF, DOE Observatório Vera C. Rubin encontrou um grande objeto que os cientistas identificaram como um possível planeta anão",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: NSF, DOE Observatório Vera C. Rubin encontrou um grande objeto que os cientistas identificaram como um possível planeta anão",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NSF, DOE Vera C. Rubin Observatory has found a large object that scientists have identified as a possible dwarf planet",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "27 out 2026",
+    "date_pt": "27 out 2026",
+    "date_en": "27 Oct 2026",
+    "time": "18h51",
+    "time_pt": "18h51",
+    "time_en": "18: 51 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-27T18:51:35+00:00",
+    "lastModifiedIso": "2026-10-27T20:16:37+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www. nsf. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Novo candidato a planeta anão descoberto pelo NSF – DOE Rubin Observatory"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Novo candidato a planeta anão descoberto pelo NSF – DOE Rubin Observatory"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NSF News",
+      "Cosmos Week",
+      "New dwarf planet candidate discovered by NSF – DOE Rubin Observatory"
+    ],
+    "srcUrl": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+    "realUrl": "https://www.cosmosweek.com/?article=new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory",
+    "realUrl_en": "https://www.cosmosweek.com/?article=new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 91,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Novo candidato a planeta anão descoberto pelo NSF – DOE Rubin Observatory",
+    "imageAlt_pt": "Novo candidato a planeta anão descoberto pelo NSF – DOE Rubin Observatory",
+    "imageAlt_en": "New dwarf planet candidate discovered by NSF–DOE Rubin Observatory",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/07/pia26344-figa-2500x.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/7/7668_Mars-viking-2-orbiter-global-view-partial-valles-marinares-PIA04304-full2.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/s/solar-system-illustration-16x9-1.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte",
+    "title_pt": "O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte",
+    "title_en": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+    "sub": "Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a amostras de materiais de.",
+    "sub_pt": "Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a amostras de materiais de.",
+    "sub_en": "Over 1, 645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried.",
+    "excerpt": "Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a amostras de materiais de trajes espaciais que são transportados a bordo do rover, incluindo alguns que são.",
+    "excerpt_pt": "Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a amostras de materiais de trajes espaciais que são transportados a bordo do rover, incluindo alguns que são.",
+    "excerpt_en": "Over 1, 645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to.",
+    "highlights": [
+      "Em foco: Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: Over 1, 645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "26 out 2026",
+    "date_pt": "26 out 2026",
+    "date_en": "26 Oct 2026",
+    "time": "21h07",
+    "time_pt": "21h07",
+    "time_en": "21: 07 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-26T21:07:28+00:00",
+    "lastModifiedIso": "2026-10-27T20:16:37+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Física",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte"
+    ],
+    "keywords_pt": [
+      "Física",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte"
+    ],
+    "keywords_en": [
+      "Physical",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Perseverance offers clues to protect crews from Mars dust"
+    ],
+    "srcUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte",
+    "imageAlt_pt": "O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte",
+    "imageAlt_en": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "nasa-usda-sign-agreement-advancing-earth-science-agriculture",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -28,19 +324,19 @@
     "excerpt_pt": "A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise geoespacial e tecnologias avançadas de dados, apoiando o plano de modernização de dados do USDA para os Estados.",
     "excerpt_en": "NASA and the U. S. Department of Agriculture have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United.",
     "highlights": [
-      "Em foco: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise.",
+      "Dado-chave: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise.",
+      "Dado-chave: A NASA e o Departamento de Agricultura dos EUA assinaram um Memorando de Entendimento expandindo a cooperação em observação da Terra, análise",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: NASA and the U. S",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: NASA and the U. S. Department of Agriculture have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial.",
+      "Key detail: NASA and the U. S",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 out 2026",
     "date_pt": "26 out 2026",
@@ -128,7 +424,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "ice-mission-cristal-opens-its-wings",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -265,7 +561,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "hunting-red-leaves-with-satellites",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -338,19 +634,19 @@
     "excerpt_pt": "Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova.",
     "excerpt_en": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
     "highlights": [
-      "Em foco: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova.",
+      "Dado-chave: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova.",
+      "Dado-chave: Um satélite moderno torna possível prosseguir a antiga tradição de espiar as folhas de uma forma totalmente nova",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+      "Key detail: A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "26 out 2026",
     "date_pt": "26 out 2026",
@@ -438,7 +734,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 6,
     "slug": "nasa-partners-accelerate-lander-development-for-2028-moon-missions",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -456,19 +752,19 @@
     "excerpt_pt": "À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a agência e os fornecedores comerciais de sistemas de pouso humano Blue Origin e SpaceX simplificaram os projetos e.",
     "excerpt_en": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed.",
     "highlights": [
-      "Em foco: À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a agência",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a agência.",
+      "Dado-chave: À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a agência",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a agência.",
+      "Dado-chave: À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human.",
+      "Key detail: As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "23 out 2026",
     "date_pt": "23 out 2026",
@@ -556,125 +852,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Missão Artemis III da NASA para testar futuras operações do módulo lunar",
-    "title_pt": "Missão Artemis III da NASA para testar futuras operações do módulo lunar",
-    "title_en": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-    "sub": "Antes de os astronautas regressarem à superfície lunar, a NASA conduzirá primeiro uma das missões de teste mais ambiciosas e complexas da história da agência.",
-    "sub_pt": "Antes de os astronautas regressarem à superfície lunar, a NASA conduzirá primeiro uma das missões de teste mais ambiciosas e complexas da história da agência.",
-    "sub_en": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
-    "excerpt": "Antes de os astronautas regressarem à superfície lunar, a NASA conduzirá primeiro uma das missões de teste mais ambiciosas e complexas da história da agência.",
-    "excerpt_pt": "Antes de os astronautas regressarem à superfície lunar, a NASA conduzirá primeiro uma das missões de teste mais ambiciosas e complexas da história da agência.",
-    "excerpt_en": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.",
-    "highlights": [
-      "Em foco: Antes de os astronautas regressarem à superfície lunar, a NASA conduzirá primeiro uma das missões de teste mais ambiciosas e complexas da história da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_pt": [
-      "Em foco: Antes de os astronautas regressarem à superfície lunar, a NASA conduzirá primeiro uma das missões de teste mais ambiciosas e complexas da história da",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
-    ],
-    "highlights_en": [
-      "Focus: Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
-    ],
-    "date": "23 out 2026",
-    "date_pt": "23 out 2026",
-    "date_en": "23 Oct 2026",
-    "time": "22h37",
-    "time_pt": "22h37",
-    "time_en": "22: 37 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-23T22:37:53+00:00",
-    "lastModifiedIso": "2026-10-24T18:22:07+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Missão Artemis III da NASA para testar futuras operações do módulo lunar"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Missão Artemis III da NASA para testar futuras operações do módulo lunar"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Artemis III Mission to Test Future Lunar Module Operations"
-    ],
-    "srcUrl": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Missão Artemis III da NASA para testar futuras operações do módulo lunar",
-    "imageAlt_pt": "Missão Artemis III da NASA para testar futuras operações do módulo lunar",
-    "imageAlt_en": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
+    "id": 7,
     "slug": "an-extra-year-of-secondary-school-lowered-dementia-diagnoses-later-in-life",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -802,7 +980,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "sudden-changes-and-slow-burns",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -920,7 +1098,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1041,7 +1219,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "constraining-dynamical-dark-energy-with-tomographic-galaxy-and-cmb-weak-lensing-through-higher-o",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1159,7 +1337,7 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "euclid-discovers-new-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1296,7 +1474,7 @@
     "storyKind": "science"
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "mars-moon-mission-set-to-launch-with-tech-funded-by-planetary-society-on-board",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1469,7 +1647,7 @@
     "storyKind": "science"
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "mars-moon-lander-set-to-launch-on-19-october",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1615,7 +1793,7 @@
     "storyKind": "science"
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "splashdown-confirmed-for-sophie-adenot",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1761,7 +1939,7 @@
     "storyKind": "science"
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "sentinel-3c-returns-its-first-views-of-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1919,7 +2097,7 @@
     "storyKind": "science"
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -2065,7 +2243,7 @@
     "storyKind": "science"
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "science-release-suspected-second-generation-planet-solves-hubble-cold-case",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -2250,7 +2428,7 @@
     "storyKind": "science"
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "cloudy-cloak-over-the-northwest",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2396,7 +2574,7 @@
     "storyKind": "science"
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "ameaca-de-um-super-el-nino-desafia-cidades-brasileiras-a-se-preparar-para-eventos-extremos",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2546,7 +2724,7 @@
     "storyKind": "science"
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "lake-powell-drops-to-record-low-levels",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2692,7 +2870,7 @@
     "storyKind": "science"
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2739,17 +2917,17 @@
     "excerpt_en": "This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals.",
     "highlights": [
       "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
-      "Key detail: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier",
+      "Key detail: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "10 set 2026",
@@ -2838,7 +3016,7 @@
     "storyKind": "science"
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2996,7 +3174,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3155,7 +3333,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3395,7 +3573,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3541,7 +3719,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3718,7 +3896,7 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -3891,164 +4069,6 @@
     "imageAlt": "Mais velho que o Sol: Astrônomos encontram novas pistas sobre a origem do cometa interestelar 3I/ATLAS",
     "imageAlt_pt": "Mais velho que o Sol: Astrônomos encontram novas pistas sobre a origem do cometa interestelar 3I/ATLAS",
     "imageAlt_en": "Older than the Sun: Astronomers find new clues to the origin of interstellar comet 3I/ATLAS",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 27,
-    "slug": "action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/LSST_at_Sunset_%28Cropped%29.jpg/1280px-LSST_at_Sunset_%28Cropped%29.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.nsf.gov/s3/files/styles/_inline_image_full_width/s3/media_hub/noirlab2616a.jpg?itok=ovMkAGfd",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/noirlab2616a.jpg?itok=4eg5LiJe",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/noirlab2616a.jpg?itok=ovMkAGfd",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/view-of-us-national-science-foundation-discovering-our-universe_55364908340_o.jpg?itok=NPDER_PN",
-        "alt": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "alt_pt": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "alt_en": "A darkened exhibit hall with stars projected overhead and a large orange image in a circle in the middle.",
-        "caption": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "caption_pt": "Uma sala de exposições escura com estrelas projetadas no alto e uma grande imagem laranja em um círculo no meio.",
-        "caption_en": "A darkened exhibit hall with stars projected overhead and a large orange image in a circle in the middle."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Observatório NSF-DOE Vera C. Rubin Inicia Operações para Capturar o Maior Filme Cósmico Já Produzido",
-    "title_pt": "Observatório NSF-DOE Vera C. Rubin Inicia Operações para Capturar o Maior Filme Cósmico Já Produzido",
-    "title_en": "Action! NSF-DOE Vera C. Rubin Observatory begins capturing the greatest cosmic movie ever made",
-    "sub": "O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de Energia (DOE) dos EUA, iniciou suas.",
-    "sub_pt": "O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de Energia (DOE) dos EUA, iniciou suas.",
-    "sub_en": "NSF, DOE Rubin Observatory, funded by the U. S. National Science Foundation and the U. S. Department of Energy's Office of Science, is now capturing the cosmos.",
-    "excerpt": "O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de Energia (DOE) dos EUA, iniciou suas operações para mapear o universo, prometendo o maior registro cósmico já capturado.",
-    "excerpt_pt": "O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de Energia (DOE) dos EUA, iniciou suas operações para mapear o universo, prometendo o maior registro cósmico já capturado.",
-    "excerpt_en": "NSF, DOE Rubin Observatory, funded by the U. S. National Science Foundation and the U. S. Department of Energy's Office of Science, is now capturing the cosmos.",
-    "highlights": [
-      "Ponto central: O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de Energia.",
-      "Dado-chave: O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de Energia.",
-      "Dado-chave: O Observatório Vera C. Rubin, uma iniciativa conjunta da Fundação Nacional de Ciência (NSF) e do Escritório de Ciência do Departamento de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NSF, DOE Rubin Observatory, funded by the U. S. National Science Foundation and the U. S.",
-      "Key detail: NSF, DOE Rubin Observatory, funded by the U. S. National Science Foundation and the U. S.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "30 jun 2026",
-    "date_pt": "30 jun 2026",
-    "date_en": "30 Jun 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-30T15:00:07+00:00",
-    "lastModifiedIso": "2026-06-30T17:39:42+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www. nsf. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "Ação! Observatório NSF",
-      "DOE Vera C. Rubin começa a capturar o maior filme cósmico já feito"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NSF News",
-      "Cosmos Week",
-      "Ação! Observatório NSF",
-      "DOE Vera C. Rubin começa a capturar o maior filme cósmico já feito"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NSF News",
-      "Cosmos Week",
-      "Action! NSF Observatory",
-      "DOE Vera C. Rubin begins capturing the largest cosmic movie ever made"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/action-nsf-doe-vera-c-rubin-observatory-begins-capturing",
-    "realUrl": "https://www.cosmosweek.com/?article=action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made",
-    "realUrl_en": "https://www.cosmosweek.com/?article=action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/action-nsf-doe-vera-c-rubin-observatory-begins-capturing-the-greatest-cosmic-movie-ever-made/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 96,
-    "scoreBreakdown": {
-      "source": 91,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Observatório NSF-DOE Vera C. Rubin Inicia Operações para Capturar o Maior Filme Cósmico Já Produzido",
-    "imageAlt_pt": "Observatório NSF-DOE Vera C. Rubin Inicia Operações para Capturar o Maior Filme Cósmico Já Produzido",
-    "imageAlt_en": "Action! NSF-DOE Vera C. Rubin Observatory begins capturing the greatest cosmic movie ever made",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
