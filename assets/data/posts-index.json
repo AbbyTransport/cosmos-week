@@ -119,6 +119,161 @@
   },
   {
     "id": 2,
+    "slug": "vega-island-frozen-in-fright",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Ilha Vega Congelada de Susto",
+    "title_pt": "Ilha Vega Congelada de Susto",
+    "title_en": "Vega Island Frozen in Fright",
+    "sub": "A visão de um rosto gelado semelhante a uma caveira na ilha Antártica pode fazer o sangue gelar.",
+    "sub_pt": "A visão de um rosto gelado semelhante a uma caveira na ilha Antártica pode fazer o sangue gelar.",
+    "sub_en": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+    "excerpt": "A visão de um rosto gelado semelhante a uma caveira na ilha Antártica pode fazer o sangue gelar.",
+    "excerpt_pt": "A visão de um rosto gelado semelhante a uma caveira na ilha Antártica pode fazer o sangue gelar.",
+    "excerpt_en": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+    "highlights": [
+      "Em foco: A visão de um rosto gelado semelhante a uma caveira na ilha Antártica pode fazer o sangue gelar",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A visão de um rosto gelado semelhante a uma caveira na ilha Antártica pode fazer o sangue gelar",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "30 out 2026",
+    "date_pt": "30 out 2026",
+    "date_en": "30 Oct 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-30T04:01:00+00:00",
+    "lastModifiedIso": "2026-10-31T19:32:57+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ilha Vega Congelada de Susto"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Ilha Vega Congelada de Susto"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Vega Island Frozen in Scare"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+    "realUrl": "https://www.cosmosweek.com/?article=vega-island-frozen-in-fright",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=vega-island-frozen-in-fright",
+    "realUrl_en": "https://www.cosmosweek.com/?article=vega-island-frozen-in-fright&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/vega-island-frozen-in-fright/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/vega-island-frozen-in-fright/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/vega-island-frozen-in-fright/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/vega-island-frozen-in-fright/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/vega-island-frozen-in-fright/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/vega-island-frozen-in-fright/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Ilha Vega Congelada de Susto",
+    "imageAlt_pt": "Ilha Vega Congelada de Susto",
+    "imageAlt_en": "Vega Island Frozen in Fright",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -144,12 +299,12 @@
       },
       {
         "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       }
     ],
     "video": null,
@@ -164,19 +319,19 @@
     "excerpt_pt": "Quando um meteorito rosa foi encontrado no deserto do Saara em 2022, ninguém sabia quantos anos ele tinha ou de onde veio. Só quando os cientistas financiados pela NASA dataram os seus minerais é que se aperceberam que a rocha de quase 900 gramas era um.",
     "excerpt_en": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound rock was a piece of Mars.",
     "highlights": [
-      "Em foco: Quando um meteorito rosa foi encontrado no deserto do Saara em 2022, ninguém sabia quantos anos ele tinha ou de onde veio",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Quando um meteorito rosa foi encontrado no deserto do Saara em 2022, ninguém sabia quantos anos ele tinha ou de onde veio.",
+      "Dado-chave: Quando um meteorito rosa foi encontrado no deserto do Saara em 2022, ninguém sabia quantos anos ele tinha ou de onde veio",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Quando um meteorito rosa foi encontrado no deserto do Saara em 2022, ninguém sabia quantos anos ele tinha ou de onde veio",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Quando um meteorito rosa foi encontrado no deserto do Saara em 2022, ninguém sabia quantos anos ele tinha ou de onde veio.",
+      "Dado-chave: Quando um meteorito rosa foi encontrado no deserto do Saara em 2022, ninguém sabia quantos anos ele tinha ou de onde veio",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from.",
+      "Key detail: When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "29 out 2026",
     "date_pt": "29 out 2026",
@@ -264,7 +419,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -283,17 +438,17 @@
     "excerpt_en": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! .",
     "highlights": [
       "Ponto central: Leia este comunicado em inglês aqui. Talvez você nunca suba aos céus sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome.",
-      "Dado-chave: Leia este comunicado em inglês aqui",
+      "Dado-chave: Leia este comunicado em inglês aqui. Talvez você nunca suba aos céus sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Leia este comunicado em inglês aqui. Talvez você nunca suba aos céus sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome.",
-      "Dado-chave: Leia este comunicado em inglês aqui",
+      "Dado-chave: Leia este comunicado em inglês aqui. Talvez você nunca suba aos céus sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de.",
-      "Key detail: Read this release in English here",
+      "Key detail: Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "29 out 2026",
@@ -375,124 +530,6 @@
     "imageAlt": "Envie seu nome para Titã a bordo da missão Dragonfly da NASA",
     "imageAlt_pt": "Envie seu nome para Titã a bordo da missão Dragonfly da NASA",
     "imageAlt_en": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 4,
-    "slug": "send-your-name-to-titan-aboard-nasa-s-dragonfly-mission",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Envie seu nome para Titan a bordo da missão Dragonfly da NASA",
-    "title_pt": "Envie seu nome para Titan a bordo da missão Dragonfly da NASA",
-    "title_en": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-    "sub": "Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode.",
-    "sub_pt": "Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode.",
-    "sub_en": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can.",
-    "excerpt": "Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode. A NASA está convidando o público a enviar seus nomes a bordo do helicóptero Dragonfly da agência e fazer parte da primeira missão científica.",
-    "excerpt_pt": "Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode. A NASA está convidando o público a enviar seus nomes a bordo do helicóptero Dragonfly da agência e fazer parte da primeira missão científica.",
-    "excerpt_en": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to.",
-    "highlights": [
-      "Ponto central: Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode.",
-      "Dado-chave: Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode.",
-      "Dado-chave: Talvez você nunca voe sob as nuvens ou sobre as areias orgânicas da lua de Saturno, Titã, mas seu nome pode",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can.",
-      "Key detail: You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "29 out 2026",
-    "date_pt": "29 out 2026",
-    "date_en": "29 Oct 2026",
-    "time": "15h10",
-    "time_pt": "15h10",
-    "time_en": "15: 10 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-29T15:10:18+00:00",
-    "lastModifiedIso": "2026-10-29T20:33:42+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Envie seu nome para Titan a bordo da missão Dragonfly da NASA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Envie seu nome para Titan a bordo da missão Dragonfly da NASA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Send your name to Titan aboard NASA's Dragonfly mission"
-    ],
-    "srcUrl": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-    "realUrl": "https://www.cosmosweek.com/?article=send-your-name-to-titan-aboard-nasa-s-dragonfly-mission",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=send-your-name-to-titan-aboard-nasa-s-dragonfly-mission",
-    "realUrl_en": "https://www.cosmosweek.com/?article=send-your-name-to-titan-aboard-nasa-s-dragonfly-mission&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/send-your-name-to-titan-aboard-nasa-s-dragonfly-mission/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/send-your-name-to-titan-aboard-nasa-s-dragonfly-mission/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/send-your-name-to-titan-aboard-nasa-s-dragonfly-mission/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/send-your-name-to-titan-aboard-nasa-s-dragonfly-mission/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/send-your-name-to-titan-aboard-nasa-s-dragonfly-mission/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/send-your-name-to-titan-aboard-nasa-s-dragonfly-mission/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Envie seu nome para Titan a bordo da missão Dragonfly da NASA",
-    "imageAlt_pt": "Envie seu nome para Titan a bordo da missão Dragonfly da NASA",
-    "imageAlt_en": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -660,17 +697,17 @@
     "excerpt_en": "Models of the dark sector in which the dark matter participates in nontrivial interactions can create detectable signatures in cosmological observables, providing non-terrestrial means of probing the nature of dark matter.",
     "highlights": [
       "Ponto central: Modelos do setor escuro em que a matéria escura participa de interações não triviais podem criar assinaturas detectáveis ​​em observáveis.",
-      "Dado-chave: Modelos do setor escuro em que a matéria escura participa de interações não triviais podem criar assinaturas detectáveis ​​em observáveis",
+      "Dado-chave: Modelos do setor escuro em que a matéria escura participa de interações não triviais podem criar assinaturas detectáveis ​​em observáveis.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Modelos do setor escuro em que a matéria escura participa de interações não triviais podem criar assinaturas detectáveis ​​em observáveis.",
-      "Dado-chave: Modelos do setor escuro em que a matéria escura participa de interações não triviais podem criar assinaturas detectáveis ​​em observáveis",
+      "Dado-chave: Modelos do setor escuro em que a matéria escura participa de interações não triviais podem criar assinaturas detectáveis ​​em observáveis.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: Models of the dark sector in which the dark matter participates in nontrivial interactions can create detectable signatures in cosmological.",
-      "Key detail: Models of the dark sector in which the dark matter participates in nontrivial interactions can create detectable signatures in cosmological",
+      "Key detail: Models of the dark sector in which the dark matter participates in nontrivial interactions can create detectable signatures in cosmological.",
       "Result not yet peer reviewed."
     ],
     "date": "27 out 2026",
