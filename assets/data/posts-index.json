@@ -1,6 +1,242 @@
 [
   {
     "id": 1,
+    "slug": "nasa-navigation-experiment-shows-promise-for-planetary-landings",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Experimento de navegação da NASA mostra promessa para pousos planetários",
+    "title_pt": "Experimento de navegação da NASA mostra promessa para pousos planetários",
+    "title_en": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+    "sub": "A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em outros planetas.",
+    "sub_pt": "A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em outros planetas.",
+    "sub_en": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.",
+    "excerpt": "A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em outros planetas.",
+    "excerpt_pt": "A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em outros planetas.",
+    "excerpt_en": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets.",
+    "highlights": [
+      "Em foco: A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "04 nov 2026",
+    "date_pt": "04 nov 2026",
+    "date_en": "04 Nov 2026",
+    "time": "16h52",
+    "time_pt": "16h52",
+    "time_en": "16: 52 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-04T16:52:43+00:00",
+    "lastModifiedIso": "2026-11-04T21:32:21+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Experimento de navegação da NASA mostra promessa para pousos planetários"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Experimento de navegação da NASA mostra promessa para pousos planetários"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA navigation experiment shows promise for planetary landings"
+    ],
+    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-navigation-experiment-shows-promise-for-planetary-landings",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-navigation-experiment-shows-promise-for-planetary-landings",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-navigation-experiment-shows-promise-for-planetary-landings&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Experimento de navegação da NASA mostra promessa para pousos planetários",
+    "imageAlt_pt": "Experimento de navegação da NASA mostra promessa para pousos planetários",
+    "imageAlt_en": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
+    "slug": "electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
+    "title_pt": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
+    "title_en": "Electromagnetic signatures of gradual magnetic dissipation in jets from supermassive black holes",
+    "sub": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
+    "sub_pt": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
+    "sub_en": "It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation.",
+    "excerpt": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
+    "excerpt_pt": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
+    "excerpt_en": "It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation.",
+    "highlights": [
+      "Em foco: Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica",
+      "Detalhe: Dado-chave: Contexto",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica",
+      "Detalhe: Dado-chave: Contexto",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation",
+      "Detail: Key detail: Context",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "03 nov 2026",
+    "date_pt": "03 nov 2026",
+    "date_en": "03 Nov 2026",
+    "time": "18h26",
+    "time_pt": "18h26",
+    "time_en": "18: 26 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-03T18:26:25+00:00",
+    "lastModifiedIso": "2026-11-04T21:32:21+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Electromagnetic signatures of gradual magnetic dissipation in supermassive black hole jets"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2611.05322v1",
+    "realUrl": "https://www.cosmosweek.com/?article=electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes",
+    "realUrl_en": "https://www.cosmosweek.com/?article=electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 63,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
+    "imageAlt_pt": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
+    "imageAlt_en": "Electromagnetic signatures of gradual magnetic dissipation in jets from supermassive black holes",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 3,
     "slug": "tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -118,7 +354,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 4,
     "slug": "detection-of-the-galaxy-galaxy-temperature-skewed-bispectrum",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -136,18 +372,19 @@
     "excerpt_pt": "Apresentamos a primeira medição do biespectro distorcido de temperatura da galáxia-galáxia, obtida pela correlação cruzada da sobredensidade quadrada e filtrada da galáxia imprudente com mapas \\textit{Planck} em 100, 143, 217 e 353~GHz.",
     "excerpt_en": "We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered unWISE galaxy overdensity with \\textit{Planck} maps at 100, 143, 217, and 353~GHz.",
     "highlights": [
-      "Em foco: Apresentamos a primeira medição do biespectro distorcido de temperatura da galáxia-galáxia, obtida pela correlação cruzada da sobredensidade quadrada",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Apresentamos a primeira medição do biespectro distorcido de temperatura da galáxia-galáxia, obtida pela correlação cruzada da sobredensidade quadrada.",
+      "Dado-chave: Apresentamos a primeira medição do biespectro distorcido de temperatura da galáxia-galáxia, obtida pela correlação cruzada da sobredensidade.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: Apresentamos a primeira medição do biespectro distorcido de temperatura da galáxia-galáxia, obtida pela correlação cruzada da sobredensidade quadrada",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: Apresentamos a primeira medição do biespectro distorcido de temperatura da galáxia-galáxia, obtida pela correlação cruzada da sobredensidade quadrada.",
+      "Dado-chave: Apresentamos a primeira medição do biespectro distorcido de temperatura da galáxia-galáxia, obtida pela correlação cruzada da sobredensidade.",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered unWISE",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered unWISE.",
+      "Key detail: We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered unWISE",
+      "Result not yet peer reviewed."
     ],
     "date": "02 nov 2026",
     "date_pt": "02 nov 2026",
@@ -241,7 +478,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 5,
     "slug": "what-s-up-november-2026-skywatching-tips-from-nasa",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -272,19 +509,19 @@
     "excerpt_pt": "Chuvas de meteoros, um marco da nave espacial e uma superlua Capture meteoros Taurid e Leonid, localize Marte perto de Júpiter, comemore o marco do dia-luz da Voyager 1 e assista à superlua de novembro.",
     "excerpt_en": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon.",
     "highlights": [
-      "Em foco: Chuvas de meteoros, um marco da nave espacial e uma superlua Capture meteoros Taurid e Leonid, localize Marte perto de Júpiter, comemore o marco do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Chuvas de meteoros, um marco da nave espacial e uma superlua Capture meteoros Taurid e Leonid, localize Marte perto de Júpiter, comemore o marco do.",
+      "Dado-chave: Chuvas de meteoros, um marco da nave espacial e uma superlua Capture meteoros Taurid e Leonid, localize Marte perto de Júpiter, comemore o marco.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Chuvas de meteoros, um marco da nave espacial e uma superlua Capture meteoros Taurid e Leonid, localize Marte perto de Júpiter, comemore o marco do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Chuvas de meteoros, um marco da nave espacial e uma superlua Capture meteoros Taurid e Leonid, localize Marte perto de Júpiter, comemore o marco do.",
+      "Dado-chave: Chuvas de meteoros, um marco da nave espacial e uma superlua Capture meteoros Taurid e Leonid, localize Marte perto de Júpiter, comemore o marco.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day.",
+      "Key detail: Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 nov 2026",
     "date_pt": "02 nov 2026",
@@ -375,7 +612,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 6,
     "slug": "nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -394,17 +631,17 @@
     "excerpt_en": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
     "highlights": [
       "Ponto central: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-      "Dado-chave: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver",
+      "Dado-chave: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-      "Dado-chave: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver",
+      "Dado-chave: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-      "Key detail: NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing",
+      "Key detail: NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 nov 2026",
@@ -493,125 +730,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
-    "slug": "nasa-explores-potential-commercial-servicing-for-hubble-telescope",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA explora potencial serviço comercial para o telescópio Hubble",
-    "title_pt": "NASA explora potencial serviço comercial para o telescópio Hubble",
-    "title_en": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-    "sub": "A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para apoiar o Telescópio Espacial Hubble da.",
-    "sub_pt": "A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para apoiar o Telescópio Espacial Hubble da.",
-    "sub_en": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-    "excerpt": "A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para apoiar o Telescópio Espacial Hubble da agência.",
-    "excerpt_pt": "A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para apoiar o Telescópio Espacial Hubble da agência.",
-    "excerpt_en": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-    "highlights": [
-      "Ponto central: A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para apoiar o.",
-      "Dado-chave: A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para apoiar o.",
-      "Dado-chave: A NASA emitiu uma Solicitação de Informações em 29 de outubro para saber mais sobre as capacidades da indústria para serviços no espaço para.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space.",
-      "Key detail: NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "30 out 2026",
-    "date_pt": "30 out 2026",
-    "date_en": "30 Oct 2026",
-    "time": "14h51",
-    "time_pt": "14h51",
-    "time_en": "14: 51 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-30T14:51:21+00:00",
-    "lastModifiedIso": "2026-10-30T20:08:02+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA explora potencial serviço comercial para o telescópio Hubble"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA explora potencial serviço comercial para o telescópio Hubble"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA explores potential commercial service for the Hubble telescope"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-explores-potential-commercial-servicing-for-hubble-telescope",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-explores-potential-commercial-servicing-for-hubble-telescope",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-explores-potential-commercial-servicing-for-hubble-telescope&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "NASA explora potencial serviço comercial para o telescópio Hubble",
-    "imageAlt_pt": "NASA explora potencial serviço comercial para o telescópio Hubble",
-    "imageAlt_en": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
+    "id": 7,
     "slug": "new-dwarf-planet-candidate-discovered-by-nsf-doe-rubin-observatory",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -752,7 +871,7 @@
     "storyKind": "science"
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "ice-mission-cristal-opens-its-wings",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -907,7 +1026,7 @@
     "storyKind": "science"
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "an-extra-year-of-secondary-school-lowered-dementia-diagnoses-later-in-life",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -1035,7 +1154,7 @@
     "storyKind": "science"
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "sudden-changes-and-slow-burns",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1153,127 +1272,6 @@
     "storyKind": "science"
   },
   {
-    "id": 10,
-    "slug": "lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Recuperação Lomb-Scargle de sinais binários periódicos na massa e cadência do buraco negro",
-    "title_pt": "Recuperação Lomb-Scargle de sinais binários periódicos na massa e cadência do buraco negro",
-    "title_en": "Lomb-Scargle Recovery of Periodic Binary Signals across Black Hole Mass and Cadence",
-    "sub": "As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela de sinais injetados detectados.",
-    "sub_pt": "As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela de sinais injetados detectados.",
-    "sub_en": "Searches for periodic supermassive black hole binaries in quasar light curves rely on recovery fractions, the share of injected signals detected, which forecasts use as detection.",
-    "excerpt": "As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela de sinais injetados detectados, que as previsões usam como eficiências de detecção.",
-    "excerpt_pt": "As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela de sinais injetados detectados, que as previsões usam como eficiências de detecção.",
-    "excerpt_en": "Searches for periodic supermassive black hole binaries in quasar light curves rely on recovery fractions, the share of injected signals detected, which forecasts use as detection efficiencies.",
-    "highlights": [
-      "Ponto central: As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela de.",
-      "Dado-chave: As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela de.",
-      "Dado-chave: As pesquisas por binários periódicos de buracos negros supermassivos nas curvas de luz de quasares dependem de frações de recuperação, a parcela.",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: Searches for periodic supermassive black hole binaries in quasar light curves rely on recovery fractions, the share of injected signals detected.",
-      "Key detail: Searches for periodic supermassive black hole binaries in quasar light curves rely on recovery fractions, the share of injected signals detected.",
-      "Result not yet peer reviewed."
-    ],
-    "date": "22 out 2026",
-    "date_pt": "22 out 2026",
-    "date_en": "22 Oct 2026",
-    "time": "05h50",
-    "time_pt": "05h50",
-    "time_en": "05: 50 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-22T05:50:03+00:00",
-    "lastModifiedIso": "2026-10-23T19:35:16+00:00",
-    "source": "arXiv High Energy Astrophysics",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Recuperação Lomb",
-      "Scargle de sinais binários periódicos na massa e cadência do buraco negro"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Recuperação Lomb",
-      "Scargle de sinais binários periódicos na massa e cadência do buraco negro"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Lomb Recovery",
-      "Scargle of periodic binary signals in black hole mass and cadence"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2610.30772v1",
-    "realUrl": "https://www.cosmosweek.com/?article=lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence",
-    "realUrl_en": "https://www.cosmosweek.com/?article=lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/lomb-scargle-recovery-of-periodic-binary-signals-across-black-hole-mass-and-cadence/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 63,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Recuperação Lomb-Scargle de sinais binários periódicos na massa e cadência do buraco negro",
-    "imageAlt_pt": "Recuperação Lomb-Scargle de sinais binários periódicos na massa e cadência do buraco negro",
-    "imageAlt_en": "Lomb-Scargle Recovery of Periodic Binary Signals across Black Hole Mass and Cadence",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
     "id": 11,
     "slug": "euclid-discovers-new-comet",
     "cat": "Astronomia",
@@ -1311,19 +1309,19 @@
     "excerpt_pt": "O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026.",
     "excerpt_en": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
     "highlights": [
-      "Em foco: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24.",
+      "Dado-chave: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24.",
+      "Dado-chave: O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September.",
+      "Key detail: The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "19 out 2026",
     "date_pt": "19 out 2026",
@@ -1630,19 +1628,19 @@
     "excerpt_pt": "A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026.",
     "excerpt_en": "The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026.",
     "highlights": [
-      "Em foco: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de.",
+      "Dado-chave: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de.",
+      "Dado-chave: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026.",
+      "Key detail: The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "13 out 2026",
     "date_pt": "13 out 2026",
@@ -2262,19 +2260,19 @@
     "excerpt_pt": "Durante mais de um quarto de século, assinaturas químicas não identificadas de uma estrela anã branca permaneceram adormecidas no arquivo do Telescópio Espacial Hubble da NASA/ESA, até que a investigação diligente de um jovem astrónomo revelou algo.",
     "excerpt_en": "For more than a quarter century, unidentified chemical signatures from a white dwarf star have laid dormant in the archive of the NASA/ESA Hubble Space Telescope, until diligent sleuthing by a young astronomer revealed something.",
     "highlights": [
-      "Em foco: Durante mais de um quarto de século, assinaturas químicas não identificadas de uma estrela anã branca permaneceram adormecidas no arquivo do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Durante mais de um quarto de século, assinaturas químicas não identificadas de uma estrela anã branca permaneceram adormecidas no arquivo do.",
+      "Dado-chave: Durante mais de um quarto de século, assinaturas químicas não identificadas de uma estrela anã branca permaneceram adormecidas no arquivo do",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Durante mais de um quarto de século, assinaturas químicas não identificadas de uma estrela anã branca permaneceram adormecidas no arquivo do",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Durante mais de um quarto de século, assinaturas químicas não identificadas de uma estrela anã branca permaneceram adormecidas no arquivo do.",
+      "Dado-chave: Durante mais de um quarto de século, assinaturas químicas não identificadas de uma estrela anã branca permaneceram adormecidas no arquivo do",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: For more than a quarter century, unidentified chemical signatures from a white dwarf star have laid dormant in the archive of the NASA/ESA Hubble",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: For more than a quarter century, unidentified chemical signatures from a white dwarf star have laid dormant in the archive of the NASA/ESA Hubble.",
+      "Key detail: For more than a quarter century, unidentified chemical signatures from a white dwarf star have laid dormant in the archive of the NASA/ESA Hubble",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "05 out 2026",
     "date_pt": "05 out 2026",
@@ -2808,6 +2806,152 @@
   },
   {
     "id": 21,
+    "slug": "nsf-leadership-in-a-new-golden-age-of-science",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg/1280px-Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
+    "inline_images": [
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Generic_Thumbnails_C.jpg?itok=2imqbyjS",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/Generic_Thumbnails_C.jpg?itok=jbaxCe8x",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://www.nsf.gov/s3/files/styles/featured_news/s3/media_hub/Generic_Thumbnails_C.jpg?itok=jbaxCe8x",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Liderança da NSF em uma nova era de ouro da ciência",
+    "title_pt": "Liderança da NSF em uma nova era de ouro da ciência",
+    "title_en": "NSF leadership in a new golden age of science",
+    "sub": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+    "sub_pt": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+    "sub_en": "The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
+    "excerpt": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira. Essa missão não mudou. O ecossistema de ciência e tecnologia ao seu redor sim.",
+    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira. Essa missão não mudou. O ecossistema de ciência e tecnologia ao seu redor sim.",
+    "excerpt_en": "This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals.",
+    "highlights": [
+      "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
+      "Key detail: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "10 set 2026",
+    "date_pt": "10 set 2026",
+    "date_en": "10 Sep 2026",
+    "time": "18h59",
+    "time_pt": "18h59",
+    "time_en": "18: 59 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-10T18:59:14+00:00",
+    "lastModifiedIso": "2026-09-11T18:47:10+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www. nsf. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Liderança da NSF em uma nova era de ouro da ciência"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "Liderança da NSF em uma nova era de ouro da ciência"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NSF News",
+      "Cosmos Week",
+      "NSF Leadership in a New Golden Age of Science"
+    ],
+    "srcUrl": "https://www.nsf.gov/news/nsf-leadership-new-golden-age-science",
+    "realUrl": "https://www.cosmosweek.com/?article=nsf-leadership-in-a-new-golden-age-of-science",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-leadership-in-a-new-golden-age-of-science",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-leadership-in-a-new-golden-age-of-science&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-leadership-in-a-new-golden-age-of-science/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-leadership-in-a-new-golden-age-of-science/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-leadership-in-a-new-golden-age-of-science/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 96,
+    "scoreBreakdown": {
+      "source": 91,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 52,
+      "novelty": 52
+    },
+    "imageAlt": "Liderança da NSF em uma nova era de ouro da ciência",
+    "imageAlt_pt": "Liderança da NSF em uma nova era de ouro da ciência",
+    "imageAlt_en": "NSF leadership in a new golden age of science",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 22,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2965,7 +3109,7 @@
     "storyKind": "science"
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "pasterze-hangs-on-as-austria-s-largest-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3124,7 +3268,7 @@
     "storyKind": "science"
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "milky-way-s-fastest-star-orbits-our-supermassive-black-hole-so-closely-it-feels-its-spin",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3364,7 +3508,7 @@
     "storyKind": "science"
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3510,7 +3654,7 @@
     "storyKind": "science"
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "new-exomoon-detection-challenges-cosmic-labels",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3687,7 +3831,7 @@
     "storyKind": "science"
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "older-than-the-sun-astronomers-find-new-clues-to-the-origin-of-interstellar-comet-3i-atlas",
     "cat": "Química",
     "catCls": "quimica",
@@ -3860,152 +4004,6 @@
     "imageAlt": "Mais velho que o Sol: Astrônomos encontram novas pistas sobre a origem do cometa interestelar 3I/ATLAS",
     "imageAlt_pt": "Mais velho que o Sol: Astrônomos encontram novas pistas sobre a origem do cometa interestelar 3I/ATLAS",
     "imageAlt_en": "Older than the Sun: Astronomers find new clues to the origin of interstellar comet 3I/ATLAS",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 27,
-    "slug": "nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/NSF_NQVL_hero%202026.png?itok=zBBhkIw8",
-    "inline_images": [
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/featured_news/s3/media_hub/NSF_NQVL_hero%202026.png?itok=bCcXQX3p",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/noirlab2616a.jpg?itok=OzjsSWXp",
-        "alt": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
-        "alt_pt": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
-        "alt_en": "A dense field of colorful stars shining through a dust cloud",
-        "caption": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
-        "caption_pt": "Um denso campo de estrelas coloridas brilhando através de uma nuvem de poeira",
-        "caption_en": "A dense field of colorful stars shining through a dust cloud"
-      },
-      {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_QuantumCryptography_240x160.jpg?itok=k3Ao5c00",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": "",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
-    "title_pt": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
-    "title_en": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition",
-    "sub": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar.",
-    "sub_pt": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar.",
-    "sub_en": "The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile quantum information across long.",
-    "excerpt": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar informações quânticas até sensores de alta precisão.",
-    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde redes capazes de transportar informações quânticas até sensores de alta precisão.",
-    "excerpt_en": "The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile quantum information across long distances to sensors that can measure faint properties.",
-    "highlights": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo desde.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA (NSF) selecionou cinco novas equipes para desenvolver tecnologias quânticas experimentais, abrangendo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile.",
-      "Key detail: The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "24 jun 2026",
-    "date_pt": "24 jun 2026",
-    "date_en": "24 Jun 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-24T14:00:08+00:00",
-    "lastModifiedIso": "2026-06-24T17:41:19+00:00",
-    "source": "NSF News",
-    "sourceDomain": "www. nsf. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Virtual Quantum"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "NSF News",
-      "Cosmos Week",
-      "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Virtual Quantum"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "NSF News",
-      "Cosmos Week",
-      "NSF Selects Five Additional Teams in National Virtual Quantum Laboratory Design Competition"
-    ],
-    "srcUrl": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
-    "realUrl": "https://www.cosmosweek.com/?article=nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nsf-selects-five-additional-teams-in-national-quantum-virtual-laboratory-design-competition/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "gemini-2.5-flash",
-    "reviewStatus": "success",
-    "reviewProvider": "gemini",
-    "score": 91,
-    "scoreBreakdown": {
-      "source": 91,
-      "evidence": 92,
-      "relevance": 84,
-      "accessibility": 52,
-      "novelty": 55
-    },
-    "imageAlt": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
-    "imageAlt_pt": "NSF seleciona cinco equipes adicionais na competição nacional de design do Laboratório Quântico Virtual",
-    "imageAlt_en": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
