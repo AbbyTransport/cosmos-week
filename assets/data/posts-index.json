@@ -1,6 +1,158 @@
 [
   {
     "id": 1,
+    "slug": "cyprus-island-of-snakes-cats-and-ophiolites",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_lrg.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001016/GSFC_20171208_Archive_e001016~large.jpg",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Chipre: Ilha das Cobras, Gatos e Ofiolitas",
+    "title_pt": "Chipre: Ilha das Cobras, Gatos e Ofiolitas",
+    "title_en": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+    "sub": "A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos.",
+    "sub_pt": "A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos.",
+    "sub_en": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+    "excerpt": "A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos.",
+    "excerpt_pt": "A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos.",
+    "excerpt_en": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+    "highlights": [
+      "Em foco: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "05 nov 2026",
+    "date_pt": "05 nov 2026",
+    "date_en": "05 Nov 2026",
+    "time": "05h01",
+    "time_pt": "05h01",
+    "time_en": "05: 01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-05T05:01:00+00:00",
+    "lastModifiedIso": "2026-11-05T21:36:43+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chipre",
+      "Ilha das Cobras",
+      "Gatos e Ofiolitas"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Chipre",
+      "Ilha das Cobras",
+      "Gatos e Ofiolitas"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Cyprus",
+      "Snake Island",
+      "Cats and Ophiolites"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "realUrl": "https://www.cosmosweek.com/?article=cyprus-island-of-snakes-cats-and-ophiolites",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=cyprus-island-of-snakes-cats-and-ophiolites",
+    "realUrl_en": "https://www.cosmosweek.com/?article=cyprus-island-of-snakes-cats-and-ophiolites&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/cyprus-island-of-snakes-cats-and-ophiolites/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 84,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Chipre: Ilha das Cobras, Gatos e Ofiolitas",
+    "imageAlt_pt": "Chipre: Ilha das Cobras, Gatos e Ofiolitas",
+    "imageAlt_en": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-navigation-experiment-shows-promise-for-planetary-landings",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -118,49 +270,48 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
-    "slug": "electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes",
+    "id": 3,
+    "slug": "probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/1280px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
     "inline_images": [],
     "video": null,
     "audio": null,
-    "title": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
-    "title_pt": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
-    "title_en": "Electromagnetic signatures of gradual magnetic dissipation in jets from supermassive black holes",
-    "sub": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
-    "sub_pt": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
-    "sub_en": "It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation.",
-    "excerpt": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
-    "excerpt_pt": "Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica.",
-    "excerpt_en": "It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation.",
+    "title": "Sondando a estrutura do vento solar durante conjunções do pulsar do caranguejo com dispersão e rotação de Faraday",
+    "title_pt": "Sondando a estrutura do vento solar durante conjunções do pulsar do caranguejo com dispersão e rotação de Faraday",
+    "title_en": "Probing Solar-Wind Structure During Crab Pulsar Conjunctions with Dispersion and Faraday Rotation",
+    "sub": "Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de radiopropagação.",
+    "sub_pt": "Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de radiopropagação.",
+    "sub_en": "Observations of the Crab pulsar during solar conjunction probe plasma structure in the inner solar wind through radio-propagation effects.",
+    "excerpt": "Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de radiopropagação.",
+    "excerpt_pt": "Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de radiopropagação.",
+    "excerpt_en": "Observations of the Crab pulsar during solar conjunction probe plasma structure in the inner solar wind through radio-propagation effects.",
     "highlights": [
-      "Em foco: Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica",
-      "Detalhe: Dado-chave: Contexto",
+      "Em foco: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de",
+      "Detalhe: Resultado ainda sem revisão por pares",
       "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
     ],
     "highlights_pt": [
-      "Em foco: Os jatos Blazar - fluxos de plasma colimados e relativísticos vistos em pequenos ângulos - são fontes prolíficas de radiação não térmica",
-      "Detalhe: Dado-chave: Contexto",
+      "Em foco: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de",
+      "Detalhe: Resultado ainda sem revisão por pares",
       "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
     ],
     "highlights_en": [
-      "Focus: It matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation",
-      "Detail: Key detail: Context",
+      "Focus: Observations of the Crab pulsar during solar conjunction probe plasma structure in the inner solar wind through radio-propagation effects",
       "Editorial reading: provisional result, not yet formally peer reviewed."
     ],
-    "date": "03 nov 2026",
-    "date_pt": "03 nov 2026",
-    "date_en": "03 Nov 2026",
-    "time": "18h26",
-    "time_pt": "18h26",
-    "time_en": "18: 26 UTC",
+    "date": "04 nov 2026",
+    "date_pt": "04 nov 2026",
+    "date_en": "04 Nov 2026",
+    "time": "16h13",
+    "time_pt": "16h13",
+    "time_en": "16: 13 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-11-03T18:26:25+00:00",
-    "lastModifiedIso": "2026-11-04T21:32:21+00:00",
+    "publishedIso": "2026-11-04T16:13:05+00:00",
+    "lastModifiedIso": "2026-11-05T21:36:43+00:00",
     "source": "arXiv High Energy Astrophysics",
     "sourceDomain": "arxiv. org",
     "sourceType": "preprint",
@@ -182,30 +333,30 @@
       "Astrofísica",
       "arXiv High Energy Astrophysics",
       "Cosmos Week",
-      "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos"
+      "Sondando a estrutura do vento solar durante conjunções do pulsar do caranguejo com dispersão e rotação de Faraday"
     ],
     "keywords_pt": [
       "Astrofísica",
       "arXiv High Energy Astrophysics",
       "Cosmos Week",
-      "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos"
+      "Sondando a estrutura do vento solar durante conjunções do pulsar do caranguejo com dispersão e rotação de Faraday"
     ],
     "keywords_en": [
       "Astrophysics",
       "arXiv High Energy Astrophysics",
       "Cosmos Week",
-      "Electromagnetic signatures of gradual magnetic dissipation in supermassive black hole jets"
+      "Probing solar wind structure during Crab pulsar conjunctions with Faraday scattering and rotation"
     ],
-    "srcUrl": "https://arxiv.org/abs/2611.05322v1",
-    "realUrl": "https://www.cosmosweek.com/?article=electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes",
-    "realUrl_en": "https://www.cosmosweek.com/?article=electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/electromagnetic-signatures-of-gradual-magnetic-dissipation-in-jets-from-supermassive-black-holes/",
+    "srcUrl": "https://arxiv.org/abs/2611.06723v1",
+    "realUrl": "https://www.cosmosweek.com/?article=probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio",
+    "realUrl_en": "https://www.cosmosweek.com/?article=probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio/",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -226,9 +377,9 @@
       "accessibility": 60,
       "novelty": 52
     },
-    "imageAlt": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
-    "imageAlt_pt": "Assinaturas eletromagnéticas de dissipação magnética gradual em jatos de buracos negros supermassivos",
-    "imageAlt_en": "Electromagnetic signatures of gradual magnetic dissipation in jets from supermassive black holes",
+    "imageAlt": "Sondando a estrutura do vento solar durante conjunções do pulsar do caranguejo com dispersão e rotação de Faraday",
+    "imageAlt_pt": "Sondando a estrutura do vento solar durante conjunções do pulsar do caranguejo com dispersão e rotação de Faraday",
+    "imageAlt_en": "Probing Solar-Wind Structure During Crab Pulsar Conjunctions with Dispersion and Faraday Rotation",
     "coverageKind": "preprint",
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
@@ -236,7 +387,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -254,19 +405,19 @@
     "excerpt_pt": "Sills, Centro de Pesquisa Langley, joel.",
     "excerpt_en": "That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography.",
     "highlights": [
-      "Em foco: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
+      "Dado-chave: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
+      "Dado-chave: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and",
-      "Detail: Key detail: For more information, contact Joel W. Sills, Langley Research Center, joel. w",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and.",
+      "Key detail: That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "03 nov 2026",
     "date_pt": "03 nov 2026",
@@ -354,7 +505,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "detection-of-the-galaxy-galaxy-temperature-skewed-bispectrum",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -383,7 +534,7 @@
     ],
     "highlights_en": [
       "Core point: We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered unWISE.",
-      "Key detail: We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered unWISE",
+      "Key detail: We present the first measurement of the galaxy--galaxy--temperature skewed bispectrum, obtained by cross-correlating the squared, filtered.",
       "Result not yet peer reviewed."
     ],
     "date": "02 nov 2026",
@@ -478,7 +629,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "what-s-up-november-2026-skywatching-tips-from-nasa",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -520,7 +671,7 @@
     ],
     "highlights_en": [
       "Core point: Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day.",
-      "Key detail: Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day",
+      "Key detail: Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 nov 2026",
@@ -605,124 +756,6 @@
     "imageAlt": "E aí: dicas de observação do céu de novembro de 2026 da NASA",
     "imageAlt_pt": "E aí: dicas de observação do céu de novembro de 2026 da NASA",
     "imageAlt_en": "What’s Up: November 2026 Skywatching Tips from NASA",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas",
-    "title_pt": "Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas",
-    "title_en": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-    "sub": "O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-    "sub_pt": "O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-    "sub_en": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-    "excerpt": "O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-    "excerpt_pt": "O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-    "excerpt_en": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-    "highlights": [
-      "Ponto central: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-      "Dado-chave: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-      "Dado-chave: O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-      "Key detail: NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 nov 2026",
-    "date_pt": "02 nov 2026",
-    "date_en": "02 Nov 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-11-02T15:00:39+00:00",
-    "lastModifiedIso": "2026-11-02T23:15:22+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Hubble discovers case of lack of oxygen in nearby dwarf galaxies"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "realUrl": "https://www.cosmosweek.com/?article=nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies",
-    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 92,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas",
-    "imageAlt_pt": "Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas",
-    "imageAlt_en": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
     "coverageKind": "agency",
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
@@ -1320,7 +1353,7 @@
     ],
     "highlights_en": [
       "Core point: The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September.",
-      "Key detail: The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September",
+      "Key detail: The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "19 out 2026",
@@ -2526,12 +2559,12 @@
       },
       {
         "src": "https://revistapesquisa.fapesp.br/wp-content/thumbs/652bfbb214633821e2d2bf8740b11e87cd4477e8_1200-630.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
         "alt": "",
         "alt_pt": "",
-        "alt_en": ""
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
       }
     ],
     "video": {
@@ -2559,19 +2592,19 @@
     "excerpt_pt": "A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país.",
     "excerpt_en": "A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país.",
     "highlights": [
-      "Em foco: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país.",
+      "Dado-chave: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_pt": [
-      "Em foco: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país",
-      "Detalhe: Cobertura jornalística: verificar documentação técnica primária",
-      "Leitura editorial: reportagem científica; quando possível, confira a fonte primária citada."
+      "Ponto central: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país.",
+      "Dado-chave: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país",
+      "Cobertura jornalística: verificar documentação técnica primária."
     ],
     "highlights_en": [
-      "Focus: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país",
-      "Detail: Science reporting: verify primary technical documentation",
-      "Editorial reading: science reporting; whenever possible, verify the cited primary source."
+      "Core point: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país.",
+      "Key detail: A chegada do fenômeno e sua intensificação pelo aquecimento do planeta poderão produzir secas e chuvas intensas em diversas regiões do país",
+      "Science reporting: verify primary technical documentation."
     ],
     "date": "21 set 2026",
     "date_pt": "21 set 2026",
@@ -2852,17 +2885,17 @@
     "excerpt_en": "This matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals.",
     "highlights": [
       "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
-      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira",
+      "Dado-chave: A Fundação Nacional de Ciência dos EUA foi criada em 1950 para manter a descoberta americana na fronteira.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
-      "Key detail: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier",
+      "Key detail: The U. S. National Science Foundation was established in 1950 to keep American discovery at the frontier.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "10 set 2026",
