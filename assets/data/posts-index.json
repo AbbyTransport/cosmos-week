@@ -1,6 +1,124 @@
 [
   {
     "id": 1,
+    "slug": "nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NASA busca próxima geração de exploradores para ingressar no Corpo de Astronautas",
+    "title_pt": "NASA busca próxima geração de exploradores para ingressar no Corpo de Astronautas",
+    "title_en": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+    "sub": "A NASA está procurando exploradores que ajudarão a escrever o próximo capítulo dos voos espaciais humanos.",
+    "sub_pt": "A NASA está procurando exploradores que ajudarão a escrever o próximo capítulo dos voos espaciais humanos.",
+    "sub_en": "NASA is looking for the explorers who will help write the next chapter of human spaceflight.",
+    "excerpt": "A NASA está procurando exploradores que ajudarão a escrever o próximo capítulo dos voos espaciais humanos. As inscrições já estão abertas para a próxima turma de astronautas da agência, que ingressará na NASA quando a América retornar à Lua, construir a Base.",
+    "excerpt_pt": "A NASA está procurando exploradores que ajudarão a escrever o próximo capítulo dos voos espaciais humanos. As inscrições já estão abertas para a próxima turma de astronautas da agência, que ingressará na NASA quando a América retornar à Lua, construir a Base.",
+    "excerpt_en": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and.",
+    "highlights": [
+      "Em foco: A NASA está procurando exploradores que ajudarão a escrever o próximo capítulo dos voos espaciais humanos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: A NASA está procurando exploradores que ajudarão a escrever o próximo capítulo dos voos espaciais humanos",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: NASA is looking for the explorers who will help write the next chapter of human spaceflight",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "07 nov 2026",
+    "date_pt": "07 nov 2026",
+    "date_en": "07 Nov 2026",
+    "time": "18h11",
+    "time_pt": "18h11",
+    "time_en": "18: 11 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-07T18:11:57+00:00",
+    "lastModifiedIso": "2026-11-07T19:37:05+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA busca próxima geração de exploradores para ingressar no Corpo de Astronautas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA busca próxima geração de exploradores para ingressar no Corpo de Astronautas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA seeks next generation of explorers to join the Astronaut Corps"
+    ],
+    "srcUrl": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "realUrl": "https://www.cosmosweek.com/?article=nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+    "realUrl_en": "https://www.cosmosweek.com/?article=nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": true,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 86,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "NASA busca próxima geração de exploradores para ingressar no Corpo de Astronautas",
+    "imageAlt_pt": "NASA busca próxima geração de exploradores para ingressar no Corpo de Astronautas",
+    "imageAlt_en": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "taking-a-gander-at-utah-s-goosenecks",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -146,7 +264,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "confirming-hsc-strong-lens-candidates-with-desi-spectroscopy-ii-analysis-of-80-galaxy-scale-syst",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -263,7 +381,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "cyprus-island-of-snakes-cats-and-ophiolites",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -309,19 +427,19 @@
     "excerpt_pt": "A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos.",
     "excerpt_en": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
     "highlights": [
-      "Em foco: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos.",
+      "Dado-chave: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos.",
+      "Dado-chave: A terceira maior ilha do Mar Mediterrâneo expõe um antigo pedaço do fundo do oceano e abriga uma multidão de gatos",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+      "Key detail: The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "05 nov 2026",
     "date_pt": "05 nov 2026",
@@ -415,7 +533,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-navigation-experiment-shows-promise-for-planetary-landings",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -533,7 +651,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "probing-solar-wind-structure-during-crab-pulsar-conjunctions-with-dispersion-and-faraday-rotatio",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -552,17 +670,17 @@
     "excerpt_en": "Observations of the Crab pulsar during solar conjunction probe plasma structure in the inner solar wind through radio-propagation effects.",
     "highlights": [
       "Ponto central: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de.",
-      "Dado-chave: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de",
+      "Dado-chave: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de.",
-      "Dado-chave: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de",
+      "Dado-chave: Observações do pulsar do Caranguejo durante a conjunção solar sondam a estrutura do plasma no vento solar interno por meio de efeitos de.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: Observations of the Crab pulsar during solar conjunction probe plasma structure in the inner solar wind through radio-propagation effects.",
-      "Key detail: Observations of the Crab pulsar during solar conjunction probe plasma structure in the inner solar wind through radio-propagation effects",
+      "Key detail: Observations of the Crab pulsar during solar conjunction probe plasma structure in the inner solar wind through radio-propagation effects.",
       "Result not yet peer reviewed."
     ],
     "date": "04 nov 2026",
@@ -648,124 +766,6 @@
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
     "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-2sem-.png",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Rachadura do corpo do resistor da microplaqueta do conjunto da placa de circuito impresso da TB 26-10",
-    "title_pt": "Rachadura do corpo do resistor da microplaqueta do conjunto da placa de circuito impresso da TB 26-10",
-    "title_en": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-    "sub": "Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
-    "sub_pt": "Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
-    "sub_en": "That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography.",
-    "excerpt": "Sills, Centro de Pesquisa Langley, joel.",
-    "excerpt_pt": "Sills, Centro de Pesquisa Langley, joel.",
-    "excerpt_en": "That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography.",
-    "highlights": [
-      "Ponto central: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
-      "Dado-chave: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
-      "Dado-chave: Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and.",
-      "Key detail: That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "03 nov 2026",
-    "date_pt": "03 nov 2026",
-    "date_en": "03 Nov 2026",
-    "time": "15h35",
-    "time_pt": "15h35",
-    "time_en": "15: 35 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-11-03T15:35:14+00:00",
-    "lastModifiedIso": "2026-11-03T21:18:52+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Rachadura do corpo do resistor da microplaqueta do conjunto da placa de circuito impresso da TB 26"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Rachadura do corpo do resistor da microplaqueta do conjunto da placa de circuito impresso da TB 26"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "TB 26 Printed Circuit Board Assembly Chip Resistor Body Crack"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "realUrl": "https://www.cosmosweek.com/?article=tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
-    "realUrl_en": "https://www.cosmosweek.com/?article=tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 84,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Rachadura do corpo do resistor da microplaqueta do conjunto da placa de circuito impresso da TB 26-10",
-    "imageAlt_pt": "Rachadura do corpo do resistor da microplaqueta do conjunto da placa de circuito impresso da TB 26-10",
-    "imageAlt_en": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
