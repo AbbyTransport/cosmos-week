@@ -1,6 +1,126 @@
 [
   {
     "id": 1,
+    "slug": "connecting-field-level-and-n-point-function-measurements-of-galaxy-bias",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1280px-Hubble_ultra_deep_field.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Conectando medições de função de nível de campo e n-ponto de viés de galáxia",
+    "title_pt": "Conectando medições de função de nível de campo e n-ponto de viés de galáxia",
+    "title_en": "Connecting field-level and n-point function measurements of galaxy bias",
+    "sub": "Medições precisas dos parâmetros de polarização de galáxias são essenciais para extrair informações cosmológicas de levantamentos de galáxias.",
+    "sub_pt": "Medições precisas dos parâmetros de polarização de galáxias são essenciais para extrair informações cosmológicas de levantamentos de galáxias.",
+    "sub_en": "Precise measurements of galaxy bias parameters are essential for extracting cosmological information from galaxy surveys.",
+    "excerpt": "Medições precisas dos parâmetros de polarização de galáxias são essenciais para extrair informações cosmológicas de levantamentos de galáxias.",
+    "excerpt_pt": "Medições precisas dos parâmetros de polarização de galáxias são essenciais para extrair informações cosmológicas de levantamentos de galáxias.",
+    "excerpt_en": "Precise measurements of galaxy bias parameters are essential for extracting cosmological information from galaxy surveys.",
+    "highlights": [
+      "Em foco: Medições precisas dos parâmetros de polarização de galáxias são essenciais para extrair informações cosmológicas de levantamentos de galáxias",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Medições precisas dos parâmetros de polarização de galáxias são essenciais para extrair informações cosmológicas de levantamentos de galáxias",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Precise measurements of galaxy bias parameters are essential for extracting cosmological information from galaxy surveys",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "10 nov 2026",
+    "date_pt": "10 nov 2026",
+    "date_en": "10 Nov 2026",
+    "time": "18h23",
+    "time_pt": "18h23",
+    "time_en": "18: 23 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-10T18:23:46+00:00",
+    "lastModifiedIso": "2026-11-11T22:16:31+00:00",
+    "source": "arXiv Cosmology",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Conectando medições de função de nível de campo e n",
+      "ponto de viés de galáxia"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Conectando medições de função de nível de campo e n",
+      "ponto de viés de galáxia"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "arXiv Cosmology",
+      "Cosmos Week",
+      "Connecting field level function measurements and n",
+      "galaxy bias point"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2611.14456v1",
+    "realUrl": "https://www.cosmosweek.com/?article=connecting-field-level-and-n-point-function-measurements-of-galaxy-bias",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=connecting-field-level-and-n-point-function-measurements-of-galaxy-bias",
+    "realUrl_en": "https://www.cosmosweek.com/?article=connecting-field-level-and-n-point-function-measurements-of-galaxy-bias&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/connecting-field-level-and-n-point-function-measurements-of-galaxy-bias/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/connecting-field-level-and-n-point-function-measurements-of-galaxy-bias/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/connecting-field-level-and-n-point-function-measurements-of-galaxy-bias/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/connecting-field-level-and-n-point-function-measurements-of-galaxy-bias/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/connecting-field-level-and-n-point-function-measurements-of-galaxy-bias/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/connecting-field-level-and-n-point-function-measurements-of-galaxy-bias/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 64,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Conectando medições de função de nível de campo e n-ponto de viés de galáxia",
+    "imageAlt_pt": "Conectando medições de função de nível de campo e n-ponto de viés de galáxia",
+    "imageAlt_en": "Connecting field-level and n-point function measurements of galaxy bias",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "nasa-scientists-show-how-gravitational-waves-can-reveal-new-worlds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -177,7 +297,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "curiosity-blog-sols-5050-5055-it-s-nazca-our-49th-drill-hole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -326,7 +446,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "rubies-on-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -372,19 +492,19 @@
     "excerpt_pt": "Escrito por Roger C. Wiens, investigador principal da SuperCam do rover Perseverance da NASA na Purdue University 4 de novembro de 2026 A exploração em Marte revela o inesperado.",
     "excerpt_en": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected.",
     "highlights": [
-      "Em foco: Escrito por Roger C",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Escrito por Roger C. Wiens, investigador principal da SuperCam do rover Perseverance da NASA na Purdue University 4 de novembro de 2026 A exploração.",
+      "Dado-chave: Escrito por Roger C",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Escrito por Roger C",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Escrito por Roger C. Wiens, investigador principal da SuperCam do rover Perseverance da NASA na Purdue University 4 de novembro de 2026 A exploração.",
+      "Dado-chave: Escrito por Roger C",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov.",
+      "Key detail: Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 nov 2026",
     "date_pt": "09 nov 2026",
@@ -472,7 +592,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-s-chandra-finds-source-of-star-s-mysterious-outbursts",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -528,17 +648,17 @@
     "excerpt_en": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star.",
     "highlights": [
       "Ponto central: Usando o Observatório de Raios-X Chandra da NASA, os astrónomos descobriram o que está a desencadear repetidas explosões de uma estrela gigante e.",
-      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os astrónomos descobriram o que está a desencadear repetidas explosões de uma estrela gigante e",
+      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os astrónomos descobriram o que está a desencadear repetidas explosões de uma estrela gigante.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Usando o Observatório de Raios-X Chandra da NASA, os astrónomos descobriram o que está a desencadear repetidas explosões de uma estrela gigante e.",
-      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os astrónomos descobriram o que está a desencadear repetidas explosões de uma estrela gigante e",
+      "Dado-chave: Usando o Observatório de Raios-X Chandra da NASA, os astrónomos descobriram o que está a desencadear repetidas explosões de uma estrela gigante.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star.",
-      "Key detail: Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star",
+      "Key detail: Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "09 nov 2026",
@@ -624,129 +744,6 @@
     "coverageKindLabel": "Fonte institucional",
     "coverageKindLabel_pt": "Fonte institucional",
     "coverageKindLabel_en": "Institutional source",
-    "storyKind": "science"
-  },
-  {
-    "id": 5,
-    "slug": "a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Uma rota de matéria escura autointeragente para buracos negros supermassivos de Kerr por meio da acreção de Super-Eddington Bondi: evolução do spin de massa",
-    "title_pt": "Uma rota de matéria escura autointeragente para buracos negros supermassivos de Kerr por meio da acreção de Super-Eddington Bondi: evolução do spin de massa",
-    "title_en": "A Self-Interacting Dark-Matter Route to Supermassive Kerr Black Holes via Super-Eddington Bondi Accretion: Mass-Spin Evolution",
-    "sub": "Observações recentes do JWST motivam mecanismos para o rápido crescimento de buracos negros no Universo primordial.",
-    "sub_pt": "Observações recentes do JWST motivam mecanismos para o rápido crescimento de buracos negros no Universo primordial.",
-    "sub_en": "Recent JWST observations motivate mechanisms for rapid black-hole growth in the early Universe.",
-    "excerpt": "Observações recentes do JWST motivam mecanismos para o rápido crescimento de buracos negros no Universo primordial. Estendendo nosso estudo anterior de Schwarzschild, mostramos que Bondi relativístico crítico acumula matéria escura repulsivamente.",
-    "excerpt_pt": "Observações recentes do JWST motivam mecanismos para o rápido crescimento de buracos negros no Universo primordial. Estendendo nosso estudo anterior de Schwarzschild, mostramos que Bondi relativístico crítico acumula matéria escura repulsivamente.",
-    "excerpt_en": "Recent JWST observations motivate mechanisms for rapid black-hole growth in the early Universe. Extending our previous Schwarzschild study, we show that critical relativistic Bondi accretion of repulsively self-interacting dark matter.",
-    "highlights": [
-      "Em foco: Observações recentes do JWST motivam mecanismos para o rápido crescimento de buracos negros no Universo primordial",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_pt": [
-      "Em foco: Observações recentes do JWST motivam mecanismos para o rápido crescimento de buracos negros no Universo primordial",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
-    ],
-    "highlights_en": [
-      "Focus: Recent JWST observations motivate mechanisms for rapid black-hole growth in the early Universe",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
-    ],
-    "date": "09 nov 2026",
-    "date_pt": "09 nov 2026",
-    "date_en": "09 Nov 2026",
-    "time": "12h09",
-    "time_pt": "12h09",
-    "time_en": "12: 09 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-11-09T12:09:59+00:00",
-    "lastModifiedIso": "2026-11-10T21:29:53+00:00",
-    "source": "arXiv Cosmology",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Uma rota de matéria escura autointeragente para buracos negros supermassivos de Kerr por meio da acreção de Super",
-      "Eddington Bondi",
-      "evolução do spin de massa"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "Uma rota de matéria escura autointeragente para buracos negros supermassivos de Kerr por meio da acreção de Super",
-      "Eddington Bondi",
-      "evolução do spin de massa"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "arXiv Cosmology",
-      "Cosmos Week",
-      "A self-interacting dark matter route to supermassive Kerr black holes via Super accretion",
-      "Eddington Bondi",
-      "mass spin evolution"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2611.12282v1",
-    "realUrl": "https://www.cosmosweek.com/?article=a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-",
-    "realUrl_en": "https://www.cosmosweek.com/?article=a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/a-self-interacting-dark-matter-route-to-supermassive-kerr-black-holes-via-super-eddington-bondi-/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 64,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Uma rota de matéria escura autointeragente para buracos negros supermassivos de Kerr por meio da acreção de Super-Eddington Bondi: evolução do spin de massa",
-    "imageAlt_pt": "Uma rota de matéria escura autointeragente para buracos negros supermassivos de Kerr por meio da acreção de Super-Eddington Bondi: evolução do spin de massa",
-    "imageAlt_en": "A Self-Interacting Dark-Matter Route to Supermassive Kerr Black Holes via Super-Eddington Bondi Accretion: Mass-Spin Evolution",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
     "storyKind": "science"
   },
   {
@@ -4060,7 +4057,7 @@
     ],
     "highlights_en": [
       "Core point: The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry fragile.",
-      "Key detail: The U. S",
+      "Key detail: The U. S. National Science Foundation has selected five new teams to design experimental quantum technologies, from networks that can ferry.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 jun 2026",
