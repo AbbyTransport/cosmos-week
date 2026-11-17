@@ -1,6 +1,165 @@
 [
   {
     "id": 1,
+    "slug": "new-album-of-baby-star-sounds-shared-by-nasa-s-chandra",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/sonify12_rho.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=5400&h=5765&fit=clip",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=150&h=150&fit=clip",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/07/spitzer20171013-768.jpg?w=768&h=528&fit=clip",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": "",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": ""
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/sonify12_m82.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=5400&h=5765&fit=clip",
+      "title": "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA - NASA Science",
+      "title_pt": "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA - NASA Science",
+      "title_en": "New Album of Baby Star Sounds Shared by NASA’s Chandra - NASA Science",
+      "caption": "A galáxia Messier 82 (M82) é chamada de galáxia starburst porque as estrelas estão se formando ali a uma taxa dezenas ou mesmo centenas de vezes maior do que na nossa Via Láctea.",
+      "caption_pt": "A galáxia Messier 82 (M82) é chamada de galáxia starburst porque as estrelas estão se formando ali a uma taxa dezenas ou mesmo centenas de vezes maior do que na nossa Via Láctea.",
+      "caption_en": "The galaxy Messier 82 (M82) is called a starburst galaxy because stars are forming there at a rate tens or even hundreds of times higher than in our Milky Way",
+      "sourcePage": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/"
+    },
+    "audio": null,
+    "title": "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA",
+    "title_pt": "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA",
+    "title_en": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+    "sub": "Um novo álbum do Observatório de Raios-X Chandra da NASA coleta instantâneos de estrelas bebês em toda a galáxia e além e transforma esses dados em som.",
+    "sub_pt": "Um novo álbum do Observatório de Raios-X Chandra da NASA coleta instantâneos de estrelas bebês em toda a galáxia e além e transforma esses dados em som.",
+    "sub_en": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound.",
+    "excerpt": "Um novo álbum do Observatório de Raios-X Chandra da NASA coleta instantâneos de estrelas bebês em toda a galáxia e além e transforma esses dados em som.",
+    "excerpt_pt": "Um novo álbum do Observatório de Raios-X Chandra da NASA coleta instantâneos de estrelas bebês em toda a galáxia e além e transforma esses dados em som.",
+    "excerpt_en": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound.",
+    "highlights": [
+      "Em foco: Um novo álbum do Observatório de Raios-X Chandra da NASA coleta instantâneos de estrelas bebês em toda a galáxia e além e transforma esses dados em",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_pt": [
+      "Em foco: Um novo álbum do Observatório de Raios-X Chandra da NASA coleta instantâneos de estrelas bebês em toda a galáxia e além e transforma esses dados em",
+      "Detalhe: Origem institucional: distinguir anúncio de evidência",
+      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+    ],
+    "highlights_en": [
+      "Focus: A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound",
+      "Detail: Institutional origin: separate announcement from evidence",
+      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+    ],
+    "date": "17 nov 2026",
+    "date_pt": "17 nov 2026",
+    "date_en": "17 Nov 2026",
+    "time": "20h26",
+    "time_pt": "20h26",
+    "time_en": "20: 26 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-17T20:26:17+00:00",
+    "lastModifiedIso": "2026-11-17T23:10:15+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science. nasa. gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
+    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "flagship",
+    "editorialBandLabel": "Prioridade máxima",
+    "editorialBandLabel_pt": "Prioridade máxima",
+    "editorialBandLabel_en": "Top priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "New Baby Star Sounds Album Shared by NASA's Chandra"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
+    "realUrl": "https://www.cosmosweek.com/?article=new-album-of-baby-star-sounds-shared-by-nasa-s-chandra",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=new-album-of-baby-star-sounds-shared-by-nasa-s-chandra",
+    "realUrl_en": "https://www.cosmosweek.com/?article=new-album-of-baby-star-sounds-shared-by-nasa-s-chandra&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/new-album-of-baby-star-sounds-shared-by-nasa-s-chandra/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/new-album-of-baby-star-sounds-shared-by-nasa-s-chandra/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/new-album-of-baby-star-sounds-shared-by-nasa-s-chandra/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/new-album-of-baby-star-sounds-shared-by-nasa-s-chandra/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/new-album-of-baby-star-sounds-shared-by-nasa-s-chandra/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/new-album-of-baby-star-sounds-shared-by-nasa-s-chandra/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 100,
+    "scoreBreakdown": {
+      "source": 98,
+      "evidence": 92,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    },
+    "imageAlt": "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA",
+    "imageAlt_pt": "Novo álbum de sons de Baby Star compartilhado por Chandra da NASA",
+    "imageAlt_en": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
+    "coverageKind": "agency",
+    "coverageKindLabel": "Fonte institucional",
+    "coverageKindLabel_pt": "Fonte institucional",
+    "coverageKindLabel_en": "Institutional source",
+    "storyKind": "science"
+  },
+  {
+    "id": 2,
     "slug": "the-last-ice-on-puncak-jaya",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -109,19 +268,19 @@
     "excerpt_pt": "O gelo próximo ao cume da montanha indonésia encolheu, transformando-se em manchas dispersas, pequenas demais para fluir como geleiras.",
     "excerpt_en": "Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
     "highlights": [
-      "Em foco: O gelo próximo ao cume da montanha indonésia encolheu, transformando-se em manchas dispersas, pequenas demais para fluir como geleiras",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O gelo próximo ao cume da montanha indonésia encolheu, transformando-se em manchas dispersas, pequenas demais para fluir como geleiras.",
+      "Dado-chave: O gelo próximo ao cume da montanha indonésia encolheu, transformando-se em manchas dispersas, pequenas demais para fluir como geleiras",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: O gelo próximo ao cume da montanha indonésia encolheu, transformando-se em manchas dispersas, pequenas demais para fluir como geleiras",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: O gelo próximo ao cume da montanha indonésia encolheu, transformando-se em manchas dispersas, pequenas demais para fluir como geleiras.",
+      "Dado-chave: O gelo próximo ao cume da montanha indonésia encolheu, transformando-se em manchas dispersas, pequenas demais para fluir como geleiras",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers.",
+      "Key detail: Ice near the summit of the Indonesian mountain peak has shrunk to scattered patches too small to flow like glaciers",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "16 nov 2026",
     "date_pt": "16 nov 2026",
@@ -209,7 +368,7 @@
     "storyKind": "science"
   },
   {
-    "id": 2,
+    "id": 3,
     "slug": "a-global-rebound-for-mangroves",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -265,17 +424,17 @@
     "excerpt_en": "After decades of decline, this ecologically significant type of forest is making a comeback.",
     "highlights": [
       "Ponto central: Após décadas de declínio, este tipo de floresta ecologicamente significativo está de volta.",
-      "Dado-chave: Após décadas de declínio, este tipo de floresta ecologicamente significativo está de volta",
+      "Dado-chave: Após décadas de declínio, este tipo de floresta ecologicamente significativo está de volta.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Após décadas de declínio, este tipo de floresta ecologicamente significativo está de volta.",
-      "Dado-chave: Após décadas de declínio, este tipo de floresta ecologicamente significativo está de volta",
+      "Dado-chave: Após décadas de declínio, este tipo de floresta ecologicamente significativo está de volta.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: After decades of decline, this ecologically significant type of forest is making a comeback.",
-      "Key detail: After decades of decline, this ecologically significant type of forest is making a comeback",
+      "Key detail: After decades of decline, this ecologically significant type of forest is making a comeback.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "13 nov 2026",
@@ -364,7 +523,7 @@
     "storyKind": "science"
   },
   {
-    "id": 3,
+    "id": 4,
     "slug": "nasa-ames-stars-of-the-month-november-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -383,17 +542,17 @@
     "excerpt_en": "The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
     "highlights": [
       "Ponto central: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
-      "Dado-chave: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc",
+      "Dado-chave: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
-      "Dado-chave: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc",
+      "Dado-chave: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
-      "Key detail: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc",
+      "Key detail: The NASA Ames Science Directorate recognizes the outstanding contributions of Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "12 nov 2026",
@@ -485,7 +644,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "a-variable-compact-millimeter-excess-in-the-type-1-seyfert-galaxy-ngc-985-implications-for-a-bla",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -504,17 +663,17 @@
     "excerpt_en": "Compact millimeter emission from radio-quiet active galactic nuclei has been proposed as a probe of magnetized accretion-disk coronae.",
     "highlights": [
       "Ponto central: A emissão milimétrica compacta de núcleos galácticos ativos silenciosos foi proposta como uma sonda de coronae de disco de acreção magnetizado.",
-      "Dado-chave: A emissão milimétrica compacta de núcleos galácticos ativos silenciosos foi proposta como uma sonda de coronae de disco de acreção magnetizado",
+      "Dado-chave: A emissão milimétrica compacta de núcleos galácticos ativos silenciosos foi proposta como uma sonda de coronae de disco de acreção magnetizado.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
       "Ponto central: A emissão milimétrica compacta de núcleos galácticos ativos silenciosos foi proposta como uma sonda de coronae de disco de acreção magnetizado.",
-      "Dado-chave: A emissão milimétrica compacta de núcleos galácticos ativos silenciosos foi proposta como uma sonda de coronae de disco de acreção magnetizado",
+      "Dado-chave: A emissão milimétrica compacta de núcleos galácticos ativos silenciosos foi proposta como uma sonda de coronae de disco de acreção magnetizado.",
       "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
       "Core point: Compact millimeter emission from radio-quiet active galactic nuclei has been proposed as a probe of magnetized accretion-disk coronae.",
-      "Key detail: Compact millimeter emission from radio-quiet active galactic nuclei has been proposed as a probe of magnetized accretion-disk coronae",
+      "Key detail: Compact millimeter emission from radio-quiet active galactic nuclei has been proposed as a probe of magnetized accretion-disk coronae.",
       "Result not yet peer reviewed."
     ],
     "date": "12 nov 2026",
@@ -606,7 +765,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "modelling-redshift-space-distortions-with-tracer-centred-split-densities",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -635,7 +794,7 @@
     ],
     "highlights_en": [
       "Core point: Analysing galaxy clustering in split environmental densities has been demonstrated to offer an advantage over standard two-point clustering for.",
-      "Key detail: Analysing galaxy clustering in split environmental densities has been demonstrated to offer an advantage over standard two-point clustering for",
+      "Key detail: Analysing galaxy clustering in split environmental densities has been demonstrated to offer an advantage over standard two-point clustering for.",
       "Result not yet peer reviewed."
     ],
     "date": "12 nov 2026",
@@ -724,140 +883,6 @@
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
     "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2023/03/690852main_ED12-0317-012_full.jpg",
-    "inline_images": [],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/RrkH0jfX-4Y?rel=0&modestbranding=1",
-      "fileUrl": "",
-      "poster": "https://www.nasa.gov/wp-content/uploads/2023/03/690852main_ED12-0317-012_full.jpg",
-      "title": "Shuttle Endeavour’s Last Flight Was 10 Years Ago",
-      "title_pt": "Shuttle Endeavour’s Last Flight Was 10 Years Ago",
-      "title_en": "Shuttle Endeavour’s Last Flight Was 10 Years Ago",
-      "caption": "People from communities all over California watched the skies in hopes of catching a glimpse of space shuttle Endeavour as it was ferried on the NASA 747 Shu. ..",
-      "caption_pt": "People from communities all over California watched the skies in hopes of catching a glimpse of space shuttle Endeavour as it was ferried on the NASA 747 Shu. ..",
-      "caption_en": "People from communities all over California watched the skies in hopes of catching a glimpse of space shuttle Endeavour as it was ferried on the NASA 747 Shu. ..",
-      "sourcePage": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
-    },
-    "audio": null,
-    "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "title_pt": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "title_en": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "sub": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.",
-    "sub_pt": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.",
-    "sub_en": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.",
-    "excerpt": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept.",
-    "excerpt_pt": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept.",
-    "excerpt_en": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept.",
-    "highlights": [
-      "Ponto central: As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.",
-      "Dado-chave: As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.",
-      "Dado-chave: As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission.",
-      "Key detail: As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "12 nov 2026",
-    "date_pt": "12 nov 2026",
-    "date_en": "12 Nov 2026",
-    "time": "13h00",
-    "time_pt": "13h00",
-    "time_en": "13: 00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-11-12T13:00:00+00:00",
-    "lastModifiedIso": "2026-11-12T21:57:37+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www. nasa. gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_pt": "Fonte primária institucional. Boa para anúncio inicial e contexto operacional, mas não substitui validação independente.",
-    "sourceNote_en": "Primary institutional source. Useful for first disclosure and operational context, but not a substitute for independent validation.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "flagship",
-    "editorialBandLabel": "Prioridade máxima",
-    "editorialBandLabel_pt": "Prioridade máxima",
-    "editorialBandLabel_en": "Top priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Through NASA’s Lens",
-      "Capturing Space Shuttle Endeavour’s Move to LA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Through NASA’s Lens",
-      "Capturing Space Shuttle Endeavour’s Move to LA"
-    ],
-    "keywords_en": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Through NASA’s Lens",
-      "Capturing Space Shuttle Endeavour’s Move to LA"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-    "realUrl": "https://www.cosmosweek.com/?article=through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la",
-    "realUrl_en": "https://www.cosmosweek.com/?article=through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 100,
-    "scoreBreakdown": {
-      "source": 98,
-      "evidence": 86,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    },
-    "imageAlt": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "imageAlt_pt": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "imageAlt_en": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "coverageKind": "agency",
-    "coverageKindLabel": "Fonte institucional",
-    "coverageKindLabel_pt": "Fonte institucional",
-    "coverageKindLabel_en": "Institutional source",
     "storyKind": "science"
   },
   {
