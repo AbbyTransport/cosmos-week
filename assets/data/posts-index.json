@@ -312,19 +312,19 @@
     "excerpt_pt": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
     "excerpt_en": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
     "highlights": [
-      "Em foco: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the.",
+      "Dado-chave: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Em foco: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the",
-      "Detalhe: Origem institucional: distinguir anúncio de evidência",
-      "Leitura editorial: release institucional, útil como fonte primária, mas não como validação independente."
+      "Ponto central: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the.",
+      "Dado-chave: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of.",
+      "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Focus: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the",
-      "Detail: Institutional origin: separate announcement from evidence",
-      "Editorial reading: institutional release, useful as a primary source but not independent validation."
+      "Core point: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the.",
+      "Key detail: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of.",
+      "Institutional origin: separate announcement from evidence."
     ],
     "date": "19 nov 2026",
     "date_pt": "19 nov 2026",
@@ -413,6 +413,129 @@
   },
   {
     "id": 3,
+    "slug": "dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg/1280px-Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Dark Matter Model Implications of a Candidate Sub-halo Near the Sun, and the Data Needed to Discriminate Among Them",
+    "title_pt": "Dark Matter Model Implications of a Candidate Sub-halo Near the Sun, and the Data Needed to Discriminate Among Them",
+    "title_en": "Dark Matter Model Implications of a Candidate Sub-halo Near the Sun, and the Data Needed to Discriminate Among Them",
+    "sub": "Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo.",
+    "sub_pt": "Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo.",
+    "sub_en": "Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo.",
+    "excerpt": "Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo.",
+    "excerpt_pt": "Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo.",
+    "excerpt_en": "Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo.",
+    "highlights": [
+      "Em foco: Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_pt": [
+      "Em foco: Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo",
+      "Detalhe: Resultado ainda sem revisão por pares",
+      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+    ],
+    "highlights_en": [
+      "Focus: Pulsar-timing accelerations point to a localized mass concentration near the Sun, consistent with a dark matter sub-halo",
+      "Editorial reading: provisional result, not yet formally peer reviewed."
+    ],
+    "date": "19 nov 2026",
+    "date_pt": "19 nov 2026",
+    "date_en": "19 Nov 2026",
+    "time": "01h57",
+    "time_pt": "01h57",
+    "time_en": "01: 57 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-19T01:57:40+00:00",
+    "lastModifiedIso": "2026-11-20T22:22:20+00:00",
+    "source": "arXiv High Energy Astrophysics",
+    "sourceDomain": "arxiv. org",
+    "sourceType": "preprint",
+    "sourceTypeLabel": "Preprint",
+    "sourceTypeLabel_pt": "Preprint",
+    "sourceTypeLabel_en": "Preprint",
+    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
+    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
+    "evidenceKey": "preprint",
+    "evidenceLabel": "Resultado provisório",
+    "evidenceLabel_pt": "Resultado provisório",
+    "evidenceLabel_en": "Preliminary result",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Cosmologia",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Dark Matter Model Implications of a Candidate Sub",
+      "halo Near the Sun",
+      "and the Data Needed to Discriminate Among Them"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Dark Matter Model Implications of a Candidate Sub",
+      "halo Near the Sun",
+      "and the Data Needed to Discriminate Among Them"
+    ],
+    "keywords_en": [
+      "Cosmologia",
+      "arXiv High Energy Astrophysics",
+      "Cosmos Week",
+      "Dark Matter Model Implications of a Candidate Sub",
+      "halo Near the Sun",
+      "and the Data Needed to Discriminate Among Them"
+    ],
+    "srcUrl": "https://arxiv.org/abs/2611.25359v1",
+    "realUrl": "https://www.cosmosweek.com/?article=dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr",
+    "realUrl_pt": "https://www.cosmosweek.com/?article=dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr",
+    "realUrl_en": "https://www.cosmosweek.com/?article=dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr&lang=en",
+    "shareUrl": "https://www.cosmosweek.com/noticia/dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr/",
+    "shareUrl_pt": "https://www.cosmosweek.com/noticia/dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr/",
+    "shareUrl_en": "https://www.cosmosweek.com/en/news/dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr/",
+    "canonicalUrl": "https://www.cosmosweek.com/noticia/dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr/",
+    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr/",
+    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/dark-matter-model-implications-of-a-candidate-sub-halo-near-the-sun-and-the-data-needed-to-discr/",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": true,
+    "geminiReviewed": false,
+    "geminiModel": "",
+    "reviewStatus": "fallback",
+    "reviewProvider": "gemini",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 63,
+      "evidence": 39,
+      "relevance": 94,
+      "accessibility": 60,
+      "novelty": 52
+    },
+    "imageAlt": "Dark Matter Model Implications of a Candidate Sub-halo Near the Sun, and the Data Needed to Discriminate Among Them",
+    "imageAlt_pt": "Dark Matter Model Implications of a Candidate Sub-halo Near the Sun, and the Data Needed to Discriminate Among Them",
+    "imageAlt_en": "Dark Matter Model Implications of a Candidate Sub-halo Near the Sun, and the Data Needed to Discriminate Among Them",
+    "coverageKind": "preprint",
+    "coverageKindLabel": "Preprint",
+    "coverageKindLabel_pt": "Preprint",
+    "coverageKindLabel_en": "Preprint",
+    "storyKind": "science"
+  },
+  {
+    "id": 4,
     "slug": "thank-you-for-doing-nasa-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -459,17 +582,17 @@
     "excerpt_en": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! . You and NASA’s other volunteers have enabled an incredible banquet of discoveries, by taking data, analyzing data, writing code, writing papers, and.",
     "highlights": [
       "Ponto central: É hora de Ação de Graças e agradecemos a você por fazer Ciência da NASA conosco.",
-      "Dado-chave: É hora de Ação de Graças e agradecemos a você por fazer Ciência da NASA conosco",
+      "Dado-chave: É hora de Ação de Graças e agradecemos a você por fazer Ciência da NASA conosco.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: É hora de Ação de Graças e agradecemos a você por fazer Ciência da NASA conosco.",
-      "Dado-chave: É hora de Ação de Graças e agradecemos a você por fazer Ciência da NASA conosco",
+      "Dado-chave: É hora de Ação de Graças e agradecemos a você por fazer Ciência da NASA conosco.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us.",
-      "Key detail: It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us",
+      "Key detail: It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "18 nov 2026",
@@ -558,7 +681,7 @@
     "storyKind": "science"
   },
   {
-    "id": 4,
+    "id": 5,
     "slug": "nasa-data-clinches-first-of-its-kind-stellar-merger",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -713,7 +836,7 @@
     "storyKind": "science"
   },
   {
-    "id": 5,
+    "id": 6,
     "slug": "reconstructing-the-mass-redshift-distribution-of-supermassive-black-holes-using-multiband-gravit",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -731,18 +854,19 @@
     "excerpt_pt": "The formation and evolution of supermassive black holes remain major open questions in astrophysics. Astrophysical models of SMBHs invoke black-hole seeds formed at high redshift, which subsequently grow through gas accretion and mergers.",
     "excerpt_en": "The formation and evolution of supermassive black holes remain major open questions in astrophysics. Astrophysical models of SMBHs invoke black-hole seeds formed at high redshift, which subsequently grow through gas accretion and mergers.",
     "highlights": [
-      "Em foco: The formation and evolution of supermassive black holes remain major open questions in astrophysics",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: The formation and evolution of supermassive black holes remain major open questions in astrophysics.",
+      "Dado-chave: The formation and evolution of supermassive black holes remain major open questions in astrophysics",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_pt": [
-      "Em foco: The formation and evolution of supermassive black holes remain major open questions in astrophysics",
-      "Detalhe: Resultado ainda sem revisão por pares",
-      "Leitura editorial: resultado provisório, ainda sem revisão por pares formal."
+      "Ponto central: The formation and evolution of supermassive black holes remain major open questions in astrophysics.",
+      "Dado-chave: The formation and evolution of supermassive black holes remain major open questions in astrophysics",
+      "Resultado ainda sem revisão por pares."
     ],
     "highlights_en": [
-      "Focus: The formation and evolution of supermassive black holes remain major open questions in astrophysics",
-      "Editorial reading: provisional result, not yet formally peer reviewed."
+      "Core point: The formation and evolution of supermassive black holes remain major open questions in astrophysics.",
+      "Key detail: The formation and evolution of supermassive black holes remain major open questions in astrophysics",
+      "Result not yet peer reviewed."
     ],
     "date": "18 nov 2026",
     "date_pt": "18 nov 2026",
@@ -829,127 +953,6 @@
     "imageAlt": "Reconstructing the mass-redshift distribution of supermassive black holes using multiband gravitational-wave observations",
     "imageAlt_pt": "Reconstructing the mass-redshift distribution of supermassive black holes using multiband gravitational-wave observations",
     "imageAlt_en": "Reconstructing the mass-redshift distribution of supermassive black holes using multiband gravitational-wave observations",
-    "coverageKind": "preprint",
-    "coverageKindLabel": "Preprint",
-    "coverageKindLabel_pt": "Preprint",
-    "coverageKindLabel_en": "Preprint",
-    "storyKind": "science"
-  },
-  {
-    "id": 6,
-    "slug": "probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/M87_jet.jpg/1280px-M87_jet.jpg",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Sondando as impressões macroscópicas da resolução de singularidade: diagnóstico de polarização de buracos negros rotativos ABG",
-    "title_pt": "Sondando as impressões macroscópicas da resolução de singularidade: diagnóstico de polarização de buracos negros rotativos ABG",
-    "title_en": "Probing the Macroscopic Imprints of Singularity Resolution: Polarization Diagnostics of Rotating ABG Black Holes",
-    "sub": "Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos $\\text{M87}^*$ e $\\text{Sgr A}^*$.",
-    "sub_pt": "Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos $\\text{M87}^*$ e $\\text{Sgr A}^*$.",
-    "sub_en": "Recent observations by the Event Horizon Telescope have revealed important electromagnetic information around the supermassive black holes $\\text{M87}^*$ and $\\text{Sgr A}^*$.",
-    "excerpt": "Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos $\\text{M87}^*$ e $\\text{Sgr A}^*$, fornecendo suporte experimental para a investigação da física próxima.",
-    "excerpt_pt": "Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos $\\text{M87}^*$ e $\\text{Sgr A}^*$, fornecendo suporte experimental para a investigação da física próxima.",
-    "excerpt_en": "Recent observations by the Event Horizon Telescope have revealed important electromagnetic information around the supermassive black holes $\\text{M87}^*$ and $\\text{Sgr A}^*$, providing experimental supports for investigating physics near.",
-    "highlights": [
-      "Ponto central: Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos.",
-      "Dado-chave: Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_pt": [
-      "Ponto central: Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos.",
-      "Dado-chave: Observações recentes do Event Horizon Telescope revelaram importantes informações eletromagnéticas em torno dos buracos negros supermassivos",
-      "Resultado ainda sem revisão por pares."
-    ],
-    "highlights_en": [
-      "Core point: Recent observations by the Event Horizon Telescope have revealed important electromagnetic information around the supermassive black holes.",
-      "Key detail: Recent observations by the Event Horizon Telescope have revealed important electromagnetic information around the supermassive black holes",
-      "Result not yet peer reviewed."
-    ],
-    "date": "17 nov 2026",
-    "date_pt": "17 nov 2026",
-    "date_en": "17 Nov 2026",
-    "time": "15h31",
-    "time_pt": "15h31",
-    "time_en": "15: 31 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-11-17T15:31:14+00:00",
-    "lastModifiedIso": "2026-11-18T22:45:23+00:00",
-    "source": "arXiv High Energy Astrophysics",
-    "sourceDomain": "arxiv. org",
-    "sourceType": "preprint",
-    "sourceTypeLabel": "Preprint",
-    "sourceTypeLabel_pt": "Preprint",
-    "sourceTypeLabel_en": "Preprint",
-    "sourceNote": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_pt": "Preprint em circulação técnica. Resultado provisório, ainda sem revisão por pares formal.",
-    "sourceNote_en": "Preprint in technical circulation. Preliminary result, not yet peer reviewed.",
-    "evidenceKey": "preprint",
-    "evidenceLabel": "Resultado provisório",
-    "evidenceLabel_pt": "Resultado provisório",
-    "evidenceLabel_en": "Preliminary result",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Sondando as impressões macroscópicas da resolução de singularidade",
-      "diagnóstico de polarização de buracos negros rotativos ABG"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Sondando as impressões macroscópicas da resolução de singularidade",
-      "diagnóstico de polarização de buracos negros rotativos ABG"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "arXiv High Energy Astrophysics",
-      "Cosmos Week",
-      "Probing the Macroscopic Impressions of Singularity Resolution",
-      "polarization diagnosis of ABG rotating black holes"
-    ],
-    "srcUrl": "https://arxiv.org/abs/2611.22936v1",
-    "realUrl": "https://www.cosmosweek.com/?article=probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-",
-    "realUrl_pt": "https://www.cosmosweek.com/?article=probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-",
-    "realUrl_en": "https://www.cosmosweek.com/?article=probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-&lang=en",
-    "shareUrl": "https://www.cosmosweek.com/noticia/probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-/",
-    "shareUrl_pt": "https://www.cosmosweek.com/noticia/probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-/",
-    "shareUrl_en": "https://www.cosmosweek.com/en/news/probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-/",
-    "canonicalUrl": "https://www.cosmosweek.com/noticia/probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-/",
-    "canonicalUrl_pt": "https://www.cosmosweek.com/noticia/probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-/",
-    "canonicalUrl_en": "https://www.cosmosweek.com/en/news/probing-the-macroscopic-imprints-of-singularity-resolution-polarization-diagnostics-of-rotating-/",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": true,
-    "geminiReviewed": false,
-    "geminiModel": "",
-    "reviewStatus": "fallback",
-    "reviewProvider": "gemini",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 63,
-      "evidence": 39,
-      "relevance": 94,
-      "accessibility": 60,
-      "novelty": 52
-    },
-    "imageAlt": "Sondando as impressões macroscópicas da resolução de singularidade: diagnóstico de polarização de buracos negros rotativos ABG",
-    "imageAlt_pt": "Sondando as impressões macroscópicas da resolução de singularidade: diagnóstico de polarização de buracos negros rotativos ABG",
-    "imageAlt_en": "Probing the Macroscopic Imprints of Singularity Resolution: Polarization Diagnostics of Rotating ABG Black Holes",
     "coverageKind": "preprint",
     "coverageKindLabel": "Preprint",
     "coverageKindLabel_pt": "Preprint",
